@@ -16,7 +16,7 @@ a matter of minutes.
 
 1.  **Build your subscription form on ExpressPigeon.** Navigate to the
     "subscription" tab on the main menu and build away. [Click
-    here]({filename}/custom-email-subscription-form.md) for a detailed walk-through.
+    here](custom-email-subscription-form) for a detailed walk-through.
 
      ![ExpressPigeon](blog_images/2013/Screen-Shot-2013-10-31-at-2.30.16-PM.png "ExpressPigeon")
 
@@ -64,7 +64,7 @@ welcome email to ensure that your new subscribers stay hooked for future
 emails. Happy marketing! :)
 
 You might also be interested in...  
-Build A Custom Email Subscription Form In Minutes [Click here]({filename}/custom-email-subscription-form.md)
+Build A Custom Email Subscription Form In Minutes [Click here](custom-email-subscription-form)
     ![ExpressPigeon](blog_images/2013/ep_badge.png "ExpressPigeon")
 
 ### Send better email.

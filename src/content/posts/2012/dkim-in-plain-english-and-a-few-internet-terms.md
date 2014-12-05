@@ -5,7 +5,7 @@ Author: Igor Polevoy
 
 
 
-In the previous article [SPF in plain English]({filename}/spf-in-plain-english-and-a-few-internet-terms.md), I explained SPF. In
+In the previous article [SPF in plain English](spf-in-plain-english-and-a-few-internet-terms), I explained SPF. In
 this post, I'll discuss DKIM. Since this is a fairly involved computer
 process, I have to prepare you by explaining [Public Cryptography](http://en.wikipedia.org/wiki/Public-key_cryptography) and
 [Digital Signatures](http://en.wikipedia.org/wiki/Digital_signature). Don't be scared, this is just a logical

@@ -76,7 +76,7 @@ Keep track of all of your email marketing campaigns. See what is in the
 pipeline for future newsletters, what newsletters are currently in
 progress, as well as those that have been completed.
 
-**Why it's Beneficial to Create a [Web Form]({filename}/creating-a-customized-opt-in-form-5-easy-steps.md)**
+**Why it's Beneficial to Create a [Web Form](creating-a-customized-opt-in-form-5-easy-steps)**
 
 Don't let all the content you write for your newsletter each week,
 month, etc. go to waste. Place an opt-in form on your website to gather

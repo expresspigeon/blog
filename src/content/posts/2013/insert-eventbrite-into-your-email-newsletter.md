@@ -15,7 +15,7 @@ Keywords: Eventbrite, ExpressPigeon, integration
 
 Here at ExpressPigeon, it is our mission is to make your email marketing
 experience as simple and powerful as possible. We are currently
-developing [new widgets]({filename}/expresspigeon-launches-email-newsletter-widgets.md)
+developing [new widgets](expresspigeon-launches-email-newsletter-widgets)
 and integrations every month and are super excited to announce that ExpressPigeon and Eventbrite
 are now fully integrated. We are such good friends that you can pull event information
 from Eventbrite directly into your newsletter with just a few clicks.
