@@ -1,10 +1,3 @@
-Title: SPF in plain English (and a few Internet terms)
-Date: 2012-01-18 19:36
-Author: Igor Polevoy
-
-
-
-
 The world of e-mail is a treacherous one. Every day, millions of people
 receive unwanted SPAM, whether it's product information that they never
 requested, a bogus offer from a Nigerian prince, or something even

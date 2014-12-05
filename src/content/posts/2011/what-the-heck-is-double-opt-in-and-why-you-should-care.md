@@ -1,8 +1,3 @@
-Title: What the heck is Double Opt-In and why you should care
-Date: 2011-10-15 21:03
-Author: Igor Polevoy
-
-
 
 
 If you have kids, you've probably told them several times: think before

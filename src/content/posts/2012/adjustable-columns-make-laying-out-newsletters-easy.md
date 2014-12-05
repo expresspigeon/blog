@@ -1,10 +1,3 @@
-Title: Adjustable columns make laying out newsletters easy! 
-Date: 2012-08-21 00:54
-Author: Scott Winterroth
-
-
-
-
 Creating a newsletter with multiple columns in [ExpressPigeon](http://expresspigeon.com) is a
 snap.
 

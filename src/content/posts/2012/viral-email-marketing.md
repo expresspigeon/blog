@@ -1,10 +1,3 @@
-Title: Viral Email Marketing: Create emails that forward
-Date: 2012-10-25 17:09
-Author: Scott Winterroth
-
-
-
-
 The practice social media marketing is often about pushing content to a
 following that will grab hold of the content with likes, and retweets.
 The name of the game is to create engaging content that users will want

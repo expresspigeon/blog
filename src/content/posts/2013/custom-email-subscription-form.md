@@ -1,7 +1,3 @@
-Title: Build A Custom Email Subscription Form In Minutes
-Date: 2013-11-18 02:43
-Author: Paul Jorgensen
-
 Cover: blog_images/2013/Screen-Shot-2013-10-07-at-11.00.41-PM.png
 
 

@@ -1,9 +1,3 @@
-Title: Email phishing attack and Composer protection
-Date: 2011-12-21 21:07
-Author: Igor Polevoy
-
-
-
 
 A few years ago  the world of email has been swamped by the so-called
 [phishing attacks](http://en.wikipedia.org/wiki/Phishing#Link_manipulation).  Most of these were using a simple technique of

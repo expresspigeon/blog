@@ -1,10 +1,3 @@
-Title: Autoresponders - put your email marketing campaigns on cruise control
-Date: 2012-12-02 00:30
-Author: Igor Polevoy
-
-
-
-
 Have you ever thought to yourself:
 
 > "hmm... these readers are opening my emails and engaging with my

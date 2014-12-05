@@ -1,7 +1,3 @@
-Title: Send Free Email Newsletters With ExpressPigeon
-Date: 2013-10-31 20:15
-Author: Paul Jorgensen
-
 Cover: blog_images/2013/this-is-what-happens-when-you-say-smile-for-ice-cream_l.jpg
 
 Summary: There's no better time to start email marketing than now. Email is an

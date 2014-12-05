@@ -1,8 +1,3 @@
-Title: ExpressPigeon Better Email Project
-Date: 2013-12-02 08:36
-Author: Paul Jorgensen
-
-
 
 [![ExpressPigeon](blog_images/2013/colours_l.jpeg "ExpressPigeon")](http://foter.com/re/ce0df5)
 :   [Camdiluv ♥](http://www.flickr.com/photos/camdiluv/4441155157/) /

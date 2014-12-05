@@ -1,8 +1,3 @@
-Title: Build Your Email List With The WWSGD Wordpress Plugin
-Date: 2013-12-05 14:51
-Author: Paul Jorgensen
-
-
 
 We all know that building an email list is essential to email marketing.
 The WWSGD (What Would Seth Godin Do) WordPress plugin is a great

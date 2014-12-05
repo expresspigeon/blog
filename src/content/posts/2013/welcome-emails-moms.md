@@ -1,9 +1,3 @@
-Title: 6 Lessons From Moms That Will Make You Rethink Your Welcome Email
-Date: 2013-12-16 14:57
-Author: Paul Jorgensen
-
-
-
 We mentioned that there are thousands of different approaches to
 designing effective welcome emails. We wanted to find and share some
 great examples from moms doing big things on the Internet. We signed up

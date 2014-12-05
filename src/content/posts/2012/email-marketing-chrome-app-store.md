@@ -1,10 +1,3 @@
-Title: Express Pigeon now available in the Chrome App Store
-Date: 2012-10-26 14:48
-Author: Scott Winterroth
-
-
-
-
 The Express Pigeon team is happy to announce the launch of our brand new
 Express Pigeon Google Chrome App.
 

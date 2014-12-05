@@ -1,8 +1,3 @@
-Title: Go wild making buttons in your email campaigns
-Date: 2013-10-01 14:13
-Author: Igor Polevoy
-
-
 Summary: Our Button Maker makes it fast and easy to create professional-looking
          buttons for your email newsletter without a tool like Photoshop. Making
          a Call to Action button is only a few clicks away.

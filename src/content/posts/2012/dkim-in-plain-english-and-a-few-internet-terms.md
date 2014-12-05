@@ -1,10 +1,3 @@
-Title: DKIM in plain English (and a few Internet terms)
-Date: 2012-04-18 19:45
-Author: Igor Polevoy
-
-
-
-
 In the previous article [SPF in plain English](spf-in-plain-english-and-a-few-internet-terms), I explained SPF. In
 this post, I'll discuss DKIM. Since this is a fairly involved computer
 process, I have to prepare you by explaining [Public Cryptography](http://en.wikipedia.org/wiki/Public-key_cryptography) and

@@ -1,10 +1,3 @@
-Title: Creating A Customized Opt-in Form: 5 Easy Steps
-Date: 2012-08-21 00:50
-Author: Ashley Hirt
-
-
-
-
 Before a web form's opt-in rate can soar, your company must offer
 exciting content that keeps visitors coming back. You want to make your
 customers want to interact with you. Give them a reason to by creating

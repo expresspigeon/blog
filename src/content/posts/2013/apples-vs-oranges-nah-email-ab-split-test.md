@@ -1,7 +1,3 @@
-Title: Apples vs Oranges? Nah, Email A/B Split Test!
-Date: 2013-03-28 23:10
-Author: Igor Polevoy
-
 Cover: blog_images/2013/yay-316985.jpg 
 
 

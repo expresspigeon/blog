@@ -1,10 +1,3 @@
-Title: Create a holiday email marketing strategy
-Date: 2012-08-20 21:30
-Author: Scott Winterroth
-
-
-
-
 ![christmas shopping online](blog_images/2012/photodune-454317-christmas-shopping-online-xs.jpeg "christmas shopping online")
 For most retailers, it is that time of year to consider marketing
 and hiring plans to prepare for the upcoming gift-giving holiday season.

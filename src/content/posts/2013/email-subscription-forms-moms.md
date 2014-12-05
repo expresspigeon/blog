@@ -1,8 +1,3 @@
-Title: Get Inspired With 6 Modern Moms' Email Subscription Forms
-Date: 2013-12-11 02:16
-Author: Paul Jorgensen
-
-
 
 *Scroll down to see a list of related posts!*
 
@@ -95,5 +90,3 @@ You might be interested in...
 [9 Reasons Modern Moms Will Help You Send Better Email Campaigns](http://blog.expresspigeon.com/2013/12/03/email-marketing-moms/)
 [Build Your Email List With The WWSGD WordPress Plugin](http://blog.expresspigeon.com/2013/11/18/custom-email-subscription-form/)
 [Build A Custom Email Subscription Form In Minutes](http://blog.expresspigeon.com/2013/11/18/custom-email-subscription-form/)
-
-

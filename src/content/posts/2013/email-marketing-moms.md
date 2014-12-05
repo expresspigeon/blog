@@ -1,8 +1,3 @@
-Title: 9 Reasons Modern Moms Will Help You Send Better Email Campaigns
-Date: 2013-12-03 11:05
-Author: Paul Jorgensen
-
-
 
 ![ExpressPigeon](blog_images/2013/w600.jpeg "ExpressPigeon")
 

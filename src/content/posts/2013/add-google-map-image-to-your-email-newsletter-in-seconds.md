@@ -1,8 +1,3 @@
-Title: Add a Google Map to your email newsletter in seconds
-Date: 2013-11-26 22:41
-Author: Paul Jorgensen
-
-
 
 Want to include a map of an upcoming event in your next email
 newsletter? We have you covered! The ExpressPigeon Map Widget makes it

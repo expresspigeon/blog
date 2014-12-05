@@ -1,9 +1,3 @@
-Title: Why you Need Email as Part of your Marketing Strategy
-Date: 2012-10-01 21:53
-Author: Ashley Hirt
-
-
-
 
 "Don't put all of your eggs in one basket."
 

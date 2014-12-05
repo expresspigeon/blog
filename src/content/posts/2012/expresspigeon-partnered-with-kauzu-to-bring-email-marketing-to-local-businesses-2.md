@@ -1,9 +1,3 @@
-Title: ExpressPigeon Partnered with Kauzu to bring Email Marketing to local businesses
-Date: 2012-09-10 00:04
-Author: Igor Polevoy
-
-
-
 Couple of weeks ago I participated the media event [Kauzu Biz Has a True
 Champion](http://www.kauzu.com/blog/2012/08/28/kauzu-biz-has-a-true-champion/) for the local businesses hosted
 by [Patric O'Connor](http://www.aldermanoconnor.com/), the

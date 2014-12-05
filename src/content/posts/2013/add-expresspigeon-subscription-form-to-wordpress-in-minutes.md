@@ -1,9 +1,3 @@
-Title: Add An Email Subscription Form To Wordpress In Minutes
-Date: 2013-11-19 12:19
-Author: Paul Jorgensen
-
-
-
 Here at ExpressPigeon, we are constantly searching for ways to improve
 your email subscription process. We understand that adding a
 subscription form to a Wordpress blog or site can be a pain, so we

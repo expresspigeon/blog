@@ -1,10 +1,3 @@
-Title: Beautiful Email Marketing as easy as 1-2-3!  
-Date: 2012-07-23 13:25
-Author: Igor Polevoy
-
-
-
-
 Emails, emails, emails. We all get them, send them, need them and
 sometimes even hate them. But why do we hate them? Maybe it's because
 we're tired of the same boring old email templates and maybe we've even

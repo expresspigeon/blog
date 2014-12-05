@@ -1,8 +1,3 @@
-Title: Add Video That Actually Plays In Your Email Newsletter 
-Date: 2013-11-29 13:22
-Author: Paul Jorgensen
-
-
 
 Adding video to your email newsletter is one of the best ways to excite,
 inspire, and engage your subscribers. We all love a good video!

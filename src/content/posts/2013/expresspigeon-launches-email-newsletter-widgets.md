@@ -1,8 +1,3 @@
-Title: ExpressPigeon Launches Email Newsletter Widgets
-Date: 2013-08-27 00:58
-Author: Igor Polevoy
-
-
 Summary: We are excited to introduce the incredibly helpful Widgets feature to
          the ExpressPigeon email newsletter design process. On our mission to
          help you easily connect and communicate with your audience, we found

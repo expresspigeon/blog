@@ -1,8 +1,3 @@
-Title: You Are Losing 70% Of Your Holiday Shoppers... But Abandoned Cart Emails Can Save You
-Date: 2013-12-09 14:54
-Author: Paul Jorgensen
-
-
 
 [![ExpressPigeon](blog_images/2013/happy-holidays-at-zara_l.jpg "ExpressPigeon")](http://foter.com/re/3fc809)
 [Mr. T in DC](http://www.flickr.com/photos/mr_t_in_dc/5207777107/) / [CCBY-ND](http://creativecommons.org/licenses/by-nd/2.0/)
@@ -84,4 +79,3 @@ and we will be happy to help.
 
 *We hope you find this post helpful for boosting your online sales this
 holiday season. Happy holidays and happy marketing! :)*
-

@@ -1,6 +1,3 @@
-Title: Insert Eventbrite Into Your Email Newsletter
-Date: 2013-11-14 23:31
-Author: Paul Jorgensen
 
 Cover: blog_images/2013/drupalcon-copenhagen_l.jpg
 

@@ -1,10 +1,3 @@
-Title: Importing Lists into Express Pigeon  
-Date: 2012-08-02 19:46
-Author: Igor Polevoy
-
-
-
-
 A major part of sending out emails through Express Pigeon is…. having
 people to send them to. Just as we crafted our state-of-the-art email
 designer, we wanted to make importing email lists into Express Pigeon

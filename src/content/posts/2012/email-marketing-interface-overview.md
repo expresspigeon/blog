@@ -1,10 +1,3 @@
-Title: Navigating the Express Pigeon Interface
-Date: 2012-08-26 20:31
-Author: Ashley Hirt
-
-
-
-
 You've just announced to your company that you will be using a new
 [email marketing program](https://expresspigeon.com). Your employees' eyes bug out of their
 heads, and groans echo throughout the room. It is known that people do

@@ -1,9 +1,3 @@
-Title: Increase email open rates with a teaser line
-Date: 2012-12-14 19:11
-Author: Igor Polevoy
-
-
-
 One of the most important email marketing best practices is to write a
 good subject line. After all, your subscribers have a short attention
 span and will spend no more than 2 seconds to decide if they want to

@@ -1,9 +1,3 @@
-Title: 33 Mind Shattering Email Marketing Statistics You Need To Know In 2014
-Date: 2014-01-06 13:10
-Author: Paul Jorgensen
-
-
-
 [![ExpressPigeon](blog_images/2013/emailroi.png "ExpressPigeon")](http://ctt.ec/8VdBf)
 
 We heard the hype in 2013 about the death of email marketing, but we've
