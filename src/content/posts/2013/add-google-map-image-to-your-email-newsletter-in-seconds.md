@@ -44,24 +44,3 @@ walk-through, view the slides below or continue reading.
 
 The Google Map image is inserted into your newsletter and you're ready
 to make final edits & send your [email campaign](http://expresspigeon.com). Happy marketing! :)
- ![ExpressPigeon](blog_images/2013/ep_badge.png "ExpressPigeon")
-
-<div class="b-subscription-form">
-<div class="b-form">
-
-### Send better email.
-
-Join thousands who receive  
-timely email marketing tips.
-
-<form id="blog_form" action="https://expresspigeon.com/subscription/add_contact" method="post">
-<input type="hidden" name="guid" value="d8a9afc9-bab3-454a-a7e3-f0f84a45c6c5"></input>  
-
-<input type="text" name="email" placeholder="Enter your email here." value></input>
-<input onclick="document.getElementById('blog_form').submit();" type="button" value="Sign Up!"></input>
-
-</form>
-No SPAM. We promise.
-
-</div>
-</div>

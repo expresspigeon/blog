@@ -52,19 +52,3 @@ newsletter.
 plugin in action below. Happy marketing! :)*
 
 ![ExpressPigeon](blog_images/2013/Screenshot-2013-11-03-at-10.06.33-PM.png "ExpressPigeon")
-
-![ExpressPigeon](blog_images/2013/ep_badge.png "ExpressPigeon")
-
-### Send better email.
-
-Join thousands who receive  
-timely email marketing tips.
-
-<form id="blog_form" action="https://expresspigeon.com/subscription/add_contact" method="post">
-<input type="hidden" name="guid" value="d8a9afc9-bab3-454a-a7e3-f0f84a45c6c5"></input>  
-
-<input type="text" name="email" placeholder="Enter your email here." value></input>
-<input onclick="document.getElementById('blog_form').submit();" type="button" value="Sign Up!"></input>
-
-
-No SPAM. We promise.

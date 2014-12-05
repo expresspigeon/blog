@@ -85,19 +85,3 @@ and we will be happy to help.
 *We hope you find this post helpful for boosting your online sales this
 holiday season. Happy holidays and happy marketing! :)*
 
-
-#### Send better email.
-![ExpressPigeon Badge](blog_images/2013/ep_badge.png "ExpressPigeon Badge")
-Join thousands who receive  
-timely email marketing tips.
-<form>
-<form id="blog_form" action="https://expresspigeon.com/subscription/add_contact" method="post">
-<input type="hidden" name="guid" value="d8a9afc9-bab3-454a-a7e3-f0f84a45c6c5"></input>  
-
-<input type="text" name="email" placeholder="Enter your email here." value></input>
-<input onclick="document.getElementById('blog_form').submit();" type="button" value="Sign Up!"></input>
-</form>
-
-No SPAM. We promise.
-
-
