@@ -3,11 +3,11 @@
 rm -rf output
 mkdir output
 mkdir output/posts
-mkdir output/posts/blog_images
+mkdir output/img
 mkdir output/authors
 
 #move images
-cp -r src/content/images/ output/posts/blog_images
+cp -r src/content/images/* output/img
 
 
 #Move property files
