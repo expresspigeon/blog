@@ -1,4 +1,4 @@
-Cover: blog_images/2013/yay-316985.jpg 
+Cover: /blog/images/2013/yay-316985.jpg 
 
 
 Summary: It is no secret that people scanning their inboxes only give 1 - 2 seconds
@@ -30,7 +30,7 @@ come up with two subject lines, A and B, and then
 
 For example, when sending a campaign, you can choose A/B Split campaign
 
-![A/B Split campaign](blog_images/2013/Selection_607.png "A/B split campaign")
+![A/B Split campaign](/blog/images/2013/Selection_607.png "A/B split campaign")
 
 Campaign sending page above is
 pretty self-explanatory. Add two best subjects you can come up with,

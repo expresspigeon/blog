@@ -7,6 +7,6 @@ icon in their Google Chrome launcher.
 
 Here's a link: [Google Chrome Required](https://chrome.google.com/webstore/detail/expresspigeon/efhhmhbcjggandfbihonphneigogcnna)
 
-![ExpressPigeon — Dashboard](blog_images/2012/ieeachef.png "ExpressPigeon — Dashboard")
+![ExpressPigeon — Dashboard](/blog/images/2012/ieeachef.png "ExpressPigeon — Dashboard")
 
 Please remember to rate Express Pigeon in the Chrome App store!

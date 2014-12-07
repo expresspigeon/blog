@@ -6,7 +6,7 @@ you for the easy-to-use interface used to create professional-looking
 newsletters in minutes.
 
 Upon your first log-in you will be greeted with this screen:
-![ExpressPigeon — Dashboard](blog_images/2012/expresspigeonc2a0e28094c2a0dashboard1.jpg "ExpressPigeon — Dashboard")
+![ExpressPigeon — Dashboard](/blog/images/2012/expresspigeonc2a0e28094c2a0dashboard1.jpg "ExpressPigeon — Dashboard")
 
 Now let's go on a tour of the Express Pigeon [email marketing
 program](https://expresspigeon.com). I will begin with the Dashboard, your home base for
@@ -14,7 +14,7 @@ everything that is happening in your company's email marketing
 campaigns. You can manage three parts of your email marketing on the
 dashboard, which includes:
 
-![ExpressPigeon — Dashboard](blog_images/2012/expresspigeonc2a0e28094c2a0dashboard-2.jpg "ExpressPigeon — Dashboard")
+![ExpressPigeon — Dashboard](/blog/images/2012/expresspigeonc2a0e28094c2a0dashboard-2.jpg "ExpressPigeon — Dashboard")
 
 
 **Campaigns**
@@ -22,21 +22,21 @@ dashboard, which includes:
 Track what [email marketing campaigns](https://expresspigeon.com/tour) you have scheduled, are
 currently in progress or have already been completed.
 
-![ExpressPigeon — Dashboard](blog_images/2012/expresspigeonc2a0e28094c2a0dashboard2.jpg "ExpressPigeon — Dashboard")
+![ExpressPigeon — Dashboard](/blog/images/2012/expresspigeonc2a0e28094c2a0dashboard2.jpg "ExpressPigeon — Dashboard")
 
 **Newsletters**
 
 A list of the newsletters you have created is shown here. You can edit,
 replicate, send or schedule any newsletter from this area.
 
-![ExpressPigeon — Dashboard](blog_images/2012/expresspigeonc2a0e28094c2a0dashboard-1.jpg "ExpressPigeon — Dashboard")
+![ExpressPigeon — Dashboard](/blog/images/2012/expresspigeonc2a0e28094c2a0dashboard-1.jpg "ExpressPigeon — Dashboard")
 
 
 **Contacts**
 
 You can review your contact lists here.
 
-![ExpressPigeon — Dashboard](blog_images/2012/expresspigeonc2a0e28094c2a0dashboard-3.jpg "ExpressPigeon — Dashboard")
+![ExpressPigeon — Dashboard](/blog/images/2012/expresspigeonc2a0e28094c2a0dashboard-3.jpg "ExpressPigeon — Dashboard")
 
 
 **Web forms**
@@ -44,7 +44,7 @@ You can review your contact lists here.
 Create [email newsletter opt-in forms](https://expresspigeon.com/tour) for
 your website and other digital properties.
 
-![ExpressPigeon — Dashboard](blog_images/2012/expresspigeonc2a0e28094c2a0newsletters.jpg "ExpressPigeon — Dashboard")
+![ExpressPigeon — Dashboard](/blog/images/2012/expresspigeonc2a0e28094c2a0newsletters.jpg "ExpressPigeon — Dashboard")
 
 
 ####**Creating a Newsletter**
@@ -84,7 +84,7 @@ blog posts, tour of the website or our videos, then support is your next
 best bet. After all, we are the creators, here to assist you no matter
 what.
 
-![ExpressPigeon — Dashboard](blog_images/2012/expresspigeonc2a0e28094c2a0support.jpg "ExpressPigeon — Dashboard")
+![ExpressPigeon — Dashboard](/blog/images/2012/expresspigeonc2a0e28094c2a0support.jpg "ExpressPigeon — Dashboard")
 
 
 **Get Tips from our Blog**

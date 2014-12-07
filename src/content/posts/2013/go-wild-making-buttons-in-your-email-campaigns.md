@@ -14,7 +14,7 @@ often people use images, simple Internet links (anchors) and buttons
 (images that look like buttons). We have a number of buttons in our
 gallery:
 
-![Example buttons](blog_images/2013/Selection_999495.png "Example buttons")
+![Example buttons](/blog/images/2013/Selection_999495.png "Example buttons")
 
 However, there are a couple of disadvantages to this approach. First, we
 have to spend time making these. Second, they are implemented as images,
@@ -33,7 +33,7 @@ a Call to Action button is only a few clicks away.
 1.  **Bring your content section into edit mode and click on Widgets
     tab.**
 
-    ![Widgets Tab](blog_images/2013/Selection_999496.png "Widgets Tab")
+    ![Widgets Tab](/blog/images/2013/Selection_999496.png "Widgets Tab")
 
 2.  **Design & customize your button.** Customize the look and feel of
     your button to match your newsletter's aesthetics by selecting your
@@ -43,7 +43,7 @@ a Call to Action button is only a few clicks away.
     click "Save" and your button appears in the selected section
     location.
 
-    ![Button Maker](blog_images/2013/Selection_999497.png "Button Maker")
+    ![Button Maker](/blog/images/2013/Selection_999497.png "Button Maker")
 
 3.  **Make final edits.** Make final button text edits directly in the
     section editor and click the "Save" icon in the upper-left corner.
@@ -51,7 +51,7 @@ a Call to Action button is only a few clicks away.
     compatible call-to-action for your audience!
     :)
 
-    ![Composer Section](blog_images/2013/Selection_999498.png "Composer Section")
+    ![Composer Section](/blog/images/2013/Selection_999498.png "Composer Section")
 
 
 When creating a new button, customizations from the original button are

@@ -1,5 +1,5 @@
 
-Cover: blog_images/2013/drupalcon-copenhagen_l.jpg
+Cover: /blog/images/2013/drupalcon-copenhagen_l.jpg
 
 
 Summary: Here at ExpressPigeon, it is our mission is to make your email marketing
@@ -37,7 +37,7 @@ and collect registrants.
 Eventbrite makes it super intuitive and [easy to do this](https://www.eventbrite.com/features/).
 They even offer a [Live Webinar](http://productdemo.eventbrite.com/)
 to help you sell out your event.
-![Eventbrite webpage](blog_images/2013/Screen-Shot-2013-10-10-at-7.34.18-PM.png "Eventbrite webpage")
+![Eventbrite webpage](/blog/images/2013/Screen-Shot-2013-10-10-at-7.34.18-PM.png "Eventbrite webpage")
 Once you've created an event webpage in Eventbrite, you are ready to...
 
 #### 2. Set Up Eventbrite Integration In ExpressPigeon
@@ -46,14 +46,14 @@ To set up Eventbrite integration, log into your ExpressPigeon account
 and click on the gear icon next to your name in the top-right corner of
 the main menu. Click on "Integrations" under the Settings title.
 
-![ExpressPigeon Gear button](blog_images/2013/Selection_999570.png "ExpressPigeon Gear button")
+![ExpressPigeon Gear button](/blog/images/2013/Selection_999570.png "ExpressPigeon Gear button")
 
 Next, click on "Eventbrite Configuration". Enter your Eventbrite User
 Key and click "Save". If you do not know your user key, you can click on
 the link under the "Save" button to easily retrieve the number from
 Eventbrite. Once you click "Save", your Eventbrite account is
 automatically integrated!
-![ExpressPigeon Eventbrite Integration](blog_images/2013/Screenshot-2013-09-01-at-2.58.23-PM.png "ExpressPigeon Eventbrite Integration")
+![ExpressPigeon Eventbrite Integration](/blog/images/2013/Screenshot-2013-09-01-at-2.58.23-PM.png "ExpressPigeon Eventbrite Integration")
 
 Now that you have officially integrated your Eventbrite account with
 ExpressPigeon, you can instantly insert your event details and
@@ -75,7 +75,7 @@ Once you have your design where you want it, you are ready to...
 Select "Eventbrite section" from the list when you create a new section
 in your newsletter.
 
-![Eventbrite Template Design](blog_images/2013/Screen-Shot-2013-10-09-at-6.12.24-PM.png "Eventbrite Template Design")
+![Eventbrite Template Design](/blog/images/2013/Screen-Shot-2013-10-09-at-6.12.24-PM.png "Eventbrite Template Design")
 
 ExpressPigeon automatically pulls information from your Eventbrite
 account. You can now select the Eventbrite event that you want to insert
@@ -84,14 +84,14 @@ automatically pulled into a new (or existing) email list on our account.
 Accept the list and then click "Insert event and pull my
 contacts".
 
-![Insert Eventbrite event](blog_images/2013/Screen-Shot-2013-10-09-at-6.46.44-PM.png "Insert Eventbrite event")
+![Insert Eventbrite event](/blog/images/2013/Screen-Shot-2013-10-09-at-6.46.44-PM.png "Insert Eventbrite event")
 
 Once you click "Insert event and pull my
 contacts", ExpressPigeon instantly inserts an Eventbrite link, event
 information, and Google map image directly into your newsletter and a
 new email list is created with all contacts from your event.
 
-![Eventbrite integration ready](blog_images/2013/Selection_999573.png "Eventbrite integration ready")
+![Eventbrite integration ready](/blog/images/2013/Selection_999573.png "Eventbrite integration ready")
 
 After the Eventbrite integration takes place, the newsletter editor
 maintains the ability to make any stylistic or informational adjustments

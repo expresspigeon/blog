@@ -3,7 +3,7 @@ over the past few weeks, and I felt compelled to join the conversation.
 I had a couple spare minutes over the weekend and fished this out of my
 SPAM folder:
 
-![Meet the new inbox](blog_images/2013/Selection_999403.png "Meet the new inbox")
+![Meet the new inbox](/blog/images/2013/Selection_999403.png "Meet the new inbox")
 
 Yes, it's true, Google sent their own product email to my Google for
 Apps SPAM folder! Something is up with their SPAM filter, but let me get
@@ -72,7 +72,7 @@ an [email marketing](http://expresspigeon.com) test campaign and sent it to my
 my email via the Gmail app from Google on my Samsung S3 phone. Please,
 see results below:
 
-![email](blog_images/2013/Selection_999404.png "email")
+![email](/blog/images/2013/Selection_999404.png "email")
 
 *Social and Promotional tabs are grouped together on mobile and
 displayed within Priority email list. (see above)*

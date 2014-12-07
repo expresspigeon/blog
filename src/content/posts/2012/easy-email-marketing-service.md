@@ -49,7 +49,7 @@ from scratch. You have full control of the process.  If you pick a
 designer template, modification to fit your needs is simple with our
 easy-to-use art composer.
 
-![expresspigeon gallery](blog_images/2012/https___expresspigeon-com_gallery.jpg "expresspigeon gallery")
+![expresspigeon gallery](/blog/images/2012/https___expresspigeon-com_gallery.jpg "expresspigeon gallery")
 Just some of the 40+ designer Email Marketing templates available to All
 users.
 
@@ -60,7 +60,7 @@ with every color of the rainbow! Make a mistake, no worries! Simply
 click undo or redo and continue on with building your email.
 
 
-![expresspigeon create edit newsletter](blog_images/2012/expresspigeon-create_edit-newsletter.jpg "")
+![expresspigeon create edit newsletter](/blog/images/2012/expresspigeon-create_edit-newsletter.jpg "")
 Anyone can create awesome looking emails with Express Pigeon Email
 Marketing.
 
@@ -69,7 +69,7 @@ Marketing.
 On your template, while still in edit-mode, just click where you want to
 put in your own text and a text box will appear – just type away.
 
-![expresspigeon create edit newsletter](blog_images/2012/expresspigeon-create_edit-newsletter-1.jpg "")
+![expresspigeon create edit newsletter](/blog/images/2012/expresspigeon-create_edit-newsletter-1.jpg "")
 Editing the overall appearance of your email is as simple as
 drag-and-drop with the Express Pigeon Design View.
 

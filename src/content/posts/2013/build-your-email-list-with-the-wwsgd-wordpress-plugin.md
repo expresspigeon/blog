@@ -12,15 +12,15 @@ newsletter.
 
 1.  **Build your ExpressPigeon subscription form.** Learn how
     here.
-    ![ExpressPigeon](blog_images/2013/Screenshot-2013-11-03-at-10.11.52-PM.png "ExpressPigeon")
+    ![ExpressPigeon](/blog/images/2013/Screenshot-2013-11-03-at-10.11.52-PM.png "ExpressPigeon")
 
 2.  **Install & activate WWSGD Wordpress Plugin.** Navigate to
     "Plugins". Search for "WWSGD". Install & activate.
 
-    ![ExpressPigeon](blog_images/2013/Screenshot-2013-11-03-at-9.41.11-PM.png "ExpressPigeon")
+    ![ExpressPigeon](/blog/images/2013/Screenshot-2013-11-03-at-9.41.11-PM.png "ExpressPigeon")
 
 3.  **Navigate to "Settings" and click "WWSGD".**
-    ![ExpressPigeon](blog_images/2013/Screenshot-2013-11-03-at-9.43.02-PM.png "ExpressPigeon")
+    ![ExpressPigeon](/blog/images/2013/Screenshot-2013-11-03-at-9.43.02-PM.png "ExpressPigeon")
 
 4.  **Add ExpressPigeon subscription form URL to WWSGD plugin.** 
     Navigate to "Subscriptions" in your ExpressPigeon account.
@@ -29,10 +29,10 @@ newsletter.
     provided by WWSGD.
 
     *Copy URL of ExpressPigeon subscription form.*
-    ![ExpressPigeon](blog_images/2013/Screenshot-2013-11-03-at-9.54.06-PM.png "ExpressPigeon")
+    ![ExpressPigeon](/blog/images/2013/Screenshot-2013-11-03-at-9.54.06-PM.png "ExpressPigeon")
     Paste URL to replace "stock" URL in WWSGD plugin.
 
-    ![ExpressPigeon](blog_images/2013/Screenshot-2013-11-03-at-10.05.28-PM.png "ExpressPigeon")
+    ![ExpressPigeon](/blog/images/2013/Screenshot-2013-11-03-at-10.05.28-PM.png "ExpressPigeon")
 
 5.  **Customize WWSGD plugin & save.** Add a custom message for new
     and/or return visitors. Select the number of times a user must visit
@@ -40,10 +40,10 @@ newsletter.
     the location of the message within a post and whether you want the
     messages to show on posts & pages or only pages. Click "Save
     Settings" and you're ready to go
-    ![ExpressPigeon](blog_images/2013/Screenshot-2013-11-03-at-10.20.47-PM.png "ExpressPigeon")
+    ![ExpressPigeon](/blog/images/2013/Screenshot-2013-11-03-at-10.20.47-PM.png "ExpressPigeon")
 
 
 *In our example, we created a message for new visitors only. View the
 plugin in action below. Happy marketing! :)*
 
-![ExpressPigeon](blog_images/2013/Screenshot-2013-11-03-at-10.06.33-PM.png "ExpressPigeon")
+![ExpressPigeon](/blog/images/2013/Screenshot-2013-11-03-at-10.06.33-PM.png "ExpressPigeon")

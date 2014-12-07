@@ -1,4 +1,4 @@
-Cover: blog_images/2013/this-is-what-happens-when-you-say-smile-for-ice-cream_l.jpg
+Cover: /blog/images/2013/this-is-what-happens-when-you-say-smile-for-ice-cream_l.jpg
 
 Summary: There's no better time to start email marketing than now. Email is an
          incredibly powerful channel to help you build an audience and achieve
