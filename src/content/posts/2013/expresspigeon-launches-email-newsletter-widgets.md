@@ -1,12 +1,4 @@
-Summary: We are excited to introduce the incredibly helpful Widgets feature to
-         the ExpressPigeon email newsletter design process. On our mission to
-         help you easily connect and communicate with your audience, we found
-         major obstacles to quickly and easily inserting videos, Google maps,
-         countdown timers, and buttons into newsletters. To improve the process,
-         we developed four custom widgets that should improve the user
-         experience. Hope you enjoy!
-
-![www.dreamstime.com](/blog/images/2013/dreamstime_m_23630767-1024x755.jpg "www.dreamstime.com")
+![ ](/blog/images/2013/dreamstime_m_23630767-1024x755.jpg )
 
 We are excited to introduce the incredibly helpful Widgets feature to
 the ExpressPigeon [email newsletter](http://expresspigeon.com) design process. On our mission to
@@ -14,7 +6,7 @@ help you easily connect and communicate with your audience, we found
 major obstacles to quickly and easily inserting videos, Google maps,
 countdown timers, and buttons into newsletters. To improve the process,
 we developed four custom widgets that should improve the user
-experience. Hope you enjoy! :)
+experience. Hope you will enjoy them! :)
 
 ####The Video Widget: Add videos that actually play.
 

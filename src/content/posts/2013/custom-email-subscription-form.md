@@ -1,21 +1,13 @@
-Cover: /blog/images/2013/Screen-Shot-2013-10-07-at-11.00.41-PM.png
-
-
-Summary: A good subscription form is essential to growing an email list. Building
-         a custom email subscription form creates an entry point for users to
-         opt-in to an email newsletter. This first step in email marketing is
-         especially easy to do on ExpressPigeon.
-
 A good subscription form is essential to growing an email list. Building
 a custom email subscription form creates an entry point for users to
 opt-in to an email newsletter. This first step in email marketing is
 especially easy to do on ExpressPigeon.
 
-**Build An Email Subscription Form In Minutes**
+**Building An Email Subscription Form**
 
 1.  Navigate to "Subscriptions" in the main menu.
 
-    ![Screen Shot 2013-10-29 at 2.46.09 PM](/blog/images/2013/Screen-Shot-2013-10-29-at-2.46.09-PM.png "Screen Shot 2013-10-29 at 2.46.09 PM")
+    ![](/blog/images/2013/Screen-Shot-2013-10-29-at-2.46.09-PM.png)
 
 2.  Select "Regular Web Form" and name the form. Select the lists that
     you want this form to send new signups into. Click "Create

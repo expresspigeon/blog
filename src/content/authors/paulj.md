@@ -1,2 +1,2 @@
-Igor Polevoy is the President of [ExpressPigeon](http://expresspigeon.com), the easiest way to send professional email.
-He has over 15 years of experience and passion in developing high quality software,
+Paul Gavin Jorgensen is the Marketing Director at [ExpressPigeon](http://expresspigeon.com). You can find him on [Twitter](https://twitter.com/pgjorg)
+and [Google+](https://plus.google.com/u/0/113221459500319088976/posts).

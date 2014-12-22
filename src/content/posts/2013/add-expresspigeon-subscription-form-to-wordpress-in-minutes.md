@@ -1,12 +1,12 @@
 Here at ExpressPigeon, we are constantly searching for ways to improve
 your email subscription process. We understand that adding a
-subscription form to a Wordpress blog or site can be a pain, so we
+subscription form to a WordPresss blog or site can be a pain, so we
 designed a plugin especially for you; The [ExpressPigeon Subscription
-Form Wordpress Plugin](http://wordpress.org/plugins/expresspigeon-webform-widget/faq/). This plugin allows you to easily add an
-ExpressPigeon subscription form as a widget to your Wordpress sidebar in
+Form WordPresss Plugin](http://WordPresss.org/plugins/expresspigeon-webform-widget/faq/). This plugin allows you to easily add an
+ExpressPigeon subscription form as a widget to your WordPresss sidebar in
 a matter of minutes.
 
-##How To Add ExpressPigeon Subscription Form to Wordpress
+##How To Add ExpressPigeon Subscription Form to WordPresss
 
 1.  **Build your subscription form on ExpressPigeon.** Navigate to the
     "subscription" tab on the main menu and build away. [Click
@@ -14,7 +14,7 @@ a matter of minutes.
 
      ![ExpressPigeon](/blog/images/2013/Screen-Shot-2013-10-31-at-2.30.16-PM.png "ExpressPigeon")
 
-2.  **Install the ExpressPigeon Subscription Form Wordpress
+2.  **Install the ExpressPigeon Subscription Form WordPresss
     Plugin.** Navigate to "Plugins" and search for "ExpressPigeon".
     Select the latest version found. Install & activate the
     plugin.
@@ -41,7 +41,7 @@ a matter of minutes.
 
 5.  **Save and customize.** Once you've entered your GUID code, click
     "Save" and you're ready to collect emails! You can easily adjust
-    height and width to fit the size of your Wordpress sidebar as
+    height and width to fit the size of your WordPresss sidebar as
     necessary. This process connects your Wordress blog or site with
     your ExpressPigeon Subscription Form and your ExpressPigeon email
     list.
