@@ -5,9 +5,13 @@ mkdir output
 mkdir output/posts
 mkdir output/images
 mkdir output/authors
+mkdir output/resources
 
 # Copy images
 cp -r src/content/images/* output/images
+
+#Copy resources
+cp -r src/content/resources/* output/resources
 
 # Copy post property files
 for file in `find src/content/posts/ -name "*.md"`

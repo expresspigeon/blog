@@ -52,5 +52,3 @@ servers can be determined using SPF, which makes it easier to go after
 those responsible in case there is a problem.
 
 Stay tuned for the next topic: DKIM!
-
-Igor

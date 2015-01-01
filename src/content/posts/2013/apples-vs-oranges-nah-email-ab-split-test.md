@@ -1,14 +1,3 @@
-Cover: /blog/images/2013/yay-316985.jpg 
-
-
-Summary: It is no secret that people scanning their inboxes only give 1 - 2 seconds
-         for each email to even consider if they want to open these
-         emails or trash them without opening. What does this mean to email
-         marketer?
-Description: ExpressPigeon allows you perform A/B split tests.
-Keywords: A/B split test, Subject
-
-
 It is no secret that people scanning their inboxes only give 1 - 2 seconds
 for each email to even consider if they want to open these
 emails or trash them without opening. What does this mean to email

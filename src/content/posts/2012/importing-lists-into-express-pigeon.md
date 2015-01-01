@@ -1,11 +1,11 @@
-A major part of sending out emails through Express Pigeon is…. having
+A major part of sending out emails through Express Pigeon is... having
 people to send them to. Just as we crafted our state-of-the-art email
 designer, we wanted to make importing email lists into Express Pigeon
 just as simple and painless.
 
-We think we achieved our simplicity goals and by following these simple
+By listing simple
 instructions, we'll show you step-by-step how to get started importing
-your email marketing contacts into [Express Pigeon](http://expresspigeon.com).
+your email contacts into [Express Pigeon](http://expresspigeon.com).
 
 ***Step one:***  In the Express Pigeon Dashboard, select the contacts
 tab and create a new list – give the list a name and subject to keep
@@ -14,8 +14,9 @@ yourself organized.
 ![How to upload contacts to list](/blog/images/2012/selection_4081.png "How to upload contacts to list")
 
 ***Step two:***you can customize your **List Properties**and** **enter
-your address information so we can make sure your emails are compliant
-with the [CAN SPAM ACT](http://business.ftc.gov/documents/bus61-can-spam-act-compliance-guide-business/) and our [Terms of Service](https://expresspigeon.com/terms). This information
+your address information to ensure your emails are compliant
+with the [CAN SPAM ACT](http://business.ftc.gov/documents/bus61-can-spam-act-compliance-guide-business/)
+and our [Terms of Service](https://expresspigeon.com/terms). This information
 is automatically pulled from your account information as a default.
 
 ![Define list properties](/blog/images/2012/selection_411.png "Define list properties")
@@ -42,7 +43,7 @@ contacts:
 ![Upload CSV file](/blog/images/2012/selection_410.png "Upload CSV file")
 Upload CSV file
 
-A CSV file is simply a text file with lines separated by commas.
+A CSV file is simply a text file with columns separated by commas.
 
 If all you have is email addresses, then the file can contain a single
 column of email addresses. If you have other values, such as first and
@@ -53,7 +54,7 @@ as a header
 and may contain any number of '-' or '\_' or spaces – but, if a header
 is invalid it will be ignored with their respective columns. If you
 don't have any headers, we will expect it to have a single column with
-emails only. Here is [an example CSV file](https://content.expresspigeon.com/3284/downloads/contacts.csv) which will help  you get
+emails only. Here is [an example CSV file](/blog/resources/contacts.csv) which will help  you get
 started. It contains all headers we support. Those headers that we do
 not support will simply be ignored during import.
 

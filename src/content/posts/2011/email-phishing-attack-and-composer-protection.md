@@ -42,4 +42,3 @@ requiring marketeers to provide friendlier links, we allow them to avoid
 being flagged as a hacker on the one hand, while seamlessly adding an
 important feature on the other!
 
-Email with pleasure.
