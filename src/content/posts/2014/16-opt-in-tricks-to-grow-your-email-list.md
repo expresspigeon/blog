@@ -1,9 +1,10 @@
-[![image](http://foter.com/image/display/2122225/w600/)](http://foter.com/photo/luchtmachtdagen-2011-royal-netherlands-air-force-14/)
 
 Building an email list is what smart business owners do. After all, you
 need some way to convert short-lived traffic into lasting relationships.
 How else will you maintain direct communication with prospects and
-customers? There are a few important steps to building an email list.
+customers?
+
+There are a few important steps to building an email list.
 One of the most essential steps is optimizing your opt-in setup &
 process to convert visitors into subscribers. But before you begin, do
 this:
@@ -20,12 +21,18 @@ this:
 
 Once you have something to give away, you need to make it easy for
 people to subscribe. This is where opt-in forms come into play. An
-opt-in form is an entry point for people to subscribe to emails. To
-transform visitors into email subscribers, you need to add opt-in forms
+opt-in form is an entry point for people to subscribe to emails.
+
+To transform visitors into email subscribers, you need to add opt-in forms
 to your site and develop a subscription process that effectively
-welcomes them into your email program. Sounds complicated, right? *It's
-not as tricky as you may think. Let's dive right in...* **Trick \#1: Add
-an opt-in form to your blog sidebar.** Adding an opt-in form to your
+welcomes them into your email program. Sounds complicated, right?
+
+*It's
+not as tricky as you may think. Let's dive right in...*
+
+## Trick \#1: Add an opt-in form to your blog sidebar.
+
+Adding an opt-in form to your
 blog sidebar is a great place to start. If you have an active blog, this
 is a traffic-heavy area and a great place to attract new subscribers.
 You can [add a signup form to the sidebar of a Wordpress site with this

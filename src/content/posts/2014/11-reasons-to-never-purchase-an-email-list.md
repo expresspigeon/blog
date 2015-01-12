@@ -9,8 +9,9 @@ So you are new to [email marketing](http://expresspigeon.com) and have a
 product or service that you know people will love… If only they had some
 way to hear about it. You’ve heard rumors about list-building over the
 years so you hit Google and search for “purchase email list”. Lucky for
-you, there are a few exciting sponsored searches:[![Purchase Email
-List](http://blog.expresspigeon.com/wp-content/uploads/2014/01/Purchase-Email-List.png)](http://blog.expresspigeon.com/wp-content/uploads/2014/01/Purchase-Email-List.png)
+you, there are a few exciting sponsored searches:
+
+![Purchase Email List Search](/blog/images/2014/Purchase-Email-List.png)
 
 Goldmine! All you have to do now is swipe your credit card and you’ll
 have a list of “verified” and “opt-in” email addresses from “trusted”
@@ -24,8 +25,7 @@ harmful and long-lasting consequences. Before we dive into reasons why
 you should never buy or rent email lists, let’s get a better
 understanding of the three main email list acquisition options.
 
-Email List Acquisition Options
-==============================
+## Email List Acquisition Options
 
 1.  **Purchase an email list.** There are hundreds of websites and
     companies that sell email lists. These lists generally include
@@ -54,8 +54,9 @@ the system?
 *Let’s take a look at 11 reasons you should never purchase an email
 list...*
 
-**Reason \#1: For-sale lists are built through questionable collection
-methods.** Think about it. Reputable companies would never sell their
+### Reason \#1: For-sale lists are built through questionable collection methods
+
+Think about it. Reputable companies would never sell their
 email lists. So where do vendors acquire email addresses to generate
 for-sale lists? One such method is banner ad deceit. If you've ever been
 prompted to "Win an iPad" or "Claim Your Free Vacation", you've
@@ -71,7 +72,9 @@ websites, social networks, and forums and store collected email
 addresses in a database. This database becomes, lucky for you, an email
 list that you can purchase. Sounds like a great list of people to email,
 eh?
-[![emailrobot](http://blog.expresspigeon.com/wp-content/uploads/2014/02/emailrobot.png)](http://blog.expresspigeon.com/wp-content/uploads/2014/02/emailrobot.png)
+
+![](/blog/images/2014/emailrobot.png)
+
 Let's not forget about industry events. Ever signed up for a chance to
 win a car or checked off a few random boxes during registration? You are
 truly the lucky winner! Your email address just made it onto an email
@@ -84,8 +87,11 @@ uncheck. Once you've checked a box for "updates from SHADY COMPANY and
 our partners", you made it onto an email list for rent! List building
 vendors market these lists as "rentals", where you pay to reach an
 "opt-in" list. Unfortunately, the people on the list didn't opt-in for
-emails from you. **Reason \#2: Purchased email lists are deceitfully
-advertised.** Email list vendors have mastered the game of luring in new
+emails from you.
+
+### Reason \#2: Purchased email lists are deceitfully advertised
+
+Email list vendors have mastered the game of luring in new
 email marketers. They are experts at making you feel like you just found
 the "secret" to instant email marketing success. Unfortunately, their
 expertise is misleading for you and doesn't cover the negative
@@ -97,41 +103,55 @@ anyone that buys the list?) and they certainly are not targeted with any
 accuracy. The fact that vendors even mention the idea of "clean" is a
 giveaway to the fact that purchasing lists is a dirty game. The only way
 to build an opt-in, targeted, clean email list is to do it yourself.
-**Reason \#3: Renting an email list is as shady as it sounds.** While
-there are a lot of companies using email to promote their partners
+
+
+### Reason \#3: Renting an email list is as shady as it sounds
+
+While there are a lot of companies using email to promote their partners
 ethically and responsibly, there are also a lot of companies renting
 their email lists to third parties. How do rental lists work? Companies
 sell the opportunity to send an email to their email list. Sounds shady,
 right? That's because it is. If someone opts-in for an email from one
 company, do you really think they are consciously opting in to receive
-emails from some other company? No chance. **Reason \#4: An email list
-has no value in itself.** Unless you’re merging email lists with a
+emails from some other company? No chance.
+
+### **Reason \#4: An email list has no value in itself
+
+Unless you’re merging email lists with a
 partner or acquiring a new company (send a reengagement opt-in
 campaign), buying a valuable email list is impossible. A good email list
-is [so freaking
-valuable](http://blog.expresspigeon.com/2014/01/06/email-marketing-statistics-2014/)
+is [so valuable](/blog/2014/01/06/email-marketing-statistics-2014/)
 that nobody in their right mind would sell it and jeopardize destroying
 those hard-earned relationships. Think about it. An email list is only
 as valuable as the attention of the people on it and the relationship
-you have with those people. **Reason \#5: People on purchased lists
-don't know you.** The email addresses on a purchased list are connected
+you have with those people.
+
+### Reason \#5: People on purchased lists don't know you.
+
+The email addresses on a purchased list are connected
 to real people who are not expecting any communication from you and have
 no idea who you are. Even if your list is full of real people, imagine
 how annoyed they will be when they receive your email completely out of
-the blue. Not exactly a warm introduction to your company... **Reason
-\#6: Sending emails to purchased lists will crush your Sender Score.** A
-[Sender Score](https://www.senderscore.org/) is your IP address
+the blue. Not exactly a warm introduction to your company...
+
+### Reason\#6: Sending emails to purchased lists will crush your Sender Score
+
+A [Sender Score](https://www.senderscore.org/) is your IP address
 reputation indicator. Every IP address, or email source, receives a
 numerical rating Sender Score on a scale of 0-100. This number,
 determined by a complex algorithm, is based on a variety of inputs
 including deliverability & spam reports.
-[![SenderScore](http://blog.expresspigeon.com/wp-content/uploads/2014/02/SenderScore.png)](http://blog.expresspigeon.com/wp-content/uploads/2014/02/SenderScore.png)
+
+![SenderScore](/blog/images/2014/SenderScore.png)
+
 Purchased lists are usually very high in bounce rate & spam reports and
 can crush your Sender Score. Not only will a lower Sender Score limit
 your ability to get emails into your recipients' inboxes, it will also
-prevent you from working with a reputable ESP. **Reason \#7: Any
-reputable ESP will kick you to the curb.** If you use reputable [email
-marketing software](http://expresspigeon.com) or plan to eventually, you
+prevent you from working with a reputable ESP.
+
+### Reason \#7: Any reputable ESP will kick you to the curb.
+
+If you use reputable [email marketing service](http://expresspigeon.com) or plan to eventually, you
 cannot use purchased email lists. Here at ExpressPigeon, we do not allow
 customers to use purchased, rented, or third party lists of any kind. We
 have no problem saying goodbye to paying customers that abuse our [Terms
@@ -139,15 +159,21 @@ of Service](https://expresspigeon.com/terms). In fact, our fine to
 spammers is $1,000 or 60x a monthly plan, whichever is greater. We have
 had instances of fining people and they have fought with us through
 credit card charge-back system... They lost. And don't forget that every
-individual you email has the right to sue you for $16,000. *So you still
-want to find an ESP that sends emails to purchased lists?* If you do
+individual you email has the right to sue you for $16,000.
+
+*So you still want to find an ESP that sends emails to purchased lists?*
+
+If you do
 find a shady ESP willing to send spam, you will experience low
 deliverability rates. There’s a reason why good ESPs won’t send to
 purchased lists. Maintaining our integrity allows us to stay off
 blacklists and keeps our IP reputation solid. Any ESP that allows
 spammers to send cannot possibly maintain a solid deliverability rate.
-**Reason \#8: Purchased lists often contain spam traps.** Big ISPs
-recycle email addresses as spam traps, which wind up on purchased lists.
+
+
+### Reason \#8: Purchased lists often contain spam traps.
+
+Big ISPs recycle email addresses as spam traps, which wind up on purchased lists.
 The idea is that a dormant email address cannot possibly opt-in for
 emails so a sender to a spam trap address is sending spam. Many
 purchased lists contain spam traps, and once you send to them, goodbye.
@@ -190,12 +216,11 @@ To sum it up, purchasing email lists is a bad practice. Don’t get stuck
 in the past and kill your company's future. So... How can you build an
 email list the right way?
 
-**How To Build An Opt-In Email List**
-=====================================
+## How To Build An Opt-In Email List
 
 There are a few steps to follow to build your opt-in list:
 
-1.  **Sign up with an [email service
+1.  **Sign up with a good [email service
     provider](http://expresspigeon.com).** Often referred to as an ESP,
     email service providers like ExpressPigeon make it easy for you to
     design, send, and track emails to your opt-in list.
@@ -222,7 +247,7 @@ There are a few steps to follow to build your opt-in list:
 
 Building an email list of engaged subscribers takes time and work but
 with an [ROI of over
-4300%](http://blog.expresspigeon.com/2014/01/06/email-marketing-statistics-2014/),
+4300%](/blog/2014/01/06/email-marketing-statistics-2014/),
 it's totally worth it. If you're looking for more ideas on how to grow
 your list, stay tuned for a mammoth post on growing your list. Happy
 marketing! :)
