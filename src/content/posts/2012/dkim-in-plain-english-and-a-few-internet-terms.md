@@ -30,11 +30,13 @@ a hand-written signature; it ensures that a person who applies a
 signature to a document cannot deny doing so at a later date.
 
 In order to verify a digital signature, one needs to perform the
-following steps: 1. Generate a Message Digest from the document. 2.
-Decode the Digital Signature with the signer's Public Key (remember,
-this is a corresponding key). 3. Compare the Digest that was generated
-with the Digest that was decoded; if they match, then the signature is
-verified and the signer cannot deny signing.
+following steps:
+
+1. Generate a Message Digest from the document.
+2. Decode the Digital Signature with the signer's Public Key (remember, this is a corresponding key).
+3. Compare the Digest that was generated with the Digest that was decoded;
+if they match, then the signature is verified and the signer cannot deny signing.
+
 
 Now that we've tackled the digital security mumbo jumbo, we can proceed
 to DKIM. The process is quite straight forward:
@@ -53,6 +55,9 @@ headers.
 Here is an example of an ExpressPigeon signature:  
 
 ` DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=key1; d=epsrv1.net; b=zjOA7h/6xV8gsbd0TWjmD/lA+aShS5ylIakb5TxUqHA/IaeZ0aQDa4GD8WlY0c4Pl3P1MizlhjYZ EF9RehHHOQ==`
+
+
+
 You can observe signatures in every e-mail that you receive from us.
 
 On the other end, the receiving e-mail server will lookup the sender's

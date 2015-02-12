@@ -23,7 +23,7 @@ When a receiving server (your ISP, usually Hotmail, GMail, etc.)
 receives an e-mail, it does the following:
 
 -   Performs a reverse DNS lookup
-    http://en.wikipedia.org/wiki/Reverse\_DNS\_lookup. This is a process
+    [SPF Lookup on Wikipedia](http://en.wikipedia.org/wiki/Reverse_DNS_lookup). This is a process
     of determining a sending computer's name from its IP address. A
     computer name is something we use all the time, such as
     [ExpressPigeon.com](http://expresspigeon.com).
@@ -32,8 +32,8 @@ receives an e-mail, it does the following:
     computer. This is to determine if the IP address of the sender is
     mentioned. For example, this is what the SPF record looks like for
     one of our sending servers:  
-    `v=spf1 a mx ptr ip4:184.107.171.2 mx:epsrv1.net -all`As you can
-    see, it includes the IP address: 184.107.171.2
+    `v=spf1 a mx ptr ip4:184.107.171.2 mx:epsrv1.net -all`
+    As you can see, it includes the IP address: 184.107.171.2
 
 This means that when we send from this computer, the receiving server
 can do the aforementioned checks to validate that the e-mail came from
