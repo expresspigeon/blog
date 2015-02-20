@@ -36,24 +36,24 @@ Adding an opt-in form to your
 blog sidebar is a great place to start. If you have an active blog, this
 is a traffic-heavy area and a great place to attract new subscribers.
 You can [add a signup form to the sidebar of a Wordpress site with this
-plugin](http://blog.expresspigeon.com/2013/11/19/add-expresspigeon-subscription-form-to-wordpress-in-minutes/)
+plugin](http://expresspigeon.com/blog/2013/11/19/add-expresspigeon-subscription-form-to-wordpress-in-minutes/)
 or develop a custom sidebar. Your form should include a message telling
 visitors why they should sign up. Take a look at how writer [Jeff
 Goins](http://goinswriter.com/) uses his sidebar to promote his
-newsletter:[![goinssidebarshadow](http://blog.expresspigeon.com/wp-content/uploads/2014/02/goinssidebarshadow.png)](http://blog.expresspigeon.com/wp-content/uploads/2014/02/goinssidebarshadow.png)
+newsletter:[![goinssidebarshadow](http://expresspigeon.com/blog/wp-content/uploads/2014/02/goinssidebarshadow.png)](http://expresspigeon.com/blog/wp-content/uploads/2014/02/goinssidebarshadow.png)
 **Trick \#2: Add a Hello Bar to the top of your website.** [Hello
 Bar](%20http://hellobar.com/) is a simple bar that runs across the top
 of your website. Within the bar, you can add a custom message and
 encourage email signups or direct visitors to a landing page where you
 can capture emails later on. See how B2B marketing expert [Diana
 Huff](http://www.diannahuff.com/) uses Hello Bar to get subscribers:
-[![hellobar](http://blog.expresspigeon.com/wp-content/uploads/2014/02/hellobar.png)](http://blog.expresspigeon.com/wp-content/uploads/2014/02/hellobar.png)
+[![hellobar](http://expresspigeon.com/blog/wp-content/uploads/2014/02/hellobar.png)](http://expresspigeon.com/blog/wp-content/uploads/2014/02/hellobar.png)
 **Trick \#3: Add an opt-in page to your main menu.** Add a "Subscribe"
 or "Updates" or "Connect" page to your main menu and give your opt-in
 form a home of its own. A page dedicated to your email updates can help
 reel in your more easily distracted visitors. See how blogging
 mastermind [Blog Tyrant](http://blogtyrant.com) does it
-here:![blogtyrantupdates](http://blog.expresspigeon.com/wp-content/uploads/2014/02/blogtyrantupdates.png)
+here:![blogtyrantupdates](http://expresspigeon.com/blog/wp-content/uploads/2014/02/blogtyrantupdates.png)
 Now that you have a page dedicated specifically to your subscription
 form, it's important to make it accessible. Consider using a custom URL
 for your signup page. This makes it easier for people to share in those
@@ -64,7 +64,7 @@ your main menu on your home page. If your main call to action on your
 site is your email subscription, consider building a custom email signup
 slider. This is especially popular for bloggers. Derek Halpern from
 Social Triggers [does this beautifully](http://socialtriggers.com/):
-[![socialtriggers](http://blog.expresspigeon.com/wp-content/uploads/2014/02/socialtriggers.png)](http://blog.expresspigeon.com/wp-content/uploads/2014/02/socialtriggers.png)
+[![socialtriggers](http://expresspigeon.com/blog/wp-content/uploads/2014/02/socialtriggers.png)](http://expresspigeon.com/blog/wp-content/uploads/2014/02/socialtriggers.png)
 
 **Trick \#5: Prompt visitors with opt-in form popups.**
 =======================================================
@@ -75,7 +75,7 @@ that popups, when tastefully done, can grow your email list. Popups
 collect email addresses or provide visitors with a link to important
 content where addresses are collected later on. I was reading
 Quicksprout the other day and this popped up:
-![emailpopupneil](http://blog.expresspigeon.com/wp-content/uploads/2014/02/emailpopupneil.png)
+![emailpopupneil](http://expresspigeon.com/blog/wp-content/uploads/2014/02/emailpopupneil.png)
 While popups can be annoying and are not a fit for every business, there
 are many thought leaders that swear by their results. To add a popup to
 your site, you can use a WordPress plugin like [Popup
@@ -89,7 +89,7 @@ adding a custom HTML signup form to the footer of our posts, we
 experienced a 156% increase in our email signup rate in just 30 days.
 Here's our form:
 
-![image](http://blog.expresspigeon.com/wp-content/uploads/2013/11/ep_badge.png)
+![image](http://expresspigeon.com/blog/wp-content/uploads/2013/11/ep_badge.png)
 
 ### Send better email.
 
@@ -116,9 +116,9 @@ opt-in form copy.**
     The Toolkit."
 
 Here's a great [opt-in form
-example](http://blog.expresspigeon.com/2014/01/17/6-food-fanatics-will-make-you-rethink-your-subscription-forms/)
+example](http://expresspigeon.com/blog/2014/01/17/6-food-fanatics-will-make-you-rethink-your-subscription-forms/)
 from Michael Aagaard at [Content Verve](http://contentverve.com/):
-[![contentverveoptin](http://blog.expresspigeon.com/wp-content/uploads/2014/02/contentverveoptin.png)](http://blog.expresspigeon.com/wp-content/uploads/2014/02/contentverveoptin.png)
+[![contentverveoptin](http://expresspigeon.com/blog/wp-content/uploads/2014/02/contentverveoptin.png)](http://expresspigeon.com/blog/wp-content/uploads/2014/02/contentverveoptin.png)
 **Trick \#9: Add something extra to your opt-in forms.**
 
 -   **Include the dollar value.**If you're offering an eBook or Toolkit
@@ -137,7 +137,7 @@ from Michael Aagaard at [Content Verve](http://contentverve.com/):
 
 Neil Patel really adds something extra on his Quicksprout opt-in form,
 and [it works](http://www.quicksprout.com/):
-[![quicksprout](http://blog.expresspigeon.com/wp-content/uploads/2014/02/quicksprout.png)](http://blog.expresspigeon.com/wp-content/uploads/2014/02/quicksprout.png)
+[![quicksprout](http://expresspigeon.com/blog/wp-content/uploads/2014/02/quicksprout.png)](http://expresspigeon.com/blog/wp-content/uploads/2014/02/quicksprout.png)
 **Trick \#10: Keep submission fields limited in opt-in forms.** We all
 want to know as much as possible about new subscribers. It's tempting to
 ask for more than an email address but people have grown weary of the
@@ -164,7 +164,7 @@ Elastic](http://www.getelastic.com/3-creative-ways-to-get-more-email-opt-ins/)
 is an engaging game developed by Sephora in fall 2013. Visitors entered
 email addresses to follow a ball that traveled Pinko-style into a slot
 where a unique prize was revealed.
-![sephoracampaign](http://blog.expresspigeon.com/wp-content/uploads/2014/02/sephoracampaign.png)
+![sephoracampaign](http://expresspigeon.com/blog/wp-content/uploads/2014/02/sephoracampaign.png)
 **Trick \#14: Use double opt-in and create a custom confirmation
 email.** Once a visitor signs up for emails via one of your conveniently
 located and brilliantly designed opt-in forms, you should send them a
@@ -191,7 +191,7 @@ for your business? Here are a few ideas:
     subscription.
 
 Here's a great example from blogging expert [Amy Lynn
-Andrews](http://amylynnandrews.com/):[![amylynn](http://blog.expresspigeon.com/wp-content/uploads/2014/02/amylynn.png)](http://blog.expresspigeon.com/wp-content/uploads/2014/02/amylynn.png)
+Andrews](http://amylynnandrews.com/):[![amylynn](http://expresspigeon.com/blog/wp-content/uploads/2014/02/amylynn.png)](http://expresspigeon.com/blog/wp-content/uploads/2014/02/amylynn.png)
 **Trick \#16: Create a welcome email to remember.** A welcome email is
 your first email to new subscribers. Give them something that excites
 them for what's to come next. Deliver your free giveaway (as promised),
@@ -199,7 +199,7 @@ thank them for subscribing, and prepare them for what's coming next.
 This is also a great time for a surprise! Consider offering a special
 "thank you" discount. See how getting-things-done expert Gregory Ciotti
 does this at [Sparring Mind](http://www.sparringmind.com/):
-[![sparringmindwelcome](http://blog.expresspigeon.com/wp-content/uploads/2014/02/sparringmindwelcome.png)](http://blog.expresspigeon.com/wp-content/uploads/2014/02/sparringmindwelcome.png)
+[![sparringmindwelcome](http://expresspigeon.com/blog/wp-content/uploads/2014/02/sparringmindwelcome.png)](http://expresspigeon.com/blog/wp-content/uploads/2014/02/sparringmindwelcome.png)
 Notice how Gregory includes links to his best articles and gives a warm
 welcome that gets you excited for what's to come next. Figure out what
 works for you and keep it authentic! **CONCLUSION** It's not easy to

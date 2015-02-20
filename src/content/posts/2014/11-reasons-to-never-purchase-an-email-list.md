@@ -1,6 +1,6 @@
 Email marketing is essential to a successful online marketing strategy.
 In fact, [email marketing has an ROI of over
-4300%](http://blog.expresspigeon.com/2014/01/06/email-marketing-statistics-2014/).
+4300%](http://expresspigeon.com/blog/2014/01/06/email-marketing-statistics-2014/).
 Unfortunately, it’s easy for new marketers to make a deadly mistake that
 can crush their email marketing program and company reputation:
 Purchasing or renting an email list.
@@ -229,11 +229,11 @@ There are a few steps to follow to build your opt-in list:
     database where emails are collected when new people sign up for your
     email subscription.
 3.  [**Create an email subscription
-    form.**](http://blog.expresspigeon.com/2013/11/18/custom-email-subscription-form/)
+    form.**](http://expresspigeon.com/blog/2013/11/18/custom-email-subscription-form/)
     This process takes minutes on ExpressPigeon, and makes it possible
     for people to sign up for your emails.
 4.  **[Add signup forms to your
-    website](http://blog.expresspigeon.com/2013/11/19/add-expresspigeon-subscription-form-to-wordpress-in-minutes/)
+    website](http://expresspigeon.com/blog/2013/11/19/add-expresspigeon-subscription-form-to-wordpress-in-minutes/)
     and social media pages.** Adding signup forms to your website is
     easy with ExpressPigeon, especially for Wordpress users. We also
     offer a way to add a signup form to your Facebook page. These forms

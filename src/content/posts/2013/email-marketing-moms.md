@@ -3,7 +3,7 @@
 
 : [miguelphotobooth](http://www.flickr.com/photos/miguelphotobooth/5320886958/) / [Foter](http://foter.com/) / [CC BY](http://creativecommons.org/licenses/by/2.0/)
 
-Welcome to the Modern Mom Series, the official launch of the [Better Email Project](http://blog.expresspigeon.com/2013/12/02/expresspigeon-better-email-project/). This series is dedicated to sharing email marketing
+Welcome to the Modern Mom Series, the official launch of the [Better Email Project](http://expresspigeon.com/blog/2013/12/02/expresspigeon-better-email-project/). This series is dedicated to sharing email marketing
 wisdom, inspiration, and best practices from tech-savvy moms who balance
 motherhood with the insanely difficult task of running a full-time
 online blog/business.
