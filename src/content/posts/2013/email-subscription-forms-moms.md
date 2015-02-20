@@ -87,6 +87,6 @@ is, and don't be afraid to share how awesome you are. Think, "All this
 is yours". Pretty strong. Scary strong. You get it.
 
 You might be interested in...
-[9 Reasons Modern Moms Will Help You Send Better Email Campaigns](http://expresspigeon.com/blog/2013/12/03/email-marketing-moms/)
-[Build Your Email List With The WWSGD WordPress Plugin](http://expresspigeon.com/blog/2013/11/18/custom-email-subscription-form/)
-[Build A Custom Email Subscription Form In Minutes](http://expresspigeon.com/blog/2013/11/18/custom-email-subscription-form/)
+[9 Reasons Modern Moms Will Help You Send Better Email Campaigns](/blog/2013/12/03/email-marketing-moms/)
+[Build Your Email List With The WWSGD WordPress Plugin](/blog/2013/11/18/custom-email-subscription-form/)
+[Build A Custom Email Subscription Form In Minutes](/blog/2013/11/18/custom-email-subscription-form/)

@@ -1,4 +1,4 @@
-![andycrestodina](http://expresspigeon.com/blog/wp-content/uploads/2014/05/andycrestodina.jpg)
+![andycrestodina](/blog/wp-content/uploads/2014/05/andycrestodina.jpg)
 I recently interviewed Andy Crestodina to give you a look inside the
 mind of a content marketing genius. Andy is co-founder of [Orbit
 Media](http://orbitmedia.com), author of *Content Chemistry,* and a
@@ -105,7 +105,7 @@ camps: those that produce more detailed, practical, honest content, and
 those that produce content is higher quality formats, videos, events and
 podcasts. Of course, both of these work beautifully with email. Every
 serious marketer I know is aggressively [growing their email
-list](http://expresspigeon.com/blog/2014/05/18/101-ways-to-grow-your-email-list/).
+list](/blog/2014/05/18/101-ways-to-grow-your-email-list/).
 It’s the main factor in long-term growth. If you do everything else
 right, but leave out email marketing, you’ll have to work much harder
 for much longer to get the same results... *You can follow and connect

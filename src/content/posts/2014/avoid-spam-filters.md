@@ -1,4 +1,4 @@
-[![Avoid-Spam-Filters](http://expresspigeon.com/blog/wp-content/uploads/2014/07/Avoid-Spam-Filters.png)](http://expresspigeon.com/blog/wp-content/uploads/2014/07/Avoid-Spam-Filters.png)
+[![Avoid-Spam-Filters](/blog/wp-content/uploads/2014/07/Avoid-Spam-Filters.png)](/blog/wp-content/uploads/2014/07/Avoid-Spam-Filters.png)
 Spam filters are often overlooked, undervalued programs working hard to
 make us happier and more productive. They keep our inboxes clean and we
 barely ever notice them. But like all things designed by humans, spam
@@ -73,7 +73,7 @@ It is impossible to guarantee that every opt-in email will make it to
 the inbox of each subscriber. However, there are steps we can take to
 give our email a good chance of reaching our audience. *Let's dive right
 in...*
-[![avoid-spam-filters-email-content](http://expresspigeon.com/blog/wp-content/uploads/2014/07/avoid-spam-filters-email-content.jpg)](http://expresspigeon.com/blog/wp-content/uploads/2014/07/avoid-spam-filters-email-content.jpg)
+[![avoid-spam-filters-email-content](/blog/wp-content/uploads/2014/07/avoid-spam-filters-email-content.jpg)](/blog/wp-content/uploads/2014/07/avoid-spam-filters-email-content.jpg)
 **Tactic \#1: Produce quality email content.** The best way to get past
 spam filters is to send high quality email to people who know you and
 expect to hear from you. If you give people what they want and expect,
@@ -96,7 +96,7 @@ of the following:
     contain a large image and very little text are often filtered as
     spam. Keep a balanced text to image ratio.
 
-[![can-spam-act-avoid-spam-filters](http://expresspigeon.com/blog/wp-content/uploads/2014/07/can-spam-act-avoid-spam-filters.jpg)](http://expresspigeon.com/blog/wp-content/uploads/2014/07/can-spam-act-avoid-spam-filters.jpg)
+[![can-spam-act-avoid-spam-filters](/blog/wp-content/uploads/2014/07/can-spam-act-avoid-spam-filters.jpg)](/blog/wp-content/uploads/2014/07/can-spam-act-avoid-spam-filters.jpg)
 **Tactic \#2: Read and understand the CAN-SPAM Act.** The CAN-SPAM Act
 is a US federal law passed in 2003 that sets the rules for commercial
 email. With fines as high as $16,000 for every email that violates the
@@ -113,14 +113,14 @@ the CAN-SPAM Act:
 3.  **Include your real mailing address.**You must include your actual
     physical postal address in your email.
 4.  **Never send without consent**. Use our [subscription
-    forms](http://expresspigeon.com/blog/2013/11/18/custom-email-subscription-form/)to
+    forms](/blog/2013/11/18/custom-email-subscription-form/)to
     help people subscribe.
 
 To learn more, [visit the FTC
 website](http://business.ftc.gov/documents/bus61-can-spam-act-compliance-guide-business).
-[![avoid-spam-filters-double-opt-in](http://expresspigeon.com/blog/wp-content/uploads/2014/07/avoid-spam-filters-double-opt-in.jpg)](http://expresspigeon.com/blog/wp-content/uploads/2014/07/avoid-spam-filters-double-opt-in.jpg)
+[![avoid-spam-filters-double-opt-in](/blog/wp-content/uploads/2014/07/avoid-spam-filters-double-opt-in.jpg)](/blog/wp-content/uploads/2014/07/avoid-spam-filters-double-opt-in.jpg)
 **Tactic \#3: Use double opt-in.** When building a [signup
-form](http://expresspigeon.com/blog/2013/11/18/custom-email-subscription-form/)
+form](/blog/2013/11/18/custom-email-subscription-form/)
 for your email subscription, you have the option with ExpressPigeon to
 do single opt-in or double opt-in. We recommend double-opt in, a process
 that looks like this:
@@ -144,7 +144,7 @@ This information protects you. If a subscriber marks you as a spammer in
 the future, we have a record to prove that permission was given. Using
 double opt-in is a simple way to increase the odds of getting your email
 delivered.
-[![avoid-spam-filters-email-list](http://expresspigeon.com/blog/wp-content/uploads/2014/07/avoid-spam-filters-email-list.jpg)](http://expresspigeon.com/blog/wp-content/uploads/2014/07/avoid-spam-filters-email-list.jpg)
+[![avoid-spam-filters-email-list](/blog/wp-content/uploads/2014/07/avoid-spam-filters-email-list.jpg)](/blog/wp-content/uploads/2014/07/avoid-spam-filters-email-list.jpg)
 **Tactic \#4: Grow your list ethically.** Misleading or deceitful
 list-building tactics can crush your deliverability. Why? People who
 don't explicitly give you permission to receive your emails don't want
@@ -159,10 +159,10 @@ examples of what not to do:
     business card in a fishbowl or sign up for a chance to win a trade
     show giveaway do not necessarily want email from you. Be clear when
     collecting emails. There are healthy ways to [build an email list
-    offline](http://expresspigeon.com/blog/2014/05/15/6-quick-tips-to-grow-your-email-list-offline/).
+    offline](/blog/2014/05/15/6-quick-tips-to-grow-your-email-list-offline/).
 -   **Buy an email list.**It's a [really bad idea to purchase or rent an
     email
-    list](http://expresspigeon.com/blog/2014/02/12/11-reasons-to-never-purchase-an-email-list/).
+    list](/blog/2014/02/12/11-reasons-to-never-purchase-an-email-list/).
     Not only is it illegal and punishable by US law, it can crush your
     email marketing program and do long-term harm to your brand.
 -   **Scrape websites for email addresses.** It goes without saying that
@@ -172,36 +172,36 @@ examples of what not to do:
 To get past spam filters, you want to attract people who are truly
 interested in your email. There are hundreds of[healthy ways to grow
 your
-list](http://expresspigeon.com/blog/2014/05/18/101-ways-to-grow-your-email-list/).
-[![avoid-spam-filters-email-design](http://expresspigeon.com/blog/wp-content/uploads/2014/07/avoid-spam-filters-email-design.jpg)](http://expresspigeon.com/blog/wp-content/uploads/2014/07/avoid-spam-filters-email-design.jpg)
+list](/blog/2014/05/18/101-ways-to-grow-your-email-list/).
+[![avoid-spam-filters-email-design](/blog/wp-content/uploads/2014/07/avoid-spam-filters-email-design.jpg)](/blog/wp-content/uploads/2014/07/avoid-spam-filters-email-design.jpg)
 **Tactic \#5: Design professional-looking emails.** If your emails look
 cheap or unprofessional, you can come across like a spammer. Check out
 our [newsletter templates](https://expresspigeon.com/gallery) for
 inspiration.
-[![avoid-spam-filters-subject-lines](http://expresspigeon.com/blog/wp-content/uploads/2014/07/avoid-spam-filters-subject-lines.jpg)](http://expresspigeon.com/blog/wp-content/uploads/2014/07/avoid-spam-filters-subject-lines.jpg)
+[![avoid-spam-filters-subject-lines](/blog/wp-content/uploads/2014/07/avoid-spam-filters-subject-lines.jpg)](/blog/wp-content/uploads/2014/07/avoid-spam-filters-subject-lines.jpg)
 **Tactic \#6: Craft relevant and engaging subject lines.** Spam filters
 and your audience don't want misleading subject lines. Make sure your
 subject line engages subscribers and tells them what your email is
 really about. Avoid spammy phrases like "click here" or "open now" or
 "act today" or "limited offer". Also, don't use ALL CAPS or too many
 numbers or special characters. Use our [teaser
-feature](http://expresspigeon.com/blog/2012/12/14/increase-email-open-rates-with-a-teaser-line/)
+feature](/blog/2012/12/14/increase-email-open-rates-with-a-teaser-line/)
 to extend your subject line and entice people to open the email.
-[![avoid-spam-filters-email-personalization](http://expresspigeon.com/blog/wp-content/uploads/2014/07/avoid-spam-filters-email-personalization.jpg)](http://expresspigeon.com/blog/wp-content/uploads/2014/07/avoid-spam-filters-email-personalization.jpg)
+[![avoid-spam-filters-email-personalization](/blog/wp-content/uploads/2014/07/avoid-spam-filters-email-personalization.jpg)](/blog/wp-content/uploads/2014/07/avoid-spam-filters-email-personalization.jpg)
 **Tactic \#7: Personalize your email.** The more you personalize, the
 better. The least you can do is address your subscribers by their names.
 Use the following text in a subject line or body or an email to do so:
 Hi, ${first\_name} Subscribers appreciate receiving an email with a
 personal touch. The better your subscribers know you and trust you, the
 less likely they are to flag your emails as spam.
-[![avoid-spam-filters-reply-to-address](http://expresspigeon.com/blog/wp-content/uploads/2014/07/avoid-spam-filters-reply-to-address.jpg)](http://expresspigeon.com/blog/wp-content/uploads/2014/07/avoid-spam-filters-reply-to-address.jpg)
+[![avoid-spam-filters-reply-to-address](/blog/wp-content/uploads/2014/07/avoid-spam-filters-reply-to-address.jpg)](/blog/wp-content/uploads/2014/07/avoid-spam-filters-reply-to-address.jpg)
 **Tactic \#8: Use a human reply-to address.** Your [reply-to
-address](http://expresspigeon.com/blog/2014/03/03/how-important-is-reply_to-address/)
+address](/blog/2014/03/03/how-important-is-reply_to-address/)
 should be a real company email connected to someone human who your
 subscribers can communicate with. Avoid using an address like
 do-not-reply@yourcompany.com. This sends a selfish message to your
 audience and limits the possibility for healthy two-way communication.
-[![avoid-spam-filters-descriptive-text](http://expresspigeon.com/blog/wp-content/uploads/2014/07/avoid-spam-filters-descriptive-text.jpg)](http://expresspigeon.com/blog/wp-content/uploads/2014/07/avoid-spam-filters-descriptive-text.jpg)
+[![avoid-spam-filters-descriptive-text](/blog/wp-content/uploads/2014/07/avoid-spam-filters-descriptive-text.jpg)](/blog/wp-content/uploads/2014/07/avoid-spam-filters-descriptive-text.jpg)
 **Tactic \#9: Use descriptive text instead of URLs as link text.** Spam
 filters try to block phishing attacks, where attackers encourage readers
 to click on a well-known text URL that links to a different URL
@@ -212,18 +212,18 @@ shady tactic, you should avoid using URLs as link text. Instead, use
 descriptive text. Every link in this blog post is an example of
 descriptive text. Here at ExpressPigeon, we offer [phishing attack and
 composer
-protection](http://expresspigeon.com/blog/2011/12/21/email-phishing-attack-and-composer-protection/)
+protection](/blog/2011/12/21/email-phishing-attack-and-composer-protection/)
 to make sure you never forget.
-[![avoid-spam-filters-send-email](http://expresspigeon.com/blog/wp-content/uploads/2014/07/avoid-spam-filters-send-email.jpg)](http://expresspigeon.com/blog/wp-content/uploads/2014/07/avoid-spam-filters-send-email.jpg)
+[![avoid-spam-filters-send-email](/blog/wp-content/uploads/2014/07/avoid-spam-filters-send-email.jpg)](/blog/wp-content/uploads/2014/07/avoid-spam-filters-send-email.jpg)
 **Tactic \#10: Start sending email right away.** You should be sending
 email the minute you get your first subscriber. Why? If you wait until
 your list reaches a certain size before sending, your first email will
 seem like a total surprise to early subscribers. And what do subscribers
 do when they are startled? They mark emails as spam. Instead of being
 stagnant, [jump-start your
-list](http://expresspigeon.com/blog/2014/05/05/7-overlooked-ways-to-jump-start-your-email-list-today/)
+list](/blog/2014/05/05/7-overlooked-ways-to-jump-start-your-email-list-today/)
 and send email from day one.
-[![avoid-spam-filters-email-send-frequency](http://expresspigeon.com/blog/wp-content/uploads/2014/07/avoid-spam-filters-email-send-frequency.jpg)](http://expresspigeon.com/blog/wp-content/uploads/2014/07/avoid-spam-filters-email-send-frequency.jpg)
+[![avoid-spam-filters-email-send-frequency](/blog/wp-content/uploads/2014/07/avoid-spam-filters-email-send-frequency.jpg)](/blog/wp-content/uploads/2014/07/avoid-spam-filters-email-send-frequency.jpg)
 **Tactic \#11: Be consistent with send frequency.** If you don't send
 emails for long periods of time, and suddenly send, subscribers may
 forget about you and mark the email as spam. If you're sending too
@@ -233,15 +233,15 @@ consistency is key. Once subscribers know how often you send, they
 expect to receive emails at the same rate moving forward. When you meet
 their expectations, subscribers are more likely to become engaged
 readers and less likely to mark your emails as spam.
-[![avoid-spam-filters-sender-address](http://expresspigeon.com/blog/wp-content/uploads/2014/07/avoid-spam-filters-sender-address.jpg)](http://expresspigeon.com/blog/wp-content/uploads/2014/07/avoid-spam-filters-sender-address.jpg)
+[![avoid-spam-filters-sender-address](/blog/wp-content/uploads/2014/07/avoid-spam-filters-sender-address.jpg)](/blog/wp-content/uploads/2014/07/avoid-spam-filters-sender-address.jpg)
 **Tactic \#12: Use a corporate email account as your sender address.**
 If you use a major ESP and send email using a personal email address
 such as paul@yahoo.com or paul@aol.com, ISPs like Google will block your
 email. Why? Yahoo! and AOL tell them to! The solution is to use your
 corporate email address or owned domain. Learn more about [DMARC and
 what it means to
-marketers](http://expresspigeon.com/blog/2014/06/11/dmarc-in-english-what-it-means-to-marketers/).
-[![avoid-spam-filters-spam-traps](http://expresspigeon.com/blog/wp-content/uploads/2014/07/avoid-spam-filters-spam-traps.jpg)](http://expresspigeon.com/blog/wp-content/uploads/2014/07/avoid-spam-filters-spam-traps.jpg)
+marketers](/blog/2014/06/11/dmarc-in-english-what-it-means-to-marketers/).
+[![avoid-spam-filters-spam-traps](/blog/wp-content/uploads/2014/07/avoid-spam-filters-spam-traps.jpg)](/blog/wp-content/uploads/2014/07/avoid-spam-filters-spam-traps.jpg)
 **Tactic \#13: Avoid spam traps.** If an email address hasn't been used
 in years, ISPs sometimes convert that email address into a spam trap,
 called a honeypot. You will never know if an email address is a spam
@@ -249,14 +249,14 @@ trap. The best way to avoid spam traps is to never scrape websites or
 buy rented lists. As long as you follow ethical list-building tactics,
 you should be fine. We recommend running a reengagement campaign every
 six months to make sure you have a healthy, engaged list.
-[![avoid-spam-filters-blacklists](http://expresspigeon.com/blog/wp-content/uploads/2014/07/avoid-spam-filters-blacklists.jpg)](http://expresspigeon.com/blog/wp-content/uploads/2014/07/avoid-spam-filters-blacklists.jpg)
+[![avoid-spam-filters-blacklists](/blog/wp-content/uploads/2014/07/avoid-spam-filters-blacklists.jpg)](/blog/wp-content/uploads/2014/07/avoid-spam-filters-blacklists.jpg)
 **Tactic \#14: Make sure you are not on blacklists.** ESPs advertise
 which IP addresses they send from. Reputable ESPs (like ExpressPigeon)
 track this themselves, so you don't have to worry about it. If you are
 sending from your own IP address, you can use tools like [MX
 Toolbox](http://mxtoolbox.com/) to verify and get alerted if your IP
 gets on a blacklist.
-[![avoid-spam-filters-text-email](http://expresspigeon.com/blog/wp-content/uploads/2014/07/avoid-spam-filters-text-email.jpg)](http://expresspigeon.com/blog/wp-content/uploads/2014/07/avoid-spam-filters-text-email.jpg)
+[![avoid-spam-filters-text-email](/blog/wp-content/uploads/2014/07/avoid-spam-filters-text-email.jpg)](/blog/wp-content/uploads/2014/07/avoid-spam-filters-text-email.jpg)
 **Tactic \#15: Include a text version of your email.** It's easier to
 hide shady call-to-actions in HTML than it is in text. Even if you know
 people are not opening up a text version of email, it's not a bad idea
@@ -267,7 +267,7 @@ advanced enough to dig into HTML, so including a text version is not as
 important as it once was. However, adding a text version can help you if
 you have subscribers using outdated email services or text-only reading
 settings.
-[![avoid-spam-filters-email-service-provider](http://expresspigeon.com/blog/wp-content/uploads/2014/07/avoid-spam-filters-email-service-provider.jpg)](http://expresspigeon.com/blog/wp-content/uploads/2014/07/avoid-spam-filters-email-service-provider.jpg)
+[![avoid-spam-filters-email-service-provider](/blog/wp-content/uploads/2014/07/avoid-spam-filters-email-service-provider.jpg)](/blog/wp-content/uploads/2014/07/avoid-spam-filters-email-service-provider.jpg)
 **Tactic \#16: Use a reputable email service provider.** The best thing
 you can to do to get past spam filters is to use a reputable ESP like
 ExpressPigeon. We work hard to make sure your emails get delivered. You

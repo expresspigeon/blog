@@ -9,7 +9,7 @@ your reality.
 Every single one of your current and future customers has an email
 address, a direct line into the palm of their hands. Email is one of the
 most personal and economical ways to stay in touch. In fact, [current
-statistics](http://expresspigeon.com/blog/2014/01/06/email-marketing-statistics-2014/)
+statistics](/blog/2014/01/06/email-marketing-statistics-2014/)
 show that email marketing performs better than social media, PPC,
 content marketing, offline direct marketing, online display advertising,
 mobile marketing, and affiliate marketing. So where do you begin?
@@ -293,7 +293,7 @@ Offline](/blog/images/2014/05/15/6-quick-tips-to-grow-your-email-list-offline/)*
 1.  **Checkout.**   Place an opt-in form on your checkout page. Checkout is
     a great time to convert one-time customers into email subscribers.
     Offering a product discount on a future purchase is a great [opt-in
-    incentive](http://expresspigeon.com/blog/2014/04/21/10-powerful-opt-in-incentives-that-will-get-you-more-email-subscribers/).
+    incentive](/blog/2014/04/21/10-powerful-opt-in-incentives-that-will-get-you-more-email-subscribers/).
 2.  **Email Receipts.**   Offer an opt-in option on email receipts. Some
     people are weary of subscribing during checkout, so make sure you
     reinforce your subscription benefits and offer an opt-in option
@@ -392,7 +392,7 @@ FACEBOOK
 3.  **Contest.** Run a contest on Facebook that collects emails for
     entry. Learn how to do this in my recent post on [how to integrate
     email and social
-    media](http://expresspigeon.com/blog/2014/03/19/how-to-integrate-social-media-email-marketing/).
+    media](/blog/2014/03/19/how-to-integrate-social-media-email-marketing/).
 4.  **Cover Talk.** Add a call-to-action in your Facebook page cover.
     Include a message that encourages people to sign up for emails in
     your cover.

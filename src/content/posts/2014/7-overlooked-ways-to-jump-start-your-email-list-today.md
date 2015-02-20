@@ -1,11 +1,11 @@
 Whether you just heard about the [insanely high ROI of email
-marketing](http://expresspigeon.com/blog/2014/01/06/email-marketing-statistics-2014/)
+marketing](/blog/2014/01/06/email-marketing-statistics-2014/)
 and decided to build an email list or you're already running a
 successful email program and hit a dead end, I'm sure you're looking for
 ways to jump-start your list. Before we dive in, make sure you...
 
 1.  **Sign up with an email service provider.**Current [email marketing
-    statistics](http://expresspigeon.com/blog/2014/01/06/email-marketing-statistics-2014/)
+    statistics](/blog/2014/01/06/email-marketing-statistics-2014/)
     show that businesses using an ESP are more likely to be satisfied
     with their email program than businesses who do not. An [email
     service provider](http://expresspigeon.com) gives you tools to
@@ -17,13 +17,13 @@ ways to jump-start your list. Before we dive in, make sure you...
 3.  **Create opt-in incentive for your audience.**You need to give
     people a reason to sign up for your emails. Check out these [10
     opt-in incentive
-    ideas](http://expresspigeon.com/blog/2014/04/21/10-powerful-opt-in-incentives-that-will-get-you-more-email-subscribers/)
+    ideas](/blog/2014/04/21/10-powerful-opt-in-incentives-that-will-get-you-more-email-subscribers/)
     to help you choose the right subscription incentive for your
     audience.
 4.  **Update your opt-in process.**There are dozens of tricks to make
     sure your opt-in process is optimized to convert website visitors
     into email subscribers. Check out these [16 opt-in
-    tricks](http://expresspigeon.com/blog/2014/02/24/16-opt-in-tricks-to-grow-your-email-list/)
+    tricks](/blog/2014/02/24/16-opt-in-tricks-to-grow-your-email-list/)
     to help you.
 
 Now you're ready to grow your list. There are hundreds of ways to get
@@ -35,7 +35,7 @@ scratch or jump-starting your program today. Let's dive right in...
 email list, don't overlook the power of your personal network. In the
 early stages, some of the best support you'll get to grow your list can
 come from your strongest connections - friends and family.
-[![familyfriends](http://expresspigeon.com/blog/wp-content/uploads/2014/04/familyfriends.jpg)](http://expresspigeon.com/blog/wp-content/uploads/2014/04/familyfriends.jpg)
+[![familyfriends](/blog/wp-content/uploads/2014/04/familyfriends.jpg)](/blog/wp-content/uploads/2014/04/familyfriends.jpg)
 Sure, some of the people closest to you might have no interest in your
 emails. But what about their friends? What about their professional
 connections? You never know until you ask. Reaching out to friends and
@@ -55,7 +55,7 @@ family can be difficult, so try this:
     should suddenly change your approach or tone.
 3.  **Make the ask.** Make it easy for your friends and family to help
     you. One of the best ways to do this is to share a link to your
-    [subscription](http://expresspigeon.com/blog/2013/11/18/custom-email-subscription-form/)
+    [subscription](/blog/2013/11/18/custom-email-subscription-form/)
     in your email page and provide a clear call-to-action. Do you want
     them to share the link with one friend they know would love your
     emails? Or simply share the link on their Facebook wall? It's up to
@@ -67,13 +67,13 @@ building, you should have no problem turning to friends and family for
 their help. This is a very overlooked way to build a list. **Tactic \#2:
 Send a reengagement email to your dated opt-in list.** Are you sitting
 on an [opt-in email
-list](http://expresspigeon.com/blog/2014/02/24/16-opt-in-tricks-to-grow-your-email-list/)
+list](/blog/2014/02/24/16-opt-in-tricks-to-grow-your-email-list/)
 that you built years ago? Send a reengagement email to give subscribers
 the option to re-subscribe to your emails. This is a great way to build
 your list and ensure that subscribers are engaged and interested in your
 campaigns. Remember, this is for opt-in lists only - [buying email lists
 is
-illegal](http://expresspigeon.com/blog/2014/02/12/11-reasons-to-never-purchase-an-email-list/).
+illegal](/blog/2014/02/12/11-reasons-to-never-purchase-an-email-list/).
 **Tactic \#3: Send one-to-one emails to old contacts.** Over the years,
 I'm sure you've emailed hundreds, if not thousands, of people that are
 interested in the topics you cover in your email campaigns. Even if you
@@ -119,7 +119,7 @@ subscription and attract new subscribers:
     announcement on your personal profile and company page to let people
     know about your emails. Let people know [why they should sign up for
     your
-    emails.](http://expresspigeon.com/blog/2014/04/21/10-powerful-opt-in-incentives-that-will-get-you-more-email-subscribers/)
+    emails.](/blog/2014/04/21/10-powerful-opt-in-incentives-that-will-get-you-more-email-subscribers/)
 
 LinkedIn promotion is great for first-time subscription promotion and
 for a more developed email program. As you continue to develop your
@@ -131,7 +131,7 @@ business, engage your team to encourage them to help you drive awareness
 to your subscription. The whole team will benefit from better company
 performance so promoting your email list should be a win-win for
 everyone, but don't force the issue.
-[![office2](http://expresspigeon.com/blog/wp-content/uploads/2014/04/office2.jpg)](http://expresspigeon.com/blog/wp-content/uploads/2014/04/office2.jpg)
+[![office2](/blog/wp-content/uploads/2014/04/office2.jpg)](/blog/wp-content/uploads/2014/04/office2.jpg)
 If your team supports your business and its direction, they will likely
 have no problem promoting your email list. Consider using some tips from
 this post to give them direction on how to spread the word. Getting
@@ -156,7 +156,7 @@ signature.** Almost no explanation necessary on this one. Simply add a
 line to your email signature encouraging people to sign up for your
 email list and include a link to your subscription page. Every email you
 send can help you get the word out!
-[![paulsignatureblur](http://expresspigeon.com/blog/wp-content/uploads/2014/05/paulsignatureblur.png)](http://expresspigeon.com/blog/wp-content/uploads/2014/05/paulsignatureblur.png)
+[![paulsignatureblur](/blog/wp-content/uploads/2014/05/paulsignatureblur.png)](/blog/wp-content/uploads/2014/05/paulsignatureblur.png)
 **Conclusion** Building an email list takes time but when you're trying
 to get your first 500 subscribers or inject new life into your email
 program, direct outreach and simple promotions can make all the
@@ -164,4 +164,4 @@ difference. Whether you're calling friends or posting ads on Craigslist,
 sometimes its the weird & overlooked tactics that give you the boost you
 need to see consistent growth. How would you jump-start a list? Any
 tactics to add? If so, keep the ideas on flow and leave comment below!
-![:)](http://expresspigeon.com/blog/wp-includes/images/smilies/icon_smile.gif)
+![:)](/blog/wp-includes/images/smilies/icon_smile.gif)

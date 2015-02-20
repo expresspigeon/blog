@@ -10,7 +10,7 @@ line.
 
 The headlines of email marketing play an important role in whether or
 not your emails get opened. According to the latest [email marketing
-statistics](http://expresspigeon.com/blog/2014/01/06/email-marketing-statistics-2014/)…
+statistics](/blog/2014/01/06/email-marketing-statistics-2014/)…
 
 **Nearly one third of email recipients open email based on subject line
 alone. [tweet this](http://ctt.ec/z9woa)**
@@ -159,7 +159,7 @@ effective for the audience.
 *Subject Line Formula: [Professional Responsibility] + [Company] =
 [Benefit] Together*
 
-[![top-subject-lines-eonfire](http://expresspigeon.com/blog/wp-content/uploads/2014/08/top-subject-lines-eonfire.png)](http://expresspigeon.com/blog/wp-content/uploads/2014/08/top-subject-lines-eonfire.png)
+[![top-subject-lines-eonfire](/blog/wp-content/uploads/2014/08/top-subject-lines-eonfire.png)](/blog/wp-content/uploads/2014/08/top-subject-lines-eonfire.png)
 
 [EntrepreneurOnFire](http://www.entrepreneuronfire.com/) is one of the
 top ranked business Podcasts in the world. It features John Lee Dumas
@@ -195,7 +195,7 @@ thankfully the email reminds them he’ll be back soon!
 
 *Subject Line Formula: I’m leaving, but [Company] is in good hands*
 
-[![social-mouths-email-subject-lines](http://expresspigeon.com/blog/wp-content/uploads/2014/08/social-mouths-email-subject-lines.png)](http://expresspigeon.com/blog/wp-content/uploads/2014/08/social-mouths-email-subject-lines.png)
+[![social-mouths-email-subject-lines](/blog/wp-content/uploads/2014/08/social-mouths-email-subject-lines.png)](/blog/wp-content/uploads/2014/08/social-mouths-email-subject-lines.png)
 
 [SocialMouths](http://socialmouths.com/blog/) is one of the top online
 marketing blogs on the Internet covering topics such as blogging, social
@@ -230,7 +230,7 @@ them hope that things will get better with a promise to help.
 
 *Subject Line Formula: [Something] is Dead… And now what?*
 
-[![orbit-media-email-subject-lines](http://expresspigeon.com/blog/wp-content/uploads/2014/08/orbit-media-email-subject-lines.png)](http://expresspigeon.com/blog/wp-content/uploads/2014/08/orbit-media-email-subject-lines.png)
+[![orbit-media-email-subject-lines](/blog/wp-content/uploads/2014/08/orbit-media-email-subject-lines.png)](/blog/wp-content/uploads/2014/08/orbit-media-email-subject-lines.png)
 
 [Orbit Media](http://www.orbitmedia.com/) is a web design and
 development company that creates some of the most useful and compelling
@@ -265,7 +265,7 @@ the big guys. Teach them.
 
 *Subject Line Formula: Beat the Big Boys [Location] With [Something]*
 
-[![zillow-email-subject-lines](http://expresspigeon.com/blog/wp-content/uploads/2014/08/zillow-email-subject-lines.png)](http://expresspigeon.com/blog/wp-content/uploads/2014/08/zillow-email-subject-lines.png)
+[![zillow-email-subject-lines](/blog/wp-content/uploads/2014/08/zillow-email-subject-lines.png)](/blog/wp-content/uploads/2014/08/zillow-email-subject-lines.png)
 
 [Zillow](http://zillow.com) is one of the largest online real estate
 databases in the world.
@@ -278,7 +278,7 @@ It makes sense that these deeply personalized emails perform the best –
 they are exactly what Zillow’s audience is looking for to help them on
 their real estate search.
 
-[![global-copywriting-email-subject-lines](http://expresspigeon.com/blog/wp-content/uploads/2014/08/global-copywriting-email-subject-lines.png)](http://expresspigeon.com/blog/wp-content/uploads/2014/08/global-copywriting-email-subject-lines.png)
+[![global-copywriting-email-subject-lines](/blog/wp-content/uploads/2014/08/global-copywriting-email-subject-lines.png)](/blog/wp-content/uploads/2014/08/global-copywriting-email-subject-lines.png)
 
 [Global Copywriting](http://www.globalcopywriting.com/) is a content
 marketing agency that develops content and content marketing strategies
@@ -312,7 +312,7 @@ reveal everything about the event - the good, bad, and ugly.
 
 *Formula: The Good, Bad, and Ugly of [Event]*
 
-[![talent-circles-email-subject-lines](http://expresspigeon.com/blog/wp-content/uploads/2014/08/talent-circles-email-subject-lines.png)](http://expresspigeon.com/blog/wp-content/uploads/2014/08/talent-circles-email-subject-lines.png)
+[![talent-circles-email-subject-lines](/blog/wp-content/uploads/2014/08/talent-circles-email-subject-lines.png)](/blog/wp-content/uploads/2014/08/talent-circles-email-subject-lines.png)
 
 [TalentCircles](http://talentcircles.com/) is a cloud-based social
 recruiting platform that helps customers engage, manage, and screen job
@@ -351,7 +351,7 @@ job responsibility (branding campaign).
 *Subject Line Formula: [\#] Ways To Add [Something] To Your [Job
 Responsibility] Campaign*
 
-[![copywrite-matters-email-subject-lines](http://expresspigeon.com/blog/wp-content/uploads/2014/08/copywrite-matters-email-subject-lines.png)](http://expresspigeon.com/blog/wp-content/uploads/2014/08/copywrite-matters-email-subject-lines.png)
+[![copywrite-matters-email-subject-lines](/blog/wp-content/uploads/2014/08/copywrite-matters-email-subject-lines.png)](/blog/wp-content/uploads/2014/08/copywrite-matters-email-subject-lines.png)
 
 [Copywrite Matters](http://www.copywritematters.com.au/) is an
 educational blog and copywriting company that helps its customers and
@@ -390,7 +390,7 @@ work.
 *Subject Line Formula: Why [Job Responsibility] will never really work
 for you unless…*
 
-[![audience-bloom-email-subject-lines](http://expresspigeon.com/blog/wp-content/uploads/2014/08/audience-bloom-email-subject-lines.png)](http://expresspigeon.com/blog/wp-content/uploads/2014/08/audience-bloom-email-subject-lines.png)
+[![audience-bloom-email-subject-lines](/blog/wp-content/uploads/2014/08/audience-bloom-email-subject-lines.png)](/blog/wp-content/uploads/2014/08/audience-bloom-email-subject-lines.png)
 
 [AudienceBloom](http://www.audiencebloom.com/) is a content marketing
 and social media marketing company recommended by some of the top
@@ -403,7 +403,7 @@ differentiated by issue number or date. It looks like this:
 If you send a recurring newsletter, this approach could work for you.
 Your audience will know how to find you and what to expect.
 
-[![kim-garst-email-subject-lines](http://expresspigeon.com/blog/wp-content/uploads/2014/08/kim-garst-email-subject-lines.png)](http://expresspigeon.com/blog/wp-content/uploads/2014/08/kim-garst-email-subject-lines.png)
+[![kim-garst-email-subject-lines](/blog/wp-content/uploads/2014/08/kim-garst-email-subject-lines.png)](/blog/wp-content/uploads/2014/08/kim-garst-email-subject-lines.png)
 
 [Kim Garst](http://kimgarst.com/) in the Founder and CEO of a personal
 branding and social media consulting company called Boom! Social.
@@ -438,7 +438,7 @@ the right question, they will probably want your help.
 
 *Subject Line Formula: [Something Important To Audience] Dead?*
 
-[![conversion-scientist-email-subject-lines](http://expresspigeon.com/blog/wp-content/uploads/2014/08/conversion-scientist-email-subject-lines.png)](http://expresspigeon.com/blog/wp-content/uploads/2014/08/conversion-scientist-email-subject-lines.png)
+[![conversion-scientist-email-subject-lines](/blog/wp-content/uploads/2014/08/conversion-scientist-email-subject-lines.png)](/blog/wp-content/uploads/2014/08/conversion-scientist-email-subject-lines.png)
 
 [The Conversion Scientist](http://conversionscientist.com/) is a website
 conversion optimization blog that helps its audience build
@@ -463,7 +463,7 @@ Conversion Scientist shared this note:
 try using a headline from a story within the email for the subject line
 instead of the same subject line every email.
 
-[![email-monday-email-subject-lines](http://expresspigeon.com/blog/wp-content/uploads/2014/08/email-monday-email-subject-lines.png)](http://expresspigeon.com/blog/wp-content/uploads/2014/08/email-monday-email-subject-lines.png)
+[![email-monday-email-subject-lines](/blog/wp-content/uploads/2014/08/email-monday-email-subject-lines.png)](/blog/wp-content/uploads/2014/08/email-monday-email-subject-lines.png)
 
 Email Monday is an email marketing consulting company and email
 marketing blog run by email marketing expert Jordi Van Rijn.
@@ -502,7 +502,7 @@ connects to your email content.
 
 *Subject Line Formula: $[dollar value]*
 
-[![simple-relevance-email-subject-lines](http://expresspigeon.com/blog/wp-content/uploads/2014/08/simple-relevance-email-subject-lines.png)](http://expresspigeon.com/blog/wp-content/uploads/2014/08/simple-relevance-email-subject-lines.png)[SimpleRelevance](https://www.simplerelevance.com/)
+[![simple-relevance-email-subject-lines](/blog/wp-content/uploads/2014/08/simple-relevance-email-subject-lines.png)](/blog/wp-content/uploads/2014/08/simple-relevance-email-subject-lines.png)[SimpleRelevance](https://www.simplerelevance.com/)
 is a technology company that helps businesses send deeply personalized
 email and web marketing campaigns.
 
@@ -524,7 +524,7 @@ Personalization can make a huge difference when sending email. If your
 audience has a personal connection to the subject line, it gives them
 more incentive to read your email.
 
-[![big-marker-email-subject-lines](http://expresspigeon.com/blog/wp-content/uploads/2014/08/big-marker-email-subject-lines.png)](http://expresspigeon.com/blog/wp-content/uploads/2014/08/big-marker-email-subject-lines.png)
+[![big-marker-email-subject-lines](/blog/wp-content/uploads/2014/08/big-marker-email-subject-lines.png)](/blog/wp-content/uploads/2014/08/big-marker-email-subject-lines.png)
 
 [BigMarker](https://www.bigmarker.com/) is an online platform that
 allows users to create, join, and host unlimited free webinars and web
@@ -555,7 +555,7 @@ it easy for them to take action.
 
 *Subject Line Formula: Now featured on [Website Name]*
 
-[![glen-gilmore-email-subject-lines](http://expresspigeon.com/blog/wp-content/uploads/2014/08/glen-gilmore-email-subject-lines.png)](http://expresspigeon.com/blog/wp-content/uploads/2014/08/glen-gilmore-email-subject-lines.png)
+[![glen-gilmore-email-subject-lines](/blog/wp-content/uploads/2014/08/glen-gilmore-email-subject-lines.png)](/blog/wp-content/uploads/2014/08/glen-gilmore-email-subject-lines.png)
 
 [Glen Gilmore](http://www.glengilmore.com/) is a digital marketing and
 social media strategist, author, educator and attorney voted as a Forbes
@@ -590,7 +590,7 @@ is so descriptive that it makes you want more.
 *Subject Line Formula: A Human [Something] Still Triumph in a
 [Something] World*
 
-[![biz-sugar-email-subject-lines](http://expresspigeon.com/blog/wp-content/uploads/2014/08/biz-sugar-email-subject-lines.png)](http://expresspigeon.com/blog/wp-content/uploads/2014/08/biz-sugar-email-subject-lines.png)
+[![biz-sugar-email-subject-lines](/blog/wp-content/uploads/2014/08/biz-sugar-email-subject-lines.png)](/blog/wp-content/uploads/2014/08/biz-sugar-email-subject-lines.png)
 
 [BizSugar](http://www.bizsugar.com/) is a social bookmarking site where
 small business owners and entrepreneurs share and find content about
@@ -623,7 +623,7 @@ something more engaging.
 
 *Subject Line Formula: Get [Some Kind Of] Fit With These [\#] Tips!*
 
-[![dma-email-subject-lines](http://expresspigeon.com/blog/wp-content/uploads/2014/08/dma-email-subject-lines.png)](http://expresspigeon.com/blog/wp-content/uploads/2014/08/dma-email-subject-lines.png)
+[![dma-email-subject-lines](/blog/wp-content/uploads/2014/08/dma-email-subject-lines.png)](/blog/wp-content/uploads/2014/08/dma-email-subject-lines.png)
 
 [DMA](http://thedma.org/) is the world’s leading independent
 organization for data-driven marketers.
@@ -659,7 +659,7 @@ with the audience.
 *Subject Line Formula: [Event Location], [Emotional Pop Reference To
 Event Location] | Register Today*
 
-[![some-connect-email-subject-lines](http://expresspigeon.com/blog/wp-content/uploads/2014/08/some-connect-email-subject-lines.png)](http://expresspigeon.com/blog/wp-content/uploads/2014/08/some-connect-email-subject-lines.png)
+[![some-connect-email-subject-lines](/blog/wp-content/uploads/2014/08/some-connect-email-subject-lines.png)](/blog/wp-content/uploads/2014/08/some-connect-email-subject-lines.png)
 
 [SoMeConnect](http://www.someconnect.com/) is a Chicago-based digital
 agency that offers content, social, and email strategy and campaign
