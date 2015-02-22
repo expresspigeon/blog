@@ -3,7 +3,7 @@ over the past few weeks, and I felt compelled to join the conversation.
 I had a couple spare minutes over the weekend and fished this out of my
 SPAM folder:
 
-![Meet the new inbox](/blog/images/2013/Selection_999403.png "Meet the new inbox")
+![](/blog/images/2013/Selection_999403.png )
 
 Yes, it's true, Google sent their own product email to my Google for
 Apps SPAM folder! Something is up with their SPAM filter, but let me get
@@ -18,7 +18,7 @@ subscriptions. It seems like a logical addition to the Gmail platform
 but the change has marketers and small business owners showing signs of
 concern, with some fearing “the death of email marketing” :)
 
-####How might tabs hurt [email marketing](http://expresspigeon.com)?
+### How might tabs hurt [email marketing](http://expresspigeon.com)?
 
 *You are now “Promotional”*.
 

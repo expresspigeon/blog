@@ -1,5 +1,3 @@
-Why am I getting my campaign from ExpressPigeon, and not from me?
------------------------------------------------------------------
 
 Customers sometimes ask:
 

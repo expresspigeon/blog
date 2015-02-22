@@ -43,7 +43,7 @@ really interested, and you have permission to send messages to that
 email address.
 
 ExpressPigeon uses a double-opt system that makes it easy for you to
-build lists. All you have to do is to create a new subscription form
+build lists. All you have to do is to create a new [subscription form](/blog/2013/11/18/custom-email-subscription-form/)
 and embed it into your website. When customers visiting your site becomes
 so excited with your information, they will happily provide their email
 addresses on the subscription form to keep it coming. When they submit

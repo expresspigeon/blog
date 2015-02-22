@@ -1,7 +1,5 @@
 
-[![ExpressPigeon](/blog/images/2013/colours_l.jpeg "ExpressPigeon")](http://foter.com/re/ce0df5)
-:   [Camdiluv ♥](http://www.flickr.com/photos/camdiluv/4441155157/) /
-    [Foter.com](http://foter.com/) / [CC BY-SA](http://creativecommons.org/licenses/by-sa/2.0/)
+![](/blog/images/2013/colours_l.jpeg)
 
 Our team here at ExpressPigeon understands the massive potential that
 email marketing has to help you grow your business and build meaningful

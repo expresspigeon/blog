@@ -46,7 +46,7 @@ this  will present a problem. Lets say your link looks like this:
 
 
 
-After we sent it to your recipients, it will have an `href` attribute
+After we sent it to your recipients, it will have an **href** attribute
 replaced:  
 
 `<a href='http://worker.expresspigeon.com/click?v=kz7...'>http://yourwebsite.com</a>`

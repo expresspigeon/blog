@@ -12,7 +12,7 @@ really that easy, I guarantee
 Speaking of easy, if you don't like the column width, simply adjust them
 by dragging to your desired width.
 
-##Here's how to start an [email newsletter](https://expresspigeon.com/gallery) with an Express Pigeon template:
+##Here's how to start an with an one of our templates:
 
 
 ​1. Login to your Express Pigeon account.  *Don't have one?* [Sign up
@@ -25,9 +25,6 @@ for Free!](https://expresspigeon.com/access/registration)
 Now all you need to do is make your change, add your news and prepare to
 send!  How cool is that.
 
-![Newsletters Gallery](/blog/images/2012/expresspigeonc2a0e28094c2a0newsletters-gallery-2.jpg "ewsletters Gallery")
+![](/blog/images/2012/expresspigeonc2a0e28094c2a0newsletters-gallery-2.jpg)
 
 
-
-**This is my favorite [email template](https://expresspigeon.com/gallery) from
-the gallery. Tell us yours or feel free to make a suggestion.**

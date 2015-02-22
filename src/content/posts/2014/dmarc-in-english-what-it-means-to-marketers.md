@@ -1,16 +1,18 @@
-[![dmarc](http://blog.expresspigeon.com/wp-content/uploads/2014/06/dmarc1.png)](http://blog.expresspigeon.com/wp-content/uploads/2014/06/dmarc1.png)
+![](/blog/images/2014/dmarc1.png)
+
+
 [DMARC](http://en.wikipedia.org/wiki/DMARC "DMARC") stands for
 *Domain-based Message Authentication, Reporting and Conformance* and it
 is yet another technology trick ISPs and ESPs use to ward off SPAM in
 addition to
-[SPF](http://blog.expresspigeon.com/2012/01/18/spf-in-plain-english-and-a-few-internet-terms/ "SPF in plain English")
+[SPF](/blog/2012/01/18/spf-in-plain-english-and-a-few-internet-terms/ "SPF in plain English")
 and
-[DKIM](http://blog.expresspigeon.com/2012/04/18/dkim-in-plain-english-and-a-few-internet-terms/ "DKIM in plain English").
+[DKIM](/blog/2012/04/18/dkim-in-plain-english-and-a-few-internet-terms/ "DKIM in plain English").
 DMARC is a configuration of a domain record that tells the receiving
 computer what to do with messages if they are coming from a computer
 with a different domain compared to the one specified on the "Reply To"
 field. For instance, at
-[ExpressPigeon](http://expresspigeon.com "ExpressPigeon") we configured
+[](http://expresspigeon.com ) we configured
 our DMARC policies such that if someone else sends an email from their
 computer (which cannot have our domain), but set the Reply To as:
 "jack.the.intruder@expresspigeon.com", then the accepting computer
@@ -25,8 +27,7 @@ followed the path after
 Yahoo!](http://postmaster-blog.aol.com/2014/04/22/aol-mail-updates-dmarc-policy-to-reject/),
 which means you also cannot use AOL-based return addresses.
 
-How does DMARC affect email marketers?
-======================================
+## How does DMARC affect email marketers?
 
 If you are sending emails from our servers (or if you are using any
 other ESP), and you use your personal Yahoo! (or AOL) email as a "Reply
@@ -40,8 +41,7 @@ not hold my feet to the fire:)). Instead of sending from
 miketheblogger@yahoo.com, you will have to switch to
 mike@miketheblogger.com to solve this problem.
 
-Bottom Line
-===========
+## Bottom Line
 
 If you are sending mass email on behalf of your company, use your
 corporate email for this. If you are a blogger, and represent yourself

@@ -6,8 +6,3 @@ above content and on blog posts and/or pages. With easy installation and
 customization, the WWSGD is a great way to drive attention to your email
 newsletter.
 
-###Build Your Email List With The WWSGD Plugin
-
-
-1.  **Build your ExpressPigeon subscription form.** Learn how
-    here.

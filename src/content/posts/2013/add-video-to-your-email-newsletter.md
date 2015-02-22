@@ -23,11 +23,11 @@ to your newsletter.*
 1.  **Open Video Widget.** In design mode, click on "Widgets" and select
     "Video".  
 
-    ![ExpressPigeon](/blog/images/2013/Screen-Shot-2013-11-15-at-3.04.31-PM.png "ExpressPigeon")
+    ![](/blog/images/2013/Screen-Shot-2013-11-15-at-3.04.31-PM.png)
 
 2.  **Add video link.** Copy & paste link of YouTube video and click
     "Save".
-    ![ExpressPigeon](/blog/images/2013/Screen-Shot-2013-11-15-at-1.13.08-PM.png "ExpressPigeon")
+    ![](/blog/images/2013/Screen-Shot-2013-11-15-at-1.13.08-PM.png)
 
 3.  **Make final edits & send.** You can easily drag and drop your video
     within the section you are editing in your newsletter. You can
@@ -35,18 +35,17 @@ to your newsletter.*
     with video location, you are ready to send your newsletter!
     customize formatting.  
 
-    ![ExpressPigeon](/blog/images/2013/Screen-Shot-2013-11-15-at-1.15.57-PM.png "ExpressPigeon")
+    ![](/blog/images/2013/Screen-Shot-2013-11-15-at-1.15.57-PM.png)
 
 When a subscriber opens the newsletter, he or she will see the video
 where you placed it (with a large play icon at the center of the video).
 Clicking the video takes the user to a new window and the video plays
-automatically. See here:
-![ExpressPigeon](/blog/images/2013/Screen-Shot-2013-11-15-at-3.37.30-PM.png "ExpressPigeon")
+automatically.
 
 
-*Note: When you "Quick Send" a newsletter, the video link will not work
-because we do not generate a new page for every test email. It will only
-go LIVE when you "Send or Schedule".*
+> Note: When you "Quick Send" a newsletter, the video link will not work
+> because we do not generate a new page for every test email. It will only
+> go LIVE when you "Send or Schedule".*
 
 Adding videos that actually play is essential to a successful email
 campaign. We hope you enjoy painlessly embedding YouTube videos into

@@ -30,12 +30,12 @@ Our email marketing platform allows you to configure the From and Reply
 To addresses per list, and also allows to override that when you
 actually send. Each list has properties tab, where you can configure:
 
-[![list\_properies](http://blog.expresspigeon.com/wp-content/uploads/2014/03/list_properies.png)](http://blog.expresspigeon.com/wp-content/uploads/2014/03/list_properies.png)
+![](/blog/images/2014/list_properies.png)
 
 When you are sending to such a list, we will grab "From" and "Reply to"
 from its configuration. However, you can still change it at the last
 moment on a campaign send page:
 
-[![campaign\_prepare](http://blog.expresspigeon.com/wp-content/uploads/2014/03/campaign_prepare.png)](http://blog.expresspigeon.com/wp-content/uploads/2014/03/campaign_prepare.png)
+![](/blog/images/2014/campaign_prepare.png)
 
 Happy emailin' :)

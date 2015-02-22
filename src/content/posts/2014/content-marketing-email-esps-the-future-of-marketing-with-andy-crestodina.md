@@ -1,4 +1,6 @@
-![andycrestodina](http://blog.expresspigeon.com/wp-content/uploads/2014/05/andycrestodina.jpg)
+
+![](/blog/images/2014/andycrestodina.jpg)
+
 I recently interviewed Andy Crestodina to give you a look inside the
 mind of a content marketing genius. Andy is co-founder of [Orbit
 Media](http://orbitmedia.com), author of *Content Chemistry,* and a
@@ -9,8 +11,7 @@ in...
 
 * * * * *
 
-**Content Marketing**
-=====================
+## Content Marketing
 
 **Some businesses don't have resources to develop a full-blown content
 marketing program. What are the most essential ingredients to content
@@ -38,8 +39,7 @@ you’re not being helpful to your audience with great information,
 promoted well, don’t be surprised if you become less relevant over time
 and your competitors emerge as influencers of your audience.
 
-**Email Marketing**
-===================
+## Email Marketing
 
 **Why does email play such an important role in content marketing?**
 Email is possibly the most important content promotion tool there is.
@@ -64,8 +64,7 @@ and social media, email is one of the [three main website traffic
 sources](http://www.orbitmedia.com/blog/website-traffic-sources/). How
 could we ignore it?!
 
-**Email Service Providers**
-===========================
+## Email Service Providers
 
 **In your book [Content
 Chemistry](http://www.orbitmedia.com/content-chemistry), you mention
@@ -94,8 +93,7 @@ best I’ve ever seen. **Since flying with ExpressPigeon, has your email
 marketing process changed?** The time is takes to manage our email
 program has gone down. Deliverability is as good as it ever was.
 
-**The Future Of Marketing**
-===========================
+The Future Of Marketing
 
 **In Content Chemistry you talk about the history and evolution of
 marketing. How do you see marketing evolving over the next five years?
@@ -105,7 +103,7 @@ camps: those that produce more detailed, practical, honest content, and
 those that produce content is higher quality formats, videos, events and
 podcasts. Of course, both of these work beautifully with email. Every
 serious marketer I know is aggressively [growing their email
-list](http://blog.expresspigeon.com/2014/05/18/101-ways-to-grow-your-email-list/).
+list](/blog/2014/05/18/101-ways-to-grow-your-email-list/).
 It’s the main factor in long-term growth. If you do everything else
 right, but leave out email marketing, you’ll have to work much harder
 for much longer to get the same results... *You can follow and connect
