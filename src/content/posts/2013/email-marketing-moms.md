@@ -46,7 +46,7 @@ making money with sending email. Modern moms know it's not easy, but
 they do it anyways.
 
 ![ExpressPigeon](/blog/images/2013/n-a-1871_l.jpg "ExpressPigeon")
-[John Althouse Cohen](http://www.flickr.com/photos/johncohen/10451837/) / [Foter](http://foter.com/) / [CC BY-ND](http://creativecommons.org/licenses/by-nd/2.0/)
+:[John Althouse Cohen](http://www.flickr.com/photos/johncohen/10451837/) / [Foter](http://foter.com/) / [CC BY-ND](http://creativecommons.org/licenses/by-nd/2.0/)
 
 **4. often give away awesome stuff.** We are always looking for the
 "right" way to give away free stuff. Doesn't everybody love free? :)
@@ -60,7 +60,7 @@ voice, and modern moms are so themselves, it's scary (sometimes). We can
 certainly learn from this.
 
 ![ExpressPigeon](/blog/images/2013/w600_3.jpeg "ExpressPigeon")
- [Angel Xavier Viera](http://www.flickr.com/photos/xavierito/9583155521/) / [Foter](http://foter.com/) / [CC BY-ND](http://creativecommons.org/licenses/by-nd/2.0/)
+: [Angel Xavier Viera](http://www.flickr.com/photos/xavierito/9583155521/) / [Foter](http://foter.com/) / [CC BY-ND](http://creativecommons.org/licenses/by-nd/2.0/)
 
 **7. are fearless.** Modern moms exude an extra "umph", a fire, that
 gives them the confidence to be real and test out crazy marketing ideas.

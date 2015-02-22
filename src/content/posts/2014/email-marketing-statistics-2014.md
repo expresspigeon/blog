@@ -56,19 +56,17 @@ takeaways you need to know in 2014. Happy marketing! :)
     marketing responsibilities usually fall on one person as a part of
     her wider range of marketing responsibilities. [tweet this](http://ctt.ec/8oK6r)
 
-**Takeaway**:
+**Takeaway**: *Develop an email marketing plan for 2014 that's fully
+integrated into your overall marketing mix. Create an email marketing
+calendar and [sign up with an](https://expresspigeon.com/plans_and_pricing) [email service provider](https://expresspigeon.com/plans_and_pricing) like
+[ExpressPigeon](https://expresspigeon.com/) that allows for integration with your current systems
+and technologies. Tap into your ESP's potential by exploring
+autoresponders, transactional email, custom integration, deep
+segmentation, and data collection & analysis. Consider developing an
+automated email campaign so you can do more work upfront and focus on
+other marketing to-dos in the future.*
 
-> Develop an email marketing plan for 2014 that's fully
-> integrated into your overall marketing mix. Create an email marketing
-> calendar and [sign up with an](https://expresspigeon.com/plans_and_pricing) [email service provider](https://expresspigeon.com/plans_and_pricing) like
-> [ExpressPigeon](https://expresspigeon.com/) that allows for integration with your current systems
-> and technologies. Tap into your ESP's potential by exploring
-> autoresponders, transactional email, custom integration, deep
-> segmentation, and data collection & analysis. Consider developing an
-> automated email campaign so you can do more work upfront and focus on
-> other marketing to-dos in the future.
-
-## MOBILE
+##MOBILE
 
 1.  Email is the most popular activity on smartphones among users ages
     18-44. [tweet this](http://ctt.ec/fcQe3)
@@ -81,16 +79,14 @@ takeaways you need to know in 2014. Happy marketing! :)
 5.  32% of marketers do not have a strategy in place to optimize emails
     for mobile devices. [tweet this](http://ctt.ec/OKsdT).
 
-**Takeaway**:
+**Takeaway**: *Mobile is the future of email marketing. Be sure to keep
+mobile at the center of your email marketing plan for 2014. Begin by
+signing up for a mobile-friendly email service provider like
+ExpressPigeon. Make sure links in your emails are directed to responsive
+pages where readers can continue to engage via mobile. Subject lines are
+more important than ever.*
 
-> Mobile is the future of email marketing. Be sure to keep
-> mobile at the center of your email marketing plan for 2014. Begin by
-> signing up for a mobile-friendly email service provider like
-> ExpressPigeon. Make sure links in your emails are directed to responsive
-> pages where readers can continue to engage via mobile. Subject lines are
-> more important than ever.
-
-## SALES
+##SALES
 
 1.  66% of US online consumers, ages 15 and up made a purchase as a
     result of email marketing messages. [tweet this](http://ctt.ec/wJ8Ee)
@@ -99,14 +95,12 @@ takeaways you need to know in 2014. Happy marketing! :)
 3.  Over half of businesses achieve over 10% of total sales through
     email marketing. [tweet this](http://ctt.ec/23PuG)
 
-**Takeaway**:
-
-> Email marketing is a powerful sales channel. If you're an
-> e-retailer, consider connecting with our transactional email service and
-> don't sleep on abandoned cart emails.
+**Takeaway**: *Email marketing is a powerful sales channel. If you're an
+e-retailer, consider connecting with our transactional email service and
+don't sleep on abandoned cart emails.*
 
 
-## SUBJECT LINE
+##SUBJECT LINE
 
 1.  Nearly one third of email recipients open email based on subject
     line alone. [tweet this](http://ctt.ec/z9woa)
@@ -125,16 +119,13 @@ takeaways you need to know in 2014. Happy marketing! :)
 5.  Using the words "Sale" or "New" or "Video" in subject lines boost
     open and click-through rates. [tweet this](http://ctt.ec/bw94e)
 
-**Takeaway**:
+**Takeaway**: *The key to higher opens and click-through rates is
+consistency (daily or weekly), urgency (alert, news, bulletin), and
+special offerings (sale, new, video). Don't get sucked into using crazy
+subject lines unless they deliver as promised. Run [A/B Split Tests](blog.expresspigeon.com/2013/03/28/apples-vs-oranges-nah-email-ab-split-test/)
+for subject lines when sending emails (easy with us).*
 
-> The key to higher opens and click-through rates is
-> consistency (daily or weekly), urgency (alert, news, bulletin), and
-> special offerings (sale, new, video). Don't get sucked into using crazy
-> subject lines unless they deliver as promised. Run
-> [A/B Split Tests](/blog/2013/03/28/apples-vs-oranges-nah-email-ab-split-test/)
-> for subject lines when sending emails (easy with us).
-
-## LIST & DELIVERABILITY
+##LIST & DELIVERABILITY
 
 1.  Almost half of subscribers are inactive on an email list. [tweet
     this](http://ctt.ec/M_4C0)
@@ -150,12 +141,10 @@ takeaways you need to know in 2014. Happy marketing! :)
 6.  Less than 1 in 2000 subscribers mark an email as SPAM. [tweet
     this](http://ctt.ec/z6G0S)
 
-**Takeaway**:
+**Takeaway**: *Clean out your email list every few months and avoid
+sending on weekends. When selecting [email marketing software](https://expresspigeon.com/), make sure deliverability is solid.*
 
-> Clean out your email list every few months and avoid
-> sending on weekends. When selecting [email marketing software](https://expresspigeon.com/), make sure deliverability is solid.
-
-## TESTING & OPTIMIZATION
+##TESTING & OPTIMIZATION
 
 1.  Design & content is the most time-consuming email activity for
     marketers and it is taking away from spending time on testing &
@@ -163,16 +152,14 @@ takeaways you need to know in 2014. Happy marketing! :)
 2.  17% of marketers are not tracking email marketing metrics for their
     organizations. [tweet this](http://ctt.ec/fLtwp)
 
-**Takeaway**:
-
-> Consider using [email marketing tools](https://expresspigeon.com/) by ExpressPigeon to spend less time designing and more time on
-> testing & optimization. [Technori](http://technori.com/) Founder, Seth Kravitz says, "I used
-> to take about 30 to 45 minutes to prep and send one email and with
-> ExpressPigeon I would say it's maybe 10 minutes or less."
+**Takeaway**: *Consider using [email marketing tools](https://expresspigeon.com/) by ExpressPigeon to spend less time designing and more time on
+testing & optimization. [Technori](http://technori.com/) Founder, Seth Kravitz says, "I used
+to take about 30 to 45 minutes to prep and send one email and with
+ExpressPigeon I would say it's maybe 10 minutes or less."*
 
 <iframe style="border: 1px solid #CCC; border-width: 1px 1px 0; margin-bottom: 5px;" src="http://www.slideshare.net/slideshow/embed_code/29739114?rel=0" height="486" width="597" allowfullscreen frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 
-## SOURCES:
+##SOURCES:
 
 1.  Hubspot. (2013, December 5). 18
     Email Marketing Stats That'll Make You Better at Your Job. Retrieved
