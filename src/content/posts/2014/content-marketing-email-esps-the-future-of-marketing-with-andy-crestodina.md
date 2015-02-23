@@ -1,6 +1,10 @@
 
-![](/blog/images/2014/andycrestodina.jpg)
+<div style="margin-bottom:40px">
 
+<img   style="margin-top:0; margin-right:20px" align="left" src="/blog/images/2014/andycrestodina.jpg" width="148" height="148">
+
+
+<p>
 I recently interviewed Andy Crestodina to give you a look inside the
 mind of a content marketing genius. Andy is co-founder of [Orbit
 Media](http://orbitmedia.com), author of *Content Chemistry,* and a
@@ -9,13 +13,21 @@ shares his thoughts on a variety of topics including content marketing,
 email marketing, ESPs, and the future of marketing. Let's jump right
 in...
 
-* * * * *
+</p>
+</div>
+
+-----
+
+
+
 
 ## Content Marketing
 
 **Some businesses don't have resources to develop a full-blown content
 marketing program. What are the most essential ingredients to content
-marketing success?** When you break it down, content marketing comes
+marketing success?**
+
+When you break it down, content marketing comes
 down to just a few things.
 
 1.  Creating something useful that answers questions your audience is
@@ -42,6 +54,8 @@ and your competitors emerge as influencers of your audience.
 ## Email Marketing
 
 **Why does email play such an important role in content marketing?**
+
+
 Email is possibly the most important content promotion tool there is.
 There’s a saying among social media marketers: “Don’t Build on Rented
 Land.” It means that not everything in your marketing is owned by you.
@@ -50,9 +64,13 @@ website, your content and your email list. That’s one big reason email
 is important. There are others: virtually everyone uses email. Email is
 permission based. Email is easily measured. Email is the number one
 method for sharing content. Email marketing is absolutely critical in
-content marketing. **You run a thriving email program at your web design
+content marketing.
+
+**You run a thriving email program at your web design
 and development company, Orbit Media. Why is email marketing important
-for your business?** People need a new website once every 3-5 years. If
+for your business?**
+
+People need a new website once every 3-5 years. If
 we have a great conversation with someone who doesn’t need us at the
 moment, we need an efficient way to keep in touch with them for the next
 several years. Email is the answer. It’s an autopilot mechanism for
@@ -70,8 +88,9 @@ could we ignore it?!
 Chemistry](http://www.orbitmedia.com/content-chemistry), you mention
 that an [email service provider](http://expresspigeon.com) is one of
 five essential tools for content marketing. What characteristics should
-you focus on when selecting an ESP for your business?** Here are some of
-the big criteria for selecting an ESP:
+you focus on when selecting an ESP for your business?**
+
+Here are some of the big criteria for selecting an ESP:
 
 1.  Deliverability: It should be 99% or close to it.
 2.  Easy Setup: The first time you setup your email template, it
@@ -86,19 +105,26 @@ the big criteria for selecting an ESP:
     nice when help is available.
 
 **You left Mailchimp over a year ago for ExpressPigeon. Why the
-switch?** We took a close look at
+switch?**
+
+We took a close look at
 [ExpressPigeon](http://expresspigeon.com) and knew right away it would
 be an easy switch. The tools for creating and managing emails are the
-best I’ve ever seen. **Since flying with ExpressPigeon, has your email
-marketing process changed?** The time is takes to manage our email
+best I’ve ever seen.
+
+**Since flying with ExpressPigeon, has your email
+marketing process changed?**
+
+The time is takes to manage our email
 program has gone down. Deliverability is as good as it ever was.
 
-The Future Of Marketing
+## The Future Of Marketing
 
 **In Content Chemistry you talk about the history and evolution of
 marketing. How do you see marketing evolving over the next five years?
-How do you see email marketing and content marketing in the mix?** Lots
-of niches are getting more crowded, so the winners will be mostly in two
+How do you see email marketing and content marketing in the mix?**
+
+Lots of niches are getting more crowded, so the winners will be mostly in two
 camps: those that produce more detailed, practical, honest content, and
 those that produce content is higher quality formats, videos, events and
 podcasts. Of course, both of these work beautifully with email. Every
@@ -106,9 +132,11 @@ serious marketer I know is aggressively [growing their email
 list](/blog/2014/05/18/101-ways-to-grow-your-email-list/).
 It’s the main factor in long-term growth. If you do everything else
 right, but leave out email marketing, you’ll have to work much harder
-for much longer to get the same results... *You can follow and connect
-with Andy on [Twitter](https://twitter.com/crestodina),
+for much longer to get the same results...
+
+
+You can follow and connect with Andy on [Twitter](https://twitter.com/crestodina),
 [LinkedIn](https://www.linkedin.com/profile/view?id=2583444), and
 [Google+](https://plus.google.com/+AndyCrestodina). Be sure to sign up
 for his bi-weekly web marketing newsletter on [Orbit
-Media](http://www.orbitmedia.com/blog/).*
+Media](http://www.orbitmedia.com/blog/).
