@@ -2,10 +2,10 @@ One of the most important email marketing best practices is to write a
 good subject line. After all, your subscribers have a short attention
 span and will spend no more than 2 seconds to decide if they want to
 open your email or send it to the trash. However, sometimes the limited
-space of the subject isn't enough to entice your customer to open the
+space of the subject isn&apos;t enough to entice your customer to open the
 email: Enter the **Teaser Line**.
 
-Once email providers recognized the subject wasn't enough information to
+Once email providers recognized the subject wasn&apos;t enough information to
 encourage opens, they augmented their software to display additional
 content from the email.
 
@@ -31,7 +31,7 @@ Here are some examples of how teasers lines look in an inbox:
 The Teaser appears to the right of the subject and should entice your reader to open the newsletter.
 
 The teaser is another opportunity for email marketers to be creative in
-drawing readers into their emails. It's always smart to send a test
+drawing readers into their emails. It&apos;s always smart to send a test
 email to yourself to see how the subject and teaser flow before sending
 your email.
 
@@ -40,7 +40,7 @@ your email.
 
 * Make or break your reader from clicking on the email
 
-If it's not enticing, or restates the subject, you're not making the
+If it&apos;s not enticing, or restates the subject, you&apos;re not making the
 teaser work for you.
 
 
@@ -57,12 +57,12 @@ more.
 
 * Improve your open rate by giving just a little more info
 
-**A Teaser Can't**
+**A Teaser Can&apos;t**
 
 * Make up for bad content in the rest of the newsletter
 
 
-Just because your teaser is enticing, doesn't mean you can slack on the
+Just because your teaser is enticing, doesn&apos;t mean you can slack on the
 rest of the newsletter. Make sure to supply exciting content that keeps
 the reader clicking.
 
@@ -74,7 +74,7 @@ something is a quick way to get an “unsubscribe”.
 
 * Have a misspelling
 
-Yeah, first impressions matter. Don't look like the first kid sent home
+Yeah, first impressions matter. Don&apos;t look like the first kid sent home
 in the spelling bee.
 
 * Sound spammy

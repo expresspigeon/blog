@@ -6,7 +6,7 @@ barely ever notice them. But like all things designed by humans, spam
 filters are not perfect. The reason we love them as subscribers is the
 same reason we hate them as senders; they are very protective of the
 inbox. And for all of the good they do, we usually only notice them when
-they block our email campaigns. It's painful to see our hard work end up
+they block our email campaigns. It&apos;s painful to see our hard work end up
 in the spam folder. We all want our email to get delivered. To get past
 spam filters you must first understand what they do.
 
@@ -32,7 +32,7 @@ generally they consider:
 -   Ratio of images to text and links to text
 -   Inclusion of text version of email
 
-This isn't even close to an exhaustive list of factors that spam filters
+This isn&apos;t even close to an exhaustive list of factors that spam filters
 consider, but these are likely the most important. The list of spam
 factors is growing, because spam filters track subscriber actions to
 become better at identifying spam. Spam filters track the following
@@ -55,10 +55,10 @@ that is unique for each email to every individual subscriber. Sound
 complicated? This simply means that the same email for two different
 people could be ranked differently. Spam for one, ham for another. Spam
 filters rely heavily on subscriber engagement to learn how to become
-better at identifying what is and isn't spam for each individual
+better at identifying what is and isn&apos;t spam for each individual
 subscriber. **How Spam Filters Deal With Spam** Spam filters use the
 spam score to determine what action to take next. An email with a
-passing score moves to the subscriber's inbox. If an email is flagged as
+passing score moves to the subscriber&apos;s inbox. If an email is flagged as
 spam, filters generally take one of the following actions:
 
 -   Send email to spam folder
@@ -74,7 +74,7 @@ It is impossible to guarantee that every opt-in email will make it to
 the inbox of each subscriber. However, there are steps we can take to
 give our email a good chance of reaching our audience.
 
-*Let's dive right in...*
+*Let&apos;s dive right in...*
 
 ## Tactic \#1: Produce quality email content.
 
@@ -85,18 +85,18 @@ you can expect healthy subscriber engagement. You also want to take care
 of the following:
 
 1.  **Clean coding.**Coding yourself is not for faint-hearted because it
-    is incredibly difficult to code email by yourself. If you don't want
-    to do it, use ExpressPigeon's drag-and-drop editor which produces
+    is incredibly difficult to code email by yourself. If you don&apos;t want
+    to do it, use ExpressPigeon&apos;s drag-and-drop editor which produces
     clean, 100% compatible code for you.
 2.  **Professional formatting.**CAPS LOCK, dozens of exclamation points,
     and wild colors should be avoided. BELIEVE ME!!!!!!!!!!!!!!!!
-3.  **Wise words.**Avoid spammy words and phrases. Don't mention getting
+3.  **Wise words.**Avoid spammy words and phrases. Don&apos;t mention getting
     rich quick or making tons of money or getting free everything today.
-4.  **Healthy linking.**Don't send emails with 40 links and minimal
+4.  **Healthy linking.**Don&apos;t send emails with 40 links and minimal
     text. This is a popular tactic by spammers. Keep a balanced text to
     link ratio.
-5.  **Balanced images.**Spammers often use images to send 'special
-    offers' because spam filters can't read them easily. Emails that
+5.  **Balanced images.**Spammers often use images to send &apos;special
+    offers&apos; because spam filters can&apos;t read them easily. Emails that
     contain a large image and very little text are often filtered as
     spam. Keep a balanced text to image ratio.
 
@@ -107,7 +107,7 @@ of the following:
 The CAN-SPAM Act
 is a US federal law passed in 2003 that sets the rules for commercial
 email. With fines as high as $16,000 for every email that violates the
-law, it's worth understanding. I'm not your lawyer, in fact I'm not a
+law, it&apos;s worth understanding. I&apos;m not your lawyer, in fact I&apos;m not a
 lawyer at all, but below are a few general tips on how to comply with
 the CAN-SPAM Act:
 
@@ -158,7 +158,7 @@ delivered.
 ## Tactic \#4: Grow your list ethically.
 
 Misleading or deceitful list-building tactics can crush your deliverability. Why? People who
-don't explicitly give you permission to receive your emails don't want
+don&apos;t explicitly give you permission to receive your emails don&apos;t want
 to hear from you. They are likely to mark your email as spam. A few
 examples of what not to do:
 
@@ -171,13 +171,13 @@ examples of what not to do:
     show giveaway do not necessarily want email from you. Be clear when
     collecting emails. There are healthy ways to [build an email list
     offline](/blog/2014/05/15/6-quick-tips-to-grow-your-email-list-offline/).
--   **Buy an email list.**It's a [really bad idea to purchase or rent an
+-   **Buy an email list.**It&apos;s a [really bad idea to purchase or rent an
     email
     list](/blog/2014/02/12/11-reasons-to-never-purchase-an-email-list/).
     Not only is it illegal and punishable by US law, it can crush your
     email marketing program and do long-term harm to your brand.
 -   **Scrape websites for email addresses.** It goes without saying that
-    this will only get you in trouble. Do this, and you'll probably end
+    this will only get you in trouble. Do this, and you&apos;ll probably end
     up on blacklists.
 
 To get past spam filters, you want to attract people who are truly
@@ -192,10 +192,10 @@ inspiration.
 
 ## Tactic \#6: Craft relevant and engaging subject lines.
 
-Spam filters and your audience don't want misleading subject lines. Make sure your
+Spam filters and your audience don&apos;t want misleading subject lines. Make sure your
 subject line engages subscribers and tells them what your email is
 really about. Avoid spammy phrases like "click here" or "open now" or
-"act today" or "limited offer". Also, don't use ALL CAPS or too many
+"act today" or "limited offer". Also, don&apos;t use ALL CAPS or too many
 numbers or special characters. Use our [teaser feature](/blog/2012/12/14/increase-email-open-rates-with-a-teaser-line/)
 to extend your subject line and entice people to open the email.
 
@@ -241,9 +241,9 @@ and send email from day one.
 
 ## Tactic \#11: Be consistent with send frequency.
 
-If you don't send
+If you don&apos;t send
 emails for long periods of time, and suddenly send, subscribers may
-forget about you and mark the email as spam. If you're sending too
+forget about you and mark the email as spam. If you&apos;re sending too
 often, subscribers may get irritated and ignore you completely. Finding
 the right frequency for your email program requires testing, but
 consistency is key. Once subscribers know how often you send, they
@@ -261,7 +261,7 @@ what it means to marketers](/blog/2014/06/11/dmarc-in-english-what-it-means-to-m
 
 ## Tactic \#13: Avoid spam traps.**
 
-If an email address hasn't been used
+If an email address hasn&apos;t been used
 in years, ISPs sometimes convert that email address into a spam trap,
 called a honeypot. You will never know if an email address is a spam
 trap. The best way to avoid spam traps is to never scrape websites or
@@ -273,7 +273,7 @@ six months to make sure you have a healthy, engaged list.
 
 ESPs advertise
 which IP addresses they send from. Reputable ESPs (like ExpressPigeon)
-track this themselves, so you don't have to worry about it. If you are
+track this themselves, so you don&apos;t have to worry about it. If you are
 sending from your own IP address, you can use tools like [MX
 Toolbox](http://mxtoolbox.com/) to verify and get alerted if your IP
 gets on a blacklist.
@@ -281,8 +281,8 @@ gets on a blacklist.
 
 ## Tactic \#15: Include a text version of your email.
 
-It's easier to hide shady call-to-actions in HTML than it is in text. Even if you know
-people are not opening up a text version of email, it's not a bad idea
+It&apos;s easier to hide shady call-to-actions in HTML than it is in text. Even if you know
+people are not opening up a text version of email, it&apos;s not a bad idea
 to include it. At ExpressPigeon, you can easily convert your HTML design
 to text. We offer a simple "Text Version" button that allows you to pull
 the text from our drag-and-drop editor. Nowadays, most spam filters are

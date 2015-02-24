@@ -1,5 +1,5 @@
 The world of e-mail is a treacherous one. Every day, millions of people
-receive unwanted SPAM, whether it's product information that they never
+receive unwanted SPAM, whether it&apos;s product information that they never
 requested, a bogus offer from a Nigerian prince, or something even
 worse!
 

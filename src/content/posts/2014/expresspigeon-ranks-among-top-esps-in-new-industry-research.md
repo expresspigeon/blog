@@ -1,4 +1,4 @@
-*According to reviews from 450 marketing professionals, ExpressPigeon's
+*According to reviews from 450 marketing professionals, ExpressPigeon&apos;s
 user satisfaction and feature ratings place it next to Mailchimp,
 Constant Contact, ExactTarget, and other industry-leading ESPs.*
 
@@ -7,7 +7,7 @@ Constant Contact, ExactTarget, and other industry-leading ESPs.*
 CHICAGO - April 10, 2014 - Innovative email service provider changing
 the way marketing email is prepared and sent, ExpressPigeon, was named
 one of the top email marketing software vendors on[G2
-Crowd's](http://www.g2crowd.com/) The Grid℠, a proprietary software
+Crowd&apos;s](http://www.g2crowd.com/) The Grid℠, a proprietary software
 recommendation engine. Nearly 450 marketing professionals reviewed their
 email marketing tools to provide user satisfaction and feature ratings.
 ExpressPigeon users ranked it among the highest in its category. In
@@ -21,7 +21,7 @@ products that are rated highly by users but have not achieved major
 market share. ExpressPigeon outperformed all other [email marketing
 tools](http://expresspigeon.com) in user rankings for ease of use, ease
 of setup, ease of admin, and ease of doing business with. In addition,
-ExpressPigeon users rated the platform's features highest among email
+ExpressPigeon users rated the platform&apos;s features highest among email
 marketing solutions.
 
 ExpressPigeon received the following scores from marketing
@@ -53,7 +53,7 @@ listening to customers and improving our platform,” said Igor Polevoy,
 President of ExpressPigeon. “Having used other ESPs while managing large
 IT projects, I did not have the best experience, and saw an opportunity
 to build something better. After spending more than two years developing
-our product, we’re excited to make it the most intuitive email marketing
+our product, we&apos;re excited to make it the most intuitive email marketing
 system. When we get [rave
 reviews](http://www.g2crowd.com/products/expresspigeon/reviews), I feel
 we are moving in the right direction.”
@@ -65,14 +65,14 @@ with predictive analytics
 engine,[SimpleRelevance](https://www.simplerelevance.com/), allows
 ExpressPigeon to offer its customers industry-leading personalized email
 content such as unique product recommendations, optimized deals, images
-that fit each customers’ preferences and more. It eliminates the need to
+that fit each customers&apos; preferences and more. It eliminates the need to
 manually segment because each email is specifically targeted to each
 customer.
 
 To learn more and view The Grid℠, go to G2 Crowd
 [here](http://www.g2crowd.com/).
 
-*According to reviews from 450 marketing professionals, ExpressPigeon's
+*According to reviews from 450 marketing professionals, ExpressPigeon&apos;s
 user satisfaction and feature ratings place it next to Mailchimp,
 Constant Contact, ExactTarget, and other industry-leading ESPs.*
 
@@ -81,7 +81,7 @@ Constant Contact, ExactTarget, and other industry-leading ESPs.*
 CHICAGO - April 10, 2014 - Innovative email service provider changing
 the way marketing email is prepared and sent, ExpressPigeon, was named
 one of the top email marketing software vendors on[G2
-Crowd's](http://www.g2crowd.com/) The Grid℠, a proprietary software
+Crowd&apos;s](http://www.g2crowd.com/) The Grid℠, a proprietary software
 recommendation engine. Nearly 450 marketing professionals reviewed their
 email marketing tools to provide user satisfaction and feature ratings.
 ExpressPigeon users ranked it among the highest in its category. In
@@ -95,7 +95,7 @@ products that are rated highly by users but have not achieved major
 market share. ExpressPigeon outperformed all other [email marketing
 tools](http://expresspigeon.com) in user rankings for ease of use, ease
 of setup, ease of admin, and ease of doing business with. In addition,
-ExpressPigeon users rated the platform's features highest among email
+ExpressPigeon users rated the platform&apos;s features highest among email
 marketing.
 
 ExpressPigeon received the following scores from marketing
@@ -127,7 +127,7 @@ listening to customers and improving our platform,” said Igor Polevoy,
 President of ExpressPigeon. “Having used other ESPs while managing large
 IT projects, I did not have the best experience, and saw an opportunity
 to build something better. After spending more than two years developing
-our product, we’re excited to make it the most intuitive email marketing
+our product, we&apos;re excited to make it the most intuitive email marketing
 system. When we get [rave
 reviews](http://www.g2crowd.com/products/expresspigeon/reviews), I feel
 we are moving in the right direction.”
@@ -139,7 +139,7 @@ with predictive analytics
 engine,[SimpleRelevance](https://www.simplerelevance.com/), allows
 ExpressPigeon to offer its customers industry-leading personalized email
 content such as unique product recommendations, optimized deals, images
-that fit each customers’ preferences and more. It eliminates the need to
+that fit each customers&apos; preferences and more. It eliminates the need to
 manually segment because each email is specifically targeted to each
 customer.
 

@@ -8,8 +8,8 @@ not your emails get opened. According to the latest [email marketing
 statistics](/blog/2014/01/06/email-marketing-statistics-2014/)…
 
 **Nearly one third of email recipients open email based on subject line
-alone. [tweet this](http://ctt.ec/z9woa)**
+alone.&nbsp;[tweet this](http://ctt.ec/z9woa)**
 
-I’m not discounting the importance of sending email that your audience
+I&apos;m not discounting the importance of sending email that your audience
 actually wants. Without great content, your subject line becomes
 useless.

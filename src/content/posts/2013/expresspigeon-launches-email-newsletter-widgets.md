@@ -47,7 +47,7 @@ change font size.
 
 More blog posts are coming with exciting details on every widget.
 
-Share a comment and let us know how you're using Widgets in your [email
+Share a comment and let us know how you&apos;re using Widgets in your [email
 campaigns](http://expresspigeon.com). :)
 
 Happy marketing!

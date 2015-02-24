@@ -39,7 +39,7 @@ newsletter.
     the site before they are considered "returning visitors". Specify
     the location of the message within a post and whether you want the
     messages to show on posts & pages or only pages. Click "Save
-    Settings" and you're ready to go
+    Settings" and you&apos;re ready to go
     ![](/blog/images/2013/Screenshot-2013-11-03-at-10.20.47-PM.png )
 
 

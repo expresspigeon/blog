@@ -6,29 +6,29 @@ Have you ever thought to yourself:
 Problem is, in the past, this was a very time intensive project.  - Not
 any more!
 
-Now, with [ExpressPigeon's](https://expresspigeon.com/) new Autoresponder feature, targeting
+Now, with [ExpressPigeon&apos;s](https://expresspigeon.com/) new Autoresponder feature, targeting
 specific recipients is easier and faster than ever!  All while elevating
 the effectiveness of your email marketing and potentially bringing it to
 a whole new level!
 
-If you are a pro, you're probably already on your way over to your
+If you are a pro, you&apos;re probably already on your way over to your
 account login...
 
-If you are reading this and you're not exactly sure what an email
-marketing autoresponder is, that's ok.  Here's a quick synopsis of this
+If you are reading this and you&apos;re not exactly sure what an email
+marketing autoresponder is, that&apos;s ok.  Here&apos;s a quick synopsis of this
 email marketing tactic.
 
 The very basics...
 
 An autoresponder is a mechanism to automatically send emails based on
-some type of user action. To make thing simple, let's call these actions
+some type of user action. To make thing simple, let&apos;s call these actions
 a "trigger".
 
 ##This diagram will help understand the process
 
 ![Diagram](/blog/images/2012/selection_320.png "Diagram")
 
-Let's say you're running an online t-shirt store and as the store owner
+Let&apos;s say you&apos;re running an online t-shirt store and as the store owner
 you have decided to send out a newsletter featuring a new product line.
  The newsletter contains the following product options:
 
@@ -44,7 +44,7 @@ With the Express Pigeon autoresponder feature, we can simply break down
 the list and send a follow-up email to our new segment of our main list
 with just a few clicks.
 
-##Here's how to setup an autoresponder
+##Here&apos;s how to setup an autoresponder
 
 1.  Create an email newsletter or two for autoresponder, and if you
     created more than one, you can space them by time (3 days, a week,

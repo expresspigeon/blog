@@ -1,7 +1,7 @@
-Before a web form's opt-in rate can soar, your company must offer
+Before a web form&apos;s opt-in rate can soar, your company must offer
 exciting content that keeps visitors coming back. You want to make your
 customers want to interact with you. Give them a reason to by creating
-useful content. This type of content can solve a customer's problem,
+useful content. This type of content can solve a customer&apos;s problem,
 give them tips or in any way improve their lives. This will entice them
 to click on your customized opt-in form on your website to automatically
 receive your newsletters.
@@ -17,7 +17,7 @@ spread the word. Now you get to writing, while we get to coding!
 
 Use the Express Pigeon web form builder to create an opt-in button for
 your website. Visitors to your site can easily sign-up for your
-newsletter after filling out a simple form. Here's five simple steps to
+newsletter after filling out a simple form. Here&apos;s five simple steps to
 create a web form at no extra cost to you when you choose to do email
 marketing with Express Pigeon.
 
@@ -67,8 +67,8 @@ Under the Form Submit Feedback Page, make sure to fill in the message
 area with a "Big Thanks." Then give them further instructions on what
 their next step is, like checking their email for further information.
 When they open their email, they will have a double opt-in email to make
-sure they want to subscribe to your company's newsletter. After they
-confirm the subscription, we'd like to say, "Congrats on a brand new
+sure they want to subscribe to your company&apos;s newsletter. After they
+confirm the subscription, we&apos;d like to say, "Congrats on a brand new
 potential customer!"
 
 ![ExpressPigeon — Web forms - Demo Form-3](/blog/images/2012/expresspigeonc2a0e28094c2a0web-forms-demo-form-3.jpg "ExpressPigeon — Web forms - Demo Form-3")

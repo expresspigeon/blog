@@ -6,7 +6,7 @@ desired width of your two, three or four column block without using code
 or changing templates. Best of all, there is no limit to the number of
 column blocks users can add to a newsletter.
 
-Here are some examples of Express Pigeon's one, two, three and four
+Here are some examples of Express Pigeon&apos;s one, two, three and four
 column blocks.
 
 ![Blog Network Update](/blog/images/2012/https___expresspigeon-com_newsletter_fca61498-7070-4cb1-9e46-29d25e5d4404.jpg "Blog Network Update")
@@ -29,7 +29,7 @@ and then select the desired column block you wish to insert:
 
 Once the block is inserted, it is easy to adjust the column width based
 on your content and preferences.  Simply drag the vertical spacer to the
-left or the right and the block's content will automatically adjust to
+left or the right and the block&apos;s content will automatically adjust to
 your needs.
 
 ![Edit newsletter](/blog/images/2012/screen-shot-2012-08-13-at-11-18-38-am.jpg "Edit newsletter")
@@ -51,7 +51,7 @@ coupons or maybe even highlight that new product your launching.  Just
 think you could even make your email newsletter look just like your
 WordPress blog! How cool is that!
 
-Try it for yourself - for Free - with an  [Express Pigeon Email Marketing][] account. There's no obligation at all and we're sure you'll
+Try it for yourself - for Free - with an  [Express Pigeon Email Marketing][] account. There&apos;s no obligation at all and we&apos;re sure you&apos;ll
 like it!
 
 P.S.  This layout is part of our free designer templates available to

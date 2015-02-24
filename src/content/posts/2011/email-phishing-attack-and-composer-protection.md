@@ -3,10 +3,10 @@ A few years ago  the world of email has been swamped by the so-called
 [phishing attacks](http://en.wikipedia.org/wiki/Phishing#Link_manipulation).  Most of these were using a simple technique of
 placing an HTML anchor text that led a reader believe that the link
 would take them to a legitimate site, while the `href` value of the
-anchor pointed to the attacker's website. Here is an
+anchor pointed to the attacker&apos;s website. Here is an
 example:
 
-` <a href='http://citibank.foo.com'>http://citibank.com</a>`
+` <a href=&apos;http://citibank.foo.com&apos;>http://citibank.com</a>`
 
 While this displays an innocuous link:
 
@@ -14,18 +14,18 @@ While this displays an innocuous link:
 [http://citibank.com](http://citibank.foo.com)
 
 
-it in fact points to a potential attacker's website.
+it in fact points to a potential attacker&apos;s website.
 
 The ExpressPigeon platform has a built-in mechanism for tracking clicks
 originating from emails. This is implemented by replacing the `href`
 values in the emails with values which point to part of our site
 responsible for tracking. For example, if you add this link:  
-`<a href='http://yourwebsite.com'>Your Site Description</a>`
+`<a href=&apos;http://yourwebsite.com&apos;>Your Site Description</a>`
 We then replace it with this:
 
 
 
-`<a href='http://worker.expresspigeon.com/click?v=kz7...'>Your Site Description</a>`
+`<a href=&apos;http://worker.expresspigeon.com/click?v=kz7...&apos;>Your Site Description</a>`
 
 
 
@@ -42,14 +42,14 @@ this  will present a problem. Lets say your link looks like this:
 
 
 
-`<a href='http://yourwebsite.com'>http://yourwebsite.com</a>`
+`<a href=&apos;http://yourwebsite.com&apos;>http://yourwebsite.com</a>`
 
 
 
 After we sent it to your recipients, it will have an **href** attribute
 replaced:  
 
-`<a href='http://worker.expresspigeon.com/click?v=kz7...'>http://yourwebsite.com</a>`
+`<a href=&apos;http://worker.expresspigeon.com/click?v=kz7...&apos;>http://yourwebsite.com</a>`
 
 
 
@@ -61,7 +61,7 @@ In order to avoid this, the [ExpressPigeon](https://expresspigeon.com) editor do
 create links with URL values as text. In other words, when you try to
 add a new link to your email and then the text of your link is a URL,
 composer displays this message:  
-“Selected text can't be used in link. Please use descriptive text
+“Selected text can&apos;t be used in link. Please use descriptive text
 instead of plain link.”
 
 If you think of it, it makes a whole a lot of sense, even for end users.

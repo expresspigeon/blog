@@ -32,10 +32,10 @@ a Call to Action button is only a few clicks away.
 ### Design & customize your button
 
 Customize the look and feel of
-your button to match your newsletter's aesthetics by selecting your
+your button to match your newsletter&apos;s aesthetics by selecting your
 button color, corners radius, font type, text size, and text color.
 Notice that as you add and remove button text, your button
-automatically changes size. When you're ready to insert your button,
+automatically changes size. When you&apos;re ready to insert your button,
 click "Save" and your button appears in the selected section
 location.
 
@@ -45,7 +45,7 @@ location.
 
 Make final button text edits directly in the
 section editor and click the "Save" icon in the upper-left corner.
-You've now successfully developed a professional looking, 100%
+You&apos;ve now successfully developed a professional looking, 100%
 compatible call-to-action for your audience!
 :)
 
@@ -60,7 +60,7 @@ buttons and maintain design consistency.
 
 <iframe src="//www.youtube.com/embed/hUC-pS1lOHI" height="480" width="640" allowfullscreen frameborder="0"></iframe>
 
-Let us know how you're using the Button Maker to improve your
+Let us know how you&apos;re using the Button Maker to improve your
 newsletters!
 
 Happy marketing! :)

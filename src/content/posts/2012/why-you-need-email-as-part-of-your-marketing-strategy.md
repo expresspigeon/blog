@@ -1,7 +1,7 @@
 
-"Don't put all of your eggs in one basket."
+"Don&apos;t put all of your eggs in one basket."
 
-This quote reigns true for a successful marketing strategy. You can't
+This quote reigns true for a successful marketing strategy. You can&apos;t
 rely solely on your website, blog, social media platforms, or your
 offline marketing approaches to reach your customers. You need all of
 these components to work together. Your website should contain fresh
@@ -15,7 +15,7 @@ in what your company has to offer.
 ##Reach Your Opt-in List
 
 
-It's important to reach those customers that will be the most receptive
+It&apos;s important to reach those customers that will be the most receptive
 to the latest information about your company. A great place to begin
 your successful email marketing campaign is by reaching those that have
 engaged with your company by requesting more information via an email
@@ -26,15 +26,15 @@ company.
 components?***
 
 For starters, you can send your customers a list of headlines that link
-back to your company's most current blog posts. If your company just
+back to your company&apos;s most current blog posts. If your company just
 began a Facebook contest, write a teaser that will make your customer
-click the link to be driven to the contest's landing page. Place a tip
+click the link to be driven to the contest&apos;s landing page. Place a tip
 you tweeted in your newsletter to entice your customer to follow your
 company on Twitter for more helpful tips. Let everyone know about the
 new product line that is available.
 
 Viola! In one newsletter you have just announced numerous components of
-your company's marketing strategy at once to interested customers. Don't
+your company&apos;s marketing strategy at once to interested customers. Don&apos;t
 just talk about your strategy; place components of it in front of your
 valuable email list. The list of individuals who expressed interest in
 your products or services. The list of golden opportunity!
@@ -44,6 +44,6 @@ it with a simple program, such as Express Pigeon. Create an attention
 grabbing email newsletter within minutes with the easy-to-use
 drag-and-drop sections to arrange the newsletter any way you please.
 Customize your email with uploaded images, and choose a color scheme.
-Insert your text, and BAM - hit the send button! You've just completed
+Insert your text, and BAM - hit the send button! You&apos;ve just completed
 one of the most important components of your marketing strategy within
 minutes.

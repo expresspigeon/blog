@@ -20,9 +20,9 @@ Modern moms are some of the most creative, driven, and successful
 bloggers and entrepreneurs in the world. We are hoping to share their
 stories and best practices, in an effort to help you send better email
 campaigns. Modern moms can teach us a great deal about email marketing.
-We're learning a lot already, and we can't wait to share.
+We&apos;re learning a lot already, and we can&apos;t wait to share.
 
-Thanks again for joining us for the Better Email Project. We're planning
+Thanks again for joining us for the Better Email Project. We&apos;re planning
 to discover and share some amazing email marketing ideas along the way.
 :)
 
@@ -33,7 +33,7 @@ to discover and share some amazing email marketing ideas along the way.
 
 **Modern moms...**
 
-**1. are brilliant marketers.**  You don't just wake up one day and
+**1. are brilliant marketers.**  You don&apos;t just wake up one day and
 find yourself with kids and a successful business. It takes something
 special to get there.
 
@@ -42,21 +42,21 @@ connect on a deep, personal level with their audiences. Exactly what we
 need to do with email.
 
 **3. make money.** Making money blogging is not easy, and neither is
-making money with sending email. Modern moms know it's not easy, but
+making money with sending email. Modern moms know it&apos;s not easy, but
 they do it anyways.
 
 ![ExpressPigeon](/blog/images/2013/n-a-1871_l.jpg "ExpressPigeon")
 :[John Althouse Cohen](http://www.flickr.com/photos/johncohen/10451837/) / [Foter](http://foter.com/) / [CC BY-ND](http://creativecommons.org/licenses/by-nd/2.0/)
 
 **4. often give away awesome stuff.** We are always looking for the
-"right" way to give away free stuff. Doesn't everybody love free? :)
+"right" way to give away free stuff. Doesn&apos;t everybody love free? :)
 
 **5. compete with 4+ million modern moms.** To rise to the top of this
 insane competition requires incredible confidence and individuality we
 can all learn from.
 
-**6. express themselves.** It's so important to be able to find your own
-voice, and modern moms are so themselves, it's scary (sometimes). We can
+**6. express themselves.** It&apos;s so important to be able to find your own
+voice, and modern moms are so themselves, it&apos;s scary (sometimes). We can
 certainly learn from this.
 
 ![ExpressPigeon](/blog/images/2013/w600_3.jpeg "ExpressPigeon")
@@ -70,7 +70,7 @@ Super important.
 are doing social HUGE and taking audience relationships to a whole new
 level.
 
-**9. are moms.** You wouldn't be reading this without them. Enough said.
+**9. are moms.** You wouldn&apos;t be reading this without them. Enough said.
 
 Follow along and sign up for the Better
 Email Newsletter below! 
