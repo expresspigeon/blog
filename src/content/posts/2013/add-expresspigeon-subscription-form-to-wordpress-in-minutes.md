@@ -40,8 +40,8 @@ a few minutes:
 
    ![](${blog_base_url}/images/2013/guid-code.png )
 
-6.  **Save and customize.** Once you've entered your GUID code, click
-    "Save" and you're ready to collect emails! You can easily adjust
+6.  **Save and customize.** Once you&apos;ve entered your GUID code, click
+    "Save" and you&apos;re ready to collect emails! You can easily adjust
     height and width to fit the size of your WordPresss sidebar as
     necessary. This process connects your Wordress blog or site with
     your ExpressPigeon Subscription Form and your ExpressPigeon email
@@ -53,7 +53,7 @@ BAM! Now users can easily sign up for your newsletter:
 
   ![](${blog_base_url}/images/2013/Screen-Shot-2013-11-13-at-3.48.10-PM.png )
 
-Don't forget to build custom newsletters for your confirmation email and
+Don&apos;t forget to build custom newsletters for your confirmation email and
 welcome email to ensure that your new subscribers stay hooked for future
 emails. Happy marketing! :)
 

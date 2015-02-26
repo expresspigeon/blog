@@ -5,7 +5,7 @@ SPAM folder:
 
 ![](${blog_base_url}/images/2013/Selection_999403.png )
 
-Yes, it's true, Google sent their own product email to my Google for
+Yes, it&apos;s true, Google sent their own product email to my Google for
 Apps SPAM folder! Something is up with their SPAM filter, but let me get
 back to Gmail tabs.
 
@@ -29,7 +29,7 @@ subscription services in the Promotional tab.
 
 Some companies are noticing a drop in open rates. We are not seeing a
 significant open rate change for Gmail subscribers here at Express
-Pigeon, but we'll keep our eyes on the numbers.
+Pigeon, but we&apos;ll keep our eyes on the numbers.
 
 *The thrill is gone.*
 
@@ -61,7 +61,7 @@ family members, and business contacts in the Primary inbox.
 
 ### Great... So how do I get in the Primary tab?
 
-It's pretty simple. Ask your subscribers to place you there (drag and
+It&apos;s pretty simple. Ask your subscribers to place you there (drag and
 drop).
 
 ### So.. what about Mobile??
@@ -96,7 +96,7 @@ advice to an interested crowd, timely transactional emails, email
 marketing automation, etc – too much to list. Strong relationships and
 great content will continue to win.
 
-So.... to paraphrase Mark Twain, I'd say that:
+So.... to paraphrase Mark Twain, I&apos;d say that:
 
 “The reports of email marketing death have been greatly exaggerated.”
 

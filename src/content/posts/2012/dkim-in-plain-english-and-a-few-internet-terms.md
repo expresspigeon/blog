@@ -1,7 +1,7 @@
 In the previous article [SPF in plain English](spf-in-plain-english-and-a-few-internet-terms), I explained SPF. In
-this post, I'll discuss DKIM. Since this is a fairly involved computer
+this post, I&apos;ll discuss DKIM. Since this is a fairly involved computer
 process, I have to prepare you by explaining [Public Cryptography](http://en.wikipedia.org/wiki/Public-key_cryptography) and
-[Digital Signatures](http://en.wikipedia.org/wiki/Digital_signature). Don't be scared, this is just a logical
+[Digital Signatures](http://en.wikipedia.org/wiki/Digital_signature). Don&apos;t be scared, this is just a logical
 explanation and there is no math involved (refer to the title). :)
 
 Public Cryptography is a process of encryption that involves two keys
@@ -33,12 +33,12 @@ In order to verify a digital signature, one needs to perform the
 following steps:
 
 1. Generate a Message Digest from the document.
-2. Decode the Digital Signature with the signer's Public Key (remember, this is a corresponding key).
+2. Decode the Digital Signature with the signer&apos;s Public Key (remember, this is a corresponding key).
 3. Compare the Digest that was generated with the Digest that was decoded;
 if they match, then the signature is verified and the signer cannot deny signing.
 
 
-Now that we've tackled the digital security mumbo jumbo, we can proceed
+Now that we&apos;ve tackled the digital security mumbo jumbo, we can proceed
 to DKIM. The process is quite straight forward:
 
 -   A Key Pair gets created
@@ -60,7 +60,7 @@ Here is an example of an ExpressPigeon signature:
 
 You can observe signatures in every e-mail that you receive from us.
 
-On the other end, the receiving e-mail server will lookup the sender's
+On the other end, the receiving e-mail server will lookup the sender&apos;s
 Public Key from its DNS record and will proceed to validate the
 signature. If the signature is validated, then there is a guarantee that
 the e-mail came from that sender.

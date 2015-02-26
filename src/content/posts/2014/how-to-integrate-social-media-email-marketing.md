@@ -1,13 +1,13 @@
-![](${blog_base_url}/images/2014/3-366-y2-bestest-friends_l.jpg)
+![](/blog/images/2014/3-366-y2-bestest-friends_l.jpg)
 
 The social media vs. email marketing discussion continues. But not here.
-Don't get me wrong, I uncovered mind shattering
+Don&apos;t get me wrong, I uncovered mind shattering
 [email marketing statistics](${blog_base_url}/2014/01/06/email-marketing-statistics-2014/)
 that show email marketing is a better ROI than social media. But social
 media and email play better together than they do apart. You can run an
 effective social media or email campaign without integration. But what
-happens if you combine your efforts? The truth is, you won't know until
-you try. *Let's jump right in so you can see for yourself...*
+happens if you combine your efforts? The truth is, you won&apos;t know until
+you try. *Let&apos;s jump right in so you can see for yourself...*
 
 ## Tactic #1: Add social media icons to emails.
 
@@ -19,8 +19,8 @@ take action. With [ExpressPigeon](http://expresspigeon.com), you can
 easily add social media icons to emails. In the editor, click "Add
 Image" and you will find plenty of icons in the "Social" category.
 ![](${blog_base_url}/images/2014/social_icons_EP.png)
-Once you've selected an icon, you can click on it within the editing
-window and link it to your social channel URL. If you don't see an icon
+Once you&apos;ve selected an icon, you can click on it within the editing
+window and link it to your social channel URL. If you don&apos;t see an icon
 you like in the gallery, you can easily upload your own images. Give it
 a try [here](https://expresspigeon.com/access/registration?plan=free).
 
@@ -29,23 +29,23 @@ a try [here](https://expresspigeon.com/access/registration?plan=free).
 You can email subscribers to encourage them to connect with you on a
 specific social media channel. Keep emails channel-specific to maintain
 a clear call-to-action. Think about what you offer via your social
-channel that you don't via email. One of the best ways to encourage
+channel that you don&apos;t via email. One of the best ways to encourage
 connection is to include some of your most popular posts from the past
 week or so. For example, Cool Mom Tech sends weekly emails with their 5
 favorite pins:
 ![](${blog_base_url}/images/2014/cool_mom_tech_pins_email.png)
 This is a great way to encourage social sharing and build your social
 media following. Remember - subscribers gave you permission to email
-them and social media is a less personal commitment. It's usually worth
+them and social media is a less personal commitment. It&apos;s usually worth
 the ask.
 
 ## Tactic #3: Ask subscribers to share your emails & content.
 
-Subscribers don't necessarily know what action you want them to
+Subscribers don&apos;t necessarily know what action you want them to
 take. Be direct and ask them to share your email or content within your
 email via a specific social media channel. If your email is valuable to
 subscribers, they will be proud to share it. But how do you add social
-share buttons or links to emails? It's easy to add a "Forward To A
+share buttons or links to emails? It&apos;s easy to add a "Forward To A
 Friend" link with [ExpressPigeon](http://expresspigeon.com) but adding
 social sharing links can be more difficult. One of the easiest ways to
 do it is by adding a Tweet link using [Click to
@@ -58,11 +58,11 @@ For example, I wrote an article on [33 email marketing statistics](${blog_base_u
 earlier this year. Within an ExpressPigeon email, I can add statistics
 with Tweet links like these:
 
-* Email marketing ROI = 4,300%. [tweet this](http://ctt.ec/8VdBf)
+* Email marketing ROI = 4,300%.&nbsp;[tweet this](http://ctt.ec/8VdBf)
 * Companies view email marketing as a better return on investment than
-    content marketing & social media. [tweet this](http://ctt.ec/hx9N4)
+    content marketing & social media.&nbsp;[tweet this](http://ctt.ec/hx9N4)
 * Email marketing responsibilities usually fall on one person as a
-    part of a wider range of marketing responsibilities. [tweet this](http://ctt.ec/8oK6r)
+    part of a wider range of marketing responsibilities.&nbsp;[tweet this](http://ctt.ec/8oK6r)
 
 With the ExpressPigeon [Button Maker Widget](${blog_base_url}/2013/10/01/go-wild-making-buttons-in-your-email-campaigns/),
 I can transform a statistic from above into a beautiful call-to-action
@@ -70,7 +70,7 @@ in the heart of my email:
 
 ![](${blog_base_url}/images/2014/Click_to_tweet_example.png)
 
-Let's look at another great example from [Content Marketing Institute](http://contentmarketinginstitute.com/). They explicitly ask
+Let&apos;s look at another great example from [Content Marketing Institute](http://contentmarketinginstitute.com/). They explicitly ask
 people to share a piece of content within their
 emails:
 
@@ -80,7 +80,7 @@ If your audience shares your content as desired, their social media
 connections may visit your site. And with a few [opt-in
 tricks](${blog_base_url}/2014/02/24/16-opt-in-tricks-to-grow-your-email-list/)
 in place, new visitors can become long-term email subscribers. Whether
-you're encouraging subscribers to share your full email or content
+you&apos;re encouraging subscribers to share your full email or content
 within it, the more they share, the better chance you have of building
 your email audience.
 
@@ -106,7 +106,7 @@ in action by [clicking here](http://ctt.ec/Ar8aI).
 Encourage social media
 connections to sign up for your emails. You can do this by creating
 channel-specific posts that link directly to your [subscription form](${blog_base_url}/2013/11/18/custom-email-subscription-form/)
-on ExpressPigeon or the subscription page on your website. Here's an
+on ExpressPigeon or the subscription page on your website. Here&apos;s an
 example of how we promoted our emails in a recent Tweet:
 
 > Thousands of people receive our email marketing tips by email. Join
@@ -118,7 +118,7 @@ Remember that how you promote your newsletter will vary depending on
 channel. Keep the post cohesive with the rest of your posts. Here are a
 few post ideas you can use to promote your email subscription:
 
--   We're offering a 25% discount in our next email newsletter. Want it?
+-   We&apos;re offering a 25% discount in our next email newsletter. Want it?
     LINK
 -   Want to join our email conversation? Do it here: LINK
 -   Want a free book on How To Grow Your Email List? Get it here: LINK
@@ -141,10 +141,10 @@ option* to subscribe to:
 *  Emails about the show.
 *  Emails about the travel destination.
 
-Just because people enter the contest doesn't mean they want emails. I
-recommend giving them an option. If entrants don't sign up, you can
-remind them in a "you didn't win the contest" email... Unless of course
-they actually won. ;) Here's an example of how [Travel Channel](http://www.travelchannel.com/)
+Just because people enter the contest doesn&apos;t mean they want emails. I
+recommend giving them an option. If entrants don&apos;t sign up, you can
+remind them in a "you didn&apos;t win the contest" email... Unless of course
+they actually won. ;) Here&apos;s an example of how [Travel Channel](http://www.travelchannel.com/)
 is collecting emails for a contest on their website:
 
 ![](${blog_base_url}/images/2014/travelchannel_contest.png)
@@ -163,7 +163,7 @@ traffic-generating social media posts for every piece of content you
 create. As long as you have [opt-in
 tricks](${blog_base_url}/2014/02/24/16-opt-in-tricks-to-grow-your-email-list/)
 in place to convert visitors into email subscribers, you can turn that
-social media traffic into a growing email list. Let's say you just
+social media traffic into a growing email list. Let&apos;s say you just
 published a new blog post. What can do you do next?
 
 1.  Identify the target audience for the post.

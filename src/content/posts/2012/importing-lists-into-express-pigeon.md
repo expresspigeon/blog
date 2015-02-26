@@ -4,7 +4,7 @@ designer, we wanted to make importing email lists into Express Pigeon
 just as simple and painless.
 
 By listing simple
-instructions, we'll show you step-by-step how to get started importing
+instructions, we&apos;ll show you step-by-step how to get started importing
 your email contacts into [Express Pigeon](http://expresspigeon.com).
 
 ## Step one - create a list
@@ -55,9 +55,9 @@ last names, addresses, etc. then  the file needs to reserve a first line
 as a header
 
 *Warning, some technical stuff:*   Headers can be in upper or lower case
-and may contain any number of '-' or '\_' or spaces – but, if a header
+and may contain any number of &apos;-&apos; or &apos;\_&apos; or spaces – but, if a header
 is invalid it will be ignored with their respective columns. If you
-don't have any headers, we will expect it to have a single column with
+don&apos;t have any headers, we will expect it to have a single column with
 emails only. Here is [an example CSV file](${blog_base_url}/resources/contacts.csv) which will help  you get
 started. It contains all headers we support. Those headers that we do
 not support will simply be ignored during import.

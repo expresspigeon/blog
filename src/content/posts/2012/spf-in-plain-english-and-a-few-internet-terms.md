@@ -1,5 +1,5 @@
 The world of e-mail is a treacherous one. Every day, millions of people
-receive unwanted SPAM, whether it's product information that they never
+receive unwanted SPAM, whether it&apos;s product information that they never
 requested, a bogus offer from a Nigerian prince, or something even
 worse!
 
@@ -16,7 +16,7 @@ high level. This is not an in-depth tutorial; for that, please refer to
 the following websites: [SPF](http://www.openspf.org/) and [DKIM](http://www.dkim.org/).
 
 SPF stands for Sender Policy Framework. The name does not tell us much,
-so let's look deeper. SPF is designed to verify that the computer from
+so let&apos;s look deeper. SPF is designed to verify that the computer from
 which an e-mail was sent is in fact what is claimed in the e-mail.
 
 When a receiving server (your ISP, usually Hotmail, GMail, etc.)
@@ -24,7 +24,7 @@ receives an e-mail, it does the following:
 
 -   Performs a reverse DNS lookup
     [SPF Lookup on Wikipedia](http://en.wikipedia.org/wiki/Reverse_DNS_lookup). This is a process
-    of determining a sending computer's name from its IP address. A
+    of determining a sending computer&apos;s name from its IP address. A
     computer name is something we use all the time, such as
     [ExpressPigeon.com](http://expresspigeon.com).
 -   Now that the receiving server has determined the name of the sending

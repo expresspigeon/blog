@@ -1,7 +1,7 @@
 
-"Don't put all of your eggs in one basket."
+"Don&apos;t put all of your eggs in one basket."
 
-This quote reigns true for a successful marketing strategy. You can't
+This quote reigns true for a successful marketing strategy. You can&apos;t
 rely solely on your website, blog, social media platforms, or your
 offline marketing approaches to reach your customers. You need all of
 these components to work together. Your website should contain fresh

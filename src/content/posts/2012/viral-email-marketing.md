@@ -23,16 +23,16 @@ When a reader opens an email, depending on how they receive it, they are
 often many obstacles that make sharing your content on a social network
 even more of a hinderance.
 
-Let's take a look at the pretty typical workflow of someone who is
+Let&apos;s take a look at the pretty typical workflow of someone who is
 reading an email - on a desktop computer - and then decides to share
 this content on a social network
 
 They must:
 
 1.  Open the email
-2.  Read or skim the complete email to see if there's something they
+2.  Read or skim the complete email to see if there&apos;s something they
     like.
-3.  They've found something, so now they might want to copy some text
+3.  They&apos;ve found something, so now they might want to copy some text
 4.  Now they need to open their web browser
 5.  Now navigate to their social network of choice
 6.  Craft a short message (Something witty of course)
@@ -40,12 +40,12 @@ They must:
 
 Plus, they need to do all of this without being distracted along the
 way. Not sure about you but Facebook and Twitter can be quite
-distracting.  Also, it's important to note we're not taking into account
+distracting.  Also, it&apos;s important to note we&apos;re not taking into account
 those who open newsletters on a mobile device or a tablet.
 
 **The Good News:**
 
-Let's examine ways we can reduce these barriers and create email
+Let&apos;s examine ways we can reduce these barriers and create email
 newsletters that have a higher potential for readers to share.  Either
 by simply hitting forward in their email client or by sharing on a
 social network.
@@ -81,7 +81,7 @@ directly in your newsletter. This will also benefit you on your
 newsletter click-through reports as you will be able to see what users
 clicked your links.
 
-Also, think about how they might use these links if they're on a mobile
+Also, think about how they might use these links if they&apos;re on a mobile
 phone or tablet device. These link will probably evoke another app -
 such as facebook or twitter.  How can you enhance this process for your
 readers.
@@ -89,14 +89,14 @@ readers.
 ##4. Simply ask your readers to forward to a friend
 
 Think old-school for a second and actually ask your readers to forward
-this newsletter to a friend. As the old expression goes, you don't know
+this newsletter to a friend. As the old expression goes, you don&apos;t know
 unless you ask.
 
 ##5. Not all emails are destined to be shared
 
 Maybe not all of the email newsletters you prepare are meant to be
-something people forward. That's ok. It's best to create an email
-marketing schedule that is unique in content so you're not always
+something people forward. That&apos;s ok. It&apos;s best to create an email
+marketing schedule that is unique in content so you&apos;re not always
 sending the same type of email.
 
 For the newsletters that you do want your followers to share, take a

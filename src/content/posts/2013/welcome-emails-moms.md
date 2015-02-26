@@ -27,12 +27,12 @@ along the way.
     a simple "thanks". Just what you were)
 4.  **Be exclusive.** Cool Mom Picks gets you excited to join "the
     coolest group of subscribers on the planet". They fill you in on
-    what's to come next and remind you that they will respect your
+    what&apos;s to come next and remind you that they will respect your
     privacy. They give you an option to walk away (but why would you
     want to) and give you an email address to ensure that you have a way
-    to get in direct contact. This is not just an email newsletter. It's
+    to get in direct contact. This is not just an email newsletter. It&apos;s
     an exclusive club. You are the newest member and CMP is so happy
-    you're here.
+    you&apos;re here.
     ![](${blog_base_url}/images/2013/coolkids.png ")
 5.  **Show a sense of community.** Nothing is better than feeling the
     comforting sense of community. Macaroni Kid sends a custom

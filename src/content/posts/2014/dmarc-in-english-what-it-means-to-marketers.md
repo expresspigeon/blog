@@ -36,7 +36,7 @@ emails because Yahoo asked them to! The solution to this is to use your
 corporate email address. Yahoo! and AOL logic is easy to understand:
 they provide free email service to individuals. If an email address they
 provide is also used to send mass emails from another ESP, than this is
-kind of a violation of the agreement on your end (I'm not a lawyer, do
+kind of a violation of the agreement on your end (I&apos;m not a lawyer, do
 not hold my feet to the fire:)). Instead of sending from
 miketheblogger@yahoo.com, you will have to switch to
 mike@miketheblogger.com to solve this problem.

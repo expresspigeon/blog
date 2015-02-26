@@ -38,4 +38,4 @@ moment on a campaign send page:
 
 ![](${blog_base_url}/images/2014/campaign_prepare.png)
 
-Happy emailin' :)
+Happy emailin&apos; :)

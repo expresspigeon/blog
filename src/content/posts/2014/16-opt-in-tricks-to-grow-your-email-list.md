@@ -27,7 +27,7 @@ To transform visitors into email subscribers, you need to add opt-in forms
 to your site and develop a subscription process that effectively
 welcomes them into your email program. Sounds complicated, right?
 
- > It's not as tricky as you may think. Let's dive right in...
+ > It&apos;s not as tricky as you may think. Let&apos;s dive right in...
 
 ## Trick #1: Add an opt-in form to your blog sidebar.
 
@@ -66,7 +66,7 @@ here:
 ![](${blog_base_url}/images/2014${blog_base_url}tyrantupdates.png)
 
 Now that you have a page dedicated specifically to your subscription
-form, it's important to make it accessible. Consider using a custom URL
+form, it&apos;s important to make it accessible. Consider using a custom URL
 for your signup page. This makes it easier for people to share in those
 rare moments where they communicate in person. ;) **Trick \#4: Create a
 custom opt-in "slider" on your homepage.** One of the best pieces of
@@ -121,23 +121,23 @@ subscribers from falling through the cracks.
     they get by signing up for your emails. Example: "Get Your Free
     Content Marketing Toolkit"
 -   **The body** should qualify people and nudge them to take action.
-    Example: "If you're serious about content marketing, enter your
+    Example: "If you&apos;re serious about content marketing, enter your
     email address below to receive the Content Marketing Toolkit."
 -   **The call-to-action** should be simple and immediate. Example: "Get
     The Toolkit."
 
-Here's a great [opt-in form example](${blog_base_url}/2014/01/17/6-food-fanatics-will-make-you-rethink-your-subscription-forms/)
+Here&apos;s a great [opt-in form example](${blog_base_url}/2014/01/17/6-food-fanatics-will-make-you-rethink-your-subscription-forms/)
 from Michael Aagaard at [Content Verve](http://contentverve.com/):
 ![](${blog_base_url}/images/2014/contentverveoptin.png)
 
 
 ## Trick #9: Add something extra to your opt-in forms.
 
--   **Include the dollar value.** If you're offering an eBook or Toolkit
+-   **Include the dollar value.** If you&apos;re offering an eBook or Toolkit
     or online course in your opt-in form, add the dollar value. Example
     "Get The Free Content Marketing Toolkit (Valued at Over $300)"
 -   **Add a testimonial.** A testimonial is great for boosting business.
-    If this wasn't true, Yelp would be out of business. If you don't
+    If this wasn&apos;t true, Yelp would be out of business. If you don&apos;t
     have any testimonials, survey your favorite subscribers.
 -   **Add social proof.** Include a message about how many people
     currently subscribe to your emails. If you have thousands of
@@ -154,16 +154,16 @@ and [it works](http://www.quicksprout.com/):
 
 ## Trick #10: Keep submission fields limited in opt-in forms.
 
-We all want to know as much as possible about new subscribers. It's tempting to
+We all want to know as much as possible about new subscribers. It&apos;s tempting to
 ask for more than an email address but people have grown weary of the
 ask. Give people comfort and eliminate unnecessary custom fields from
-opt-in forms. You can always survey subscribers once you've earned their
+opt-in forms. You can always survey subscribers once you&apos;ve earned their
 trust.
 
 
 ## Trick #11: Customize opt-in forms for anticipated traffic surges.
 
-Let’s say you're about to get featured on a major site and
+Let&apos;s say you&apos;re about to get featured on a major site and
 expect significant referral traffic. You want to transform the guest
 readers into email subscribers. Check out the opt-in forms on the
 website you will be featured on and shape your form messaging to their
@@ -203,7 +203,7 @@ your main call-to-action: Clicking a confirmation link.
 
 ## Trick #15: Create an inviting confirmation page.
 
-It’s amazing (disappointing?) how many subscription confirmations lead to a dead end. When a new
+It&apos;s amazing (disappointing?) how many subscription confirmations lead to a dead end. When a new
 subscriber confirms subscription, you have an opportunity to redirect
 them to any URL. Why settle for a simple thank you? Design a custom
 confirmation page on your site that welcomes subscribers to the
@@ -217,7 +217,7 @@ for your business? Here are a few ideas:
 -   Prompt subscriber to tell their friends about your email
     subscription.
 
-Here's a great example from blogging expert
+Here&apos;s a great example from blogging expert
 
 ![](${blog_base_url}/images/2014/amylynn.png)
 
@@ -225,8 +225,8 @@ Here's a great example from blogging expert
 ## Trick #16: Create a welcome email to remember.
 
 A welcome email is your first email to new subscribers. Give them something that excites
-them for what's to come next. Deliver your free giveaway (as promised),
-thank them for subscribing, and prepare them for what's coming next.
+them for what&apos;s to come next. Deliver your free giveaway (as promised),
+thank them for subscribing, and prepare them for what&apos;s coming next.
 This is also a great time for a surprise! Consider offering a special
 "thank you" discount. See how getting-things-done expert Gregory Ciotti
 does this at
@@ -234,8 +234,8 @@ does this at
 ![](${blog_base_url}/images/2014/sparringmindwelcome.png)
 
 Notice how Gregory includes links to his best articles and gives a warm
-welcome that gets you excited for what's to come next. Figure out what
-works for you and keep it authentic! **CONCLUSION** It's not easy to
+welcome that gets you excited for what&apos;s to come next. Figure out what
+works for you and keep it authentic! **CONCLUSION** It&apos;s not easy to
 build an email list, but with a strategic opt-in process that fits your
 business, you can build a very profitable email list in just a few
 months. What opt-in tricks do you use to convert visitors into

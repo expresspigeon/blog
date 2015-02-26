@@ -5,7 +5,7 @@ Now, even faster than before, users can quickly access their
 [ExpressPigeon.com](http://expresspigeon.com) accounts by simply clicking on the Express Pigeon
 icon in their Google Chrome launcher.
 
-Here's a link: [ExpressPigeon on Google Chrome](https://chrome.google.com/webstore/detail/expresspigeon/efhhmhbcjggandfbihonphneigogcnna)
+Here&apos;s a link: [ExpressPigeon on Google Chrome](https://chrome.google.com/webstore/detail/expresspigeon/efhhmhbcjggandfbihonphneigogcnna)
 
 ![ExpressPigeon — Dashboard](${blog_base_url}/images/2012/ieeachef.png "ExpressPigeon — Dashboard")
 

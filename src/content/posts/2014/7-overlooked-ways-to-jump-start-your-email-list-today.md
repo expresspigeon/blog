@@ -1,7 +1,7 @@
 Whether you just heard about the [insanely high ROI of email
 marketing](${blog_base_url}/2014/01/06/email-marketing-statistics-2014/)
-and decided to build an email list or you're already running a
-successful email program and hit a dead end, I'm sure you're looking for
+and decided to build an email list or you&apos;re already running a
+successful email program and hit a dead end, I&apos;m sure you&apos;re looking for
 ways to jump-start your list. Before we dive in, make sure you...
 
 1.  **Sign up with an email service provider.**Current [email marketing
@@ -26,14 +26,14 @@ ways to jump-start your list. Before we dive in, make sure you...
     tricks](${blog_base_url}/2014/02/24/16-opt-in-tricks-to-grow-your-email-list/)
     to help you.
 
-Now you're ready to grow your list. There are hundreds of ways to get
+Now you&apos;re ready to grow your list. There are hundreds of ways to get
 new subscribers but we often overlook the most obvious tactics. The 7
 list-building tactics below are perfect for building an email list from
-scratch or jump-starting your program today. Let's dive right in...
+scratch or jump-starting your program today. Let&apos;s dive right in...
 
-**Tactic \#1: Reach out to friends and family.** When you're building an
-email list, don't overlook the power of your personal network. In the
-early stages, some of the best support you'll get to grow your list can
+**Tactic \#1: Reach out to friends and family.** When you&apos;re building an
+email list, don&apos;t overlook the power of your personal network. In the
+early stages, some of the best support you&apos;ll get to grow your list can
 come from your strongest connections - friends and family.
 
 ![](${blog_base_url}/images/2014//familyfriends.jpg)
@@ -43,28 +43,28 @@ emails. But what about their friends? What about their professional
 connections? You never know until you ask. Reaching out to friends and
 family can be difficult, so try this:
 
-1.  **Be serious.**If you're not serious about building a list or you
-    don't actually care about it, why would you want to tell your
+1.  **Be serious.**If you&apos;re not serious about building a list or you
+    don&apos;t actually care about it, why would you want to tell your
     friends and family? Make sure you plan on following through with
-    what you're selling. Otherwise, you'll hear about it forever. It's
+    what you&apos;re selling. Otherwise, you&apos;ll hear about it forever. It&apos;s
     not worth ruining your personal relationships unless you are 100%
     committed.
-2.  **Don't be serious.**Contact your friends with your usual
-    communication method. If you usually call your cousin, don't email
+2.  **Don&apos;t be serious.**Contact your friends with your usual
+    communication method. If you usually call your cousin, don&apos;t email
     her out of the blue with a request. Call her, and if she wants to
     help, send a follow-up email. Keep it fun, keep it casual. Just
-    because you're looking for help with your business does not mean you
+    because you&apos;re looking for help with your business does not mean you
     should suddenly change your approach or tone.
 3.  **Make the ask.** Make it easy for your friends and family to help
     you. One of the best ways to do this is to share a link to your
     [subscription](${blog_base_url}/2013/11/18/custom-email-subscription-form/)
     in your email page and provide a clear call-to-action. Do you want
     them to share the link with one friend they know would love your
-    emails? Or simply share the link on their Facebook wall? It's up to
+    emails? Or simply share the link on their Facebook wall? It&apos;s up to
     you to choose the ask - you know them better than I do. ;)
 
 Friends and family are usually willing to help unless you stole the last
-piece of turkey on Thanksgiving. If you are confident in what you're
+piece of turkey on Thanksgiving. If you are confident in what you&apos;re
 building, you should have no problem turning to friends and family for
 their help. This is a very overlooked way to build a list. **Tactic \#2:
 Send a reengagement email to your dated opt-in list.** Are you sitting
@@ -77,9 +77,9 @@ campaigns. Remember, this is for opt-in lists only - [buying email lists
 is
 illegal](${blog_base_url}/2014/02/12/11-reasons-to-never-purchase-an-email-list/).
 **Tactic \#3: Send one-to-one emails to old contacts.** Over the years,
-I'm sure you've emailed hundreds, if not thousands, of people that are
+I&apos;m sure you&apos;ve emailed hundreds, if not thousands, of people that are
 interested in the topics you cover in your email campaigns. Even if you
-haven't stayed in touch with these connections, you can still engage
+haven&apos;t stayed in touch with these connections, you can still engage
 them to sign up for your emails. But how do you go about it without
 spamming?
 
@@ -95,10 +95,10 @@ spamming?
     Make sure you include a memory cue or hint to showcase that this is
     a one-to-one email and not spam.
 
-This tactic sounds tedious, but you'd be surprised by how many of your
-old contacts will respond to your email. Even if you don't get as many
+This tactic sounds tedious, but you&apos;d be surprised by how many of your
+old contacts will respond to your email. Even if you don&apos;t get as many
 subscribers as you want, your outreach can refresh professional
-relationships that will add value elsewhere. Don't get lazy and try to
+relationships that will add value elsewhere. Don&apos;t get lazy and try to
 send an email blast - [spam is
 illegal](http://www.business.ftc.gov/documents/bus61-can-spam-act-compliance-guide-business).
 **Tactic \#4: Take advantage of LinkedIn.** LinkedIn is an extremely
@@ -111,7 +111,7 @@ subscription and attract new subscribers:
     subscription and send them private messages. Make sure to keep each
     message somewhat unique because LinkedIn users can mark messages as
     spam.
-2.  **Share your email subscription in LinkedIn Groups.**If you're not
+2.  **Share your email subscription in LinkedIn Groups.**If you&apos;re not
     already an active member in LinkedIn Groups, get active today.
     LinkedIn Groups are a great place to communicate with industry peers
     on a variety of topics, and a great place to promote your new
@@ -128,11 +128,11 @@ for a more developed email program. As you continue to develop your
 email campaigns, tap into LinkedIn Groups and your activity feed to
 promote your latest content or [email
 newsletter](http://expresspigeon.com). **Tactic \#5: Encourage in-house
-sharing.** If you're just introducing email marketing into your
+sharing.** If you&apos;re just introducing email marketing into your
 business, engage your team to encourage them to help you drive awareness
 to your subscription. The whole team will benefit from better company
 performance so promoting your email list should be a win-win for
-everyone, but don't force the issue.
+everyone, but don&apos;t force the issue.
 
 ![](${blog_base_url}/images/2014/office2.jpg)
 
@@ -143,15 +143,15 @@ every member of your team excited to share your subscription can be a
 valuable step to reaching more subscribers. **Tactic \#6: Post an ad for
 your list on Craigslist** Craigslist can be a surprisingly useful
 resource to attract new subscribers. Not only is it free to post ads,
-but you can get specific in terms of location and subject matter you're
-addressing. Don't believe me? When I was promoting the [launch of an
+but you can get specific in terms of location and subject matter you&apos;re
+addressing. Don&apos;t believe me? When I was promoting the [launch of an
 online social network for music
 artists](http://techcrunch.com/2013/08/08/8th-stage-launches-in-beta-to-offer-a-linkedin-for-musicians-with-built-in-talent-development/),
 over 80% of our beta users came from Craigslist. I encouraged people to
 submit an email address for a chance to join our beta community and
 focused on benefits of joining in my messaging. I tested ads in Chicago,
 and expanded to other markets once they were successful. Craigslist
-won't work for every business but it is especially helpful if you are
+won&apos;t work for every business but it is especially helpful if you are
 building a list for a product launch or a local event. Instead of
 creating an ad that sends people to your subscription page, I recommend
 communicating the value of your product or event and requesting people
@@ -163,10 +163,10 @@ send can help you get the word out!
 
 ![](${blog_base_url}/images/2014/paulsignatureblur.png)
 
-**Conclusion** Building an email list takes time but when you're trying
+**Conclusion** Building an email list takes time but when you&apos;re trying
 to get your first 500 subscribers or inject new life into your email
 program, direct outreach and simple promotions can make all the
-difference. Whether you're calling friends or posting ads on Craigslist,
+difference. Whether you&apos;re calling friends or posting ads on Craigslist,
 sometimes its the weird & overlooked tactics that give you the boost you
 need to see consistent growth. How would you jump-start a list? Any
 tactics to add? If so, keep the ideas on flow and leave comment below!

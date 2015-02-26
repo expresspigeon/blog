@@ -14,7 +14,7 @@ ExpressPigeon.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gzdpX1OF1ag" frameborder="0" allowfullscreen></iframe>
 
 Imagine that you are an organizer for a design conference called Design
-Ideas. You're hosting the conference in Chicago in a few months and it's
+Ideas. You&apos;re hosting the conference in Chicago in a few months and it&apos;s
 your goal to invite and collect registrants. Your first step is to...
 
 #### 1. Create An Event Webpage in Eventbrite
@@ -26,7 +26,7 @@ Eventbrite makes it super intuitive and [easy to do this](https://www.eventbrite
 They even offer a [Live Webinar](http://productdemo.eventbrite.com/)
 to help you sell out your event.
 ![](${blog_base_url}/images/2013/Screen-Shot-2013-10-10-at-7.34.18-PM.png )
-Once you've created an event webpage in Eventbrite, you are ready to...
+Once you&apos;ve created an event webpage in Eventbrite, you are ready to...
 
 #### 2. Set Up Eventbrite Integration In ExpressPigeon
 
@@ -43,7 +43,7 @@ description into your newsletter! The next step is to...
 
 #### 3. Design A Beautiful Event Invitation In ExpressPigeon
 
-Your event is live on Eventbrite and your account is integrated, so it's
+Your event is live on Eventbrite and your account is integrated, so it&apos;s
 time to design an event newsletter in ExpressPigeon to wow your future
 conference goers. Start with an ExpressPigeon Event Template or flex
 your creative muscles and build one from scratch. Either way, our
@@ -73,7 +73,7 @@ contacts", ExpressPigeon instantly inserts an Eventbrite link, event
 information, and Google map image directly into your newsletter and a
 new email list is created with all contacts from your event.
 
-![](${blog_base_url}/images/2013/Selection_999573.png )
+![](/blog/images/2013/Selection_999573.png )
 
 After the Eventbrite integration takes place, the newsletter editor
 maintains the ability to make any stylistic or informational adjustments

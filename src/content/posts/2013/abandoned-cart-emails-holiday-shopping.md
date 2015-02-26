@@ -54,7 +54,7 @@ and we will be happy to help.
 
 ###5 Quick Tips to Send Abandoned Cart Emails That Convert
 
-1.  **Don't waste any time.** The sooner you send an email to customers who abandon their carts, the
+1.  **Don&apos;t waste any time.** The sooner you send an email to customers who abandon their carts, the
     more likely they are to complete their order. To automate abandoned
     cart emails, integrate with the ExpressPigeon [Transactional Email
     Service](https://expresspigeon.com/api#messages).
@@ -64,13 +64,13 @@ and we will be happy to help.
     Complete your order of (PRODUCT) at (STORE.com).
 3.  **Leave a nice note.** Within your custom email design, write a 2-3
     sentence letter to your customers. Think of this part of your email
-    as your hand-written note, telling your customers exactly why you're
+    as your hand-written note, telling your customers exactly why you&apos;re
     emailing them, how grateful you are that they visited your site, and
     how easy it is for them to complete their order.
 4.  **Include a clear call-to-action.** Make sure that your design
-    includes a large button that links directly to your customer's
+    includes a large button that links directly to your customer&apos;s
     shopping cart. This is the most important call-to-action. Adding
-    similar product recommendations can be nice, but don't distract from
+    similar product recommendations can be nice, but don&apos;t distract from
     your main purpose.
 5.  **Be easy to reach.** It should be easy for your customer to find an
     email address or phone number to reach you if they have any

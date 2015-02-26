@@ -25,8 +25,8 @@ important criteria for choosing an ESP that is right for your business:
     reputable ESPs (including ExpressPigeon) hover around 99%
     deliverability.
 2.  **Setup.**  Setting up your ESP account should be a painless process.
-    Whether you're uploading a list or designing your first email, you
-    shouldn't need hours to make it happen. The best ESPs are
+    Whether you&apos;re uploading a list or designing your first email, you
+    shouldn&apos;t need hours to make it happen. The best ESPs are
     user-friendly and intuitive.
 3.  **Management.** Managing your email campaigns should be easy. If you
     find it difficult to navigate an ESP, it will only get more
@@ -35,7 +35,7 @@ important criteria for choosing an ESP that is right for your business:
     sure to look for analytics integrations and see what reports your
     ESP offers before signing up.
 5.  **Support.**  An ESP should be easy enough to use without any
-    support, but there will be times when you need a hand. It's
+    support, but there will be times when you need a hand. It&apos;s
     important to know that someone will be there for you.
 
 If you want to build a massive email list, start with ExpressPigeon. We
@@ -75,7 +75,7 @@ Here are a few email content tips to help you...
     from industry leaders and let them know you will be sharing it in
     your newsletter.
 -   **Ask your audience what they want.**  Instead of just trying to read
-    the minds of your customers, ask them what they want. Who doesn’t
+    the minds of your customers, ask them what they want. Who doesn&apos;t
     want to have their voice heard or their questions answered?
 -   **Tie in current events.**  Try to find ways to integrate important
     holidays and major events within your email content.
@@ -83,12 +83,12 @@ Here are a few email content tips to help you...
     marketing
     statistics](${blog_base_url}/2014/01/06/email-marketing-statistics-2014/)
     to find a few subject line tricks that might work for you.
--   **Give extra value.** I'll cover this more extensively under the
+-   **Give extra value.** I&apos;ll cover this more extensively under the
     "Incentives" category in the deck below but the idea here is to run
-    subscriber-only contests or give them something they can't get
+    subscriber-only contests or give them something they can&apos;t get
     anywhere else.
 
-*Once you have your email plan ready to go, it's time to start building
+*Once you have your email plan ready to go, it&apos;s time to start building
 your list...*
 
 ## OPT-IN FORMS
@@ -108,8 +108,8 @@ your list...*
     important if your primary goal is to convert visitors to email
     subscribers. Great for bloggers.
 5.  **Popups.**  Annoy people with popups. There is
-    [evidence](http:/${blog_base_url}.kissmetrics.com/5-digit-email-lists/) to
-    support that popups work but it's up to you to decide if the
+    [evidence](http://blog.kissmetrics.com/5-digit-email-lists/) to
+    support that popups work but it&apos;s up to you to decide if the
     conversions are worth the interruptions.
 6.  **Blog Footer.**  Create a custom opt-in form for the footer of your
     blog posts. See the bottom of this post for an example.
@@ -159,7 +159,7 @@ List](${blog_base_url}/2014/02/24/16-opt-in-tricks-to-grow-your-email-list/)*
 7.  **Discount.** Offer a discount. Select a special deal or discount on
     a product or service for new email subscribers. Deliver the deal in
     the welcome email and set up a reminder email for subscribers who
-    don't make a purchase.
+    don&apos;t make a purchase.
 8.  **Free Trial.** Offer a free trial. In exchange for an email and
     other information, give people an opportunity to try your product or
     service for free for a select time period.
@@ -208,7 +208,7 @@ Subscribers](${blog_base_url}/2014/04/21/10-powerful-opt-in-incentives-that-will
     subscribers from your old opt-in list inviting them to join your new
     one.
 3.  **Old Contacts.** Send individual emails to old business contacts.
-    Even if you haven't stayed in touch with all of your connections,
+    Even if you haven&apos;t stayed in touch with all of your connections,
     they might be interested in your emails.
 4.  **LinkedIn Connections.** Find connections on LinkedIn that work in
     industries relevant to your email subscription. Send each potential
@@ -276,7 +276,7 @@ Today](${blog_base_url}/2014/05/05/7-overlooked-ways-to-jump-start-your-email-li
 ## ADVERTISING
 
 1.  **Website Advertising.**   Advertise your subscription on a site with
-    similar audiences. Getting featured isn't easy, and advertising
+    similar audiences. Getting featured isn&apos;t easy, and advertising
     placement can get you powerful results.
 2.  **Google Advertising.**   Run a Google AdWords campaign. Make sure you
     already offer compelling opt-in incentive and have a landing page
@@ -298,13 +298,13 @@ Today](${blog_base_url}/2014/05/05/7-overlooked-ways-to-jump-start-your-email-li
     directly in email receipts. This could be the reinforcement they
     need.
 3.  **Abandoned Cart.**  Send abandoned cart emails. When someone leaves
-    your site with products in their cart, it's important to send an
+    your site with products in their cart, it&apos;s important to send an
     email reminder. Once they come back and complete a purchase, they
     should have an option to subscribe for email on checkout and in
     their receipt.
 4.  **Special Offer.**  Offer a product discount in exchange for
     subscription. This is a great incentive to encourage visitors to
-    sign up for emails. Who wouldn't sign up for emails if it saves them
+    sign up for emails. Who wouldn&apos;t sign up for emails if it saves them
     10% on their first purchase?
 5.  **Recurring Deals.**  Run recurring deals only available to email
     subscribers. Give people a reason to sign up for deals. This keeps
@@ -316,12 +316,12 @@ Today](${blog_base_url}/2014/05/05/7-overlooked-ways-to-jump-start-your-email-li
     leaving when they unsubscribe. This helps gives you ideas on how to
     improve your campaigns.
 2.  **Come Back!** After subscribers unsubscribe, give them an option to
-    sign back up. This seems contradictory, but you'd be surprised at
+    sign back up. This seems contradictory, but you&apos;d be surprised at
     how quickly you can turn them around with a special deal or a funny
     photo.
-3.  **See You Soon.**  When you have to take a break, whether it's for a
+3.  **See You Soon.**  When you have to take a break, whether it&apos;s for a
     vacation or family situation, let your audience know. This builds
-    trust and makes sure they don't forget about you.
+    trust and makes sure they don&apos;t forget about you.
 4.  **Inner Circle.**  Develop an inner circle. Do you have a few
     subscribers that seem to really love your emails? Give these fans an
     option to become a part of a more exclusive subscription and offer
@@ -330,7 +330,7 @@ Today](${blog_base_url}/2014/05/05/7-overlooked-ways-to-jump-start-your-email-li
     their tips or ideas and feature a new subscriber in every issue.
     This gives subscribers an opportunity to become a part of your team,
     on a deeper level.
-6.  **Suggestions?** Ask for suggestions. Don't be afraid to ask
+6.  **Suggestions?** Ask for suggestions. Don&apos;t be afraid to ask
     subscribers what they want to see or hear about in your emails. This
     can help you tailor your content before subscribers do that awful
     thing they should never do and unsubscribe!
@@ -367,13 +367,13 @@ TWITTER
     way to build your list.
 9.  **Miss It?** Send a “did you miss our newsletter” tweet. No one
     enjoys feeling left out, especially if other people that follow him
-    or her received something that they didn’t.
+    or her received something that they didn&apos;t.
 10. **Thank you.** Thank people or send retweets to people who are
     tweeting about your business, newsletter or emails. This adds
     exposure to those who may have missed your tweets about your emails.
 11. **\#Hashtag.** Join discussions and mention your site. You can target
     your audience by observing hashtags and joining appropriate
-    discussions. Once followers begin reading and retweeting, it’s
+    discussions. Once followers begin reading and retweeting, it&apos;s
     easier to grab their interest in your newsletter signups.
 
 FACEBOOK
@@ -418,12 +418,12 @@ SOCIAL MEDIA CONTINUED
     prominent bloggers and other thought leaders are doing in your space
     to build their email audience via social.
 6.  **Talk To Audience.** Engage your audience while you create your
-    emails. When you're working on a newsletter design or content for
-    your next send, don’t hesitate to tweet about why you like working
+    emails. When you&apos;re working on a newsletter design or content for
+    your next send, don&apos;t hesitate to tweet about why you like working
     on it and why you find it interesting.
 7.  **Something New.**  Get out of your Twitter and Facebook comfort
     zone, and jump into the world of Google+ and Pinterest. The more
-    platforms you’re on, the more opportunity you have to reach new
+    platforms you&apos;re on, the more opportunity you have to reach new
     users.
 8.  **Follow Us.** Encourage users to follow you on different platforms.
     If someone already follows you on Twitter, give them an option to
@@ -432,7 +432,7 @@ SOCIAL MEDIA CONTINUED
     they have to find your content and eventually subscribe.
 9.  **Become The Solution.** Were you hoping to find a way to integrate
     your social media with your email acquisition but found the options
-    available lacking? Create a better way! There’s no better way to
+    available lacking? Create a better way! There&apos;s no better way to
     become an authority than creating the next great tool.
 10. **Buttons.** Make your content easy to share on social media. Add
     social media buttons at the bottom or on the side of your blog posts
@@ -460,7 +460,7 @@ OTHER ONLINE TACTICS
 4.  **Industry Talk.** Engage on industry sites. Is there a blog that you
     read regularly? If you have true value to add, leave a comment.
     People will recognize your tips and click on you, finding your
-    website, and eventually will find your email. Don't comment just to
+    website, and eventually will find your email. Don&apos;t comment just to
     comment. There is enough noise already online.
 5.  **Interviews.**  Unless someone wants to interview you for a site
     that goes against your beliefs, do the interview. Showcase your
@@ -484,12 +484,12 @@ OTHER ONLINE TACTICS
     thorough responses for people. This establishes your expertise and
     will ultimately drive traffic to your site and help you grow your
     list.
-10. **Get In Touch.**  Contact key targets in your industry. Don't be
+10. **Get In Touch.**  Contact key targets in your industry. Don&apos;t be
     afraid to reach out to important thought leaders in your space via
     email or Twitter. Let them know about your emails and you might open
     up a world of cross promotion or add value to them and their
     business.
-11. **Go Local.**  Don't sleep on locality. Look for prominent businesses
+11. **Go Local.**  Don&apos;t sleep on locality. Look for prominent businesses
     and bloggers and news publications in your community. Reach out to
     them, and let them know about your emails. People are generally more
     likely to support other locals to help enrich the community.
@@ -498,7 +498,7 @@ OTHER ONLINE TACTICS
     and choose to do absolutely nothing. Clean up your website and watch
     your list grow!
 13. **Patience.** Email marketing can be quite a bit like fishing. Just
-    because something doesn’t take at first doesn’t mean you should
+    because something doesn&apos;t take at first doesn&apos;t mean you should
     completely abandon your fishing hole right away. Take the time to
     test out your ideas before moving on and trying a new one.
 14. **Keep Learning.**  Never think you know it all as there is always
@@ -510,7 +510,7 @@ Conclusion
 
 Building an email list is a long-term commitment. To implement the
 tactics above, consider an incremental approach, testing each tactic
-individually to discover what works for you. Along the way, I'm sure
-you'll come up with dozens of tricks of your own! How do you grow your
+individually to discover what works for you. Along the way, I&apos;m sure
+you&apos;ll come up with dozens of tricks of your own! How do you grow your
 email list? Any ideas to add here? Leave a comment below and keep the
 ideas flowing! :)

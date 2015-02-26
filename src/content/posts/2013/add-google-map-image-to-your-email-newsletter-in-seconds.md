@@ -22,7 +22,7 @@ walk-through, view the slides below or continue reading.
     ![](${blog_base_url}/images/2013/Screen-Shot-2013-11-25-at-2.09.50-PM.png )
 
 3.  **Move pin location if necessary & insert map image.** If you want
-    to move the pin location, you can simply drag-and-drop. When you're
+    to move the pin location, you can simply drag-and-drop. When you&apos;re
     satisfied, click "Save" and ExpressPigeon inserts the map image into
     your newsletter.  
 
@@ -33,11 +33,11 @@ walk-through, view the slides below or continue reading.
     moving your mouse NW to make smaller and SE to make larger. You can
     also left-align, center, or right-align your image and drag-and-drop
     to the desired location within the section. When you are happy with
-    the size, position & location, click "Save' and you're done!  
+    the size, position & location, click "Save&apos; and you&apos;re done!
 
     ![](${blog_base_url}/images/2013/Screen-Shot-2013-11-25-at-2.10.27-PM.png )
 
-The Google Map image is inserted into your newsletter and you're ready
+The Google Map image is inserted into your newsletter and you&apos;re ready
 to make final edits & send your [email campaign](http://expresspigeon.com).
 
 Happy marketing! :)

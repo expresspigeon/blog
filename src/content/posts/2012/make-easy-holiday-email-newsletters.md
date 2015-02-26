@@ -11,7 +11,7 @@ to help you prepare for a successful holiday email marketing plan.
 
 **1. Prepare a Holiday Email Marketing Calendar**
 
-Don't fall behind, prepare a holiday email marketing strategy and mark
+Don&apos;t fall behind, prepare a holiday email marketing strategy and mark
 all of the significant holiday shopping dates such as Black Friday,
 Cyber Monday and the weekends prior to December 25. Preparing email
 content for these busy times will help ensure your email marketing
@@ -19,7 +19,7 @@ strategy will not fall behind as the season progresses.
 
 **2. Start planning your holiday newsletter content now**
 
-Don't wait until early November to preparing holiday themed newsletters.
+Don&apos;t wait until early November to preparing holiday themed newsletters.
 Better late than never but it is best to start preparing in late August
 or early September.
 
@@ -28,9 +28,9 @@ or early September.
 Creating holiday content while still wearing shorts in August can
 sometimes not really put you in ‘tis the Season. Rely on all of those
 wonderful holiday memories from years past and start writing as if
-you're wrapping presents and sharing hot cocoa.
+you&apos;re wrapping presents and sharing hot cocoa.
 
-**4. Don't just focus on Christmas**
+**4. Don&apos;t just focus on Christmas**
 
 Thanksgiving, New Years Eve and Halloween can also be great times for a
 boost in online sales, think of ways your business can profit from these
@@ -51,7 +51,7 @@ and forward by email.
 
 **7. Utilize engaging photos and product videos**
 
-Don't just use the stock photos of your products, think about taking
+Don&apos;t just use the stock photos of your products, think about taking
 your own photos and creating your own review videos to share in your
 newsletter. A serious, big-ticket buyer will often research many
 retailers and videos can help garner their attention and maybe even help
@@ -95,8 +95,8 @@ try [ProBlogForce.com](http://problogforce.com).
 
 Traditions make readers warm and fuzzy inside and your employees are
 probably a wealth of holiday traditions and may even have some great
-memories from working the past holiday seasons. Also, don't forget to
-share photos of your Company's holiday party in your newsletter. (The PG
+memories from working the past holiday seasons. Also, don&apos;t forget to
+share photos of your Company&apos;s holiday party in your newsletter. (The PG
 rated ones)
 
 ![](${blog_base_url}/images/2012/162987_855718651109_4991459_n.jpeg)

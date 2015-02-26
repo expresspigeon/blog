@@ -68,7 +68,7 @@ especially easy to do on ExpressPigeon.
 
     ![](${blog_base_url}/images/2013/confirmation-direct.png )
 
-Your subscription form is LIVE and you're ready to [add it to the sidebar of your website.][add-expresspigeon-subscription-form-to-wordpress-in-minutes] 
+Your subscription form is LIVE and you&apos;re ready to [add it to the sidebar of your website.][add-expresspigeon-subscription-form-to-wordpress-in-minutes] 
 You can also link directly to the subscription form in blog posts or on website pages. Through this form,
 your audience can to opt-in for your newsletter in a matter of seconds
 and you can watch your email list grow! :)
