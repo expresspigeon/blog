@@ -1,5 +1,5 @@
 
-![](/blog/images/2013/colours_l.jpeg)
+![](${blog_base_url}/images/2013/colours_l.jpeg)
 
 Our team here at ExpressPigeon understands the massive potential that
 email marketing has to help you grow your business and build meaningful

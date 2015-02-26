@@ -1,4 +1,4 @@
-[![ExpressPigeon](/blog/images/2013/emailroi.png "ExpressPigeon")](http://ctt.ec/8VdBf)
+[![ExpressPigeon](${blog_base_url}/images/2013/emailroi.png "ExpressPigeon")](http://ctt.ec/8VdBf)
 
 We heard the hype in 2013 about the death of email marketing, but we've
 discovered current statistics that support its thriving life. Email is

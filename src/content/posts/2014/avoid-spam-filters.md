@@ -1,4 +1,4 @@
-![](/blog/images/2014/Avoid-Spam-Filters.png)
+![](${blog_base_url}/images/2014/Avoid-Spam-Filters.png)
 
 Spam filters are often overlooked, undervalued programs working hard to
 make us happier and more productive. They keep our inboxes clean and we
@@ -120,7 +120,7 @@ the CAN-SPAM Act:
 3.  **Include your real mailing address.**You must include your actual
     physical postal address in your email.
 4.  **Never send without consent**. Use our [subscription
-    forms](/blog/2013/11/18/custom-email-subscription-form/)to
+    forms](${blog_base_url}/2013/11/18/custom-email-subscription-form/)to
     help people subscribe.
 
 To learn more, [visit the FTC
@@ -129,7 +129,7 @@ website](http://business.ftc.gov/documents/bus61-can-spam-act-compliance-guide-b
 
 ## Tactic \#3: Use double opt-in.
 
-When building a [signup form](/blog/2013/11/18/custom-email-subscription-form/)
+When building a [signup form](${blog_base_url}/2013/11/18/custom-email-subscription-form/)
 for your email subscription, you have the option with ExpressPigeon to
 do single opt-in or double opt-in. We recommend double-opt in, a process
 that looks like this:
@@ -170,10 +170,10 @@ examples of what not to do:
     business card in a fishbowl or sign up for a chance to win a trade
     show giveaway do not necessarily want email from you. Be clear when
     collecting emails. There are healthy ways to [build an email list
-    offline](/blog/2014/05/15/6-quick-tips-to-grow-your-email-list-offline/).
+    offline](${blog_base_url}/2014/05/15/6-quick-tips-to-grow-your-email-list-offline/).
 -   **Buy an email list.**It's a [really bad idea to purchase or rent an
     email
-    list](/blog/2014/02/12/11-reasons-to-never-purchase-an-email-list/).
+    list](${blog_base_url}/2014/02/12/11-reasons-to-never-purchase-an-email-list/).
     Not only is it illegal and punishable by US law, it can crush your
     email marketing program and do long-term harm to your brand.
 -   **Scrape websites for email addresses.** It goes without saying that
@@ -182,7 +182,7 @@ examples of what not to do:
 
 To get past spam filters, you want to attract people who are truly
 interested in your email. There are hundreds of[healthy ways to grow
-your list](/blog/2014/05/18/101-ways-to-grow-your-email-list/).
+your list](${blog_base_url}/2014/05/18/101-ways-to-grow-your-email-list/).
 
 ## Tactic \#5: Design professional-looking emails.
 If your emails look cheap or unprofessional, you can come across like a spammer. Check out
@@ -196,7 +196,7 @@ Spam filters and your audience don't want misleading subject lines. Make sure yo
 subject line engages subscribers and tells them what your email is
 really about. Avoid spammy phrases like "click here" or "open now" or
 "act today" or "limited offer". Also, don't use ALL CAPS or too many
-numbers or special characters. Use our [teaser feature](/blog/2012/12/14/increase-email-open-rates-with-a-teaser-line/)
+numbers or special characters. Use our [teaser feature](${blog_base_url}/2012/12/14/increase-email-open-rates-with-a-teaser-line/)
 to extend your subject line and entice people to open the email.
 
 ## Tactic \#7: Personalize your email.
@@ -209,7 +209,7 @@ less likely they are to flag your emails as spam.
 
 ## Tactic \#8: Use a human reply-to address.**
 
-Your [reply-to address](/blog/2014/03/03/how-important-is-reply_to-address/)
+Your [reply-to address](${blog_base_url}/2014/03/03/how-important-is-reply_to-address/)
 should be a real company email connected to someone human who your
 subscribers can communicate with. Avoid using an address like
 do-not-reply@yourcompany.com. This sends a selfish message to your
@@ -225,7 +225,7 @@ directed to "http://attackerwhostealsyouridentity.com". Because of this
 shady tactic, you should avoid using URLs as link text. Instead, use
 descriptive text. Every link in this blog post is an example of
 descriptive text. Here at ExpressPigeon, we offer [phishing attack and
-composer protection](/blog/2011/12/21/email-phishing-attack-and-composer-protection/)
+composer protection](${blog_base_url}/2011/12/21/email-phishing-attack-and-composer-protection/)
 to make sure you never forget.
 
 ## Tactic \#10: Start sending email right away.
@@ -235,7 +235,7 @@ email the minute you get your first subscriber. Why? If you wait until
 your list reaches a certain size before sending, your first email will
 seem like a total surprise to early subscribers. And what do subscribers
 do when they are startled? They mark emails as spam. Instead of being
-stagnant, [jump-start your list](/blog/2014/05/05/7-overlooked-ways-to-jump-start-your-email-list-today/)
+stagnant, [jump-start your list](${blog_base_url}/2014/05/05/7-overlooked-ways-to-jump-start-your-email-list-today/)
 and send email from day one.
 
 
@@ -257,7 +257,7 @@ If you use a major ESP and send email using a personal email address
 such as paul@yahoo.com or paul@aol.com, ISPs like Google will block your
 email. Why? Yahoo! and AOL tell them to! The solution is to use your
 corporate email address or owned domain. Learn more about [DMARC and
-what it means to marketers](/blog/2014/06/11/dmarc-in-english-what-it-means-to-marketers/).
+what it means to marketers](${blog_base_url}/2014/06/11/dmarc-in-english-what-it-means-to-marketers/).
 
 ## Tactic \#13: Avoid spam traps.**
 

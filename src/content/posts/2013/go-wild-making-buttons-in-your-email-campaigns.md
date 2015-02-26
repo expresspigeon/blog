@@ -11,7 +11,7 @@ often people use images, simple Internet links (anchors) and buttons
 (images that look like buttons). We have a number of buttons in our
 gallery:
 
-![](/blog/images/2013/Selection_999495.png)
+![](${blog_base_url}/images/2013/Selection_999495.png)
 
 However, there are a couple of disadvantages to this approach. First, we
 have to spend time making these. Second, they are implemented as images,
@@ -27,7 +27,7 @@ a Call to Action button is only a few clicks away.
 
 ###  Bring your content section into edit mode and click on Widgets tab
 
-![](/blog/images/2013/Selection_999496.png )
+![](${blog_base_url}/images/2013/Selection_999496.png )
 
 ### Design & customize your button
 
@@ -39,7 +39,7 @@ automatically changes size. When you're ready to insert your button,
 click "Save" and your button appears in the selected section
 location.
 
-![](/blog/images/2013/Selection_999497.png )
+![](${blog_base_url}/images/2013/Selection_999497.png )
 
 ### Make final edits
 
@@ -49,7 +49,7 @@ You've now successfully developed a professional looking, 100%
 compatible call-to-action for your audience!
 :)
 
-![](/blog/images/2013/Selection_999498.png )
+![](${blog_base_url}/images/2013/Selection_999498.png )
 
 
 When creating a new button, customizations from the original button are

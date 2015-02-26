@@ -1,7 +1,7 @@
 
 <div style="margin-bottom:40px">
 
-<img   style="margin-top:0; margin-right:20px" align="left" src="/blog/images/2014/andycrestodina.jpg" width="148" height="148">
+<img   style="margin-top:0; margin-right:20px" align="left" src="${blog_base_url}/images/2014/andycrestodina.jpg" width="148" height="148">
 
 
 <p>
@@ -129,7 +129,7 @@ camps: those that produce more detailed, practical, honest content, and
 those that produce content is higher quality formats, videos, events and
 podcasts. Of course, both of these work beautifully with email. Every
 serious marketer I know is aggressively [growing their email
-list](/blog/2014/05/18/101-ways-to-grow-your-email-list/).
+list](${blog_base_url}/2014/05/18/101-ways-to-grow-your-email-list/).
 It’s the main factor in long-term growth. If you do everything else
 right, but leave out email marketing, you’ll have to work much harder
 for much longer to get the same results...

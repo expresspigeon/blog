@@ -1,6 +1,6 @@
 You probably aren't a fan of people who visit your website, take a look,
 and leave. You want some way to keep in touch with visitors and [email
-is still the best option](/blog/2014/01/06/email-marketing-statistics-2014/).
+is still the best option](${blog_base_url}/2014/01/06/email-marketing-statistics-2014/).
 
 Smart business owners and bloggers have been enticing visitors to
 subscribe to emails for years - usually by offering a newsletter with
@@ -8,7 +8,7 @@ tips and tricks. But as attention spans get shorter and people get
 busier, it's harder than ever to win over email subscribers.
 
 One of the
-most important [ways to attract new subscribers](/blog/2014/02/24/16-opt-in-tricks-to-grow-your-email-list/)
+most important [ways to attract new subscribers](${blog_base_url}/2014/02/24/16-opt-in-tricks-to-grow-your-email-list/)
 is to come up with a subscription gift. I'm sure you're picturing
 yourself plugging away for months to come up with the perfect incentive,
 but don't give up yet.
@@ -34,7 +34,7 @@ to say next. Take a look at the ebook KissMetrics offers in exchange for
 an email address:
 
 
-![KissMetrics landing page](/blog/images/2014/kissmetricslandingpage.png)
+![KissMetrics landing page](${blog_base_url}/images/2014/kissmetricslandingpage.png)
 
 
 Notice that Kissmetrics covers an important topic in the analytics
@@ -66,7 +66,7 @@ for your audience?*
     an ebook and not deliver!
 5.  **Update opt-in forms.**Update your opt-in forms to tell visitors
     about your amazing ebook. Check out these [opt-in
-    tricks](/blog/2014/02/24/16-opt-in-tricks-to-grow-your-email-list/)
+    tricks](${blog_base_url}/2014/02/24/16-opt-in-tricks-to-grow-your-email-list/)
     to help you with the process.
 
 Is an ebook the perfect incentive for your audience? Or would you
@@ -80,7 +80,7 @@ With an email course, you can deliver information to subscribers broken
 into a series of emails that they can digest over a period of time. For
 example, Copyblogger offers *Internet Marketing for Smart People*:
 
-![CopyBlogger](/blog/images/2014/copyblogger.png)
+![CopyBlogger](${blog_base_url}/images/2014/copyblogger.png)
 
 As you can see, the Copyblogger course introduces subscribers to
 Copyblogger's high-performing content through a 20-part email series and
@@ -92,7 +92,7 @@ email course. Looking at Copyblogger's *Internet Marketing for Smart
 People*, it's clear that the goal is to help subscribers "understand &
 implement effective online marketing":
 
-![Small Copyblogger](/blog/images/2014/smallcopyblogger.png)
+![Small Copyblogger](${blog_base_url}/images/2014/smallcopyblogger.png)
 
 One of the best ways to come up with a clear direction is to review some
 of your most popular blog posts or ebooks and identify a common greater
@@ -105,7 +105,7 @@ Copyblogger offers content marketing, SEO, effective headlines, keyword
 research, and more - which all support the greater subject of online
 marketing.
 
-![Small Copyblogger](/blog/images/2014/smallcb2.png)
+![Small Copyblogger](${blog_base_url}/images/2014/smallcb2.png)
 
 Identify lessons you want to teach in your course. Make a list of
 content that supports each lesson - blog posts, ebooks, videos,
@@ -122,9 +122,9 @@ to your email designs. You can easily duplicate emails to maintain a
 consistent look and feel throughout the series. Once you're done
 designing your emails, you're ready to... **4. Set up your email
 sequence.** You will need to take advantage of the ExpressPigeon
-[autoresponder](/blog/2012/12/02/autoresponders-put-your-email-marketing-campaings-on-cruise-control/)
+[autoresponder](${blog_base_url}/2012/12/02/autoresponders-put-your-email-marketing-campaings-on-cruise-control/)
 feature to deliver your emails. [Read
-this](/blog/2012/12/02/autoresponders-put-your-email-marketing-campaings-on-cruise-control/)
+this](${blog_base_url}/2012/12/02/autoresponders-put-your-email-marketing-campaings-on-cruise-control/)
 to learn how to use autoresponders to set up your email sequence. Using
 autoresponders, you can set up your emails to deliver at specific
 intervals from the time that each new subscriber registers. Once your
@@ -134,7 +134,7 @@ course. Neil Patel swears by email courses and even uses one himself to
 promote his email subscription. Check out his subscription form for
 inspiration:
 
-![QuickSprout](/blog/images/2014/quicksprout.png)
+![QuickSprout](${blog_base_url}/images/2014/quicksprout.png)
 
 *Is an email course right for your business? Give it a shot!*
 
@@ -151,7 +151,7 @@ can ask questions and interact via voice or messaging - one of the most
 engaging forms of content marketing there is. Here's an example of one
 of Moz's recurring webinars:
 
-![Moz](/blog/images/2014/moz.png)
+![Moz](${blog_base_url}/images/2014/moz.png)
 
 Moz uses webinars to educate their audience on online marketing in an
 effort to build their email list and ultimately upsell attendees on Moz
@@ -201,7 +201,7 @@ a regular basis? For example, I helped launch [Tiesta Tea](http://tiestatea.com)
 gave away free bags of tea on Twitter every Friday and earned thousands
 of paying customers in the process.
 
-![Tiesta Tea](/blog/images/2014/tiestatealong.png)
+![Tiesta Tea](${blog_base_url}/images/2014/tiestatealong.png)
 
 
 Looking back - I could have improved the giveaway by making it exclusive
@@ -214,7 +214,7 @@ to email subscribers. Here's what I would do today...
     Friday.
 2.  **Create entry points on your website.**Entry points for the contest
     are your opt-in forms. [Update the
-    forms](/blog//2014/02/24/16-opt-in-tricks-to-grow-your-email-list/)
+    forms](${blog_base_url}//2014/02/24/16-opt-in-tricks-to-grow-your-email-list/)
     to let people know about your contest. With the Tiesta Tea example,
     your messaging might be: "Sign up for the Tiesta Tea Club for a
     chance to win free tea every Friday."
@@ -240,7 +240,7 @@ a list. For example, Pillsbury calls its email subscribers "Members" and
 promotes the club heavily on its
 website:
 
-![pillsburyoffer](/blog/images/2014/pillsburyoffer.png)
+![pillsburyoffer](${blog_base_url}/images/2014/pillsburyoffer.png)
 
 Notice that Pillsbury offers members free coupons, samples, and a
 newsletter subscription. When you dive deeper, you'll find they also
@@ -259,7 +259,7 @@ give members a free calendar and entries to recurring sweepstakes.
     offering ongoing benefits such as recurring contests or giveaways.
 3.  **Update opt-in forms & process.**Be sure to update your opt-in
     forms and process. One of the most fitting [opt-in
-    tricks](/blog/16-opt-in-tricks-to-grow-your-email-list/)
+    tricks](${blog_base_url}/16-opt-in-tricks-to-grow-your-email-list/)
     to consider is creating a page dedicated to your club and adding it
     to your main menu.
 
@@ -277,7 +277,7 @@ learn - on the way to work, relaxing at home, or driving their kids to
 school. See how Audible offers a free audiobook to encourage people to
 sign up for its service:
 
-![audiobook](/blog/images/2014/audiobook.png)
+![audiobook](${blog_base_url}/images/2014/audiobook.png)
 
 
 Why couldn't you offer the same deal to your email subscribers? Would
@@ -299,7 +299,7 @@ an audio subscription gift...*
     downloading & streaming.
 4.  **Update your welcome email.** You need to add a button or text link
     to direct subscribers to the page with your audio gift.
-5.  **Update opt-in forms.**Update your opt-in forms with [these tricks in mind](/blog/2014/02/24/16-opt-in-tricks-to-grow-your-email-list/).
+5.  **Update opt-in forms.**Update your opt-in forms with [these tricks in mind](${blog_base_url}/2014/02/24/16-opt-in-tricks-to-grow-your-email-list/).
     You might want to design a custom cover for your audiobook or
     podcast to make it more visually appealing.
 
@@ -313,7 +313,7 @@ services is a great way to build your list and encourage subscribers to
 make an immediate purchase. Look at how NFL SHOP offers 10% off for new
 subscribers only:
 
-![nflshop](/blog/images/2014/nflshop.png)
+![nflshop](${blog_base_url}/images/2014/nflshop.png)
 
 Notice that NFL SHOP uses a custom opt-in form to collect information
 about new subscribers. Don't worry... you don't need a major budget to
@@ -332,7 +332,7 @@ subscribers...*
     reminder email.
 3.  **Update your welcome email.** Use
     [ExpressPigeon](http://expresspigeon.com) to easily [insert a
-    button](/blog/2013/10/01/go-wild-making-buttons-in-your-email-campaigns/)
+    button](${blog_base_url}/2013/10/01/go-wild-making-buttons-in-your-email-campaigns/)
     or text link that directs subscribers to a page where your discount
     applies. Make sure the page only houses products or services that
     are eligible for the offer - you don't want to mislead new
@@ -341,7 +341,7 @@ subscribers...*
     need to update your opt-in forms. This might require custom
     development but at the very least, make sure your opt-in copy
     communicates your new offer. Consider testing new [opt-in
-    tricks](/blog/2014/02/24/16-opt-in-tricks-to-grow-your-email-list/)
+    tricks](${blog_base_url}/2014/02/24/16-opt-in-tricks-to-grow-your-email-list/)
     to better transform website visitors into email subscribers.
 
 Offering a discount is a great way to attract attention to your email
@@ -361,7 +361,7 @@ customers. Even if they don't covert into customers after the trial
 period, you can continue the conversation via email. Check out how BJ's
 Wholesale Club offers a free 60-day membership:
 
-![BJswholesale](/blog/images/2014/BJswholesale.png)
+![BJswholesale](${blog_base_url}/images/2014/BJswholesale.png)
 
 Notice in the bottom-right corner of BJ's subscription form, visitors
 have an option to "Subscribe to BJ's Emails". This is one way to do it.
@@ -380,7 +380,7 @@ you sell products that people can buy over and over again. For example,
 MOO offers free business card samples for website
 visitors:
 
-![moobusinesscards](/blog/images/2014/moobusinesscards.png)
+![moobusinesscards](${blog_base_url}/images/2014/moobusinesscards.png)
 
 
 In order to receive the cards, you have to create a MOO account. Once
@@ -424,7 +424,7 @@ Coming up with the perfect opt-in incentive for your business can be as
 simple or as complex as you decide is right for your audience. No matter
 what incentive you choose to create, it's essential to give people a
 reason to sign up for your emails. You can use all the
-[opt-in tricks](/blog//2014/02/24/16-opt-in-tricks-to-grow-your-email-list/)
+[opt-in tricks](${blog_base_url}/2014/02/24/16-opt-in-tricks-to-grow-your-email-list/)
 in the world but if you don't offer any incentive, why would anyone
 subscribe? Remember, your subscription gift should be...
 

@@ -1,4 +1,4 @@
-![christmas shopping online](/blog/images/2012/photodune-454317-christmas-shopping-online-xs.jpeg "christmas shopping online")
+![christmas shopping online](${blog_base_url}/images/2012/photodune-454317-christmas-shopping-online-xs.jpeg "christmas shopping online")
 For most retailers, it is that time of year to consider marketing
 and hiring plans to prepare for the upcoming gift-giving holiday season.
 When making these plans, consider email marketing with [Express Pigeon
@@ -67,7 +67,7 @@ providing opportunities for customers to make new memories. Maybe the
 memory is something they read every year in your Express Pigeon
 newsletter!
 
-![Santa Claus_ Blog | Working all year to bring you Christmas cheer!](/blog/images/2012/santa-claus_-blog-working-all-year-to-bring-you-christmas-cheer.jpg "Santa Claus_ Blog | Working all year to bring you Christmas cheer!")
+![](${blog_base_url}/images/2012/santa-claus_-blog-working-all-year-to-bring-you-christmas-cheer.jpg )
 
 **9. Help a holiday blogger**
 
@@ -99,4 +99,4 @@ memories from working the past holiday seasons. Also, don't forget to
 share photos of your Company's holiday party in your newsletter. (The PG
 rated ones)
 
-![Holiday Christmas Cheer](/blog/images/2012/162987_855718651109_4991459_n.jpeg "Holiday Christmas Cheer")
+![](${blog_base_url}/images/2012/162987_855718651109_4991459_n.jpeg)

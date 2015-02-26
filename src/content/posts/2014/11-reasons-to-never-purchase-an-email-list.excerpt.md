@@ -1,6 +1,6 @@
 Email marketing is essential to a successful online marketing strategy.
 In fact, [email marketing has an ROI of over
-4300%](/blog/2014/01/06/email-marketing-statistics-2014/).
+4300%](${blog_base_url}/2014/01/06/email-marketing-statistics-2014/).
 Unfortunately, it’s easy for new marketers to make a deadly mistake that
 can crush their email marketing program and company reputation:
 Purchasing or renting an email list.

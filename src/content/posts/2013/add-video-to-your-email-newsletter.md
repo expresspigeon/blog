@@ -23,11 +23,11 @@ to your newsletter.*
 1.  **Open Video Widget.** In design mode, click on "Widgets" and select
     "Video".  
 
-    ![](/blog/images/2013/Screen-Shot-2013-11-15-at-3.04.31-PM.png)
+    ![](${blog_base_url}/images/2013/Screen-Shot-2013-11-15-at-3.04.31-PM.png)
 
 2.  **Add video link.** Copy & paste link of YouTube video and click
     "Save".
-    ![](/blog/images/2013/Screen-Shot-2013-11-15-at-1.13.08-PM.png)
+    ![](${blog_base_url}/images/2013/Screen-Shot-2013-11-15-at-1.13.08-PM.png)
 
 3.  **Make final edits & send.** You can easily drag and drop your video
     within the section you are editing in your newsletter. You can
@@ -35,7 +35,7 @@ to your newsletter.*
     with video location, you are ready to send your newsletter!
     customize formatting.  
 
-    ![](/blog/images/2013/Screen-Shot-2013-11-15-at-1.15.57-PM.png)
+    ![](${blog_base_url}/images/2013/Screen-Shot-2013-11-15-at-1.15.57-PM.png)
 
 When a subscriber opens the newsletter, he or she will see the video
 where you placed it (with a large play icon at the center of the video).

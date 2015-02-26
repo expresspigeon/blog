@@ -1,7 +1,7 @@
 
 *Scroll down to see a list of related posts!*
 
-![[Photo credits](http://www.flickr.com/photos/pinksherbet/233228813/)](/blog/images/2013/free-child-walking-on-white-round-spheres-balance-creative-commons_l.jpg)
+![[Photo credits](http://www.flickr.com/photos/pinksherbet/233228813/)](${blog_base_url}/images/2013/free-child-walking-on-white-round-spheres-balance-creative-commons_l.jpg)
 
 
 We scoured the internet to find moms who have especially awesome email
@@ -14,7 +14,7 @@ we'll add it to the list if we agree. Hope you enjoy! :)*
 
 **1. Sweet & hilarious.** via Patti from [Insane In The Mom Brain](http://www.insanemombrain.com/)
 
-![](/blog/images/2013/Screen-Shot-2013-10-21-at-9.53.47-AM.png )
+![](${blog_base_url}/images/2013/Screen-Shot-2013-10-21-at-9.53.47-AM.png )
 
 Lesson learned: Express yourself. Come up with something that really is
 YOU. Patti says herself that she "ain't right in the head" but we
@@ -25,7 +25,7 @@ this.](http://www.insanemombrain.com/2013/10/breaking-biore.html)
 
 **2. Clean & simple.** via Amy from [Mom Spark](http://momspark.net/).
 
-![](/blog/images/2013/Screen-Shot-2013-10-19-at-2.09.56-PM.png )
+![](${blog_base_url}/images/2013/Screen-Shot-2013-10-19-at-2.09.56-PM.png )
 
 Lesson learned: Don't overthink it. If maintaining your blog aesthetic
 and spacing is very important to you, a simple subscription box in a key
@@ -38,7 +38,7 @@ beautiful.
 
 ** 3. Original & incredible.** via Carley from [Carley K](http://carleyk.com/)
 
-![](/blog/images/2013/Screen-Shot-2013-10-09-at-12.38.45-PM.png )
+![](${blog_base_url}/images/2013/Screen-Shot-2013-10-09-at-12.38.45-PM.png )
 
 Lesson learned: Be creative and amazing. Come up with a way to do
 something completely original, and do it well. Easier said than done,
@@ -51,7 +51,7 @@ website perfectly. GET INSPIRED.
 
 **4. Giving & respectful.** via [Living Montessori Now](http://livingmontessorinow.com/)
 
-![](/blog/images/2013/Screenshot-2013-10-09-at-10.51.13-AM.png )
+![](${blog_base_url}/images/2013/Screenshot-2013-10-09-at-10.51.13-AM.png )
 
 Lesson learned: Be generous. I don't know about you but I like free
 stuff. I like it so much that I got really excited about this signup
@@ -64,7 +64,7 @@ none here!
 
 **5. Specific & straightforward.** via [Stacy Makes Sense](http://www.stacymakescents.com/)
 
-![](/blog/images/2013/Screen-Shot-2013-10-21-at-9.29.18-AM.png )
+![](${blog_base_url}/images/2013/Screen-Shot-2013-10-21-at-9.29.18-AM.png )
 
 Lesson learned: Be honest. Tell your subscribers EXACTLY what they're
 signing up for and everything they're opting into. Stacy from [Stacy
@@ -76,7 +76,7 @@ supports her mission. :)
 
 **6. Powerful & energized.** via [Cool Mom Picks.](http://coolmompicks.com/)
 
-![](/blog/images/2013/Screen-Shot-2013-10-23-at-12.17.44-PM.png )
+![](${blog_base_url}/images/2013/Screen-Shot-2013-10-23-at-12.17.44-PM.png )
 
 Lesson learned: Know your value! Popular mom site [Cool Mom Picks.](http://coolmompicks.com/) 
 does this effortlessly... Well I'm sure it took some effort.
@@ -87,6 +87,6 @@ is, and don't be afraid to share how awesome you are. Think, "All this
 is yours". Pretty strong. Scary strong. You get it.
 
 You might be interested in...
-[9 Reasons Modern Moms Will Help You Send Better Email Campaigns](/blog/2013/12/03/email-marketing-moms/)
-[Build Your Email List With The WWSGD WordPress Plugin](/blog/2013/11/18/custom-email-subscription-form/)
-[Build A Custom Email Subscription Form In Minutes](/blog/2013/11/18/custom-email-subscription-form/)
+[9 Reasons Modern Moms Will Help You Send Better Email Campaigns](${blog_base_url}/2013/12/03/email-marketing-moms/)
+[Build Your Email List With The WWSGD WordPress Plugin](${blog_base_url}/2013/11/18/custom-email-subscription-form/)
+[Build A Custom Email Subscription Form In Minutes](${blog_base_url}/2013/11/18/custom-email-subscription-form/)

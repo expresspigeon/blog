@@ -19,7 +19,7 @@ come up with two subject lines, A and B, and then
 
 For example, when sending a campaign, you can choose A/B Split campaign
 
-![](/blog/images/2013/Selection_607.png )
+![](${blog_base_url}/images/2013/Selection_607.png )
 
 Campaign sending page above is
 pretty self-explanatory. Add two best subjects you can come up with,

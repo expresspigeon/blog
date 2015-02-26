@@ -1,5 +1,5 @@
 
-[![ExpressPigeon](/blog/images/2013/happy-holidays-at-zara_l.jpg "ExpressPigeon")](http://foter.com/re/3fc809)
+[![ExpressPigeon](${blog_base_url}/images/2013/happy-holidays-at-zara_l.jpg "ExpressPigeon")](http://foter.com/re/3fc809)
 [Mr. T in DC](http://www.flickr.com/photos/mr_t_in_dc/5207777107/) / [CCBY-ND](http://creativecommons.org/licenses/by-nd/2.0/)
 
 The holiday shopping season is well underway and nothing screams holiday

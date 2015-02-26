@@ -2,7 +2,7 @@
 user satisfaction and feature ratings place it next to Mailchimp,
 Constant Contact, ExactTarget, and other industry-leading ESPs.*
 
-![](/blog/images/2014/04/grid2.png)
+![](${blog_base_url}/images/2014/04/grid2.png)
 
 CHICAGO - April 10, 2014 - Innovative email service provider changing
 the way marketing email is prepared and sent, ExpressPigeon, was named
@@ -76,7 +76,7 @@ To learn more and view The Grid℠, go to G2 Crowd
 user satisfaction and feature ratings place it next to Mailchimp,
 Constant Contact, ExactTarget, and other industry-leading ESPs.*
 
-![](/blog/images/2014/grid2.png)
+![](${blog_base_url}/images/2014/grid2.png)
 
 CHICAGO - April 10, 2014 - Innovative email service provider changing
 the way marketing email is prepared and sent, ExpressPigeon, was named

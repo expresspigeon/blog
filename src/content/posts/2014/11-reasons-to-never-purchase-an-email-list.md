@@ -1,5 +1,5 @@
 Email marketing is essential to a successful online marketing strategy.
-In fact, [email marketing has an ROI of over 4300%](/blog/2014/01/06/email-marketing-statistics-2014/).
+In fact, [email marketing has an ROI of over 4300%](${blog_base_url}/2014/01/06/email-marketing-statistics-2014/).
 Unfortunately, it’s easy for new marketers to make a deadly mistake that
 can crush their email marketing program and company reputation:
 Purchasing or renting an email list.
@@ -10,7 +10,7 @@ way to hear about it. You’ve heard rumors about list-building over the
 years so you hit Google and search for “purchase email list”. Lucky for
 you, there are a few exciting sponsored searches:
 
-![](/blog/images/2014/Purchase-Email-List.png)
+![](${blog_base_url}/images/2014/Purchase-Email-List.png)
 
 Goldmine! All you have to do now is swipe your credit card and you’ll
 have a list of “verified” and “opt-in” email addresses from “trusted”
@@ -71,7 +71,7 @@ addresses in a database. This database becomes, lucky for you, an email
 list that you can purchase. Sounds like a great list of people to email,
 eh?
 
-![](/blog/images/2014/emailrobot.png)
+![](${blog_base_url}/images/2014/emailrobot.png)
 
 Let's not forget about industry events. Ever signed up for a chance to
 win a car or checked off a few random boxes during registration? You are
@@ -118,7 +118,7 @@ emails from some other company? No chance.
 Unless you’re merging email lists with a
 partner or acquiring a new company (send a reengagement opt-in
 campaign), buying a valuable email list is impossible. A good email list
-is [so valuable](/blog/2014/01/06/email-marketing-statistics-2014/)
+is [so valuable](${blog_base_url}/2014/01/06/email-marketing-statistics-2014/)
 that nobody in their right mind would sell it and jeopardize destroying
 those hard-earned relationships. Think about it. An email list is only
 as valuable as the attention of the people on it and the relationship
@@ -140,7 +140,7 @@ numerical rating Sender Score on a scale of 0-100. This number,
 determined by a complex algorithm, is based on a variety of inputs
 including deliverability & spam reports.
 
-![SenderScore](/blog/images/2014/SenderScore.png)
+![SenderScore](${blog_base_url}/images/2014/SenderScore.png)
 
 Purchased lists are usually very high in bounce rate & spam reports and
 can crush your Sender Score. Not only will a lower Sender Score limit
@@ -227,11 +227,10 @@ There are a few steps to follow to build your opt-in list:
     database where emails are collected when new people sign up for your
     email subscription.
 3.  [**Create an email subscription
-    form.**](http://blog.expresspigeon.com/2013/11/18/custom-email-subscription-form/)
+    form.**](${blog_base_url}/2013/11/18/custom-email-subscription-form/)
     This process takes minutes on ExpressPigeon, and makes it possible
     for people to sign up for your emails.
-4.  **[Add signup forms to your
-    website](http://blog.expresspigeon.com/2013/11/19/add-expresspigeon-subscription-form-to-wordpress-in-minutes/)
+4.  **[Add signup forms to your website](${blog_base_url}/2013/11/19/add-expresspigeon-subscription-form-to-wordpress-in-minutes/)
     and social media pages.** Adding signup forms to your website is
     easy with ExpressPigeon, especially for Wordpress users. We also
     offer a way to add a signup form to your Facebook page. These forms
@@ -244,8 +243,7 @@ There are a few steps to follow to build your opt-in list:
     special deal for joining.
 
 Building an email list of engaged subscribers takes time and work but
-with an [ROI of over
-4300%](/blog/2014/01/06/email-marketing-statistics-2014/),
+with an [ROI of over 4300%](${blog_base_url}/2014/01/06/email-marketing-statistics-2014/),
 it's totally worth it. If you're looking for more ideas on how to grow
 your list, stay tuned for a mammoth post on growing your list. Happy
 marketing! :)

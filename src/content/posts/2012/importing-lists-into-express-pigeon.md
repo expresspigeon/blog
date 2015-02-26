@@ -13,7 +13,7 @@ In the dashboard, select the contacts
 tab and create a new list – give the list a name and subject to keep
 yourself organized.
 
-![](/blog/images/2012/selection_4081.png)
+![](${blog_base_url}/images/2012/selection_4081.png)
 
 
 ## Step two - customize your list properties
@@ -24,7 +24,7 @@ with the [CAN SPAM ACT](http://business.ftc.gov/documents/bus61-can-spam-act-com
 and our [Terms of Service](https://expresspigeon.com/terms). This information
 is automatically pulled from your account information as a default.
 
-![](/blog/images/2012/selection_411.png)
+![](${blog_base_url}/images/2012/selection_411.png)
 
 
 ## Step three uploading tour contacts
@@ -36,7 +36,7 @@ Navigate into “List Contacts” to begin.
 
 You could do it the old fashion way and manually type in all your subscribers if you have only a few:
 
-![Manually type contact information](/blog/images/2012/selection_409.png "Manually type contact information")
+![](${blog_base_url}/images/2012/selection_409.png)
 
 ### Upload a CSV file:
 
@@ -45,7 +45,7 @@ typical way to upload contacts into [ExpressPigeon](http://expresspigeon.com) ac
 do this, simply select Upload CSV and select a local file with your
 contacts:
 
-![](/blog/images/2012/selection_410.png)
+![](${blog_base_url}/images/2012/selection_410.png)
 
 A CSV file is simply a text file with columns separated by commas.
 
@@ -58,7 +58,7 @@ as a header
 and may contain any number of '-' or '\_' or spaces – but, if a header
 is invalid it will be ignored with their respective columns. If you
 don't have any headers, we will expect it to have a single column with
-emails only. Here is [an example CSV file](/blog/resources/contacts.csv) which will help  you get
+emails only. Here is [an example CSV file](${blog_base_url}/resources/contacts.csv) which will help  you get
 started. It contains all headers we support. Those headers that we do
 not support will simply be ignored during import.
 

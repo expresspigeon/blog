@@ -1,8 +1,8 @@
-![](/blog/images/2014/3-366-y2-bestest-friends_l.jpg)
+![](${blog_base_url}/images/2014/3-366-y2-bestest-friends_l.jpg)
 
 The social media vs. email marketing discussion continues. But not here.
 Don't get me wrong, I uncovered mind shattering
-[email marketing statistics](/blog/2014/01/06/email-marketing-statistics-2014/)
+[email marketing statistics](${blog_base_url}/2014/01/06/email-marketing-statistics-2014/)
 that show email marketing is a better ROI than social media. But social
 media and email play better together than they do apart. You can run an
 effective social media or email campaign without integration. But what
@@ -18,7 +18,7 @@ exposure to your brand and a better chance to receive your message and
 take action. With [ExpressPigeon](http://expresspigeon.com), you can
 easily add social media icons to emails. In the editor, click "Add
 Image" and you will find plenty of icons in the "Social" category.
-![](/blog/images/2014/social_icons_EP.png)
+![](${blog_base_url}/images/2014/social_icons_EP.png)
 Once you've selected an icon, you can click on it within the editing
 window and link it to your social channel URL. If you don't see an icon
 you like in the gallery, you can easily upload your own images. Give it
@@ -33,7 +33,7 @@ channel that you don't via email. One of the best ways to encourage
 connection is to include some of your most popular posts from the past
 week or so. For example, Cool Mom Tech sends weekly emails with their 5
 favorite pins:
-![](/blog/images/2014/cool_mom_tech_pins_email.png)
+![](${blog_base_url}/images/2014/cool_mom_tech_pins_email.png)
 This is a great way to encourage social sharing and build your social
 media following. Remember - subscribers gave you permission to email
 them and social media is a less personal commitment. It's usually worth
@@ -51,10 +51,10 @@ social sharing links can be more difficult. One of the easiest ways to
 do it is by adding a Tweet link using [Click to
 Tweet](http://clicktotweet.com/). See how Jeff Goins does it here:
 
-![](/blog/images/2014/Jeff_Goins_Email.png)
+![](${blog_base_url}/images/2014/Jeff_Goins_Email.png)
 
 You can also add sharing links for specific content within your email.
-For example, I wrote an article on [33 email marketing statistics](/blog/images/2014/01/06/email-marketing-statistics-2014/)
+For example, I wrote an article on [33 email marketing statistics](${blog_base_url}/images/2014/01/06/email-marketing-statistics-2014/)
 earlier this year. Within an ExpressPigeon email, I can add statistics
 with Tweet links like these:
 
@@ -64,21 +64,21 @@ with Tweet links like these:
 * Email marketing responsibilities usually fall on one person as a
     part of a wider range of marketing responsibilities. [tweet this](http://ctt.ec/8oK6r)
 
-With the ExpressPigeon [Button Maker Widget](/blog/2013/10/01/go-wild-making-buttons-in-your-email-campaigns/),
+With the ExpressPigeon [Button Maker Widget](${blog_base_url}/2013/10/01/go-wild-making-buttons-in-your-email-campaigns/),
 I can transform a statistic from above into a beautiful call-to-action
 in the heart of my email:
 
-![](/blog/images/2014/Click_to_tweet_example.png)
+![](${blog_base_url}/images/2014/Click_to_tweet_example.png)
 
 Let's look at another great example from [Content Marketing Institute](http://contentmarketinginstitute.com/). They explicitly ask
 people to share a piece of content within their
 emails:
 
-![](/blog/images/2014/cmi_image.png)
+![](${blog_base_url}/images/2014/cmi_image.png)
 
 If your audience shares your content as desired, their social media
 connections may visit your site. And with a few [opt-in
-tricks](/blog/2014/02/24/16-opt-in-tricks-to-grow-your-email-list/)
+tricks](${blog_base_url}/2014/02/24/16-opt-in-tricks-to-grow-your-email-list/)
 in place, new visitors can become long-term email subscribers. Whether
 you're encouraging subscribers to share your full email or content
 within it, the more they share, the better chance you have of building
@@ -90,7 +90,7 @@ You can promote your emails on social media like you would any
 other valuable content. To find your email URL, you can open your latest
 email and click on "View Online" in the upper-right corner:
 
-![](/blog/images/2014/open_online_1.png)
+![](${blog_base_url}/images/2014/open_online_1.png)
 
 Now that you have an email URL, you are ready to identify social
 channels to share it on. You can do this by thinking about what
@@ -105,7 +105,7 @@ in action by [clicking here](http://ctt.ec/Ar8aI).
 
 Encourage social media
 connections to sign up for your emails. You can do this by creating
-channel-specific posts that link directly to your [subscription form](/blog/2013/11/18/custom-email-subscription-form/)
+channel-specific posts that link directly to your [subscription form](${blog_base_url}/2013/11/18/custom-email-subscription-form/)
 on ExpressPigeon or the subscription page on your website. Here's an
 example of how we promoted our emails in a recent Tweet:
 
@@ -147,7 +147,7 @@ remind them in a "you didn't win the contest" email... Unless of course
 they actually won. ;) Here's an example of how [Travel Channel](http://www.travelchannel.com/)
 is collecting emails for a contest on their website:
 
-![](/blog/images/2014/travelchannel_contest.png)
+![](${blog_base_url}/images/2014/travelchannel_contest.png)
 
 If your contest lives on your website like this, social media is vital
 for promotion. Consider using social advertising, paid posts, and other
@@ -161,7 +161,7 @@ Do you have an active blog or linkable assets
 like web-tools or ebooks? You should. You can generate dozens of
 traffic-generating social media posts for every piece of content you
 create. As long as you have [opt-in
-tricks](/blog/2014/02/24/16-opt-in-tricks-to-grow-your-email-list/)
+tricks](${blog_base_url}/2014/02/24/16-opt-in-tricks-to-grow-your-email-list/)
 in place to convert visitors into email subscribers, you can turn that
 social media traffic into a growing email list. Let's say you just
 published a new blog post. What can do you do next?
@@ -174,12 +174,12 @@ published a new blog post. What can do you do next?
     service like [Sprout Social](http://sproutsocial.com) to save,
     schedule, or publish your posts.
 4.  Sit back and let your [opt-in
-    process](/blog/2014/02/24/16-opt-in-tricks-to-grow-your-email-list/)
+    process](${blog_base_url}/2014/02/24/16-opt-in-tricks-to-grow-your-email-list/)
     transform new visitors into email subscribers.
 
 Remember - This only works if you have an opt-in process in place to
 [effectively convert your website visitors into email
-subscribers.](/blog/2014/02/24/16-opt-in-tricks-to-grow-your-email-list/)
+subscribers.](${blog_base_url}/2014/02/24/16-opt-in-tricks-to-grow-your-email-list/)
 
 # Conclusion
 

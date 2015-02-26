@@ -25,6 +25,6 @@ for Free!](https://expresspigeon.com/access/registration)
 Now all you need to do is make your change, add your news and prepare to
 send!  How cool is that.
 
-![](/blog/images/2012/expresspigeonc2a0e28094c2a0newsletters-gallery-2.jpg)
+![](${blog_base_url}/images/2012/expresspigeonc2a0e28094c2a0newsletters-gallery-2.jpg)
 
 
