@@ -3,7 +3,7 @@ over the past few weeks, and I felt compelled to join the conversation.
 I had a couple spare minutes over the weekend and fished this out of my
 SPAM folder:
 
-![](${blog_base_url}/images/2013/Selection_999403.png )
+![](/blog/images/2013/Selection_999403.png )
 
 Yes, it&apos;s true, Google sent their own product email to my Google for
 Apps SPAM folder! Something is up with their SPAM filter, but let me get
@@ -37,7 +37,7 @@ Gmail subscribers no longer get distracted from their email process
 with your awesome, catchy email titles. You are now two clicks away in a
 boring Promotional tab.
 
-### How might tabs help email marketing?
+####How might tabs help email marketing?
 
 *Subscribers gain control.*
 
@@ -59,12 +59,12 @@ You now compete directly with other marketers in the Promotional tab.
 Competing with other marketers is easier than competing with friends,
 family members, and business contacts in the Primary inbox.
 
-### Great... So how do I get in the Primary tab?
+#### Great... So how do I get in the Primary tab?
 
 It&apos;s pretty simple. Ask your subscribers to place you there (drag and
 drop).
 
-### So.. what about Mobile??
+#### So.. what about Mobile??
 
 With more people accessing emails on the go, I wanted to understand how
 Gmail tabs would be implemented on mobile devices. To learn more, I ran
@@ -72,7 +72,7 @@ an [email marketing](http://expresspigeon.com) test campaign and sent it to my
 my email via the Gmail app from Google on my Samsung S3 phone. Please,
 see results below:
 
-![](${blog_base_url}/images/2013/Selection_999404.png)
+![email](/blog/images/2013/Selection_999404.png "email")
 
 *Social and Promotional tabs are grouped together on mobile and
 displayed within Priority email list. (see above)*
@@ -89,7 +89,7 @@ re-appear in your inbox!
 *If anything, Gmail tabs makes promotional emails on mobile easier to
 access than personal or transactional emails.*
 
-### Does Gmail tabs really affect email marketing?
+####Does Gmail tabs really affect email marketing?
 
 Email marketing is not just a “buy this now” cry. It is also great
 advice to an interested crowd, timely transactional emails, email

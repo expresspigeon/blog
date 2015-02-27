@@ -1,4 +1,4 @@
-![](${blog_base_url}/images/2014/growlistpic.png)
+![](/blog/images/2014/growlistpic.png)
 
 Imagine having the ability to reach thousands of people at the click of
 a button. Once you learn to build an opt-in email list, this will be
@@ -9,7 +9,7 @@ your reality.
 Every single one of your current and future customers has an email
 address, a direct line into the palm of their hands. Email is one of the
 most personal and economical ways to stay in touch. In fact, [current
-statistics](${blog_base_url}/2014/01/06/email-marketing-statistics-2014/)
+statistics](/blog/2014/01/06/email-marketing-statistics-2014/)
 show that email marketing performs better than social media, PPC,
 content marketing, offline direct marketing, online display advertising,
 mobile marketing, and affiliate marketing. So where do you begin?
@@ -81,7 +81,7 @@ Here are a few email content tips to help you...
     holidays and major events within your email content.
 -   **Experiment with subject lines.**  Check out our post on [email
     marketing
-    statistics](${blog_base_url}/2014/01/06/email-marketing-statistics-2014/)
+    statistics](/blog/2014/01/06/email-marketing-statistics-2014/)
     to find a few subject line tricks that might work for you.
 -   **Give extra value.** I&apos;ll cover this more extensively under the
     "Incentives" category in the deck below but the idea here is to run
@@ -95,7 +95,7 @@ your list...*
 
 1.  **Sidebar.** Add opt-in form to your sidebar.** **Add a subscription
     form to the sidebar of your blog with [this Wordpress
-    plugin](${blog_base_url}/2013/11/19/add-expresspigeon-subscription-form-to-wordpress-in-minutes/)
+    plugin](/blog/2013/11/19/add-expresspigeon-subscription-form-to-wordpress-in-minutes/)
     or develop a custom opt-in form.
 2.  **Hello Bar.**  Add a [Hello Bar](http://hellobar.com/) to the top of
     your website. You can encourage email signups directly in the Hello
@@ -109,7 +109,7 @@ your list...*
     subscribers. Great for bloggers.
 5.  **Popups.**  Annoy people with popups. There is
     [evidence](http://blog.kissmetrics.com/5-digit-email-lists/) to
-    support that popups work but it&apos;s up to you to decide if the
+    support that popups work but it is up to you to decide if the
     conversions are worth the interruptions.
 6.  **Blog Footer.**  Create a custom opt-in form for the footer of your
     blog posts. See the bottom of this post for an example.
@@ -137,7 +137,7 @@ your list...*
     prompts signups. This can quickly turn into PR opportunities.
 
 *Learn more: [16 Opt-in Tricks To Grow Your Email
-List](${blog_base_url}/2014/02/24/16-opt-in-tricks-to-grow-your-email-list/)*
+List](/blog/2014/02/24/16-opt-in-tricks-to-grow-your-email-list/)*
 
 ## INCENTIVES
 
@@ -177,7 +177,7 @@ List](${blog_base_url}/2014/02/24/16-opt-in-tricks-to-grow-your-email-list/)*
     offer tools for free without requiring subscription.
 
 *Learn more: [10 Powerful Opt-in Incentives That Will Get You More Email
-Subscribers](${blog_base_url}/2014/04/21/10-powerful-opt-in-incentives-that-will-get-you-more-email-subscribers/)*
+Subscribers](/blog/2014/04/21/10-powerful-opt-in-incentives-that-will-get-you-more-email-subscribers/)*
 
 ## SUBSCRIPTION CONFIRMATION
 
@@ -230,7 +230,7 @@ Subscribers](${blog_base_url}/2014/04/21/10-powerful-opt-in-incentives-that-will
     sign up.
 
 *Learn more: [7 Overlooked Ways To Jump-Start Your Email List
-Today](${blog_base_url}/2014/05/05/7-overlooked-ways-to-jump-start-your-email-list-today/)*
+Today](/blog/2014/05/05/7-overlooked-ways-to-jump-start-your-email-list-today/)*
 
 ## OFFLINE MARKETING
 
@@ -271,7 +271,7 @@ Today](${blog_base_url}/2014/05/05/7-overlooked-ways-to-jump-start-your-email-li
     dreadful elevator music with recordings about your website and email
     sign up. Even your answering machine can help you get the word out!
 
-*Learn more: [6 Quick Tips To Grow Your Email List Offline](${blog_base_url}/images/2014/05/15/6-quick-tips-to-grow-your-email-list-offline/)*
+*Learn more: [6 Quick Tips To Grow Your Email List Offline](/blog/images/2014/05/15/6-quick-tips-to-grow-your-email-list-offline/)*
 
 ## ADVERTISING
 
@@ -291,7 +291,7 @@ Today](${blog_base_url}/2014/05/05/7-overlooked-ways-to-jump-start-your-email-li
 1.  **Checkout.**   Place an opt-in form on your checkout page. Checkout is
     a great time to convert one-time customers into email subscribers.
     Offering a product discount on a future purchase is a great [opt-in
-    incentive](${blog_base_url}/2014/04/21/10-powerful-opt-in-incentives-that-will-get-you-more-email-subscribers/).
+    incentive](/blog/2014/04/21/10-powerful-opt-in-incentives-that-will-get-you-more-email-subscribers/).
 2.  **Email Receipts.**   Offer an opt-in option on email receipts. Some
     people are weary of subscribing during checkout, so make sure you
     reinforce your subscription benefits and offer an opt-in option
@@ -382,7 +382,7 @@ FACEBOOK
 1.  **Subscription Tab.** Add a subscription tab to your Facebook page.
     Design a beautiful call-to-action image for the tab and link it to
     your subscription page. Or use [Facebook Email Sign
-    Up](http:/${blog_base_url}.hubspot.com${blog_base_url}/tabid/6307/bid/26330/How-to-Create-Custom-Tabs-for-Facebook-Business-Pages.aspx)
+    Up](http://blog.hubspot.com/blog/tabid/6307/bid/26330/How-to-Create-Custom-Tabs-for-Facebook-Business-Pages.aspx)
     to create one in minutes.
 2.  **Content Tab.** Create tab for gated content in your Facebook page.
     You can build a custom tab that houses your free ebooks, email
@@ -390,7 +390,7 @@ FACEBOOK
 3.  **Contest.** Run a contest on Facebook that collects emails for
     entry. Learn how to do this in my recent post on [how to integrate
     email and social
-    media](${blog_base_url}/2014/03/19/how-to-integrate-social-media-email-marketing/).
+    media](/blog/2014/03/19/how-to-integrate-social-media-email-marketing/).
 4.  **Cover Talk.** Add a call-to-action in your Facebook page cover.
     Include a message that encourages people to sign up for emails in
     your cover.
@@ -472,7 +472,7 @@ OTHER ONLINE TACTICS
     great way to reach new markets and try new guest blogging tactics.
 7.  **Start A Conversation.**  Content marketing expert Andy Crestodina
     wrote a [great article on how to start a conversation
-    online](http://www.orbitmedia.com${blog_base_url}/start-conversation-online/).
+    online](http://www.orbitmedia.com/blog/start-conversation-online/).
     A new connection can often lead to a new email subscriber, directly
     or indirectly.
 8.  **Speak Up.**  Turn any interaction into an opportunity. Anytime

@@ -1,4 +1,4 @@
-![ ](${blog_base_url}/images/2013/dreamstime_m_23630767-1024x755.jpg )
+![ ](/blog/images/2013/dreamstime_m_23630767-1024x755.jpg )
 
 We are excited to introduce the incredibly helpful Widgets feature to
 the ExpressPigeon [email newsletter](http://expresspigeon.com) design process. On our mission to
@@ -30,7 +30,7 @@ your audience opens the email, they see the countdown in real-time.
 How-To: Select countdown type, select countdown date & time, click
 “Insert”.
 
-![Countdown](${blog_base_url}/images/2013/countdown.png "Countdown")
+![Countdown](/blog/images/2013/countdown.png "Countdown")
 
 ####Button Maker Widget: Add buttons for important links.
 
@@ -40,7 +40,7 @@ button for your email newsletter.
 
 How-To: Select design elements, insert text & links, click “Save”.
 
-![Button Maker](${blog_base_url}/images/2013/button_maker.png "Button Maker")
+![Button Maker](/blog/images/2013/button_maker.png "Button Maker")
 
 Wow, that is a gigantic button! Its size is adjusted autoatically as you
 change font size.

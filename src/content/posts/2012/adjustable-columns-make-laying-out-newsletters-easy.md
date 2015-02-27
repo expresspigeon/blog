@@ -9,12 +9,12 @@ column blocks users can add to a newsletter.
 Here are some examples of Express Pigeon&apos;s one, two, three and four
 column blocks.
 
-![Blog Network Update](${blog_base_url}/images/2012/https___expresspigeon-com_newsletter_fca61498-7070-4cb1-9e46-29d25e5d4404.jpg "Blog Network Update")
+![Blog Network Update](/blog/images/2012/https___expresspigeon-com_newsletter_fca61498-7070-4cb1-9e46-29d25e5d4404.jpg "Blog Network Update")
 
 Here is another example of the columned blocks but not in
 uniform order:
 
-![Blog Network Update](${blog_base_url}/images/2012/https___expresspigeon-com_newsletter_fca61498-7070-4cb1-9e46-29d25e5d4404-1.jpg "Blog Network Update")
+![Blog Network Update](/blog/images/2012/https___expresspigeon-com_newsletter_fca61498-7070-4cb1-9e46-29d25e5d4404-1.jpg "Blog Network Update")
 
 With perfectly aligned blocks, users are free to add text, images or
 other media and can watch the columns automatically adjust their height
@@ -25,14 +25,14 @@ sections. Simply just add text and images.
 To add a column block to a newsletter, simply select the Plus Menu icon
 and then select the desired column block you wish to insert:
 
-![Edit newsletter](${blog_base_url}/images/2012/expresspigeonc2a0e28094c2a0create_edit-newsletter.jpg "Edit newsletter")
+![Edit newsletter](/blog/images/2012/expresspigeonc2a0e28094c2a0create_edit-newsletter.jpg "Edit newsletter")
 
 Once the block is inserted, it is easy to adjust the column width based
 on your content and preferences.  Simply drag the vertical spacer to the
 left or the right and the block&apos;s content will automatically adjust to
 your needs.
 
-![Edit newsletter](${blog_base_url}/images/2012/screen-shot-2012-08-13-at-11-18-38-am.jpg "Edit newsletter")
+![Edit newsletter](/blog/images/2012/screen-shot-2012-08-13-at-11-18-38-am.jpg "Edit newsletter")
 
 The height of the column block will also adjust automatically.
 
@@ -40,7 +40,7 @@ If you want to adjust all of your column blocks to be a uniform size,
 simply select the mark in the middle of the column spacer the
 the adjacent column blocks will snap to make a uniform alignment.
 
-![Edit newsletter](${blog_base_url}/images/2012/expresspigeonc2a0e28094c2a0create_edit-newsletter-1.jpg "Edit newsletter")
+![Edit newsletter](/blog/images/2012/expresspigeonc2a0e28094c2a0create_edit-newsletter-1.jpg "Edit newsletter")
 
 As you can see, the ability to make independent columns is an awesome
 feature aimed at helping users create excellent looking [email

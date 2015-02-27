@@ -26,7 +26,7 @@ a "trigger".
 
 ##This diagram will help understand the process
 
-![Diagram](${blog_base_url}/images/2012/selection_320.png "Diagram")
+![Diagram](/blog/images/2012/selection_320.png "Diagram")
 
 Let&apos;s say you&apos;re running an online t-shirt store and as the store owner
 you have decided to send out a newsletter featuring a new product line.

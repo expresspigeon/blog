@@ -21,12 +21,12 @@ newsletter after filling out a simple form. Here&apos;s five simple steps to
 create a web form at no extra cost to you when you choose to do email
 marketing with Express Pigeon.
 
-![Web forms](${blog_base_url}/images/2012/expresspigeonc2a0e28094c2a0dashboard.jpg "Web forms")
+![Web forms](/blog/images/2012/expresspigeonc2a0e28094c2a0dashboard.jpg "Web forms")
 
 ​1) Click on the "Web forms" tab at the top right hand corner, then
 click on the "Create a new form" button.
 
-![ExpressPigeon — Web forms - Demo Form](${blog_base_url}/images/2012/expresspigeonc2a0e28094c2a0web-forms-demo-form.jpg "ExpressPigeon — Web forms - Demo Form")
+![ExpressPigeon — Web forms - Demo Form](/blog/images/2012/expresspigeonc2a0e28094c2a0web-forms-demo-form.jpg "ExpressPigeon — Web forms - Demo Form")
 ​
  2) Fill in the "General" tab information
 
@@ -39,7 +39,7 @@ form. Provide an explicit call-to-action to get them to sign-up.
 Subtitle (Optional): Use this area to entice the visitor further to
 sign-up.
 
-![ExpressPigeon — Web forms - Demo Form-1](${blog_base_url}/images/2012/expresspigeonc2a0e28094c2a0web-forms-demo-form-1.jpg "ExpressPigeon — Web forms - Demo Form-1")
+![ExpressPigeon — Web forms - Demo Form-1](/blog/images/2012/expresspigeonc2a0e28094c2a0web-forms-demo-form-1.jpg "ExpressPigeon — Web forms - Demo Form-1")
 
 ​3) Decide upon the fields in your web form
 
@@ -58,7 +58,7 @@ newsletters. With Express Pigeon you can collect the following details:
 -   Phone
 -   Company
 
-![ExpressPigeon — Web forms - Demo Form-2](${blog_base_url}/images/2012/expresspigeonc2a0e28094c2a0web-forms-demo-form-2.jpg "ExpressPigeon — Web forms - Demo Form-2")
+![ExpressPigeon — Web forms - Demo Form-2](/blog/images/2012/expresspigeonc2a0e28094c2a0web-forms-demo-form-2.jpg "ExpressPigeon — Web forms - Demo Form-2")
 
 ​4) End their registration with a "Big Thank You" by filling out the
 "After Submit" tab
@@ -71,7 +71,7 @@ sure they want to subscribe to your company&apos;s newsletter. After they
 confirm the subscription, we&apos;d like to say, "Congrats on a brand new
 potential customer!"
 
-![ExpressPigeon — Web forms - Demo Form-3](${blog_base_url}/images/2012/expresspigeonc2a0e28094c2a0web-forms-demo-form-3.jpg "ExpressPigeon — Web forms - Demo Form-3")
+![ExpressPigeon — Web forms - Demo Form-3](/blog/images/2012/expresspigeonc2a0e28094c2a0web-forms-demo-form-3.jpg "ExpressPigeon — Web forms - Demo Form-3")
 
 ​5) Last but not least, the "Confirmation" tab
 

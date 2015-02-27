@@ -1,7 +1,7 @@
 
 
 
-![](${blog_base_url}/images/2015/subject_lines.png)
+![](/blog/images/2015/subject_lines.png)
 
 Someone in your audience is probably checking her email as we speak. You
 only have seconds to grab her attention with an engaging email subject
@@ -9,7 +9,7 @@ line.
 
 The headlines of email marketing play an important role in whether or
 not your emails get opened. According to the latest [email marketing
-statistics](${blog_base_url}/2014/01/06/email-marketing-statistics-2014/)…
+statistics](/blog/2014/01/06/email-marketing-statistics-2014/)…
 
 **Nearly one third of email recipients open email based on subject line
 alone.**&nbsp;[tweet this](http://ctt.ec/z9woa)
@@ -193,7 +193,7 @@ thankfully the email reminds them he&apos;ll be back soon!
 *Subject Line Formula: I&apos;m leaving, but [Company] is in good hands*
 
 
-## [SocialMouths](http://socialmouths.com${blog_base_url}/)
+## [SocialMouths](http://socialmouths.com/blog/)
 
 is one of the top online
 marketing blogs on the Internet covering topics such as blogging, social

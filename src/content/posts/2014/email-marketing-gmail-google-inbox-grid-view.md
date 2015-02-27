@@ -4,7 +4,7 @@ for Gmail users to test out a "Grid View" for promotional email. The
 Grid View offers a Pinterest-style viewing option in the Promotions Tab
 that effectively eliminates subject lines when activated.
 
-![](${blog_base_url}/images/2014/03/gmailgridview.png)
+![](/blog/images/2014/03/gmailgridview.png)
 
 Google presents the Grid View as a better way for users to find "deals
 and offers" they want to know about. But not every email in the
@@ -13,7 +13,7 @@ get our email marketing tips by email
 and many find them in the Promotions Tab. **So what&apos;s really happening
 here?** It appears this is another step in Google&apos;s plan to monetize the
 Gmail inbox. It all started when Google [rolled out
-Tabs](${blog_base_url}/2013/08/20/gmail-tabs-trick-under-sleeve/),
+Tabs](/blog/2013/08/20/gmail-tabs-trick-under-sleeve/),
 which created a clear distinction between promotional, social, and
 personal/business email. By separating marketing emails into the
 Promotions Tab, Google was able to test inbox ads masked as emails
@@ -21,8 +21,8 @@ without causing too much of an uproar. But very few people get excited
 about ads showing up in their inboxes, especially when those ads look
 like emails. Sounds a lot like spam, doesn&apos;t it? And if you read my post
 about [buying email
-lists](${blog_base_url}/2014/02/12/11-reasons-to-never-purchase-an-email-list/),
-you&apos;d know that sending spam is illegal and punishable by up to $16,000
+lists](/blog/2014/02/12/11-reasons-to-never-purchase-an-email-list/),
+you&aposd know that sending spam is illegal and punishable by up to $16,000
 per email. But what if promotional emails display visually? Could this
 make inbox advertising feel less invasive? Is it possible that sending
 spam could become an acceptable practice in the form of inbox

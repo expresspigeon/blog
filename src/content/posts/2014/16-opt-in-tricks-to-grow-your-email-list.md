@@ -35,13 +35,13 @@ Adding an opt-in form to your
 blog sidebar is a great place to start. If you have an active blog, this
 is a traffic-heavy area and a great place to attract new subscribers.
 You can [add a signup form to the sidebar of a Wordpress site with this
-plugin](${blog_base_url}/2013/11/19/add-expresspigeon-subscription-form-to-wordpress-in-minutes/)
+plugin](/blog/2013/11/19/add-expresspigeon-subscription-form-to-wordpress-in-minutes/)
 or develop a custom sidebar. Your form should include a message telling
 visitors why they should sign up. Take a look at how writer [Jeff
 Goins](http://goinswriter.com/) uses his sidebar to promote his
 newsletter:
 
-![](${blog_base_url}/images/2014/goinssidebarshadow.png)
+![](/blog/images/2014/goinssidebarshadow.png)
 
 
 ## Trick #2: Add a Hello Bar to the top of your website.
@@ -51,7 +51,7 @@ of your website. Within the bar, you can add a custom message and
 encourage email signups or direct visitors to a landing page where you
 can capture emails later on. See how B2B marketing expert [Diana
 Huff](http://www.diannahuff.com/) uses Hello Bar to get subscribers:
-![](${blog_base_url}/images/2014/hellobar.png)
+![](/blog/images/2014/hellobar.png)
 
 
 ## Trick #3: Add an opt-in page to your main menu.
@@ -60,10 +60,10 @@ Add a "Subscribe"
 or "Updates" or "Connect" page to your main menu and give your opt-in
 form a home of its own. A page dedicated to your email updates can help
 reel in your more easily distracted visitors. See how blogging
-mastermind [Blog Tyrant](http:/${blog_base_url}tyrant.com) does it
+mastermind [Blog Tyrant](http://blogtyrant.com) does it
 here:
 
-![](${blog_base_url}/images/2014${blog_base_url}tyrantupdates.png)
+![](/blog/images/2014/blogtyrantupdates.png)
 
 Now that you have a page dedicated specifically to your subscription
 form, it&apos;s important to make it accessible. Consider using a custom URL
@@ -77,18 +77,18 @@ slider. This is especially popular for bloggers.
 
 
 Derek Halpern from Social Triggers [does this beautifully](http://socialtriggers.com/):
-![](${blog_base_url}/images/2014/socialtriggers.png)
+![](/blog/images/2014/socialtriggers.png)
 
 ## Trick #5: Prompt visitors with opt-in form popups.
 
 
-There is [a lot of evidence](http:/${blog_base_url}.kissmetrics.com/5-digit-email-lists/) to indicate
+There is [a lot of evidence](http://blog.kissmetrics.com/5-digit-email-lists/) to indicate
 that popups, when tastefully done, can grow your email list. Popups
 collect email addresses or provide visitors with a link to important
 content where addresses are collected later on. I was reading
 Quicksprout the other day and this popped up:
 
-![](${blog_base_url}/images/2014/emailpopupneil.png)
+![](/blog/images/2014/emailpopupneil.png)
 
 While popups can be annoying and are not a fit for every business, there
 are many thought leaders that swear by their results. To add a popup to
@@ -121,14 +121,14 @@ subscribers from falling through the cracks.
     they get by signing up for your emails. Example: "Get Your Free
     Content Marketing Toolkit"
 -   **The body** should qualify people and nudge them to take action.
-    Example: "If you&apos;re serious about content marketing, enter your
+    Example: "If you're serious about content marketing, enter your
     email address below to receive the Content Marketing Toolkit."
 -   **The call-to-action** should be simple and immediate. Example: "Get
     The Toolkit."
 
-Here&apos;s a great [opt-in form example](${blog_base_url}/2014/01/17/6-food-fanatics-will-make-you-rethink-your-subscription-forms/)
+Here&aposs a great [opt-in form example](/blog/2014/01/17/6-food-fanatics-will-make-you-rethink-your-subscription-forms/)
 from Michael Aagaard at [Content Verve](http://contentverve.com/):
-![](${blog_base_url}/images/2014/contentverveoptin.png)
+![](/blog/images/2014/contentverveoptin.png)
 
 
 ## Trick #9: Add something extra to your opt-in forms.
@@ -150,7 +150,7 @@ from Michael Aagaard at [Content Verve](http://contentverve.com/):
 Neil Patel really adds something extra on his Quicksprout opt-in form,
 and [it works](http://www.quicksprout.com/):
 
-[![](${blog_base_url}/images/2014/quicksprout.png)
+[![](/blog/images/2014/quicksprout.png)
 
 ## Trick #10: Keep submission fields limited in opt-in forms.
 
@@ -186,7 +186,7 @@ One example [we spotted at Get Elastic](http://www.getelastic.com/3-creative-way
 is an engaging game developed by Sephora in fall 2013. Visitors entered
 email addresses to follow a ball that traveled Pinko-style into a slot
 where a unique prize was revealed.
-![](${blog_base_url}/images/2014/sephoracampaign.png)
+![](/blog/images/2014/sephoracampaign.png)
 
 
 ## Trick #14: Use double opt-in and create a custom confirmation email.
@@ -219,7 +219,7 @@ for your business? Here are a few ideas:
 
 Here&apos;s a great example from blogging expert
 
-![](${blog_base_url}/images/2014/amylynn.png)
+![](/blog/images/2014/amylynn.png)
 
 
 ## Trick #16: Create a welcome email to remember.
@@ -231,7 +231,7 @@ This is also a great time for a surprise! Consider offering a special
 "thank you" discount. See how getting-things-done expert Gregory Ciotti
 does this at
 
-![](${blog_base_url}/images/2014/sparringmindwelcome.png)
+![](/blog/images/2014/sparringmindwelcome.png)
 
 Notice how Gregory includes links to his best articles and gives a warm
 welcome that gets you excited for what&apos;s to come next. Figure out what

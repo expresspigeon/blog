@@ -13,20 +13,20 @@ walk-through, view the slides below or continue reading.
 1. **Open Map Widget.** In design
     view, click "Widgets" and select "Map".  
 
-   ![](${blog_base_url}/images/2013/Screen-Shot-2013-11-25-at-2.09.37-PM.png )
+   ![](/blog/images/2013/Screen-Shot-2013-11-25-at-2.09.37-PM.png )
 
 2.  **Search and select location.** Search for location in the search
     bar. Select desired location and a pin automatically drops onto
     map.  
 
-    ![](${blog_base_url}/images/2013/Screen-Shot-2013-11-25-at-2.09.50-PM.png )
+    ![](/blog/images/2013/Screen-Shot-2013-11-25-at-2.09.50-PM.png )
 
 3.  **Move pin location if necessary & insert map image.** If you want
     to move the pin location, you can simply drag-and-drop. When you&apos;re
     satisfied, click "Save" and ExpressPigeon inserts the map image into
     your newsletter.  
 
-    ![](${blog_base_url}/images/2013/Screen-Shot-2013-11-25-at-2.10.05-PM.png)
+    ![](/blog/images/2013/Screen-Shot-2013-11-25-at-2.10.05-PM.png)
 
 4.  **Adjust map size & formatting.** You can resize the map image like
     any other image by clicking and holding the bottom-right corner and
@@ -35,7 +35,7 @@ walk-through, view the slides below or continue reading.
     to the desired location within the section. When you are happy with
     the size, position & location, click "Save&apos; and you&apos;re done!
 
-    ![](${blog_base_url}/images/2013/Screen-Shot-2013-11-25-at-2.10.27-PM.png )
+    ![](/blog/images/2013/Screen-Shot-2013-11-25-at-2.10.27-PM.png )
 
 The Google Map image is inserted into your newsletter and you&apos;re ready
 to make final edits & send your [email campaign](http://expresspigeon.com).

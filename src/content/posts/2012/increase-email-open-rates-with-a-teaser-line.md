@@ -13,7 +13,7 @@ The Express Pigeon email editor makes it really easy to add a teaser
 line. Just click on the teaser box in the header, type your text, and
 save.
 
-![](${blog_base_url}/images/2012/image-12-13-12-at-11-42-pm.png )
+![Teaser line example](/blog/images/2012/image-12-13-12-at-11-42-pm.png "Teaser line example")
 
 Simple click on the teaser line, type in your text,
 and save.
@@ -22,11 +22,11 @@ Here are some examples of how teasers lines look in an inbox:
 
 ###IPhone example of teaser line display
 
-![](${blog_base_url}/images/2012/iphone2-e1355209684720.png )
+![iphone2](/blog/images/2012/iphone2-e1355209684720.png "iphone2")
 
 ###GMail example of teaser line display
 
-![](${blog_base_url}/images/2012/image-12-14-12-at-12-00-am.png)
+![Teaser Example in Inbox](/blog/images/2012/image-12-14-12-at-12-00-am.png "Teaser Example in Inbox")
 
 The Teaser appears to the right of the subject and should entice your reader to open the newsletter.
 

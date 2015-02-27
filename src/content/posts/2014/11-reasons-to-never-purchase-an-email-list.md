@@ -1,6 +1,6 @@
 Email marketing is essential to a successful online marketing strategy.
-In fact, [email marketing has an ROI of over 4300%](${blog_base_url}/2014/01/06/email-marketing-statistics-2014/).
-Unfortunately, it&apos;s easy for new marketers to make a deadly mistake that
+In fact, [email marketing has an ROI of over 4300%](/blog/2014/01/06/email-marketing-statistics-2014/).
+Unfortunately, it&aposs easy for new marketers to make a deadly mistake that
 can crush their email marketing program and company reputation:
 Purchasing or renting an email list.
 
@@ -10,7 +10,7 @@ way to hear about it. You&apos;ve heard rumors about list-building over the
 years so you hit Google and search for “purchase email list”. Lucky for
 you, there are a few exciting sponsored searches:
 
-![](${blog_base_url}/images/2014/Purchase-Email-List.png)
+![](/blog/images/2014/Purchase-Email-List.png)
 
 Goldmine! All you have to do now is swipe your credit card and you&apos;ll
 have a list of “verified” and “opt-in” email addresses from “trusted”
@@ -71,7 +71,7 @@ addresses in a database. This database becomes, lucky for you, an email
 list that you can purchase. Sounds like a great list of people to email,
 eh?
 
-![](${blog_base_url}/images/2014/emailrobot.png)
+![](/blog/images/2014/emailrobot.png)
 
 Let&apos;s not forget about industry events. Ever signed up for a chance to
 win a car or checked off a few random boxes during registration? You are
@@ -118,7 +118,7 @@ emails from some other company? No chance.
 Unless you&apos;re merging email lists with a
 partner or acquiring a new company (send a reengagement opt-in
 campaign), buying a valuable email list is impossible. A good email list
-is [so valuable](${blog_base_url}/2014/01/06/email-marketing-statistics-2014/)
+is [so valuable](/blog/2014/01/06/email-marketing-statistics-2014/)
 that nobody in their right mind would sell it and jeopardize destroying
 those hard-earned relationships. Think about it. An email list is only
 as valuable as the attention of the people on it and the relationship
@@ -140,7 +140,7 @@ numerical rating Sender Score on a scale of 0-100. This number,
 determined by a complex algorithm, is based on a variety of inputs
 including deliverability & spam reports.
 
-![SenderScore](${blog_base_url}/images/2014/SenderScore.png)
+![SenderScore](/blog/images/2014/SenderScore.png)
 
 Purchased lists are usually very high in bounce rate & spam reports and
 can crush your Sender Score. Not only will a lower Sender Score limit
@@ -205,13 +205,13 @@ crushed.** Think you had a successful run sending to purchased lists? I
 have bad news for you. Short-term results are possible but the long-term
 consequences will haunt you. Once your Sender Score nosedives and you
 [find yourself on blacklists](http://mxtoolbox.com/blacklists.aspx), it
-can take years before you can earn back a good reputation. It&apos;s clear to
+can take years before you can earn back a good reputation. It's clear to
 see that purchasing email lists is a bad deal. If those eleven reasons
-weren&apos;t enough for you, let me remind you.... Cold calling and cold
+weren't enough for you, let me remind you.... Cold calling and cold
 emailing is just plain obnoxious.
 
-To sum it up, purchasing email lists is a bad practice. Don&apos;t get stuck
-in the past and kill your company&apos;s future. So... How can you build an
+To sum it up, purchasing email lists is a bad practice. Don’t get stuck
+in the past and kill your company's future. So... How can you build an
 email list the right way?
 
 ## How To Build An Opt-In Email List
@@ -238,13 +238,12 @@ There are a few steps to follow to build your opt-in list:
     sign up to receive your future email communications.
 5.  **Let customers know.** Reach out to your existing customers and
     offer them an opportunity to opt-in to receive emails from you in
-    the future. It&apos;s important to explain what value you will add and
+    the future. It's important to explain what value you will add and
     why they should sign up. Think about offering existing customers a
     special deal for joining.
 
 Building an email list of engaged subscribers takes time and work but
-with an [ROI of over
-4300%](${blog_base_url}/2014/01/06/email-marketing-statistics-2014/),
-it&apos;s totally worth it. If you&apos;re looking for more ideas on how to grow
+with an [ROI of over 4300%](${blog_base_url}/2014/01/06/email-marketing-statistics-2014/),
+it's totally worth it. If you're looking for more ideas on how to grow
 your list, stay tuned for a mammoth post on growing your list. Happy
 marketing! :)
