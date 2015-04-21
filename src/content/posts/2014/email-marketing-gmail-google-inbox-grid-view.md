@@ -4,7 +4,7 @@ for Gmail users to test out a "Grid View" for promotional email. The
 Grid View offers a Pinterest-style viewing option in the Promotions Tab
 that effectively eliminates subject lines when activated.
 
-![](/blog/images/2014/03/gmailgridview.png)
+![](/blog/images/2014/gmailgridview.png)
 
 Google presents the Grid View as a better way for users to find "deals
 and offers" they want to know about. But not every email in the

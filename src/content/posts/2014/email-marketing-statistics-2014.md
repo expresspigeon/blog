@@ -148,7 +148,13 @@ testing & optimization. [Technori](http://technori.com/) Founder, Seth Kravitz s
 to take about 30 to 45 minutes to prep and send one email and with
 ExpressPigeon I would say it&apos;s maybe 10 minutes or less."*
 
-<iframe style="border: 1px solid #CCC; border-width: 1px 1px 0; margin-bottom: 5px;" src="http://www.slideshare.net/slideshow/embed_code/29739114?rel=0" height="486" width="597" allowfullscreen frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+<div class="figure">
+<iframe src="https://www.slideshare.net/slideshow/embed_code/29739114?rel=0" height="486" width="597"
+  frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+  style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+</div>
+
+
 
 ##SOURCES:
 

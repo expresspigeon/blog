@@ -5,7 +5,13 @@ simple to pull a Google Map image of any location into your newsletter,
 without ever leaving our [powerful email editor](https://expresspigeon.com/features). For a detail
 walk-through, view the slides below or continue reading.
 
-<iframe style="border: 1px solid #CCC; border-width: 1px 1px 0; margin-bottom: 5px;" src="http://www.slideshare.net/slideshow/embed_code/28610714?rel=0" height="486" width="597" allowfullscreen frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+
+<div class="figure">
+<iframe src="https://www.slideshare.net/slideshow/embed_code/28610714?rel=0" height="486" width="597"
+  frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+  style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+</div>
+
 
 ##How To Add Google Map Image To Your Email Newsletter
 

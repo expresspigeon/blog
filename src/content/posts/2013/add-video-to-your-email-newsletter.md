@@ -15,7 +15,12 @@ Russian pencil :)
 *View the slideshow below or continue reading to learn how to add video
 to your newsletter.*
 
-<iframe style="border-style: solid; border-color: #cccccc; border-bottom-width: 0px; margin-bottom: 5px;" src="http://www.slideshare.net/slideshow/embed_code/28653600?rel=0" height="486" width="597" allowfullscreen frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+<div class="figure">
+<iframe src="https://www.slideshare.net/slideshow/embed_code/key/NTOOt2JrLazEKd" height="486" width="597"
+  frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+  style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+</div>
+
 
 ##How To Add Video To Your Email Newsletter
 
