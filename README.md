@@ -1,21 +1,24 @@
-## Pre-requisite
+## Content module has three pieces of content: 
 
-This project requires pandoc installed.
+1. Blog
+2. Knowledge base
+3. Search index for both. 
 
+## Product of build
 
-## To get started:
+When a local build is executed, the local content of these directories is replaced: 
 
-* Clone this project
-* Create a directory:
+1. `/opt/pigeon/blog`
+2. `/opt/pigeon/kb`
+3. `/opt/pigeon/search_index`
+ 
+> Building this module ensures that local environment always has the most up-to-date content.
+
+## Deployment 
+
+Deployment of content to testenv and production is done with scripts located under `scripts` directory. 
+Execution of these scripts needs to be done at the module level: 
 
 ```
-    mkdir /opt/pigeon/blog
+./scripts/publish.prod.sh
 ```
-
-* Execute from project root:
-
-```
-    ./publish_local.sh
-```
-
-* Start web app and navigate to: [http://localhost:7878/blog](http://localhost:7878/blog)
