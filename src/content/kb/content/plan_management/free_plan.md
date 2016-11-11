@@ -3,4 +3,4 @@
 
 a free plan
 
-![Hello, Kitty](../../images/face.png)
+![](images/face.png)
