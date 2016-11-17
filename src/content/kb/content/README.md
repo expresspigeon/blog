@@ -85,9 +85,9 @@ produces:
 # Bold
 
 ```
-*bold*
+_bold_
 ```
 
 produces:
 
-*bold*
+_bold_
