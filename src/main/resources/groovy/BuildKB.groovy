@@ -10,11 +10,10 @@ String target = "/opt/pigeon/kb"
 
 new File(target).deleteDir();
 new File(target).mkdir()
-new File("${target}/content").mkdir()
 new File("${target}/images").mkdir()
 new File("${target}/resources").mkdir()
 
-common.copyFiles(Paths.get(src + "/images").toString(), Paths.get(target + "/images").toString())
-common.copyFiles(Paths.get(src + "/resources").toString(), Paths.get(target + "/resources").toString())
-common.processMarkDown(src, target, "content")
+common.copyFiles(Paths.get(src + "/content/images").toString(), Paths.get(target + "/images").toString())
+common.copyFiles(Paths.get(src + "/content/resources").toString(), Paths.get(target + "/resources").toString())
+common.processMarkDown(src, target, "")
 
