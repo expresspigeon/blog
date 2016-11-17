@@ -82,12 +82,24 @@ produces:
 2.  Green
 3.  Blue
 
-# Bold
+# Itallic
 
 ```
-_bold_
+_itallic_
 ```
 
 produces:
 
-_bold_
+_itallic_
+
+# Bold
+
+```
+**bold**
+```
+
+produces:
+
+**bold**
+
+
