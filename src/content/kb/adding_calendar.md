@@ -1,6 +1,6 @@
 # Countdown Calendar
 
-https://player.vimeo.com/video/174788299
+<iframe src="https://player.vimeo.com/video/174788299" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ## How to Add a Countdown Calendar
 

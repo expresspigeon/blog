@@ -1,6 +1,6 @@
 # Social Icons
 
-https://player.vimeo.com/video/174788252
+<iframe src="https://player.vimeo.com/video/174788252" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ## Inserting Social Icons
 

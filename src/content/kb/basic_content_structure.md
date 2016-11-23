@@ -1,6 +1,6 @@
 # Basic Structure
 
-https://player.vimeo.com/video/174626161
+<iframe src="https://player.vimeo.com/video/174626161" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ## Rows & Columns
 

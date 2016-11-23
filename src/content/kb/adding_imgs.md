@@ -1,6 +1,6 @@
 # Adding Images
 
-https://player.vimeo.com/video/174627797
+<iframe src="https://player.vimeo.com/video/174627797" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ## How to Add Images
 
