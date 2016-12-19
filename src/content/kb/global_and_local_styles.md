@@ -3,6 +3,8 @@
 Within the editor you can set Global Styles that affect the whole newsletter as well as Local Styles for individual blocks. 
 Local Styles always override Global Styles.
 
+![](images/Selection_475.png)
+
 ## Global Styles
 
 The Newsletter tab in the Row Properties Panel is essentially a global editor. Here you can set standards for the entire newsletter
