@@ -1,5 +1,7 @@
 # Footer
 
+![](images/Selection_476.png)
+
 The Footer contains your address which is a requirement per the CAN/SPAM act. 
 The address in the footer should reflect the actual physical address of the sender. 
 
