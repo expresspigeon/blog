@@ -12,7 +12,7 @@ a few minutes:
     "subscription" tab on the main menu and build away. [Click
     here](custom-email-subscription-form) for a detailed walk-through.
 
-     ![](/blog/images/2013/Screen-Shot-2013-10-31-at-2.30.16-PM.png)
+     ![](/src/content/blog/images/2013/add_email_1.png)
 
 2.  **Install the ExpressPigeon Subscription Form WordPresss
     Plugin.** Navigate to "Plugins" and search for "ExpressPigeon".
