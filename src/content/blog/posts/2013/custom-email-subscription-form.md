@@ -7,7 +7,7 @@ especially easy to do on ExpressPigeon.
 
 1.  Navigate to "Subscriptions" in the main menu.
 
-    ![](/blog/images/2013/subscriptions_1.png)
+    ![](/src/content/blog/images/2013/subscriptions_1.png)
 
 2.  Select "Regular Web Form" and name the form. Select the lists that
     you want this form to send new signups into. Click "Create
