@@ -23,25 +23,19 @@ marketing with Express Pigeon.
 
 ![Web forms](/src/content/blog/images/2012/creating_1.png "Web forms")
 
-​1) Click on the "Web forms" tab at the top right hand corner, then
-click on the "Create a new form" button.
+​1) Click on the "Subscriptions" tab at the top right hand corner, then
+click on the "Create a new subscription" button.
 
 ![ExpressPigeon — Web forms - Demo Form](/src/content/blog/images/2012/creating_2.png "ExpressPigeon — Web forms - Demo Form")
 ​
  2) Fill in the "General" tab information
 
-Web Form Name: For internal use only. Fill this in to distinguish your
+Subscription Name: For internal use only. Fill this in to distinguish your
 web forms from each other.
-
-Web Form Title (Optional): Text inserted here will display above your
-form. Provide an explicit call-to-action to get them to sign-up.
-
-Subtitle (Optional): Use this area to entice the visitor further to
-sign-up.
 
 ![ExpressPigeon — Web forms - Demo Form-1](/src/content/blog/images/2012/creating_3.png "ExpressPigeon — Web forms - Demo Form-1")
 
-​3) Decide upon the fields in your web form
+​3) Decide upon the fields in your subscription form
 
 Place a checkmark on the left next to each field you want displayed in
 the form. Place a checkmark next to "Required" for each piece of
