@@ -21,19 +21,19 @@ newsletter after filling out a simple form. Here&apos;s five simple steps to
 create a web form at no extra cost to you when you choose to do email
 marketing with Express Pigeon.
 
-![Web forms](/src/content/blog/images/2012/creating_1.png "Web forms")
+![Web forms](/blog/images/2012/creating_1.png "Web forms")
 
 ​1) Click on the "Subscriptions" tab at the top right hand corner, then
 click on the "Create a new subscription" button.
 
-![ExpressPigeon — Web forms - Demo Form](/src/content/blog/images/2012/creating_2.png "ExpressPigeon — Web forms - Demo Form")
+![ExpressPigeon — Web forms - Demo Form](/blog/images/2012/creating_2.png "ExpressPigeon — Web forms - Demo Form")
 ​
  2) Fill in the "General" tab information
 
 Subscription Name: For internal use only. Fill this in to distinguish your
 web forms from each other.
 
-![ExpressPigeon — Web forms - Demo Form-1](/src/content/blog/images/2012/creating_3.png "ExpressPigeon — Web forms - Demo Form-1")
+![ExpressPigeon — Web forms - Demo Form-1](/blog/images/2012/creating_3.png "ExpressPigeon — Web forms - Demo Form-1")
 
 ​3) Decide upon the fields in your subscription form
 
@@ -52,7 +52,7 @@ newsletters. With Express Pigeon you can collect the following details:
 -   Phone
 -   Company
 
-![ExpressPigeon — Web forms - Demo Form-2](/src/content/blog/images/2012/creating_4.png "ExpressPigeon — Web forms - Demo Form-2")
+![ExpressPigeon — Web forms - Demo Form-2](/blog/images/2012/creating_4.png "ExpressPigeon — Web forms - Demo Form-2")
 
 ​4) End their registration with a "Big Thank You" by filling out the
 "After Submit" tab
@@ -65,7 +65,7 @@ sure they want to subscribe to your company&apos;s newsletter. After they
 confirm the subscription, we&apos;d like to say, "Congrats on a brand new
 potential customer!"
 
-![ExpressPigeon — Web forms - Demo Form-3](/src/content/blog/images/2012/creating_5.png "ExpressPigeon — Web forms - Demo Form-3")
+![ExpressPigeon — Web forms - Demo Form-3](/blog/images/2012/creating_5.png "ExpressPigeon — Web forms - Demo Form-3")
 
 ​5) Last but not least, the "Confirmation" tab
 
