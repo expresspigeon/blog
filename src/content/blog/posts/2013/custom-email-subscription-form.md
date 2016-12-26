@@ -45,7 +45,7 @@ especially easy to do on ExpressPigeon.
     instantly added to your email list once they subscribe. With "Double
     Opt-in", subscribers must confirm subscription by clicking a link in
     a confirmation email. We recommend Double Opt-In.
-    ![](/src/content/blog/images/2013/subscriptions_8.png )
+    ![](/blog/images/2013/subscriptions_8.png )
 7.  **Customize on-site subscription message.** This is the message
     displayed to people after they "Subscribe". Customize the text with
     preferred message.
@@ -68,7 +68,7 @@ especially easy to do on ExpressPigeon.
 
     ![](/blog/images/2013/subscriptions_14.png )
 
-Your subscription form is LIVE and you&apos;re ready to [add it to the sidebar of your website.][add-expresspigeon-subscription-form-to-wordpress-in-minutes] 
+Your subscription form is LIVE and you&apos;re ready to add it to the sidebar of your website.
 You can also link directly to the subscription form in blog posts or on website pages. Through this form,
 your audience can to opt-in for your newsletter in a matter of seconds
 and you can watch your email list grow! :)
