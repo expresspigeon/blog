@@ -1,5 +1,7 @@
 # Adding Links
 
+![](images/Selection_471.png)
+
 ## How to Add a Text Link
 
 To add a link to your newsletter simply click the link button in the local editor which will open up the _Insert Link_ window. 
