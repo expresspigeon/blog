@@ -1,0 +1,29 @@
+# Newsletter Options
+
+![](images/Selection_455.png)
+
+When on the Newsletters tab you’ll find that you have three options for creating a newsletter. 
+**Create newsletter** uses our Drag and Drop editor to create an original newsletter, 
+**Newsletter gallery** allows you to choose a newsletter format from our gallery, and **Code custom HTML** allows you create a 
+newsletter using HTML.
+
+# Basic Structure
+
+<iframe src="https://player.vimeo.com/video/174626161" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+## Rows & Columns
+
+When creating a newsletter from scratch you’ll see a highlighted row from which you can choose the number of columns
+in your row as well as the type of content for each block (text, photo, etc.)
+
+## Text Editor
+
+From the text editor beneath your highlighted block you can edit text, formatting, headers, links, buttons
+and even add custom personalizations.
+
+# Setting the Content Type
+
+![](images/Selection_454.png)
+
+Upon entering the editor you’ll find a single row highlighted with a _Set Content Type_ button which essentially forces you to 
+choose from the content options on the left.
