@@ -24,3 +24,11 @@ The View Online link allows the user to display the email in a web browser in th
 Everything in the browser view will display exactly as you would see it in your email. The view online link can be toggled 
 on and off in the editor. 
 
+## Setting the Language
+
+![](images/Selection_472.png)
+
+In the Row Properties Panel you can set the language for your Unsubscribe/View Online links. 
+This not only changes the language of the visible links, but also the entire unsubscribe flow. 
+If a recipient gets an email with a Chinese unsubscribe link and clicks it, the recipient will then be taken to an ExpressPigeon 
+unsubscribe page which will tell them, in Chinese, that they’ve unsubscribed.
