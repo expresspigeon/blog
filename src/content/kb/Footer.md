@@ -9,3 +9,7 @@ The address in the footer should reflect the actual physical address of the send
 
 Addresses are list-specific and can be changed under _Contacts_ by clicking _Properties_ on the desired list, 
 then finally clicking _Physical Address_ from the left column on that screen.
+
+## Unsubscribe Link
+
+The unsubscibe link in the footer can not be removed.
