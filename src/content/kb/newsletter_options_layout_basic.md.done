@@ -16,6 +16,12 @@ newsletter using HTML.
 When creating a newsletter from scratch you’ll see a highlighted row from which you can choose the number of columns
 in your row as well as the type of content for each block (text, photo, etc.)
 
+# Adding a row
+
+You can add another row by either clicking the **+** in the Row Editor or by clicking _Add new row_ in the Row Properties Panel on the left. 
+From the Row Properties Panel, new rows will be added to the top of the newsletter. 
+From the Row Menu they will be immediately added above the current row.
+
 # Setting the Content Type
 
 ![](images/Selection_454.png)
