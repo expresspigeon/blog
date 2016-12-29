@@ -9,6 +9,8 @@ Simply select the image you want to insert into the block.
 
 ## Image Gallery
 
+![](images/Selection_457.png)
+
 To add images to the Image Gallery simply drag and drop them into the top of the Gallery, or click the 
 _Browse_ button on the right to browse for files.
 
