@@ -1,4 +1,6 @@
-# Newsletter Options
+# Creating a Newsletter
+
+## Newsletter Options
 
 ![](images/Selection_455.png)
 
@@ -7,7 +9,7 @@ When on the Newsletters tab you’ll find that you have three options for creati
 **Newsletter gallery** allows you to choose a newsletter format from our gallery, and **Code custom HTML** allows you create a 
 newsletter using HTML.
 
-# Basic Structure
+## Basic Structure
 
 <iframe src="https://player.vimeo.com/video/174626161" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
@@ -16,7 +18,7 @@ newsletter using HTML.
 When creating a newsletter from scratch you’ll see a highlighted row from which you can choose the number of columns
 in your row as well as the type of content for each block (text, photo, etc.)
 
-# Adding a row
+## Adding a row
 
 You can add another row by either clicking the **+** in the Row Editor or by clicking _Add new row_ in the Row Properties Panel on the left. 
 From the Row Properties Panel, new rows will be added to the top of the newsletter. 
