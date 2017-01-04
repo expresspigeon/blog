@@ -35,3 +35,8 @@ def copyFiles(String source, String target){
         }
     }
 }
+
+def copyFile(String fileCanonicalPath, String destinationDir){
+    println "Copying file: $fileCanonicalPath to: $destinationDir"
+    new AntBuilder().copy( file:"$fileCanonicalPath", todir: "$destinationDir")
+}

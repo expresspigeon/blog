@@ -16,4 +16,5 @@ new File("${target}/resources").mkdir()
 common.copyFiles(Paths.get(src + "/images").toString(), Paths.get(target + "/images").toString())
 common.copyFiles(Paths.get(src + "/resources").toString(), Paths.get(target + "/resources").toString())
 common.processMarkDown(src, target, "")
+common.copyFile(src + "/index.html", target)
 
