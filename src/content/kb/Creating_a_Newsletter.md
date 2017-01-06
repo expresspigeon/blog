@@ -4,10 +4,11 @@
 
 ![](images/Selection_455.png)
 
-When on the Newsletters tab you’ll find that you have three options for creating a newsletter. 
-**Create newsletter** uses our Drag and Drop editor to create an original newsletter, 
-**Newsletter gallery** allows you to choose a newsletter format from our gallery, and **Code custom HTML** allows you create a 
-newsletter using HTML.
+On the Newsletters page you can find three options for creating a newsletter:
+
+1. **Create newsletter** uses our "Drag and Drop" editor to create an original newsletter 
+2. **Newsletter gallery** allows you to choose a newsletter format from our gallery
+3. **Code custom HTML** allows you create a newsletter using HTML.
 
 ## Basic Structure
 
@@ -16,19 +17,30 @@ newsletter using HTML.
 ## Rows & Columns
 
 When creating a newsletter from scratch you’ll see a highlighted row from which you can choose the number of columns
-in your row as well as the type of content for each block (text, photo, etc.)
+in your row as well as the type of content for each block:
+
+* Text
+* Image
+* Image/Text
+* Button
+* Map
+* Video
+* Calendar
+* Image grid
+* Divider
+* Eventbrite
 
 ## Adding a row
 
-You can add another row by either clicking the **+** in the Row Editor or by clicking _Add new row_ in the Row Properties Panel on the left. 
-From the Row Properties Panel, new rows will be added to the top of the newsletter. 
-From the Row Menu they will be immediately added above the current row.
+You can add another row by either clicking the **+** in the "Row Editor" or by clicking "Add new row" button in the "Row Properties" panel on the left. 
+From the "Row Properties" panel, new rows will be added to the top of the newsletter. 
+From the "Row Menu" they will be immediately added above the current row.
 
 # Setting the Content Type
 
 ![](images/Selection_454.png)
 
-Upon entering the editor you’ll find a single row highlighted with a _Set Content Type_ button which essentially forces you to 
+Upon entering the editor you’ll find a single row highlighted with a "Set Content Type" button which essentially forces you to 
 choose from the content options on the left.
 
 # Content Structure
