@@ -6,7 +6,10 @@ Transactional messages do not require unsubscribe links as they are considered i
 
 ## Location of Unsubscribe Links
 
-When creating a newsletter, the unsubscribe link will be present in the header, as well as, the footer. The unsubscribe link in the 
-header can be disabled (as shown below), but do to CAN/SPAM the unsubscribe link in the footer cannot. 
-ExpressPigeon recommends making unsubscribing as easy as possible by keeping both which will ultimately have a positive impact on 
-deliverability.
+When creating a newsletter, the unsubscribe link will be present in the header, as well as, the footer. The unsubscribe link in the header can be disabled (as shown below):
+
+![](images/Selection_469.png)
+
+Note that due to CAN/SPAM act the unsubscribe link in the footer cannot be disabled.
+ExpressPigeon recommends making unsubscribing as easy as possible by keeping both which will ultimately have a positive impact on deliverability.
+
