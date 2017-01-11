@@ -31,9 +31,9 @@ Numbers:
 3. three
 
 
-Bold:  *bold*
+Bold:  **bold**
 
-Italic: _italic_
+Italic: *italic*
 
 Links: [ExpressPigeon](http://expresspigeon.com)
 
