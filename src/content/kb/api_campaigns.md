@@ -46,7 +46,7 @@ curl -X POST -H "X-auth-key: 00000000-0000-0000-0000-000000000000" \
 
 </div>
 
-<div role="tabpanel" data-language="java" class="tab-pane active">
+<div role="tabpanel" data-language="java" class="tab-pane">
 
 ~~~~ {.java .numberLines}
 here java code
@@ -54,7 +54,7 @@ here java code
 
 </div>
 
-<div role="tabpanel" data-language="php" class="tab-pane active">
+<div role="tabpanel" data-language="php" class="tab-pane">
 
 ~~~~ {.php .numberLines}
 here php code
@@ -62,7 +62,7 @@ here php code
 
 </div>
 
-<div role="tabpanel" data-language="ruby" class="tab-pane active">
+<div role="tabpanel" data-language="ruby" class="tab-pane">
 
 ~~~~ {.ruby .numberLines}
 here ruby code
@@ -70,7 +70,7 @@ here ruby code
 
 </div>
 
-<div role="tabpanel" data-language="python" class="tab-pane active">
+<div role="tabpanel" data-language="python" class="tab-pane">
 
 ~~~~ {.python .numberLines}
 here python code
@@ -118,7 +118,7 @@ curl -X DELETE -H "X-auth-key: 00000000-0000-0000-0000-000000000000" \
 
 </div>
 
-<div role="tabpanel" data-language="java" class="tab-pane active">
+<div role="tabpanel" data-language="java" class="tab-pane">
 
 ~~~~ {.java .numberLines}
 here java code
@@ -126,7 +126,7 @@ here java code
 
 </div>
 
-<div role="tabpanel" data-language="php" class="tab-pane active">
+<div role="tabpanel" data-language="php" class="tab-pane">
 
 ~~~~ {.php .numberLines}
 here php code
@@ -134,7 +134,7 @@ here php code
 
 </div>
 
-<div role="tabpanel" data-language="ruby" class="tab-pane active">
+<div role="tabpanel" data-language="ruby" class="tab-pane">
 
 ~~~~ {.ruby .numberLines}
 here ruby code
@@ -142,7 +142,7 @@ here ruby code
 
 </div>
 
-<div role="tabpanel" data-language="python" class="tab-pane active">
+<div role="tabpanel" data-language="python" class="tab-pane">
 
 ~~~~ {.python .numberLines}
 here python code
@@ -190,7 +190,7 @@ curl -X GET -H "X-auth-key: 00000000-0000-0000-0000-000000000000" \
 
 </div>
 
-<div role="tabpanel" data-language="java" class="tab-pane active">
+<div role="tabpanel" data-language="java" class="tab-pane">
 
 ~~~~ {.java .numberLines}
 here java code
@@ -198,7 +198,7 @@ here java code
 
 </div>
 
-<div role="tabpanel" data-language="php" class="tab-pane active">
+<div role="tabpanel" data-language="php" class="tab-pane">
 
 ~~~~ {.php .numberLines}
 here php code
@@ -206,7 +206,7 @@ here php code
 
 </div>
 
-<div role="tabpanel" data-language="ruby" class="tab-pane active">
+<div role="tabpanel" data-language="ruby" class="tab-pane">
 
 ~~~~ {.ruby .numberLines}
 here ruby code
@@ -214,7 +214,7 @@ here ruby code
 
 </div>
 
-<div role="tabpanel" data-language="python" class="tab-pane active">
+<div role="tabpanel" data-language="python" class="tab-pane">
 
 ~~~~ {.python .numberLines}
 here python code
@@ -268,7 +268,7 @@ curl -H "X-auth-key: 00000000-0000-0000-0000-000000000000" \
 
 </div>
 
-<div role="tabpanel" data-language="java" class="tab-pane active">
+<div role="tabpanel" data-language="java" class="tab-pane">
 
 ~~~~ {.java .numberLines}
 here java code
@@ -276,7 +276,7 @@ here java code
 
 </div>
 
-<div role="tabpanel" data-language="php" class="tab-pane active">
+<div role="tabpanel" data-language="php" class="tab-pane">
 
 ~~~~ {.php .numberLines}
 here php code
@@ -284,7 +284,7 @@ here php code
 
 </div>
 
-<div role="tabpanel" data-language="ruby" class="tab-pane active">
+<div role="tabpanel" data-language="ruby" class="tab-pane">
 
 ~~~~ {.ruby .numberLines}
 here ruby code
@@ -292,7 +292,7 @@ here ruby code
 
 </div>
 
-<div role="tabpanel" data-language="python" class="tab-pane active">
+<div role="tabpanel" data-language="python" class="tab-pane">
 
 ~~~~ {.python .numberLines}
 here python code
@@ -342,7 +342,7 @@ curl -H "X-auth-key: 00000000-0000-0000-0000-000000000000" \
 
 </div>
 
-<div role="tabpanel" data-language="java" class="tab-pane active">
+<div role="tabpanel" data-language="java" class="tab-pane">
 
 ~~~~ {.java .numberLines}
 here java code
@@ -350,7 +350,7 @@ here java code
 
 </div>
 
-<div role="tabpanel" data-language="php" class="tab-pane active">
+<div role="tabpanel" data-language="php" class="tab-pane">
 
 ~~~~ {.php .numberLines}
 here php code
@@ -358,7 +358,7 @@ here php code
 
 </div>
 
-<div role="tabpanel" data-language="ruby" class="tab-pane active">
+<div role="tabpanel" data-language="ruby" class="tab-pane">
 
 ~~~~ {.ruby .numberLines}
 here ruby code
@@ -366,7 +366,7 @@ here ruby code
 
 </div>
 
-<div role="tabpanel" data-language="python" class="tab-pane active">
+<div role="tabpanel" data-language="python" class="tab-pane">
 
 ~~~~ {.python .numberLines}
 here python code
@@ -421,7 +421,7 @@ curl -H "X-auth-key: 00000000-0000-0000-0000-000000000000" \
 
 </div>
 
-<div role="tabpanel" data-language="java" class="tab-pane active">
+<div role="tabpanel" data-language="java" class="tab-pane">
 
 ~~~~ {.java .numberLines}
 here java code
@@ -429,7 +429,7 @@ here java code
 
 </div>
 
-<div role="tabpanel" data-language="php" class="tab-pane active">
+<div role="tabpanel" data-language="php" class="tab-pane">
 
 ~~~~ {.php .numberLines}
 here php code
@@ -437,7 +437,7 @@ here php code
 
 </div>
 
-<div role="tabpanel" data-language="ruby" class="tab-pane active">
+<div role="tabpanel" data-language="ruby" class="tab-pane">
 
 ~~~~ {.ruby .numberLines}
 here ruby code
@@ -445,7 +445,7 @@ here ruby code
 
 </div>
 
-<div role="tabpanel" data-language="python" class="tab-pane active">
+<div role="tabpanel" data-language="python" class="tab-pane">
 
 ~~~~ {.python .numberLines}
 here python code
@@ -502,7 +502,7 @@ curl -H "X-auth-key: 00000000-0000-0000-0000-000000000000" \
 
 </div>
 
-<div role="tabpanel" data-language="java" class="tab-pane active">
+<div role="tabpanel" data-language="java" class="tab-pane">
 
 ~~~~ {.java .numberLines}
 here java code
@@ -510,7 +510,7 @@ here java code
 
 </div>
 
-<div role="tabpanel" data-language="php" class="tab-pane active">
+<div role="tabpanel" data-language="php" class="tab-pane">
 
 ~~~~ {.php .numberLines}
 here php code
@@ -518,7 +518,7 @@ here php code
 
 </div>
 
-<div role="tabpanel" data-language="ruby" class="tab-pane active">
+<div role="tabpanel" data-language="ruby" class="tab-pane">
 
 ~~~~ {.ruby .numberLines}
 here ruby code
@@ -526,7 +526,7 @@ here ruby code
 
 </div>
 
-<div role="tabpanel" data-language="python" class="tab-pane active">
+<div role="tabpanel" data-language="python" class="tab-pane">
 
 ~~~~ {.python .numberLines}
 here python code
@@ -575,7 +575,7 @@ curl -H "X-auth-key: 00000000-0000-0000-0000-000000000000" \
 
 </div>
 
-<div role="tabpanel" data-language="java" class="tab-pane active">
+<div role="tabpanel" data-language="java" class="tab-pane">
 
 ~~~~ {.java .numberLines}
 here java code
@@ -583,7 +583,7 @@ here java code
 
 </div>
 
-<div role="tabpanel" data-language="php" class="tab-pane active">
+<div role="tabpanel" data-language="php" class="tab-pane">
 
 ~~~~ {.php .numberLines}
 here php code
@@ -591,7 +591,7 @@ here php code
 
 </div>
 
-<div role="tabpanel" data-language="ruby" class="tab-pane active">
+<div role="tabpanel" data-language="ruby" class="tab-pane">
 
 ~~~~ {.ruby .numberLines}
 here ruby code
@@ -599,7 +599,7 @@ here ruby code
 
 </div>
 
-<div role="tabpanel" data-language="python" class="tab-pane active">
+<div role="tabpanel" data-language="python" class="tab-pane">
 
 ~~~~ {.python .numberLines}
 here python code
@@ -648,7 +648,7 @@ curl -H "X-auth-key: 00000000-0000-0000-0000-000000000000" \
 
 </div>
 
-<div role="tabpanel" data-language="java" class="tab-pane active">
+<div role="tabpanel" data-language="java" class="tab-pane">
 
 ~~~~ {.java .numberLines}
 here java code
@@ -656,7 +656,7 @@ here java code
 
 </div>
 
-<div role="tabpanel" data-language="php" class="tab-pane active">
+<div role="tabpanel" data-language="php" class="tab-pane">
 
 ~~~~ {.php .numberLines}
 here php code
@@ -664,7 +664,7 @@ here php code
 
 </div>
 
-<div role="tabpanel" data-language="ruby" class="tab-pane active">
+<div role="tabpanel" data-language="ruby" class="tab-pane">
 
 ~~~~ {.ruby .numberLines}
 here ruby code
@@ -672,7 +672,7 @@ here ruby code
 
 </div>
 
-<div role="tabpanel" data-language="python" class="tab-pane active">
+<div role="tabpanel" data-language="python" class="tab-pane">
 
 ~~~~ {.python .numberLines}
 here python code
