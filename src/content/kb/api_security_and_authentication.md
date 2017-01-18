@@ -8,4 +8,4 @@ For GET requests, you have an option to provide it as an HTTP header, or as a re
 
 Request parameter authentication key name: `auth_key` Authentication header name: `X-auth-key`
 
-Location of the Authentication key is: Settings → Integrations, or directly at: [https://expresspigeon.com/settings/integrations](https://expresspigeon.com/settings/integrations).
+Location of the Authentication key is: Settings → Integrations, or directly at: [Integrations](https://expresspigeon.com/settings/integrations).
