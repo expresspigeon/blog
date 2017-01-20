@@ -90,7 +90,7 @@ JSON document represents a list of contacts to be created or updated. The `email
 Parameter          Required               Description
 -------------      --------------------   --------------------------------
 contacts           Yes                    JSON list represents contacts to be inserted or updated. The email field is required.
-list_id            No                     List id to add contacts to.
+list_id            `No`                   List id to add contacts to.
 
 
 **Example Request**
@@ -180,7 +180,7 @@ List of created/updated contact emails is returned for your convenience. If ther
 Parameter          Required               Description
 -------------      --------------------   --------------------------------
 email              Yes                    Contact email to be deleted
-list_id            No                     List id to remove contact from, if not provided, contact will be deleted from system
+list_id            `No`                   List id to remove contact from, if not provided, contact will be deleted from system
 
 
 **Example Request**

@@ -59,11 +59,11 @@ to                 Yes                    Email address to send message to
 reply_to           Yes                    Email address tp reply to
 from               Yes                    From name, such as your name or name of your organization
 subject            Yes                    Email message subject
-merge_fields       No                     Values for merge fields
-view_online        No                     Generates online version of sent message. We will host this generated message on our servers, default is `false`
-click_tracking     No                     Overwrites all URLs in email to point to `http://clicks.expresspigeon.com` for click tracking. Setting it to `false` will preserve all URLs intact, but click tracking will not be available, default is `true`
-suppress_address   No                     If `true` suppresses insertion of sender's physical address in the email, default is `false`
-dictionaries       No                     List of dictionaries to source merge fields from. Dictionary values override all other values (from merge_fields) in case of name collisions. See [Dictionaries](/kb/api_dictionaries) section for more information.
+merge_fields       `No`                   Values for merge fields
+view_online        `No`                   Generates online version of sent message. We will host this generated message on our servers, default is `false`
+click_tracking     `No`                   Overwrites all URLs in email to point to `http://clicks.expresspigeon.com` for click tracking. Setting it to `false` will preserve all URLs intact, but click tracking will not be available, default is `true`
+suppress_address   `No`                   If `true` suppresses insertion of sender's physical address in the email, default is `false`
+dictionaries       `No`                   List of dictionaries to source merge fields from. Dictionary values override all other values (from merge_fields) in case of name collisions. See [Dictionaries](/kb/api_dictionaries) section for more information.
 
 **Curl example**
 
@@ -317,12 +317,12 @@ Returns a report (ordered by id) for at most 1000 of transactional emails sent w
 
 **Request parameters**
 
-Parameter          Required               Description
--------------      --------------------   --------------------------------
-start_date         No                     Start of the reporting period (UTC, example: 2013-03-16T10:00:00.000+0000)
-end_date           No                     End of the reporting period (UTC, example: 2013-03-16T20:00:00.000+0000)
-period             No                     Predefined reporting period: `last24hours`, `last_week`, `last_month`
-from_id            No                     Id from where to get the next batch, e.g. the last id from the report
+Parameter          Required                Description
+-------------      --------------------    --------------------------------
+start_date         `No`                    Start of the reporting period (UTC, example: 2013-03-16T10:00:00.000+0000)
+end_date           `No`                    End of the reporting period (UTC, example: 2013-03-16T20:00:00.000+0000)
+period             `No`                    Predefined reporting period: `last24hours`, `last_week`, `last_month`
+from_id            `No`                    Id from where to get the next batch, e.g. the last id from the report
 
 **Curl example**
 

@@ -18,7 +18,7 @@ Parameter          Required               Description
 -------------      --------------------   --------------------------------
 id                 Yes                    Template id to be used as a source
 name               Yes                    Name for a new template
-merge_fields       No                     Values of merge fields
+merge_fields       `No`                   Values of merge fields
 
 **Example Request**
 

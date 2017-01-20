@@ -19,7 +19,7 @@ from_name          Yes                    This parameter is displayed as "From" 
 reply_to           Yes                    This parameter specifies the email address which will be getting replies from your recipients should they choose to reply. The **reply_to** should be a valid email address.
 subject            Yes                    The subject of a newsletter
 google_analytics   Yes                    Indicates whether Google Analytics should be enabled for a campaign. Should be *true* or *false*.
-schedule_for       No                     Specifies what time a campaign should be sent. If it is provided the campaign will be scheduled to this time, otherwise campaign is sent immediately. The **schedule_for** must be in ISO date format and should be in the future.
+schedule_for       `No`                   Specifies what time a campaign should be sent. If it is provided the campaign will be scheduled to this time, otherwise campaign is sent immediately. The **schedule_for** must be in ISO date format and should be in the future.
 
 
 **Example Request**
@@ -171,11 +171,11 @@ Returns a list of at most 1000 created campaigns, to get the next batch use from
 
 **Request parameters**
 
-Parameter          Required               Description
--------------      --------------------   --------------------------------
-from_id            No                     Id from where to get the next batch, e.g. the last id from the previous call
-from               No                     Start of the sending period (UTC, example: 2013-03-16T10:00:00.000+0000)
-to                 No                     End of the sending period (UTC, example: 2013-03-16T20:00:00.000+0000)
+Parameter          Required                Description
+-------------      --------------------    --------------------------------
+from_id            `No`                    Id from where to get the next batch, e.g. the last id from the previous call
+from               `No`                    Start of the sending period (UTC, example: 2013-03-16T10:00:00.000+0000)
+to                 `No`                    End of the sending period (UTC, example: 2013-03-16T20:00:00.000+0000)
 
 **Example Request**
 
