@@ -150,7 +150,7 @@ In a call above, the `id` represents an ID of a message that was sent. You can u
 
 **Request parameters**
 
-Request parameters are the same as when sending a a single message without attachments.
+Request parameters are the same as when sending a [single message](#send-a-single-transactional-email) without attachments.
 
 > Limitations are: maximum three attachments, each under 10kb in size.
 

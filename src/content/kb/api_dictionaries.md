@@ -19,7 +19,7 @@ Parameter         Required               Description
 name              Yes                    Name of a new or existing dictionary
 values            Yes                    Collection of name/value pairs
 
-**Curl example**
+**Example Request**
 
 <div class="tab-content">
 
@@ -115,7 +115,7 @@ Enter * or a dictionary name into the search field and press Enter.
 
 Allows to list multiple dictionaries.
 
-**Curl example**
+**Example Request**
 
 <div class="tab-content">
 
@@ -186,7 +186,7 @@ here python code
 
 Lookup a single dictionary
 
-**Curl example**
+**Example Request**
 
 <div class="tab-content">
  

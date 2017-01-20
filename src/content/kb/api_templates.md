@@ -20,7 +20,7 @@ id                 Yes                    Template id to be used as a source
 name               Yes                    Name for a new template
 merge_fields       No                     Values of merge fields
 
-**Curl example**
+**Example Request**
 
 <div class="tab-content">
 
@@ -102,7 +102,7 @@ Parameter          Required               Description
 -------------      --------------------   --------------------------------
 id                 Yes                    Template id to be deleted
 
-**Curl example**
+**Example Request**
 
 <div class="tab-content">
 

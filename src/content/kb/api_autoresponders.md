@@ -6,7 +6,7 @@
 
 Returns an array of autoresponders.
 
-**Curl example**
+**Example Request**
 
 <div class="tab-content">
 
@@ -81,7 +81,7 @@ Parameter            Required               Description
 auto_responder_id    Yes                    Autoresponder id to be started for a contact
 email                Yes                    Contact email
 
-**Curl example**
+**Example Request**
 
 <div class="tab-content">
 
@@ -154,7 +154,7 @@ Parameter            Required               Description
 auto_responder_id    Yes                    Autoresponder id to be stopped for a contact
 email                Yes                    Contact email
 
-**Curl example**
+**Example Request**
 
 <div class="tab-content">
 
@@ -226,7 +226,7 @@ Parameter            Required               Description
 -------------        --------------------   --------------------------------
 auto_responder_id    Yes                    Autoresponder id for which this report is generated
 
-**Curl example**
+**Example Request**
 
 <div class="tab-content">
  
@@ -302,7 +302,7 @@ Parameter                Required               Description
 auto_responder_id        Yes                    Autoresponder id the bounced contacts are found for
 auto_responder_part_id   Yes                    Autoresponder part id the bounced contacts are found for
 
-**Curl example**
+**Example Request**
 
 <div class="tab-content">
  
@@ -369,7 +369,7 @@ Parameter                Required               Description
 auto_responder_id        Yes                    Autoresponder id the unsubscribed contacts are found for
 auto_responder_part_id   Yes                    Autoresponder part id the unsubscribed contacts are found for
 
-**Curl example**
+**Example Request**
 
 <div class="tab-content">
  
@@ -436,7 +436,7 @@ Parameter                Required               Description
 auto_responder_id        Yes                    Autoresponder id the spam contacts are found for
 auto_responder_part_id   Yes                    Autoresponder part id the spam contacts are found for
 
-**Curl example**
+**Example Request**
 
 <div class="tab-content">
  

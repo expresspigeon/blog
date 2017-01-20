@@ -22,7 +22,7 @@ google_analytics   Yes                    Indicates whether Google Analytics sho
 schedule_for       No                     Specifies what time a campaign should be sent. If it is provided the campaign will be scheduled to this time, otherwise campaign is sent immediately. The **schedule_for** must be in ISO date format and should be in the future.
 
 
-**Curl example**
+**Example Request**
 
 <div class="tab-content">
 
@@ -102,10 +102,10 @@ Removes a campaign with a given id. Only scheduled campaigns can be deleted. Tho
 
 Parameter          Required               Description
 -------------      --------------------   --------------------------------
-id                 yes                    The id of a campaign to be removed.
+id                 Yes                    The id of a campaign to be removed.
 
 
-**Curl example**
+**Example Request**
 
 <div class="tab-content">
 
@@ -177,7 +177,7 @@ from_id            No                     Id from where to get the next batch, e
 from               No                     Start of the sending period (UTC, example: 2013-03-16T10:00:00.000+0000)
 to                 No                     End of the sending period (UTC, example: 2013-03-16T20:00:00.000+0000)
 
-**Curl example**
+**Example Request**
 
 <div class="tab-content">
 
@@ -255,7 +255,7 @@ Parameter          Required               Description
 campaign_id        Yes                    Campaign id the report is generated for.
 
 
-**Curl example**
+**Example Request**
 
 <div class="tab-content">
 
@@ -327,9 +327,9 @@ Returns an array of opened events from a campaign.
 
 Parameter          Required               Description
 -------------      --------------------   ----------------------------------------
-campaign_id        Yes                    Campaign id the report is generated for.
+campaign_id        Yes                    Campaign id the opened events are found for.
 
-**Curl example**
+**Example Request**
 
 <div class="tab-content">
 
@@ -408,7 +408,7 @@ Parameter          Required               Description
 -------------      --------------------   ----------------------------------------
 campaign_id        Yes                    Campaign id the clicked events are found for.
 
-**Curl example**
+**Example Request**
 
 <div class="tab-content">
 
@@ -489,7 +489,7 @@ Parameter          Required               Description
 -------------      --------------------   ----------------------------------------
 campaign_id        Yes                    Campaign id the bounced contacts are found for.
 
-**Curl example**
+**Example Request**
 
 <div class="tab-content">
 
@@ -562,7 +562,7 @@ Parameter          Required               Description
 -------------      --------------------   ----------------------------------------
 campaign_id        Yes                    Campaign id the unsubscribed contacts are found for.
 
-**Curl example**
+**Example Request**
 
 <div class="tab-content">
 
@@ -635,7 +635,7 @@ Parameter          Required               Description
 -------------      --------------------   ----------------------------------------
 campaign_id        Yes                    Campaign id the spam contacts are found for.
 
-**Curl example**
+**Example Request**
 
 <div class="tab-content">
 

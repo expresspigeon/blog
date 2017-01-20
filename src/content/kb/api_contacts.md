@@ -15,7 +15,7 @@ Parameter          Required               Description
 email              Yes                    Email of contact to be selected.
 
 
-**Curl example**
+**Example Request**
 
 <div class="tab-content">
 
@@ -93,7 +93,7 @@ contacts           Yes                    JSON list represents contacts to be in
 list_id            No                     List id to add contacts to.
 
 
-**Curl example**
+**Example Request**
 
 <div class="tab-content">
 
@@ -166,6 +166,8 @@ here python code
 }         
 ~~~~
 
+List of created/updated contact emails is returned for your convenience. If there is an issue with a contact (contact is suppressed, bad formatting. etc.), no changes are made to entire set of contacts and the call returns a parameter `failed_contact_num` which indicates the position of problem contact in the submitted document.
+
 
 ## Delete a single contact
 
@@ -181,7 +183,7 @@ email              Yes                    Contact email to be deleted
 list_id            No                     List id to remove contact from, if not provided, contact will be deleted from system
 
 
-**Curl example**
+**Example Request**
 
 <div class="tab-content">
 
@@ -254,7 +256,7 @@ target_list        Yes                    Target list id
 contacts           Yes                    Contacts to be moved
 
 
-**Curl example**
+**Example Request**
 
 <div class="tab-content">
 

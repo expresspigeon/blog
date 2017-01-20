@@ -10,7 +10,7 @@ Lists are sets of contacts a campaign can be sent to. A list consists of name, f
 
 Returns an array of all lists
 
-**Curl example**
+**Example Request**
 
 <div class="tab-content">
 
@@ -108,7 +108,7 @@ from_name          Yes                    Default "from" name used when sending 
 reply_to           Yes                    Default reply To email address used when sending campaigns to this list
 
 
-**Curl example**
+**Example Request**
 
 <div class="tab-content">
 
@@ -201,7 +201,7 @@ Parameter          Required               Description
 -------------      --------------------   --------------------------------
 id                 Yes                    The id of a list to be updated
 
-**Curl example**
+**Example Request**
 
 <div class="tab-content">
 
@@ -293,7 +293,7 @@ Parameter          Required               Description
 -------------      --------------------   --------------------------------
 id                 Yes                    The id of a list to be removed
 
-**Curl example**
+**Example Request**
 
 <div class="tab-content">
 
@@ -301,7 +301,7 @@ id                 Yes                    The id of a list to be removed
 
 ~~~~ {.prettyprint .numberLines}        
 curl -X DELETE -H "X-auth-key: 00000000-0000-0000-0000-000000000000" \
-'https://api.expresspigeon.com/lists/2'
+'https://api.expresspigeon.com/lists/1'
 ~~~~
 
 </div>
@@ -363,7 +363,7 @@ Parameter          Required               Description
 -------------      --------------------   --------------------------------
 list_id            Yes                    A list id to select contacts from or "suppress_list" to select suppressed contacts
 
-**Curl example**
+**Example Request**
 
 <div class="tab-content">
 
@@ -426,7 +426,7 @@ Creates or merges contacts from uploaded CSV or zipped CSV file.
 
 The request must use `multipart/form-data` with CSV or zipped CSV payload and `contacts_file` parameter pointed to CSV or zipped CSV file name.
 
-**Curl example**
+**Example Request**
 
 <div class="tab-content">
 
@@ -502,7 +502,7 @@ Parameter          Required               Description
 -------------      --------------------   --------------------------------
 id                 Yes                    The id of a list uploaded(this id was returned from "Upload contacts into list")
 
-**Curl example**
+**Example Request**
 
 <div class="tab-content">
 
