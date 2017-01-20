@@ -1,23 +1,6 @@
 # Creating and editing newsletters
 
-<div class="toc">
-
-* [Newsletter Options](#newsletter-options)
-* [Picking from Template Gallery](#picking-from-template-gallery)
-* [Basic Structure](#basic-structure)
-* [Rows & Columns](#rows-columns)
-* [Adding a row](#adding-a-row)
-* [Row Content](#row-content)
-* [Content Blocks](#content-blocks)
-* [Moving Rows](#moving-rows)
-* [Undo](#undo)
-* [How to Add a Text Link](#how-to-add-a-text-link)
-* [How to Add and Email Link](#how-to-add-and-email-link)
-* [Adding Images](#adding-images)
-* [How to Add Images](#how-to-add-images)
-* [Image Gallery](#image-gallery)
-
-</div>
+<ul data-toc data-toc-headings="h2,h3,h4"></ul>
 
 ## Newsletter Options
 
@@ -68,69 +51,64 @@ You can add another row by either clicking the **+** in the "Row Editor" or by c
 From the "Row Properties" panel, new rows will be added to the top of the newsletter. 
 From the "Row Menu" they will be immediately added above the current row.
 
-# Setting the Content Type
+## Setting the Content Type
 
 ![](images/Selection_454.png)
 
 Upon entering the editor you’ll find a single row highlighted with a "Set Content Type" button which essentially forces you to 
 choose from the content options on the left.
 
-# Content Structure
+## Content Structure
 
 <iframe src="https://player.vimeo.com/video/174626725" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
- 
-## Row Content
- 
+
+### Row Content
+
 The editor is structured by rows with one to four content blocks. If a block is selected, you’ll see the row edit menu above.
 When you click on a specific block you will also see a corresponding edit menu below, which will vary based on the content of the row.
- 
-## Content Blocks
+
+
+### Content Blocks
  
 Easily resize blocks by dragging to the desired size. Align content using the padding control in the properties panel to adjust
 spacing within the block.
  
 
-# Moving Content
+## Moving Content
 
 <iframe src="https://player.vimeo.com/video/174627145" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-## Moving Rows
-
-In the row editor (above the selected row) you’ll find left/right arrows on the left and the drag handle for up/down adjustment
-in the center.
-
-## Undo
+## Undo / Redo
 
 No matter how far you proceed into a single session, our _Undo_ button will take you all the way back to the beginning of that session.
 This is great feature is unique to the ExpressPigeon editor.
 
 
-# Adding Links
+## Adding Links
 
 ![](images/Selection_471.png)
 
-## How to Add a Text Link
+### How to Add a Text Link
 
 To add a link to your newsletter simply click the link button in the local editor which will open up the _Insert Link_ window.
 Here you can enter the desired URL, the text to display, the title (which will display when hovered over)
 as well as the type of link (link list).
 
-## How to Add and Email Link
+### How to Add and Email Link
 
 To set a link to an email address simply type “mailto:” followed immediately by the desired email address into the URL field.
 
-
-# Adding Images
+## Adding Images
 
 <iframe src="https://player.vimeo.com/video/174627797" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-## How to Add Images
+### How to Add Images
 
 In any content block choose Image for content type and your image gallery will open.
 Simply select the image you want to insert into the block.
 
-## Image Gallery
+### Image Gallery
 
 ![](images/Selection_457.png)
 
