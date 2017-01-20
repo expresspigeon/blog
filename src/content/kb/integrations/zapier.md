@@ -1,11 +1,5 @@
 # Zapier
 
-<div class="toc">
-
-* [Introduction](#Introduction)
-* [Picking from Template Gallery](#picking-from-template-gallery)
-
-</div>
 
 ## Introduction
 
@@ -21,56 +15,40 @@ Here are couple examples:
 * Add new Salesforce Leads to an ExpressPigeon contact list
 * Send emails via ExpressPigeon to abandoned Shopify cart users
 
-## What ExpressPigeon Triggers and Actions are Supported?
+## Simple text
 
-### Supported Triggers
+Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam
+eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. Nemo enim ipsam
+voluptatem, quia voluptas sit, aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos, qui ratione
+voluptatem sequi nesciunt, neque porro quisquam est, qui dolorem ipsum, quia dolor sit amet consectetur adipisci[ng]
+velit, sed quia non numquam [do] eius modi tempora inci[di]dunt, ut labore et dolore magnam aliquam quaerat voluptatem.
+Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi
+consequatur? Quis autem vel eum iure reprehenderit, qui in ea voluptate velit esse, quam nihil molestiae consequatur,
+vel illum, qui dolorem eum fugiat, quo voluptas nulla pariatur?
 
-* Contact Added To List - Triggers when a new contact is added/copied/moved to a contact list.
-* Email Opened - Triggers when an email is opened in a particular campaign.
+## Text compoments
 
-### Supported Searches
+Bullets:
 
-* None yet!
+* one
+* two
+* three
 
-### Supported Actions
+Numbers:
 
-* Suppress Contact - Removes a contact from all lists.
-* Create/Update Contact - Add a new contact to a list, or updates an existing contact.
-* Send Transactional Email - Sends an e-mail using an existing template.
+1. one
+2. two
+3. three
 
-## How to connect ExpressPigeon on Zapier
 
-To get started with ExpressPigeon on [Zapier](https://zapier.com), click 'Make A Zap!' button.
+Bold:  **bold**
 
-TODO: enter image with arrow to this button 
-![](../images/zapier/zap_1.png)
+Italic: *italic*
 
-In the 'Choose a trigger app' field enter 'ExpressPigeon' and select it.
+Links: [ExpressPigeon](http://expresspigeon.com)
 
-TODO: enter image with arrow to this field
-![](../images/zapier/zap_2.png)
 
-As result you will see our list of available Triggers. Select Trigger that you plan to use and click 'Continue' button.
 
-TODO: enter image with arrow to this field
-![](../images/zapier/zap_3.png)
-
-At this stage you will need to connect you ExpressPigeon account. Click 'Connect a new account' button. You should see new dialog window where you need to enter ExpressPigeon API key.
-
-TODO: enter image with arrow to this field
-![](../images/zapier/zap_4.png)
-
-ExpressPigeon API key can be found on our [Integrations apge](https://expresspigeon.com/settings/integrations).
-
-TODO: enter image with arrow to this field
-![](../images/zapier/zap_5.png)
-
-After entered API key and applied it, you should see 'ExpressPigeon Account #1' and 'Test' button at the right side.
-
-TODO: enter image with arrow to this button
-![](../images/zapier/zap_6.png)
-
-Click 'Test' button and if you will get 'Success!' this means you are all set and can proceed with configuring you zap.
 
 ## Image
 
@@ -81,4 +59,73 @@ Images need to be:
 It might be a dialog. Is there anything in Bootstrap or material Framework for this?
 
 
-![](../mmimages/Selection_457.png)
+![](images/Selection_457.png)
+
+
+
+## Code
+
+Here you need to write some JavaScript code to form the tabs for Bootstrap based on
+content inside the div/tab-content. Please as Sasha to help you with this.
+
+
+In addition, the code needs to be highlighted properly. Use the same method as we did in JavaLite site.
+ We are using Pandoc to generate code snippets, so this will mean that every part of the code will have the
+ CSS classes set appropriately.
+
+
+<div class="tab-content">
+
+<div role="tabpanel" data-language="Curl" class="tab-pane active">
+
+~~~~ {.prettyprint .numberLines}
+curl -X POST -H "X-auth-key: 00000000-0000-0000-0000-000000000000" \
+    -H "Content-type: application/json"\
+    -d '{
+        "list_id": 11,
+        "contacts": [{
+        "first_name": "John",
+        "last_name": "Doe"
+    }]
+}'
+~~~~
+
+</div>
+
+<div role="tabpanel" data-language="Java" class="tab-pane active">
+
+~~~~ {.java .numberLines}
+List<Person> people = Person.where("first_name = 'John'");
+Person aJohn = people.get(0);
+String johnsLastName = aJohn.get("last_name");
+~~~~
+
+</div>
+
+</div>
+
+
+
+
+## Blockquote
+
+> This is a Blockquote, needs to be displayed properly
+
+
+## Table
+
+
+Tables need to have the same styling as in the API pages
+
+
+HTTP method       path                  controller
+-------------     --------------------  --------------------------------
+GET               /books                app.controllers.BooksController
+GET               /books/new\_form      app.controllers.BooksController
+POST              /books                app.controllers.BooksController
+GET               /books/id             app.controllers.BooksController
+GET               /books/id/edit\_form  app.controllers.BooksController
+PUT               /books/id             app.controllers.BooksController
+DELETE            /books/id             app.controllers.BooksController
+
+
