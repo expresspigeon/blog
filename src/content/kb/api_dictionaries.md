@@ -1,5 +1,14 @@
 # Dictionaries
 
+<div class="toc">
+
+* [Create a new dictionary](#create-a-new-dictionary)
+* [Listing dictionaries with UI](#listing-dictionaries-with-ui)
+* [Listing dictionaries](#listing-dictionaries)
+* [Get a single dictionary](#get-a-single-dictionary)
+
+</div>
+
 Dictionaries are a capability to store name/value pairs on your account to merge into templates. They remove the need to send the same data over and over to the API.
 
 A single dictionary may represent a product with attributes, where each attribute name is some property of a product (name, description, price, URL to image, etc.). In other cases, a dictionary can be a set of internationalized messages, where each dictionary is a collection of messages in different languages (English, French, etc.)

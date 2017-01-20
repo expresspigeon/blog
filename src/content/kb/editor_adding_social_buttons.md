@@ -1,5 +1,12 @@
 # Social Icons
 
+<div class="toc">
+
+* [Inserting Social Icons](#inserting-social-icons)
+* [Linking Social Accounts](#linking-social-accounts)
+
+</div>
+
 <iframe src="https://player.vimeo.com/video/174788252" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ## Inserting Social Icons

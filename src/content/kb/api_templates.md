@@ -1,5 +1,12 @@
 # Templates
 
+<div class="toc">
+
+* [Copy template](#copy-template)
+* [Delete template](#delete-template)
+
+</div>
+
 ## Copy template
 
 > POST https://api.expresspigeon.com/templates/{id}/copy

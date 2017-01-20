@@ -1,5 +1,24 @@
 # Creating and editing newsletters
 
+<div class="toc">
+
+* [Newsletter Options](#newsletter-options)
+* [Picking from Template Gallery](#picking-from-template-gallery)
+* [Basic Structure](#basic-structure)
+* [Rows & Columns](#rows-columns)
+* [Adding a row](#adding-a-row)
+* [Row Content](#row-content)
+* [Content Blocks](#content-blocks)
+* [Moving Rows](#moving-rows)
+* [Undo](#undo)
+* [How to Add a Text Link](#how-to-add-a-text-link)
+* [How to Add and Email Link](#how-to-add-and-email-link)
+* [Adding Images](#adding-images)
+* [How to Add Images](#how-to-add-images)
+* [Image Gallery](#image-gallery)
+
+</div>
+
 ## Newsletter Options
 
 ![](images/Selection_455.png)

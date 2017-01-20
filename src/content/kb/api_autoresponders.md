@@ -1,5 +1,17 @@
 # Autoresponders
 
+<div class="toc">
+
+* [Get all autoresponders](#get-all-autoresponders)
+* [Start for a contact](#start-for-a-contact)
+* [Stop for a contact](#stop-for-a-contact)
+* [Report for a single autoresponder](#report-for-a-single-autoresponder)
+* [Get bounced contacts for autoresponder part](#get-bounced-contacts-for-autoresponder-part)
+* [Get unsubscribed contacts for autoresponder part](#get-unsubscribed-contacts-for-autoresponder-part)
+* [Get spam contacts for autoresponder part](#get-spam-contacts-for-autoresponder-part)
+
+</div>
+
 ## Get all autoresponders
 
 > GET https://api.expresspigeon.com/auto_responders

@@ -1,5 +1,17 @@
 # Lists
 
+<div class="toc">
+
+* [Get all lists](#get-all-lists)
+* [Create a new list](#create-a-new-list)
+* [Update existing list](#update-existing-list)
+* [Delete a list](#delete-a-list)
+* [Download contacts from list](#download-contacts-from-list)
+* [Upload contacts into list](#upload-contacts-into-list)
+* [Check the status of list upload](#check-the-status-of-list-upload)
+
+</div>
+
 Lists are sets of contacts a campaign can be sent to. A list consists of name, from name, reply-to fields and physical address that will be displayed in newsletter. Lists can be created, read, updated, deleted and filled up with contacts.
 
 > NOTE: each list has properties, including physical address. Such address is merged into footers of newsletters when campaigns are sent to a list. It allows to send to different lists of contacts and display different physical addresses at the bottom of newsletters depending which list such email was sent to. This is a useful feature for agencies who manage email marketing campaigns on behalf of their clients.
