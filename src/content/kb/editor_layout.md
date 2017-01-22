@@ -137,5 +137,5 @@ Currently we support about 60 languages.
 ## Next Steps
 
 Once you master the general concepts of the editor, you can proceed to
-[Creating and editing newsletters](/kb/editor_creating_and_editing_newsletter), which contains a number of short video
+[creating and editing newsletters](/kb/editor_creating_and_editing_newsletter), which contains a number of short video
  clips which will help you get up to speed quickly.

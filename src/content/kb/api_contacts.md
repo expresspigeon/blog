@@ -1,13 +1,6 @@
 # Contacts
 
-<div class="toc">
-
-* [Read a single contact by email](#read-a-single-contact-by-email)
-* [Create or update contacts](#create-or-update-contacts)
-* [Delete a single contact](#delete-a-single-contact)
-* [Move contacts between lists](#move-contacts-between-lists)
-
-</div>
+<ul data-toc data-toc-headings="h2,h3,h4"></ul>
 
 Contacts end point allows you to create, read, update and delete contacts on your lists. A contact consists of required email and various standard and custom fields.
 

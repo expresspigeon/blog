@@ -1,13 +1,6 @@
 # Dictionaries
 
-<div class="toc">
-
-* [Create a new dictionary](#create-a-new-dictionary)
-* [Listing dictionaries with UI](#listing-dictionaries-with-ui)
-* [Listing dictionaries](#listing-dictionaries)
-* [Get a single dictionary](#get-a-single-dictionary)
-
-</div>
+<ul data-toc data-toc-headings="h2,h3,h4"></ul>
 
 Dictionaries are a capability to store name/value pairs on your account to merge into templates. They remove the need to send the same data over and over to the API.
 

@@ -1,13 +1,7 @@
 # Transactional emails made easy!
 
-<div class="toc">
 
-* [Send a single transactional email](#send-a-single-transactional-email)
-* [Send a message with attachment](#send-a-message-with-attachment)
-* [Report for a single message](#report-for-a-single-message)
-* [Report for multiple messages](#report-for-multiple-messages)
-
-</div>
+<ul data-toc data-toc-headings="h2,h3,h4"></ul>
 
 Contacts end point allows you to create, read, update and delete contacts on your lists. A contact consists of required email and various standard and custom fields.
 

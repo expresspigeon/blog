@@ -1,10 +1,6 @@
 # Adding a YouTube Video - hello!
 
-<div class="toc">
-
-* [How to Add Video](#how-to-add-video)
-
-</div>
+<ul data-toc data-toc-headings="h2,h3,h4"></ul>
 
 <iframe src="https://player.vimeo.com/video/174627600" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 

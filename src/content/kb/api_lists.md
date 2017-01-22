@@ -1,16 +1,7 @@
 # Lists
 
-<div class="toc">
 
-* [Get all lists](#get-all-lists)
-* [Create a new list](#create-a-new-list)
-* [Update existing list](#update-existing-list)
-* [Delete a list](#delete-a-list)
-* [Download contacts from list](#download-contacts-from-list)
-* [Upload contacts into list](#upload-contacts-into-list)
-* [Check the status of list upload](#check-the-status-of-list-upload)
-
-</div>
+<ul data-toc data-toc-headings="h2,h3,h4"></ul>
 
 Lists are sets of contacts a campaign can be sent to. A list consists of name, from name, reply-to fields and physical address that will be displayed in newsletter. Lists can be created, read, updated, deleted and filled up with contacts.
 

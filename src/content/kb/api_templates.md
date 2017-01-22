@@ -1,11 +1,6 @@
 # Templates
 
-<div class="toc">
-
-* [Copy template](#copy-template)
-* [Delete template](#delete-template)
-
-</div>
+<ul data-toc data-toc-headings="h2,h3,h4"></ul>
 
 ## Copy template
 

@@ -1,18 +1,6 @@
 # Campaigns
 
-<div class="toc">
-
-* [Campaigns creation](#campaigns-creation)
-* [Delete a campaign](#delete-a-campaign)
-* [List campaigns](#list-campaigns)
-* [Report for a single campaign](#report-for-a-single-campaign)
-* [Get opened events for campaign](#get-opened-events-for-campaign)
-* [Get clicked events for campaign](#get-clicked-events-for-campaign)
-* [Get bounced contacts for campaign](#get-bounced-contacts-for-campaign)
-* [Get unsubscribed contacts](#get-unsubscribed-contacts)
-* [Get spam contacts for campaign](#get-spam-contacts-for-campaign)
-
-</div>
+<ul data-toc data-toc-headings="h2,h3,h4"></ul>
 
 Campaign API provides the same service as sending email campaigns from the website. A campaign consists of newsletter template, subject, from name, reply to, and a lists of contacts a campaign can be sent to.
 

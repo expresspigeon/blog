@@ -1,11 +1,7 @@
 # Social Icons
 
-<div class="toc">
+<ul data-toc data-toc-headings="h2,h3,h4"></ul>
 
-* [Inserting Social Icons](#inserting-social-icons)
-* [Linking Social Accounts](#linking-social-accounts)
-
-</div>
 
 <iframe src="https://player.vimeo.com/video/174788252" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
