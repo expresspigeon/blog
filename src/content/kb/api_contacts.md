@@ -33,7 +33,10 @@ curl -H "X-auth-key: 00000000-0000-0000-0000-000000000000" \
 <div role="tabpanel" data-language="java" class="tab-pane">
 
 ~~~~ {.java .numberLines}
-here java code
+String response = Http.get("https://api.expresspigeon.com/contacts?email=bob@example.net")
+        .header("X-auth-key", AUTH_KEY)
+        .text();
+Map<String, Object> result = toMap(response);
 ~~~~
 
 </div>
@@ -126,7 +129,23 @@ curl -X POST -H "X-auth-key: 00000000-0000-0000-0000-000000000000" \
 <div role="tabpanel" data-language="java" class="tab-pane">
 
 ~~~~ {.java .numberLines}
-here java code
+String content = toJsonString(
+        map("list_id", 11,
+            "contacts", list(
+                map("email", "john@doe.net", 
+                    "first_name", "John", 
+                    "last_name", "Doe"),
+                map("email", "jane@doe.net", 
+                    "first_name", "Jane", 
+                    "last_name", "Doe", 
+                    "custom_fields", map("relative", "john@doe.net"))
+        )));
+String url = "https://api.expresspigeon.com/contacts";
+String response = Http.post(url, content)
+        .header("X-auth-key", AUTH_KEY)
+        .header("Content-type", "application/json")
+        .text();
+Map<String, Object> result = toMap(response);
 ~~~~
 
 </div>
@@ -201,7 +220,10 @@ curl -X DELETE -H "X-auth-key: 00000000-0000-0000-0000-000000000000" \
 <div role="tabpanel" data-language="java" class="tab-pane">
 
 ~~~~ {.java .numberLines}
-here java code
+String response = Http.delete("https://api.expresspigeon.com/contacts?email=bob@example.net")
+        .header("X-auth-key", AUTH_KEY)
+        .text();
+Map<String, Object> result = toMap(response);
 ~~~~
 
 </div>
@@ -280,7 +302,14 @@ curl -X POST -H "X-auth-key: 00000000-0000-0000-0000-000000000000" \
 <div role="tabpanel" data-language="java" class="tab-pane">
 
 ~~~~ {.java .numberLines}
-here java code
+String content = toJsonString(map("source_list", 1,
+        "target_list", 2,
+        "contacts", list("bob@example.net", "toby@example.net")));
+String response = Http.post("https://api.expresspigeon.com/contacts/move", content)
+        .header("X-auth-key", AUTH_KEY)
+        .header("Content-type", "application/json")
+        .text();
+Map<String, Object> result = toMap(response);
 ~~~~
 
 </div>

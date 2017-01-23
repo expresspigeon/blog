@@ -51,7 +51,19 @@ curl -X POST -H "X-auth-key: 00000000-0000-0000-0000-000000000000" \
 <div role="tabpanel" data-language="java" class="tab-pane">
 
 ~~~~ {.java .numberLines}
-here java code
+String content = toJsonString(map("list_id", "1",
+        "template_id", "1",
+        "name", "My first newsletter",
+        "from_name", "Dave",
+        "reply_to", "dave@expresspigeon.com",
+        "subject", "Hello from Dave",
+        "google_analytics", "false",
+        "schedule_for", "2013-05-28T14:03:17.956+0300"));
+String response = Http.post("https://api.expresspigeon.com/campaigns", content)
+        .header("X-auth-key", AUTH_KEY)
+        .header("Content-type", "application/json")
+        .text();
+Map<String, Object> result = toMap(response);
 ~~~~
 
 </div>
@@ -123,7 +135,10 @@ curl -X DELETE -H "X-auth-key: 00000000-0000-0000-0000-000000000000" \
 <div role="tabpanel" data-language="java" class="tab-pane">
 
 ~~~~ {.java .numberLines}
-here java code
+String response = Http.delete("https://api.expresspigeon.com/campaigns/2")
+        .header("X-auth-key", AUTH_KEY)
+        .text();
+Map<String, Object> result = toMap(response);
 ~~~~
 
 </div>
@@ -195,7 +210,10 @@ curl -X GET -H "X-auth-key: 00000000-0000-0000-0000-000000000000" \
 <div role="tabpanel" data-language="java" class="tab-pane">
 
 ~~~~ {.java .numberLines}
-here java code
+String response = Http.get("https://api.expresspigeon.com/campaigns")
+        .header("X-auth-key", AUTH_KEY)
+        .text();
+List result = toList(response);
 ~~~~
 
 </div>
@@ -273,7 +291,10 @@ curl -H "X-auth-key: 00000000-0000-0000-0000-000000000000" \
 <div role="tabpanel" data-language="java" class="tab-pane">
 
 ~~~~ {.java .numberLines}
-here java code
+String response = Http.get("https://api.expresspigeon.com/campaigns/1")
+        .header("X-auth-key", AUTH_KEY)
+        .text();
+Map<String, Object> result = toMap(response);
 ~~~~
 
 </div>
@@ -347,7 +368,10 @@ curl -H "X-auth-key: 00000000-0000-0000-0000-000000000000" \
 <div role="tabpanel" data-language="java" class="tab-pane">
 
 ~~~~ {.java .numberLines}
-here java code
+String response = Http.get("https://api.expresspigeon.com/campaigns/1/opened")
+        .header("X-auth-key", AUTH_KEY)
+        .text();
+List result = toList(response);
 ~~~~
 
 </div>
@@ -426,7 +450,10 @@ curl -H "X-auth-key: 00000000-0000-0000-0000-000000000000" \
 <div role="tabpanel" data-language="java" class="tab-pane">
 
 ~~~~ {.java .numberLines}
-here java code
+String response = Http.get("https://api.expresspigeon.com/campaigns/1/clicked")
+        .header("X-auth-key", AUTH_KEY)
+        .text();
+List result = toList(response);
 ~~~~
 
 </div>
@@ -507,7 +534,10 @@ curl -H "X-auth-key: 00000000-0000-0000-0000-000000000000" \
 <div role="tabpanel" data-language="java" class="tab-pane">
 
 ~~~~ {.java .numberLines}
-here java code
+String response = Http.get("https://api.expresspigeon.com/campaigns/1/bounced")
+        .header("X-auth-key", AUTH_KEY)
+        .text();
+List result = toList(response);
 ~~~~
 
 </div>
@@ -580,7 +610,10 @@ curl -H "X-auth-key: 00000000-0000-0000-0000-000000000000" \
 <div role="tabpanel" data-language="java" class="tab-pane">
 
 ~~~~ {.java .numberLines}
-here java code
+String response = Http.get("https://api.expresspigeon.com/campaigns/1/unsubscribed")
+        .header("X-auth-key", AUTH_KEY)
+        .text();
+List result = toList(response);
 ~~~~
 
 </div>
@@ -653,7 +686,10 @@ curl -H "X-auth-key: 00000000-0000-0000-0000-000000000000" \
 <div role="tabpanel" data-language="java" class="tab-pane">
 
 ~~~~ {.java .numberLines}
-here java code
+String response = Http.get("https://api.expresspigeon.com/campaigns/1/spam")
+        .header("X-auth-key", AUTH_KEY)
+        .text();
+List result = toList(response);
 ~~~~
 
 </div>

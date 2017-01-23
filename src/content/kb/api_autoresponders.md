@@ -24,7 +24,10 @@ curl -H "X-auth-key: 00000000-0000-0000-0000-000000000000" \
 <div role="tabpanel" data-language="java" class="tab-pane">
 
 ~~~~ {.java .numberLines}
-here java code
+String response = Http.get("https://api.expresspigeon.com/auto_responders")
+        .header("X-auth-key", AUTH_KEY)
+        .text();
+List result = toList(response);
 ~~~~
 
 </div>
@@ -101,7 +104,11 @@ curl -X POST -H "X-auth-key: 00000000-0000-0000-0000-000000000000" \
 <div role="tabpanel" data-language="java" class="tab-pane">
 
 ~~~~ {.java .numberLines}
-here java code
+String content = toJsonString(map("email", "bob@example.net"));
+String response = Http.post("https://api.expresspigeon.com/auto_responders/1/start", content)
+        .header("X-auth-key", AUTH_KEY)
+        .text();
+Map<String, Object> result = toMap(response);
 ~~~~
 
 </div>
@@ -174,7 +181,11 @@ curl -X POST -H "X-auth-key: 00000000-0000-0000-0000-000000000000" \
 <div role="tabpanel" data-language="java" class="tab-pane">
 
 ~~~~ {.java .numberLines}
-here java code
+String content = toJsonString(map("email", "bob@example.net"));
+String response = Http.post("https://api.expresspigeon.com/auto_responders/1/stop", content)
+        .header("X-auth-key", AUTH_KEY)
+        .text();
+Map<String, Object> result = toMap(response);
 ~~~~
 
 </div>
@@ -244,7 +255,10 @@ curl -H "X-auth-key: 00000000-0000-0000-0000-000000000000" \
 <div role="tabpanel" data-language="java" class="tab-pane">
 
 ~~~~ {.java .numberLines}
-here java code
+String response = Http.get("https://api.expresspigeon.com/auto_responders/1")
+        .header("X-auth-key", AUTH_KEY)
+        .text();
+List result = toList(response);
 ~~~~
 
 </div>
@@ -320,7 +334,10 @@ curl -H "X-auth-key: 00000000-0000-0000-0000-000000000000" \
 <div role="tabpanel" data-language="java" class="tab-pane">
 
 ~~~~ {.java .numberLines}
-here java code
+String response = Http.get("https://api.expresspigeon.com/auto_responders/1/2/bounced")
+        .header("X-auth-key", AUTH_KEY)
+        .text();
+List result = toList(response);
 ~~~~
 
 </div>
@@ -387,7 +404,10 @@ curl -H "X-auth-key: 00000000-0000-0000-0000-000000000000" \
 <div role="tabpanel" data-language="java" class="tab-pane">
 
 ~~~~ {.java .numberLines}
-here java code
+String response = Http.get("https://api.expresspigeon.com/auto_responders/1/2/unsubscribed")
+        .header("X-auth-key", AUTH_KEY)
+        .text();
+List result = toList(response);
 ~~~~
 
 </div>
@@ -454,7 +474,10 @@ curl -H "X-auth-key: 00000000-0000-0000-0000-000000000000" \
 <div role="tabpanel" data-language="java" class="tab-pane">
 
 ~~~~ {.java .numberLines}
-here java code
+String response = Http.get("https://api.expresspigeon.com/auto_responders/1/2/spam")
+        .header("X-auth-key", AUTH_KEY)
+        .text();
+List result = toList(response);
 ~~~~
 
 </div>

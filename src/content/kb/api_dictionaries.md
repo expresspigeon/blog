@@ -59,7 +59,26 @@ curl -X POST -H "X-auth-key: 00000000-0000-0000-0000-000000000000" \
 <div role="tabpanel" data-language="java" class="tab-pane">
 
 ~~~~ {.java .numberLines}
-here java code
+String content = toJsonString(map("name", "sandwich1",
+        map("name", "sandwich1",
+            "values", map("name", "ORGANIC GRASS FED SIRLOIN", 
+                        "price", "$7.00", 
+                        "image", "http://yourdomain.com/contnet/sandwich1.png",
+                        "url", "http://yourdomain.com/sandwich1",
+                        "description", "certified organic grass fed sirloin, Swiss Gruyère cheese, vine tomatoes, organic mixed greens, caramelized organic onions and housemade horseradish aioli on organic bretzel baguette")
+            ),
+        map("name", "sandwich1",
+            "values", map("name", "ORGANIC ROASTED TOFU", 
+                        "price", "$4.99", 
+                        "image", "http://yourdomain.com/contnet/sandwich1.png",
+                        "url", "http://yourdomain.com/sandwich2",
+                        "description", "certified organic smoked turkey, local white cheddar, fresh organic apple crisps, organic mixed greens and housemade roasted pepper aioli on organic bretzel baguette")
+)));
+String response = Http.post("https://api.expresspigeon.com/dictionaries", content)
+        .header("X-auth-key", AUTH_KEY)
+        .header("Content-type", "application/json")
+        .text();
+Map<String, Object> result = toMap(response);
 ~~~~
 
 </div>
@@ -133,7 +152,10 @@ curl -H "X-auth-key: 00000000-0000-0000-0000-000000000000" \
 <div role="tabpanel" data-language="java" class="tab-pane">
 
 ~~~~ {.java .numberLines}
-here java code
+String response = Http.get("https://api.expresspigeon.com/dictionaries")
+        .header("X-auth-key", AUTH_KEY)
+        .text();
+List result = toList(response);
 ~~~~
 
 </div>
@@ -204,7 +226,10 @@ curl -H "X-auth-key: 00000000-0000-0000-0000-000000000000" \
 <div role="tabpanel" data-language="java" class="tab-pane">
 
 ~~~~ {.java .numberLines}
-here java code
+String response = Http.get("https://api.expresspigeon.com/dictionaries/dict_id")
+        .header("X-auth-key", AUTH_KEY)
+        .text();
+Map<String, Object> result = toMap(response);
 ~~~~
 
 </div>
