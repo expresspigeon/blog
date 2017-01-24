@@ -1,11 +1,6 @@
 # Zapier
 
-<div class="toc">
-
-* [Introduction](#Introduction)
-* [Picking from Template Gallery](#picking-from-template-gallery)
-
-</div>
+<ul data-toc data-toc-headings="h2,h3,h4"></ul>
 
 ## Introduction
 
@@ -38,11 +33,10 @@ Here are couple examples:
 * Create/Update Contact - Add a new contact to a list, or updates an existing contact.
 * Send Transactional Email - Sends an e-mail using an existing template.
 
-## How to connect ExpressPigeon on Zapier
+## How to create first Zap with ExpressPigeon
 
 To get started with ExpressPigeon on [Zapier](https://zapier.com), click 'Make A Zap!' button.
 
-TODO: enter image with arrow to this button 
 ![](../images/zapier/zap_1.png)
 
 In the 'Choose a trigger app' field enter 'ExpressPigeon' and select it.
@@ -72,13 +66,74 @@ TODO: enter image with arrow to this button
 
 Click 'Test' button and if you will get 'Success!' this means you are all set and can proceed with configuring you zap.
 
-## Image
+## Ready to use Zap teamplates
 
-Images need to be:
+A Zap template is a pre-defined and curated example of an automated workflow. Here, in ExpressPigeon, we are trying to save your time and creating Zaps with pre-mapped fields, so all what you need to do is simply connect two apps. 
 
-* Scaled down to the width of layout.
-* You need to implement something so that when an image is clicked, the user will see the image at 100% resolution.
-It might be a dialog. Is there anything in Bootstrap or material Framework for this?
+### Where you can find ExpressPigeon pre-defined Zaps
+
+There are couple places where you can find our templates:
+
+* ExpressPigeon's [Zapbook](https://zapier.com/zapbook/expresspigeon/) Page
+* ExpressPigeon's [Integrations](https://expresspigeon.com/integrations) Page
+
+### Example how to use templates
+
+Below you can find example of how you can easily configure Zap between Salesforce and ExpressPigeon.
+
+- Open our [Integrations](https://expresspigeon.com/integrations) page and find needed Template, in our case 'Add new Salesforce Leads to an ExpressPigeon contact list'. Click 'Use this Zap' button.
+
+TODO: enter image with arrow to this button
+![](../images/zapier/zap_7.png)
+
+- New dialog window will open with brief description what this Zap will do. All what you need to do is click 'Create this zap' button.
+
+TODO: enter image with arrow to this button
+![](../images/zapier/zap_8.png)
+
+- Since it's pre-configured Zap, you will see that Salesforce trigger 'New Lead' already selected and all what you need to do is click 'Continue' button.
+
+TODO: enter image with arrow to this button
+![](../images/zapier/zap_9.png)
+
+- Follow instructions and connect you Salesforce account. After you do this, you should see following:
+
+TODO: enter image with arrow to this button
+![](../images/zapier/zap_10.png)
+
+- Note please that on next step you will need to have existing 'lead' under your Salesforce account. If you have this, just click 'Fetch & Continue' button. This is 'test' step, so don't be afraid - nothing will be created/changed.
+
+TODO: enter image with arrow to this button
+![](../images/zapier/zap_11.png)
+
+- If all went OK in previous step, you will see that Saleforce part is all green and you can proceed to ExpressPigeon part.
+
+TODO: enter image with arrow to this button
+![](../images/zapier/zap_12.png)
+
+- 'Create/Update Contact' action is already selected and you can click 'Continue' button.
+
+TODO: enter image with arrow to this button
+![](../images/zapier/zap_13.png)
+
+- Connect ExpressPigeon account as described [above](#how-to-create-first-zap-with-expressPigeon). As result you should see following:
+
+TODO: enter image with arrow to this button
+![](../images/zapier/zap_14.png)
+
+- On the next step you should configure what list on ExpressPigeon you want to use for this zap and also select 'field' from Salesforce that will be used as an 'Email'.
+
+TODO: enter image with arrow to this button
+![](../images/zapier/zap_15.png)
+
+If you click 'Show advanced options', you will be able to configure all available fields for new Contact (First Name, Last Name and others).
+
+TODO: enter image with arrow to this button
+![](../images/zapier/zap_16.png)
+
+- On the lest step you will see previously configured data. Click 'Create & Continue' button. That's all, you are all set. Now, when you will have new lead created on Salesforce, it will automatically appear in your selected ExpressPigeon contacts list. You have more time for more pleasant things rather then manually migrating all this stuff.
+
+TODO: enter image with arrow to this button
+![](../images/zapier/zap_17.png)
 
 
-![](../mmimages/Selection_457.png)
