@@ -44,7 +44,15 @@ Map<String, Object> result = toMap(response);
 <div role="tabpanel" data-language="php" class="tab-pane">
 
 ~~~~ {.php .numberLines}
-here php code
+$options = array(
+  'http' => array(
+    'method' => 'GET',
+    'header' => "X-auth-key: 00000000-0000-0000-0000-000000000000\r\n"
+    )
+);
+$context = stream_context_create($options);
+$result = file_get_contents('https://api.expresspigeon.com/contacts?email=bob@example.net', false, $context);
+$response = json_decode($result);
 ~~~~
 
 </div>
@@ -140,8 +148,7 @@ String content = toJsonString(
                     "last_name", "Doe", 
                     "custom_fields", map("relative", "john@doe.net"))
         )));
-String url = "https://api.expresspigeon.com/contacts";
-String response = Http.post(url, content)
+String response = Http.post("https://api.expresspigeon.com/contacts", content)
         .header("X-auth-key", AUTH_KEY)
         .header("Content-type", "application/json")
         .text();
@@ -153,7 +160,22 @@ Map<String, Object> result = toMap(response);
 <div role="tabpanel" data-language="php" class="tab-pane">
 
 ~~~~ {.php .numberLines}
-here php code
+$data = array(
+  'list_id' => '11',
+  'contacts' => array(array('email' => 'john@doe.net', 'first_name' => 'John', 'last_name' => 'Doe'),
+                      array('email' => 'jane@doe.net', 'first_name' => 'Jane', 'last_name' => 'Doe', 'custom_fields' => array('relative' => 'john@doe.net'))
+);
+$options = array(
+  'http' => array(
+    'method' => 'POST',
+    'content' => json_encode($data),
+    'header' => "Content-Type: application/json\r\n" .
+                "X-auth-key: 00000000-0000-0000-0000-000000000000\r\n"
+    )
+);
+$context = stream_context_create($options);
+$result = file_get_contents('https://api.expresspigeon.com/contacts', false, $context);
+$response = json_decode($result);
 ~~~~
 
 </div>
@@ -231,7 +253,15 @@ Map<String, Object> result = toMap(response);
 <div role="tabpanel" data-language="php" class="tab-pane">
 
 ~~~~ {.php .numberLines}
-here php code
+$options = array(
+  'http' => array(
+    'method' => 'DELETE',
+    'header' => "X-auth-key: 00000000-0000-0000-0000-000000000000\r\n"
+    )
+);
+$context = stream_context_create($options);
+$result = file_get_contents('https://api.expresspigeon.com/contacts?email=bob@example.net', false, $context);
+$response = json_decode($result);
 ~~~~
 
 </div>
@@ -317,7 +347,22 @@ Map<String, Object> result = toMap(response);
 <div role="tabpanel" data-language="php" class="tab-pane">
 
 ~~~~ {.php .numberLines}
-here php code
+$data = array(
+  'source_list' => 1,
+  'target_list' => 2,
+  'contacts' => array('bob@example.net', 'toby@example.net')
+);
+$options = array(
+  'http' => array(
+    'method' => 'POST',
+    'content' => json_encode($data),
+    'header' => "Content-Type: application/json\r\n" .
+                "X-auth-key: 00000000-0000-0000-0000-000000000000\r\n"
+    )
+);
+$context = stream_context_create($options);
+$result = file_get_contents('https://api.expresspigeon.com/contacts/move', false, $context);
+$response = json_decode($result);
 ~~~~
 
 </div>

@@ -35,7 +35,15 @@ List result = toList(response);
 <div role="tabpanel" data-language="php" class="tab-pane">
 
 ~~~~ {.php .numberLines}
-here php code
+$options = array(
+  'http' => array(
+    'method' => 'GET',
+    'header' => "X-auth-key: 00000000-0000-0000-0000-000000000000\r\n"
+    )
+);
+$context = stream_context_create($options);
+$result = file_get_contents('https://api.expresspigeon.com/auto_responders', false, $context);
+$response = json_decode($result);
 ~~~~
 
 </div>
@@ -116,7 +124,20 @@ Map<String, Object> result = toMap(response);
 <div role="tabpanel" data-language="php" class="tab-pane">
 
 ~~~~ {.php .numberLines}
-here php code
+$data = array(
+  'email' => 'bob@example.net'
+);
+$options = array(
+  'http' => array(
+    'method' => 'POST',
+    'content' => json_encode($data),
+    'header' => "Content-Type: application/json\r\n" .
+                "X-auth-key: 00000000-0000-0000-0000-000000000000\r\n"
+    )
+);
+$context  = stream_context_create($options);
+$result = file_get_contents('https://api.expresspigeon.com/auto_responders/1/start', false, $context);
+$response = json_decode($result);
 ~~~~
 
 </div>
@@ -193,7 +214,20 @@ Map<String, Object> result = toMap(response);
 <div role="tabpanel" data-language="php" class="tab-pane">
 
 ~~~~ {.php .numberLines}
-here php code
+$data = array(
+  'email' => 'bob@example.net'
+);
+$options = array(
+  'http' => array(
+    'method' => 'POST',
+    'content' => json_encode($data),
+    'header' => "Content-Type: application/json\r\n" .
+                "X-auth-key: 00000000-0000-0000-0000-000000000000\r\n"
+    )
+);
+$context = stream_context_create($options);
+$result = file_get_contents('https://api.expresspigeon.com/auto_responders/1/stop', false, $context);
+$response = json_decode($result);
 ~~~~
 
 </div>
@@ -266,7 +300,15 @@ List result = toList(response);
 <div role="tabpanel" data-language="php" class="tab-pane">
 
 ~~~~ {.php .numberLines}
-here php code
+$options = array(
+  'http' => array(
+    'method' => 'GET',
+    'header' => "X-auth-key: 00000000-0000-0000-0000-000000000000\r\n"
+    )
+);
+$context = stream_context_create($options);
+$result = file_get_contents('https://api.expresspigeon.com/auto_responders/1', false, $context);
+$response = json_decode($result);
 ~~~~
 
 </div>
@@ -345,7 +387,15 @@ List result = toList(response);
 <div role="tabpanel" data-language="php" class="tab-pane">
 
 ~~~~ {.php .numberLines}
-here php code
+$options = array(
+  'http' => array(
+    'method' => 'GET',
+    'header' => "X-auth-key: 00000000-0000-0000-0000-000000000000\r\n"
+    )
+);
+$context = stream_context_create($options);
+$result = file_get_contents('https://api.expresspigeon.com/auto_responders/1/2/bounced', false, $context);
+$response = json_decode($result);
 ~~~~
 
 </div>
@@ -415,7 +465,15 @@ List result = toList(response);
 <div role="tabpanel" data-language="php" class="tab-pane">
 
 ~~~~ {.php .numberLines}
-here php code
+$options = array(
+  'http' => array(
+    'method' => 'GET',
+    'header' => "X-auth-key: 00000000-0000-0000-0000-000000000000\r\n"
+    )
+);
+$context = stream_context_create($options);
+$result = file_get_contents('https://api.expresspigeon.com/auto_responders/1/2/unsubscribed', false, $context);
+$response = json_decode($result);
 ~~~~
 
 </div>
@@ -485,7 +543,15 @@ List result = toList(response);
 <div role="tabpanel" data-language="php" class="tab-pane">
 
 ~~~~ {.php .numberLines}
-here php code
+$options = array(
+  'http' => array(
+    'method' => 'GET',
+    'header' => "X-auth-key: 00000000-0000-0000-0000-000000000000\r\n"
+    )
+);
+$context = stream_context_create($options);
+$result = file_get_contents('https://api.expresspigeon.com/auto_responders/1/2/spam', false, $context);
+$response = json_decode($result);
 ~~~~
 
 </div>

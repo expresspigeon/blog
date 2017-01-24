@@ -117,7 +117,25 @@ Map<String, Object> result = toMap(response);
 <div role="tabpanel" data-language="php" class="tab-pane">
 
 ~~~~ {.php .numberLines}
-here php code
+$data = array(
+  'template_id' => 123,
+  'reply_to' => 'john@example.net',
+  'to' => 'jane@example.net',
+  'subject' => 'Dinner served',
+  'merge_fields' => array('first_name' => 'John', 'menu' => '&lt;table&gt;&lt;tr&gt;&lt;td&gt;Burger:&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;$9.99&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;'),
+  'dictionaries' => array('dict1', 'dict2')
+);
+$options = array(
+  'http' => array(
+    'method' => 'POST',
+    'content' => json_encode($data),
+    'header' => "Content-Type: application/json\r\n" .
+                "X-auth-key: 00000000-0000-0000-0000-000000000000\r\n"
+    )
+);
+$context = stream_context_create($options);
+$result = file_get_contents('https://api.expresspigeon.com/messages', false, $context);
+$response = json_decode($result);
 ~~~~
 
 </div>
@@ -198,8 +216,8 @@ curl -X POST https://api.expresspigeon.com/messages  \
 ~~~~ {.java .numberLines}
 String response = Http.multipart("https://api.expresspigeon.com/messages")
         .header("X-auth-key", AUTH_KEY)
-        .file("contacts_file", "/path/to/attachment1.txt")
-        .file("contacts_file", "/path/to/attachment2.txt")
+        .file("attachment", "/path/to/attachment1.txt")
+        .file("attachment", "/path/to/attachment2.txt")
         .field("template_id", "123")
         .field("reply_to", "john@doe.com")
         .field("from", "John Doe")
@@ -218,7 +236,68 @@ Map<String, Object> result = toMap(response);
 <div role="tabpanel" data-language="php" class="tab-pane">
 
 ~~~~ {.php .numberLines}
-here php code
+$eol = "\r\n";
+$data = '';
+ 
+$mime_boundary=md5(time());
+ 
+$data .= '--' . $mime_boundary . $eol;
+
+$data .= 'Content-Disposition: form-data; name="template_id"' . $eol . $eol;
+$data .= "123" . $eol;
+$data .= '--' . $mime_boundary . $eol;
+
+$data .= 'Content-Disposition: form-data; name="reply_to"' . $eol . $eol;
+$data .= "john@doe.com" . $eol;
+$data .= '--' . $mime_boundary . $eol;
+
+$data .= 'Content-Disposition: form-data; name="from"' . $eol . $eol;
+$data .= "John Doe" . $eol;
+$data .= '--' . $mime_boundary . $eol;
+
+$data .= 'Content-Disposition: form-data; name="to"' . $eol . $eol;
+$data .= "jane@doe.com" . $eol;
+$data .= '--' . $mime_boundary . $eol;
+
+$data .= 'Content-Disposition: form-data; name="subject"' . $eol . $eol;
+$data .= "two attachments" . $eol;
+$data .= '--' . $mime_boundary . $eol;
+
+$data .= 'Content-Disposition: form-data; name="view_online"' . $eol . $eol;
+$data .= "true" . $eol;
+$data .= '--' . $mime_boundary . $eol;
+
+$data .= 'Content-Disposition: form-data; name="suppress_address"' . $eol . $eol;
+$data .= "true" . $eol;
+$data .= '--' . $mime_boundary . $eol;
+
+$data .= 'Content-Disposition: form-data; name="click_tracking"' . $eol . $eol;
+$data .= "false" . $eol;
+$data .= '--' . $mime_boundary . $eol;
+
+$data .= 'Content-Disposition: form-data; name="merge_fields"' . $eol . $eol;
+$data .= json_encode(array('first_name' => 'Jane')) . $eol;
+$data .= '--' . $mime_boundary . $eol;
+
+$data .= 'Content-Disposition: form-data; name="attachment"; filename="attachment1.txt"' . $eol;
+$data .= 'Content-Type: text/plain' . $eol;
+$data .= 'Content-Transfer-Encoding: base64' . $eol . $eol;
+$data .= chunk_split(base64_encode("attachment1.txt content")) . $eol;
+$data .= "--" . $mime_boundary . "--" . $eol . $eol;
+$data .= 'Content-Disposition: form-data; name="attachment"; filename="attachment2.txt"' . $eol;
+$data .= 'Content-Type: text/plain' . $eol;
+$data .= 'Content-Transfer-Encoding: base64' . $eol . $eol;
+$data .= chunk_split(base64_encode("attachment2.txt content")) . $eol;
+$data .= "--" . $mime_boundary . "--" . $eol . $eol;
+ 
+$params = array('http' => array(
+                  'method' => 'POST',
+                  'header' => 'Content-Type: multipart/form-data; boundary=' . $mime_boundary . $eol,
+                  'content' => $data
+               ));
+ 
+$ctx = stream_context_create($params);
+$response = @file_get_contents('https://api.expresspigeon.com/messages', FILE_TEXT, $ctx);
 ~~~~
 
 </div>
@@ -296,7 +375,15 @@ Map<String, Object> result = toMap(response);
 <div role="tabpanel" data-language="php" class="tab-pane">
 
 ~~~~ {.php .numberLines}
-here php code
+$options = array(
+  'http' => array(
+    'method' => 'GET',
+    'header' => "X-auth-key: 00000000-0000-0000-0000-000000000000\r\n"
+    )
+);
+$context = stream_context_create($options);
+$result = file_get_contents('https://api.expresspigeon.com/messages/1', false, $context);
+$response = json_decode($result);
 ~~~~
 
 </div>
@@ -382,7 +469,15 @@ List result = toList(response);
 <div role="tabpanel" data-language="php" class="tab-pane">
 
 ~~~~ {.php .numberLines}
-here php code
+$options = array(
+  'http' => array(
+    'method' => 'GET',
+    'header' => "X-auth-key: 00000000-0000-0000-0000-000000000000\r\n"
+    )
+);
+$context = stream_context_create($options);
+$result = file_get_contents('https://api.expresspigeon.com/messages', false, $context);
+$response = json_decode($result);
 ~~~~
 
 </div>

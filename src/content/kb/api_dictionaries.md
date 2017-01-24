@@ -59,7 +59,7 @@ curl -X POST -H "X-auth-key: 00000000-0000-0000-0000-000000000000" \
 <div role="tabpanel" data-language="java" class="tab-pane">
 
 ~~~~ {.java .numberLines}
-String content = toJsonString(map("name", "sandwich1",
+String content = toJsonString(list(
         map("name", "sandwich1",
             "values", map("name", "ORGANIC GRASS FED SIRLOIN", 
                         "price", "$7.00", 
@@ -67,7 +67,7 @@ String content = toJsonString(map("name", "sandwich1",
                         "url", "http://yourdomain.com/sandwich1",
                         "description", "certified organic grass fed sirloin, Swiss Gruyère cheese, vine tomatoes, organic mixed greens, caramelized organic onions and housemade horseradish aioli on organic bretzel baguette")
             ),
-        map("name", "sandwich1",
+        map("name", "sandwich2",
             "values", map("name", "ORGANIC ROASTED TOFU", 
                         "price", "$4.99", 
                         "image", "http://yourdomain.com/contnet/sandwich1.png",
@@ -86,7 +86,33 @@ Map<String, Object> result = toMap(response);
 <div role="tabpanel" data-language="php" class="tab-pane">
 
 ~~~~ {.php .numberLines}
-here php code
+$data = array(
+    array('name' => 'sandwich1',
+        'values' => array('name' => 'ORGANIC GRASS FED SIRLOIN',
+                'price' => '$7.00',
+                'image' => 'http://yourdomain.com/contnet/sandwich1.png',
+                'url' => 'http://yourdomain.com/sandwich1',
+                'description' => 'certified organic grass fed sirloin, Swiss Gruyère cheese, vine tomatoes, organic mixed greens, caramelized organic onions and housemade horseradish aioli on organic bretzel baguette')
+            ),
+    array('name' => 'sandwich2',
+        'values' => => array('name' => 'ORGANIC ROASTED TOFU',
+                'price' => '$4.99',
+                'image' => 'http://yourdomain.com/contnet/sandwich1.png',
+                'url' => 'http://yourdomain.com/sandwich2',
+                'description' => 'certified organic smoked turkey, local white cheddar, fresh organic apple crisps, organic mixed greens and housemade roasted pepper aioli on organic bretzel baguette')
+            )
+);
+$options = array(
+  'http' => array(
+    'method' => 'POST',
+    'content' => json_encode($data),
+    'header' => "Content-Type: application/json\r\n" .
+                "X-auth-key: 00000000-0000-0000-0000-000000000000\r\n"
+    )
+);
+$context = stream_context_create($options);
+$result = file_get_contents('https://api.expresspigeon.com/dictionaries', false, $context);
+$response = json_decode($result);
 ~~~~
 
 </div>
@@ -163,7 +189,15 @@ List result = toList(response);
 <div role="tabpanel" data-language="php" class="tab-pane">
 
 ~~~~ {.php .numberLines}
-here php code
+$options = array(
+  'http' => array(
+    'method' => 'GET',
+    'header' => "X-auth-key: 00000000-0000-0000-0000-000000000000\r\n"
+    )
+);
+$context = stream_context_create($options);
+$result = file_get_contents('https://api.expresspigeon.com/dictionaries', false, $context);
+$response = json_decode($result);
 ~~~~
 
 </div>
@@ -237,7 +271,15 @@ Map<String, Object> result = toMap(response);
 <div role="tabpanel" data-language="php" class="tab-pane">
 
 ~~~~ {.php .numberLines}
-here php code
+$options = array(
+  'http' => array(
+    'method' => 'GET',
+    'header' => "X-auth-key: 00000000-0000-0000-0000-000000000000\r\n"
+    )
+);
+$context = stream_context_create($options);
+$result = file_get_contents('https://api.expresspigeon.com/dictionaries/dict_id', false, $context);
+$response = json_decode($result);
 ~~~~
 
 </div>

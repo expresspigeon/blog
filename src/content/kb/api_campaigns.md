@@ -71,7 +71,27 @@ Map<String, Object> result = toMap(response);
 <div role="tabpanel" data-language="php" class="tab-pane">
 
 ~~~~ {.php .numberLines}
-here php code
+$data = array(
+  'list_id' => '1',
+  'template_id' => '1',
+  'name' => 'My first newsletter',
+  'from_name' => 'Dave',
+  'reply_to' => 'dave@expresspigeon.com',
+  'subject' => 'Hello from Dave',
+  'google_analytics' => 'false',
+  'schedule_for' => '2013-05-28T14:03:17.956+0300'
+);
+$options = array(
+  'http' => array(
+    'method' => 'POST',
+    'content' => json_encode($data),
+    'header' => "Content-Type: application/json\r\n" .
+                "X-auth-key: 00000000-0000-0000-0000-000000000000\r\n"
+    )
+);
+$context = stream_context_create($options);
+$result = file_get_contents('https://api.expresspigeon.com/campaigns', false, $context);
+$response = json_decode($result);
 ~~~~
 
 </div>
@@ -146,7 +166,15 @@ Map<String, Object> result = toMap(response);
 <div role="tabpanel" data-language="php" class="tab-pane">
 
 ~~~~ {.php .numberLines}
-here php code
+$options = array(
+  'http' => array(
+    'method' => 'DELETE',
+    'header' => "X-auth-key: 00000000-0000-0000-0000-000000000000\r\n"
+    )
+);
+$context = stream_context_create($options);
+$result = file_get_contents('https://api.expresspigeon.com/campaigns/2', false, $context);
+$response = json_decode($result);
 ~~~~
 
 </div>
@@ -221,7 +249,15 @@ List result = toList(response);
 <div role="tabpanel" data-language="php" class="tab-pane">
 
 ~~~~ {.php .numberLines}
-here php code
+$options = array(
+  'http' => array(
+    'method' => 'GET',
+    'header' => "X-auth-key: 00000000-0000-0000-0000-000000000000\r\n"
+    )
+);
+$context = stream_context_create($options);
+$result = file_get_contents('https://api.expresspigeon.com/campaigns', false, $context);
+$response = json_decode($result);
 ~~~~
 
 </div>
@@ -302,7 +338,15 @@ Map<String, Object> result = toMap(response);
 <div role="tabpanel" data-language="php" class="tab-pane">
 
 ~~~~ {.php .numberLines}
-here php code
+$options = array(
+  'http' => array(
+    'method' => 'GET',
+    'header' => "X-auth-key: 00000000-0000-0000-0000-000000000000\r\n"
+    )
+);
+$context = stream_context_create($options);
+$result = file_get_contents('https://api.expresspigeon.com/campaigns/1', false, $context);
+$response = json_decode($result);
 ~~~~
 
 </div>
@@ -379,7 +423,15 @@ List result = toList(response);
 <div role="tabpanel" data-language="php" class="tab-pane">
 
 ~~~~ {.php .numberLines}
-here php code
+$options = array(
+  'http' => array(
+    'method' => 'GET',
+    'header' => "X-auth-key: 00000000-0000-0000-0000-000000000000\r\n"
+    )
+);
+$context = stream_context_create($options);
+$result = file_get_contents('https://api.expresspigeon.com/campaigns/1/opened', false, $context);
+$response = json_decode($result);
 ~~~~
 
 </div>
@@ -461,7 +513,15 @@ List result = toList(response);
 <div role="tabpanel" data-language="php" class="tab-pane">
 
 ~~~~ {.php .numberLines}
-here php code
+$options = array(
+  'http' => array(
+    'method' => 'GET',
+    'header' => "X-auth-key: 00000000-0000-0000-0000-000000000000\r\n"
+    )
+);
+$context = stream_context_create($options);
+$result = file_get_contents('https://api.expresspigeon.com/campaigns/1/clicked', false, $context);
+$response = json_decode($result);
 ~~~~
 
 </div>
@@ -545,7 +605,15 @@ List result = toList(response);
 <div role="tabpanel" data-language="php" class="tab-pane">
 
 ~~~~ {.php .numberLines}
-here php code
+$options = array(
+  'http' => array(
+    'method' => 'GET',
+    'header' => "X-auth-key: 00000000-0000-0000-0000-000000000000\r\n"
+    )
+);
+$context = stream_context_create($options);
+$result = file_get_contents('https://api.expresspigeon.com/campaigns/1/bounced', false, $context);
+$response = json_decode($result);
 ~~~~
 
 </div>
@@ -621,7 +689,15 @@ List result = toList(response);
 <div role="tabpanel" data-language="php" class="tab-pane">
 
 ~~~~ {.php .numberLines}
-here php code
+$options = array(
+  'http' => array(
+    'method' => 'GET',
+    'header' => "X-auth-key: 00000000-0000-0000-0000-000000000000\r\n"
+    )
+);
+$context = stream_context_create($options);
+$result = file_get_contents('https://api.expresspigeon.com/campaigns/1/unsubscribed', false, $context);
+$response = json_decode($result);
 ~~~~
 
 </div>
@@ -697,7 +773,15 @@ List result = toList(response);
 <div role="tabpanel" data-language="php" class="tab-pane">
 
 ~~~~ {.php .numberLines}
-here php code
+$options = array(
+  'http' => array(
+    'method' => 'GET',
+    'header' => "X-auth-key: 00000000-0000-0000-0000-000000000000\r\n"
+    )
+);
+$context = stream_context_create($options);
+$result = file_get_contents('https://api.expresspigeon.com/campaigns/1/spam', false, $context);
+$response = json_decode($result);
 ~~~~
 
 </div>

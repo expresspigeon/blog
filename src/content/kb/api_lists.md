@@ -39,7 +39,15 @@ List result = toList(response);
 <div role="tabpanel" data-language="php" class="tab-pane">
 
 ~~~~ {.php .numberLines}
-here php code
+$options = array(
+  'http' => array(
+    'method' => 'GET',
+    'header' => "X-auth-key: 00000000-0000-0000-0000-000000000000\r\n"
+    )
+);
+$context = stream_context_create($options);
+$result = file_get_contents('https://api.expresspigeon.com/lists', false, $context);
+$response = json_decode($result);
 ~~~~
 
 </div>
@@ -151,7 +159,23 @@ Map<String, Object> result = toMap(response);
 <div role="tabpanel" data-language="php" class="tab-pane">
 
 ~~~~ {.php .numberLines}
-here php code
+$data = array(
+  'name' => 'Active customers',
+  'from_name' => 'Bob',
+  'name' => 'My first newsletter',
+  'reply_to' => 'bob@acmetools.com'
+);
+$options = array(
+  'http' => array(
+    'method' => 'POST',
+    'content' => json_encode($data),
+    'header' => "Content-Type: application/json\r\n" .
+                "X-auth-key: 00000000-0000-0000-0000-000000000000\r\n"
+    )
+);
+$context = stream_context_create($options);
+$result = file_get_contents('https://api.expresspigeon.com/lists', false, $context);
+$response = json_decode($result);
 ~~~~
 
 </div>
@@ -241,7 +265,7 @@ String content = toJsonString(map("id", 2,
         "name", "Customers list",
         "from_name", "Bill",
         "reply_to", "bob@expresspigeon.com"));
-String response = Http.post("https://api.expresspigeon.com/lists", content)
+String response = Http.put("https://api.expresspigeon.com/lists", content)
         .header("X-auth-key", AUTH_KEY)
         .header("Content-type", "application/json")
         .text();
@@ -253,7 +277,23 @@ Map<String, Object> result = toMap(response);
 <div role="tabpanel" data-language="php" class="tab-pane">
 
 ~~~~ {.php .numberLines}
-here php code
+$data = array(
+  'id' => 2,
+  'name' => 'Customers list',
+  'from_name' => 'Bill',
+  'reply_to' => 'bob@expresspigeon.com'
+);
+$options = array(
+  'http' => array(
+    'method' => 'PUT',
+    'content' => json_encode($data),
+    'header' => "Content-Type: application/json\r\n" .
+                "X-auth-key: 00000000-0000-0000-0000-000000000000\r\n"
+    )
+);
+$context = stream_context_create($options);
+$result = file_get_contents('https://api.expresspigeon.com/lists', false, $context);
+$response = json_decode($result);
 ~~~~
 
 </div>
@@ -341,7 +381,15 @@ Map<String, Object> result = toMap(response);
 <div role="tabpanel" data-language="php" class="tab-pane">
 
 ~~~~ {.php .numberLines}
-here php code
+$options = array(
+  'http' => array(
+    'method' => 'DELETE',
+    'header' => "X-auth-key: 00000000-0000-0000-0000-000000000000\r\n"
+    )
+);
+$context = stream_context_create($options);
+$result = file_get_contents('https://api.expresspigeon.com/lists/2', false, $context);
+$response = json_decode($result);
 ~~~~
 
 </div>
@@ -413,7 +461,14 @@ String response = Http.get("https://api.expresspigeon.com/lists/123/csv")
 <div role="tabpanel" data-language="php" class="tab-pane">
 
 ~~~~ {.php .numberLines}
-here php code
+$options = array(
+  'http' => array(
+    'method' => 'GET',
+    'header' => "X-auth-key: 00000000-0000-0000-0000-000000000000\r\n"
+    )
+);
+$context = stream_context_create($options);
+$result = file_get_contents('https://api.expresspigeon.com/lists/123/csv', false, $context);
 ~~~~
 
 </div>
@@ -481,7 +536,26 @@ Map<String, Object> result = toMap(response);
 <div role="tabpanel" data-language="php" class="tab-pane">
 
 ~~~~ {.php .numberLines}
-here php code
+$eol = "\r\n";
+$data = '';
+ 
+$mime_boundary=md5(time());
+ 
+$data .= '--' . $mime_boundary . $eol;
+$data .= 'Content-Disposition: form-data; name="contacts_file"; filename="list.csv"' . $eol;
+$data .= 'Content-Type: text/plain' . $eol;
+$data .= 'Content-Transfer-Encoding: base64' . $eol . $eol;
+$data .= chunk_split(base64_encode("list.csv content")) . $eol;
+$data .= "--" . $mime_boundary . "--" . $eol . $eol;
+ 
+$params = array('http' => array(
+                  'method' => 'POST',
+                  'header' => 'Content-Type: multipart/form-data; boundary=' . $mime_boundary . $eol,
+                  'content' => $data
+               ));
+ 
+$ctx = stream_context_create($params);
+$response = @file_get_contents('https://api.expresspigeon.com/lists/{list_id}/upload', FILE_TEXT, $ctx);
 ~~~~
 
 </div>
@@ -559,7 +633,15 @@ Map<String, Object> result = toMap(response);
 <div role="tabpanel" data-language="php" class="tab-pane">
 
 ~~~~ {.php .numberLines}
-here php code
+$options = array(
+  'http' => array(
+    'method' => 'GET',
+    'header' => "X-auth-key: 00000000-0000-0000-0000-000000000000\r\n"
+    )
+);
+$context = stream_context_create($options);
+$result = file_get_contents('https://api.expresspigeon.com/lists/upload_status/{upload_id}', false, $context);
+$response = json_decode($result);
 ~~~~
 
 </div>

@@ -59,7 +59,21 @@ Map<String, Object> result = toMap(response);
 <div role="tabpanel" data-language="php" class="tab-pane">
 
 ~~~~ {.php .numberLines}
-here php code
+$data = array(
+  'name' => 'My new template',
+  'merge_fields' => array('menu' => '&lt;table class='report'&gt;&lt;tr&gt;&lt;td&gt;Burger:&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;$9.99&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;')
+);
+$options = array(
+  'http' => array(
+    'method' => 'POST',
+    'content' => json_encode($data),
+    'header' => "Content-Type: application/json\r\n" .
+                "X-auth-key: 00000000-0000-0000-0000-000000000000\r\n"
+    )
+);
+$context = stream_context_create($options);
+$result = file_get_contents('https://api.expresspigeon.com/templates/123/copy', false, $context);
+$response = json_decode($result);
 ~~~~
 
 </div>
@@ -137,7 +151,15 @@ Map<String, Object> result = toMap(response);
 <div role="tabpanel" data-language="php" class="tab-pane">
 
 ~~~~ {.php .numberLines}
-here php code
+$options = array(
+  'http' => array(
+    'method' => 'DELETE',
+    'header' => "X-auth-key: 00000000-0000-0000-0000-000000000000\r\n"
+    )
+);
+$context = stream_context_create($options);
+$result = file_get_contents('https://api.expresspigeon.com/templates/123', false, $context);
+$response = json_decode($result);
 ~~~~
 
 </div>
