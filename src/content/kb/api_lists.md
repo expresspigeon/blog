@@ -1,6 +1,5 @@
 # Lists
 
-
 <ul data-toc data-toc-headings="h2,h3,h4"></ul>
 
 Lists are sets of contacts a campaign can be sent to. A list consists of name, from name, reply-to fields and physical address that will be displayed in newsletter. Lists can be created, read, updated, deleted and filled up with contacts.
