@@ -2,16 +2,12 @@
 
 <ul data-toc data-toc-headings="h2,h3,h4"></ul>
 
-----
-
 ## Main Editor Components
 
 Take a look at the image below to learn about the most important email editor components.
 
 ![](images/Selection_645.png)
 
-
-----
 
 Want to see this in action, follow on to [Basic structure](/kb/editor_creating_and_editing_newsletter#basic-structure)
 video clip.
