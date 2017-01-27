@@ -59,7 +59,10 @@ here ruby code
 <div role="tabpanel" data-language="python" class="tab-pane">
 
 ~~~~ {.python .numberLines}
-here python code
+from expresspigeon import ExpressPigeon
+    
+api = ExpressPigeon()
+auto_responders = api.auto_responders.find_all()
 ~~~~
 
 </div>
@@ -153,7 +156,10 @@ here ruby code
 <div role="tabpanel" data-language="python" class="tab-pane">
 
 ~~~~ {.python .numberLines}
-here python code
+from expresspigeon import ExpressPigeon
+    
+api = ExpressPigeon()
+response = api.auto_responders.start(1, os.environ['EXPRESSPIGEON_API_USER'])
 ~~~~
 
 </div>
@@ -243,7 +249,10 @@ here ruby code
 <div role="tabpanel" data-language="python" class="tab-pane">
 
 ~~~~ {.python .numberLines}
-here python code
+from expresspigeon import ExpressPigeon
+    
+api = ExpressPigeon()
+response = api.auto_responders.stop(1, os.environ['EXPRESSPIGEON_API_USER'])
 ~~~~
 
 </div>
@@ -324,7 +333,10 @@ here ruby code
 <div role="tabpanel" data-language="python" class="tab-pane">
 
 ~~~~ {.python .numberLines}
-here python code
+from expresspigeon import ExpressPigeon
+    
+api = ExpressPigeon()
+response = api.auto_responders.report(1, os.environ['EXPRESSPIGEON_API_USER'])
 ~~~~
 
 </div>
@@ -411,7 +423,10 @@ here ruby code
 <div role="tabpanel" data-language="python" class="tab-pane">
 
 ~~~~ {.python .numberLines}
-here python code
+from expresspigeon import ExpressPigeon
+    
+api = ExpressPigeon()
+response = api.auto_responders.bounced(1, 2)
 ~~~~
 
 </div>
@@ -489,7 +504,10 @@ here ruby code
 <div role="tabpanel" data-language="python" class="tab-pane">
 
 ~~~~ {.python .numberLines}
-here python code
+from expresspigeon import ExpressPigeon
+    
+api = ExpressPigeon()
+response = api.auto_responders.unsubscribed(1, 2)
 ~~~~
 
 </div>
@@ -567,7 +585,10 @@ here ruby code
 <div role="tabpanel" data-language="python" class="tab-pane">
 
 ~~~~ {.python .numberLines}
-here python code
+from expresspigeon import ExpressPigeon
+    
+api = ExpressPigeon()
+response = api.auto_responders.spam(1, 2)
 ~~~~
 
 </div>

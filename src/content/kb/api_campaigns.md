@@ -107,7 +107,14 @@ here ruby code
 <div role="tabpanel" data-language="python" class="tab-pane">
 
 ~~~~ {.python .numberLines}
-here python code
+from expresspigeon import ExpressPigeon
+    
+api = ExpressPigeon()
+response = api.campaigns.schedule(list_id=1, template_id=1, name="My first newsletter",
+                                      from_name="Dave",
+                                      reply_to="dave@expresspigeon.com", subject="Hello from Dave",
+                                      google_analytics=False,
+                                      schedule_for="2013-05-28T14:03:17.956+0300")
 ~~~~
 
 </div>
@@ -273,7 +280,10 @@ here ruby code
 <div role="tabpanel" data-language="python" class="tab-pane">
 
 ~~~~ {.python .numberLines}
-here python code
+from expresspigeon import ExpressPigeon
+    
+api = ExpressPigeon()
+response = api.campaigns.get_all()
 ~~~~
 
 </div>
@@ -362,7 +372,10 @@ here ruby code
 <div role="tabpanel" data-language="python" class="tab-pane">
 
 ~~~~ {.python .numberLines}
-here python code
+from expresspigeon import ExpressPigeon
+    
+api = ExpressPigeon()
+response = api.campaigns.report(1)
 ~~~~
 
 </div>
@@ -629,7 +642,10 @@ here ruby code
 <div role="tabpanel" data-language="python" class="tab-pane">
 
 ~~~~ {.python .numberLines}
-here python code
+from expresspigeon import ExpressPigeon
+    
+api = ExpressPigeon()
+response = api.campaigns.bounced(1)
 ~~~~
 
 </div>
@@ -713,7 +729,10 @@ here ruby code
 <div role="tabpanel" data-language="python" class="tab-pane">
 
 ~~~~ {.python .numberLines}
-here python code
+from expresspigeon import ExpressPigeon
+    
+api = ExpressPigeon()
+response = api.campaigns.unsubscribed(1)
 ~~~~
 
 </div>
@@ -797,7 +816,10 @@ here ruby code
 <div role="tabpanel" data-language="python" class="tab-pane">
 
 ~~~~ {.python .numberLines}
-here python code
+from expresspigeon import ExpressPigeon
+    
+api = ExpressPigeon()
+response = api.campaigns.spam(1)
 ~~~~
 
 </div>

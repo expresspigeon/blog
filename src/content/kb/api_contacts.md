@@ -68,7 +68,10 @@ here ruby code
 <div role="tabpanel" data-language="python" class="tab-pane">
 
 ~~~~ {.python .numberLines}
-here python code
+from expresspigeon import ExpressPigeon
+    
+api = ExpressPigeon()
+response = api.contacts.find_by_email("bob@example.net")
 ~~~~
 
 </div>
@@ -191,7 +194,11 @@ here ruby code
 <div role="tabpanel" data-language="python" class="tab-pane">
 
 ~~~~ {.python .numberLines}
-here python code
+from expresspigeon import ExpressPigeon
+    
+api = ExpressPigeon()
+response = api.contacts.upsert(11, [{"email": "john@doe.net", "first_name": "John", "last_name": "Doe"},
+                                    {"email": "jane@doe.net", "first_name": "Jane", "last_name": "Doe", "custom_fields": {"relative": "john@doe.net"}}])
 ~~~~
 
 </div>
@@ -277,7 +284,10 @@ here ruby code
 <div role="tabpanel" data-language="python" class="tab-pane">
 
 ~~~~ {.python .numberLines}
-here python code
+from expresspigeon import ExpressPigeon
+    
+api = ExpressPigeon()
+response = api.contacts.delete("bob@example.net")
 ~~~~
 
 </div>

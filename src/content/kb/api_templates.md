@@ -89,7 +89,12 @@ here ruby code
 <div role="tabpanel" data-language="python" class="tab-pane">
 
 ~~~~ {.python .numberLines}
-here python code
+from expresspigeon import ExpressPigeon
+    
+api = ExpressPigeon()
+response = api.templates.copy(123, "My new template", merge_fields={
+            "menu": "<table class='report'><tr><td>Burger:</td></tr><tr>$9.99<td></td></tr></table>"
+        })
 ~~~~
 
 </div>

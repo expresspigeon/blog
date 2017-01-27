@@ -63,7 +63,10 @@ here ruby code
 <div role="tabpanel" data-language="python" class="tab-pane">
 
 ~~~~ {.python .numberLines}
-here python code
+from expresspigeon import ExpressPigeon
+    
+api = ExpressPigeon()
+response = api.lists.find_all()
 ~~~~
 
 </div>
@@ -145,7 +148,6 @@ curl -X POST -H "X-auth-key: 00000000-0000-0000-0000-000000000000" \
 ~~~~ {.java .numberLines}
 String content = toJsonString(map("name", "Active customers",
         "from_name", "Bob",
-        "name", "My first newsletter",
         "reply_to", "bob@acmetools.com"));
 String response = Http.post("https://api.expresspigeon.com/lists", content)
         .header("X-auth-key", AUTH_KEY)
@@ -162,7 +164,6 @@ Map<String, Object> result = toMap(response);
 $data = array(
   'name' => 'Active customers',
   'from_name' => 'Bob',
-  'name' => 'My first newsletter',
   'reply_to' => 'bob@acmetools.com'
 );
 $options = array(
@@ -191,7 +192,10 @@ here ruby code
 <div role="tabpanel" data-language="python" class="tab-pane">
 
 ~~~~ {.python .numberLines}
-here python code
+from expresspigeon import ExpressPigeon
+    
+api = ExpressPigeon()
+response = api.lists.create(name="Active customers", from_name="Bob", reply_to="bob@acmetools.com")
 ~~~~
 
 </div>
@@ -309,7 +313,10 @@ here ruby code
 <div role="tabpanel" data-language="python" class="tab-pane">
 
 ~~~~ {.python .numberLines}
-here python code
+from expresspigeon import ExpressPigeon
+    
+api = ExpressPigeon()
+response = api.lists.update(2, {"name": "Customers list", "from_name": "Bill", "reply_to": "bob@expresspigeon.com"})
 ~~~~
 
 </div>
@@ -405,7 +412,10 @@ here ruby code
 <div role="tabpanel" data-language="python" class="tab-pane">
 
 ~~~~ {.python .numberLines}
-here python code
+from expresspigeon import ExpressPigeon
+    
+api = ExpressPigeon()
+response = api.lists.delete(2)
 ~~~~
 
 </div>
@@ -484,7 +494,10 @@ here ruby code
 <div role="tabpanel" data-language="python" class="tab-pane">
 
 ~~~~ {.python .numberLines}
-here python code
+from expresspigeon import ExpressPigeon
+    
+api = ExpressPigeon()
+response = api.lists.csv(123)
 ~~~~
 
 </div>
@@ -571,7 +584,10 @@ here ruby code
 <div role="tabpanel" data-language="python" class="tab-pane">
 
 ~~~~ {.python .numberLines}
-here python code
+from expresspigeon import ExpressPigeon
+    
+api = ExpressPigeon()
+response = api.lists.upload({list_id}, "/path/to/list.csv")
 ~~~~
 
 </div>
@@ -657,7 +673,10 @@ here ruby code
 <div role="tabpanel" data-language="python" class="tab-pane">
 
 ~~~~ {.python .numberLines}
-here python code
+from expresspigeon import ExpressPigeon
+    
+api = ExpressPigeon()
+response = api.lists.upload_status({upload_id})
 ~~~~
 
 </div>
