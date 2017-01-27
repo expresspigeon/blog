@@ -20,7 +20,8 @@ def processMarkDown(String src, String target, String contentName){
     dir.toFile().eachFileRecurse(FILES) {
         if(it.name.endsWith('.md')) {
             println "Processing ${it.absolutePath}"
-            "pandoc -f markdown -t html   ${it.absolutePath} -o ${target}/${contentName}/${it.name}.html".execute();
+            def proc = "pandoc -f markdown -t html   ${it.absolutePath} -o ${target}/${contentName}/${it.name}.html".execute();
+            proc.waitForProcessOutput(System.out, System.err)
         }
     }
 }
