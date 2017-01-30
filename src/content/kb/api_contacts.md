@@ -388,7 +388,10 @@ here ruby code
 <div role="tabpanel" data-language="python" class="tab-pane">
 
 ~~~~ {.python .numberLines}
-here python code
+from expresspigeon import ExpressPigeon
+    
+api = ExpressPigeon()
+response = api.contacts.move(1, 2, ["bob@example.net", "toby@example.net"])
 ~~~~
 
 </div>

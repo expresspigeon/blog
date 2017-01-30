@@ -320,7 +320,13 @@ here ruby code
 <div role="tabpanel" data-language="python" class="tab-pane">
 
 ~~~~ {.python .numberLines}
-here python code
+from expresspigeon import ExpressPigeon
+    
+api = ExpressPigeon()
+response = api.messages.send_message_attachment(template_id=123, ["path/to/attachment1.txt", "path/to/attachment2.txt"]
+                                      to="jane@example.net",
+                                      reply_to="john@example.net", from_name="John", subject="Dinner served",
+                                      merge_fields={"first_name": "John", "menu": "&lt;table&gt;&lt;tr&gt;&lt;td&gt;Burger:&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;$9.99&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;"})
 ~~~~
 
 </div>

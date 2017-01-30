@@ -197,7 +197,10 @@ here ruby code
 <div role="tabpanel" data-language="python" class="tab-pane">
 
 ~~~~ {.python .numberLines}
-here python code
+from expresspigeon import ExpressPigeon
+    
+api = ExpressPigeon()
+response = api.campaigns.delete(2)
 ~~~~
 
 </div>
@@ -460,7 +463,10 @@ here ruby code
 <div role="tabpanel" data-language="python" class="tab-pane">
 
 ~~~~ {.python .numberLines}
-here python code
+from expresspigeon import ExpressPigeon
+    
+api = ExpressPigeon()
+response = api.campaigns.opened(2)
 ~~~~
 
 </div>
@@ -550,7 +556,10 @@ here ruby code
 <div role="tabpanel" data-language="python" class="tab-pane">
 
 ~~~~ {.python .numberLines}
-here python code
+from expresspigeon import ExpressPigeon
+    
+api = ExpressPigeon()
+response = api.campaigns.clicked(2)
 ~~~~
 
 </div>

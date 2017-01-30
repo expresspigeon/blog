@@ -180,7 +180,10 @@ here ruby code
 <div role="tabpanel" data-language="python" class="tab-pane">
 
 ~~~~ {.python .numberLines}
-here python code
+from expresspigeon import ExpressPigeon
+    
+api = ExpressPigeon()
+response = api.templates.delete(123)
 ~~~~
 
 </div>
