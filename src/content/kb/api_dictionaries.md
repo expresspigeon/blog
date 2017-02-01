@@ -59,6 +59,12 @@ curl -X POST -H "X-auth-key: 00000000-0000-0000-0000-000000000000" \
 <div role="tabpanel" data-language="java" class="tab-pane">
 
 ~~~~ {.java .numberLines}
+import org.javalite.http.Http;
+import static org.javalite.common.Collections.map;
+import static org.javalite.common.Collections.list;
+import static org.javalite.common.JsonHelper.toJsonString;
+import static org.javalite.common.JsonHelper.toMap;
+
 String content = toJsonString(list(
         map("name", "sandwich1",
             "values", map("name", "ORGANIC GRASS FED SIRLOIN", 
@@ -95,7 +101,7 @@ $data = array(
                 'description' => 'certified organic grass fed sirloin, Swiss Gruyère cheese, vine tomatoes, organic mixed greens, caramelized organic onions and housemade horseradish aioli on organic bretzel baguette')
             ),
     array('name' => 'sandwich2',
-        'values' => => array('name' => 'ORGANIC ROASTED TOFU',
+        'values' => array('name' => 'ORGANIC ROASTED TOFU',
                 'price' => '$4.99',
                 'image' => 'http://yourdomain.com/contnet/sandwich1.png',
                 'url' => 'http://yourdomain.com/sandwich2',
@@ -200,6 +206,9 @@ curl -H "X-auth-key: 00000000-0000-0000-0000-000000000000" \
 <div role="tabpanel" data-language="java" class="tab-pane">
 
 ~~~~ {.java .numberLines}
+import org.javalite.http.Http;
+import static org.javalite.common.JsonHelper.toList;
+
 String response = Http.get("https://api.expresspigeon.com/dictionaries")
         .header("X-auth-key", AUTH_KEY)
         .text();
@@ -285,6 +294,9 @@ curl -H "X-auth-key: 00000000-0000-0000-0000-000000000000" \
 <div role="tabpanel" data-language="java" class="tab-pane">
 
 ~~~~ {.java .numberLines}
+import org.javalite.http.Http;
+import static org.javalite.common.JsonHelper.toMap;
+
 String response = Http.get("https://api.expresspigeon.com/dictionaries/dict_id")
         .header("X-auth-key", AUTH_KEY)
         .text();

@@ -51,6 +51,11 @@ curl -X POST -H "X-auth-key: 00000000-0000-0000-0000-000000000000" \
 <div role="tabpanel" data-language="java" class="tab-pane">
 
 ~~~~ {.java .numberLines}
+import org.javalite.http.Http;
+import static org.javalite.common.Collections.map;
+import static org.javalite.common.JsonHelper.toJsonString;
+import static org.javalite.common.JsonHelper.toMap;
+
 String content = toJsonString(map("list_id", "1",
         "template_id", "1",
         "name", "My first newsletter",
@@ -162,6 +167,9 @@ curl -X DELETE -H "X-auth-key: 00000000-0000-0000-0000-000000000000" \
 <div role="tabpanel" data-language="java" class="tab-pane">
 
 ~~~~ {.java .numberLines}
+import org.javalite.http.Http;
+import static org.javalite.common.JsonHelper.toMap;
+
 String response = Http.delete("https://api.expresspigeon.com/campaigns/2")
         .header("X-auth-key", AUTH_KEY)
         .text();
@@ -248,6 +256,9 @@ curl -X GET -H "X-auth-key: 00000000-0000-0000-0000-000000000000" \
 <div role="tabpanel" data-language="java" class="tab-pane">
 
 ~~~~ {.java .numberLines}
+import org.javalite.http.Http;
+import static org.javalite.common.JsonHelper.toList;
+
 String response = Http.get("https://api.expresspigeon.com/campaigns")
         .header("X-auth-key", AUTH_KEY)
         .text();
@@ -340,6 +351,9 @@ curl -H "X-auth-key: 00000000-0000-0000-0000-000000000000" \
 <div role="tabpanel" data-language="java" class="tab-pane">
 
 ~~~~ {.java .numberLines}
+import org.javalite.http.Http;
+import static org.javalite.common.JsonHelper.toMap;
+
 String response = Http.get("https://api.expresspigeon.com/campaigns/1")
         .header("X-auth-key", AUTH_KEY)
         .text();
@@ -428,6 +442,9 @@ curl -H "X-auth-key: 00000000-0000-0000-0000-000000000000" \
 <div role="tabpanel" data-language="java" class="tab-pane">
 
 ~~~~ {.java .numberLines}
+import org.javalite.http.Http;
+import static org.javalite.common.JsonHelper.toList;
+
 String response = Http.get("https://api.expresspigeon.com/campaigns/1/opened")
         .header("X-auth-key", AUTH_KEY)
         .text();
@@ -521,6 +538,9 @@ curl -H "X-auth-key: 00000000-0000-0000-0000-000000000000" \
 <div role="tabpanel" data-language="java" class="tab-pane">
 
 ~~~~ {.java .numberLines}
+import org.javalite.http.Http;
+import static org.javalite.common.JsonHelper.toList;
+
 String response = Http.get("https://api.expresspigeon.com/campaigns/1/clicked")
         .header("X-auth-key", AUTH_KEY)
         .text();
@@ -616,6 +636,9 @@ curl -H "X-auth-key: 00000000-0000-0000-0000-000000000000" \
 <div role="tabpanel" data-language="java" class="tab-pane">
 
 ~~~~ {.java .numberLines}
+import org.javalite.http.Http;
+import static org.javalite.common.JsonHelper.toList;
+
 String response = Http.get("https://api.expresspigeon.com/campaigns/1/bounced")
         .header("X-auth-key", AUTH_KEY)
         .text();
@@ -703,6 +726,9 @@ curl -H "X-auth-key: 00000000-0000-0000-0000-000000000000" \
 <div role="tabpanel" data-language="java" class="tab-pane">
 
 ~~~~ {.java .numberLines}
+import org.javalite.http.Http;
+import static org.javalite.common.JsonHelper.toList;
+
 String response = Http.get("https://api.expresspigeon.com/campaigns/1/unsubscribed")
         .header("X-auth-key", AUTH_KEY)
         .text();
@@ -790,6 +816,9 @@ curl -H "X-auth-key: 00000000-0000-0000-0000-000000000000" \
 <div role="tabpanel" data-language="java" class="tab-pane">
 
 ~~~~ {.java .numberLines}
+import org.javalite.http.Http;
+import static org.javalite.common.JsonHelper.toList;
+
 String response = Http.get("https://api.expresspigeon.com/campaigns/1/spam")
         .header("X-auth-key", AUTH_KEY)
         .text();

@@ -97,13 +97,19 @@ curl -X POST -H "X-auth-key: 00000000-0000-0000-0000-000000000000"
 <div role="tabpanel" data-language="java" class="tab-pane">
 
 ~~~~ {.java .numberLines}
+import org.javalite.http.Http;
+import static org.javalite.common.Collections.map;
+import static org.javalite.common.Collections.list;
+import static org.javalite.common.JsonHelper.toJsonString;
+import static org.javalite.common.JsonHelper.toMap;
+
 String content = toJsonString(map("template_id", 123,
         "reply_to", "john@example.net",
         "from", "John",
         "to", "jane@example.net",
         "subject", "Dinner served",
-        "merge_fields", map("first_name", "John", "menu": "&lt;table&gt;&lt;tr&gt;&lt;td&gt;Burger:&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;$9.99&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;"),
-        "dictionaries": list("dict1", "dict2")
+        "merge_fields", map("first_name", "John", "menu", "<table class='report'><tr><td>Burger:</td></tr><tr>$9.99<td></td></tr></table>"),
+        "dictionaries", list("dict1", "dict2")
 ));
 String response = Http.post("https://api.expresspigeon.com/messages", content)
         .header("X-auth-key", AUTH_KEY)
@@ -123,7 +129,7 @@ $data = array(
   'from' => 'John',
   'to' => 'jane@example.net',
   'subject' => 'Dinner served',
-  'merge_fields' => array('first_name' => 'John', 'menu' => '&lt;table&gt;&lt;tr&gt;&lt;td&gt;Burger:&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;$9.99&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;'),
+  'merge_fields' => array('first_name' => 'John', 'menu' => '<table class=\'report\'><tr><td>Burger:</td></tr><tr>$9.99<td></td></tr></table>'),
   'dictionaries' => array('dict1', 'dict2')
 );
 $options = array(
@@ -158,7 +164,7 @@ api = ExpressPigeon()
 response = api.messages.send_message(template_id=123,
                                       to="jane@example.net",
                                       reply_to="john@example.net", from_name="John", subject="Dinner served",
-                                      merge_fields={"first_name": "John", "menu": "&lt;table&gt;&lt;tr&gt;&lt;td&gt;Burger:&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;$9.99&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;"})
+                                      merge_fields={"first_name": "John", "menu": "<table><tr><td>Burger:</td></tr><tr>$9.99<td></td></tr></table>})
 ~~~~
 
 </div>
@@ -221,6 +227,11 @@ curl -X POST https://api.expresspigeon.com/messages  \
 <div role="tabpanel" data-language="java" class="tab-pane">
 
 ~~~~ {.java .numberLines}
+import org.javalite.http.Http;
+import static org.javalite.common.Collections.map;
+import static org.javalite.common.JsonHelper.toJsonString;
+import static org.javalite.common.JsonHelper.toMap;
+
 String response = Http.multipart("https://api.expresspigeon.com/messages")
         .header("X-auth-key", AUTH_KEY)
         .file("attachment", "/path/to/attachment1.txt")
@@ -243,6 +254,9 @@ Map<String, Object> result = toMap(response);
 <div role="tabpanel" data-language="php" class="tab-pane">
 
 ~~~~ {.php .numberLines}
+$attachement1 = file_get_contents('/path/to/attachement1.txt');
+$attachement2 = file_get_contents('/path/to/attachement2.txt');
+
 $eol = "\r\n";
 $data = '';
  
@@ -289,22 +303,23 @@ $data .= '--' . $mime_boundary . $eol;
 $data .= 'Content-Disposition: form-data; name="attachment"; filename="attachment1.txt"' . $eol;
 $data .= 'Content-Type: text/plain' . $eol;
 $data .= 'Content-Transfer-Encoding: base64' . $eol . $eol;
-$data .= chunk_split(base64_encode("attachment1.txt content")) . $eol;
+$data .= $attachement1 . $eol;
 $data .= "--" . $mime_boundary . "--" . $eol . $eol;
 $data .= 'Content-Disposition: form-data; name="attachment"; filename="attachment2.txt"' . $eol;
 $data .= 'Content-Type: text/plain' . $eol;
 $data .= 'Content-Transfer-Encoding: base64' . $eol . $eol;
-$data .= chunk_split(base64_encode("attachment2.txt content")) . $eol;
+$data .= $attachement2 . $eol;
 $data .= "--" . $mime_boundary . "--" . $eol . $eol;
  
 $params = array('http' => array(
                   'method' => 'POST',
-                  'header' => 'Content-Type: multipart/form-data; boundary=' . $mime_boundary . $eol,
+                  'header' => 'X-auth-key: 00000000-0000-0000-0000-000000000000'  . $eol .
+                              'Content-Type: multipart/form-data; boundary=' . $mime_boundary . $eol,
                   'content' => $data
                ));
  
 $ctx = stream_context_create($params);
-$response = @file_get_contents('https://api.expresspigeon.com/messages', FILE_TEXT, $ctx);
+$response = file_get_contents('https://api.expresspigeon.com/messages', FILE_TEXT, $ctx);
 ~~~~
 
 </div>
@@ -323,10 +338,10 @@ here ruby code
 from expresspigeon import ExpressPigeon
     
 api = ExpressPigeon()
-response = api.messages.send_message_attachment(template_id=123, ["path/to/attachment1.txt", "path/to/attachment2.txt"]
+response = api.messages.send_message_attachment(template_id=123, attachments=["path/to/attachment1.txt", "path/to/attachment2.txt"],
                                       to="jane@example.net",
                                       reply_to="john@example.net", from_name="John", subject="Dinner served",
-                                      merge_fields={"first_name": "John", "menu": "&lt;table&gt;&lt;tr&gt;&lt;td&gt;Burger:&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;$9.99&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;"})
+                                      merge_fields={"first_name": "John", "menu": "<table><tr><td>Burger:</td></tr><tr>$9.99<td></td></tr></table>"})
 ~~~~
 
 </div>
@@ -377,6 +392,9 @@ curl -H "X-auth-key: 00000000-0000-0000-0000-000000000000" \
 <div role="tabpanel" data-language="java" class="tab-pane">
 
 ~~~~ {.java .numberLines}
+import org.javalite.http.Http;
+import static org.javalite.common.JsonHelper.toMap;
+
 String response = Http.get("https://api.expresspigeon.com/messages/1")
         .header("X-auth-key", AUTH_KEY)
         .text();
@@ -474,6 +492,9 @@ curl -H "X-auth-key: 00000000-0000-0000-0000-000000000000" \
 <div role="tabpanel" data-language="java" class="tab-pane">
 
 ~~~~ {.java .numberLines}
+import org.javalite.http.Http;
+import static org.javalite.common.JsonHelper.toList;
+
 String response = Http.get("https://api.expresspigeon.com/messages")
         .header("X-auth-key", AUTH_KEY)
         .text();

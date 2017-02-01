@@ -45,8 +45,13 @@ curl -X POST -H "X-auth-key: 00000000-0000-0000-0000-000000000000" \
 <div role="tabpanel" data-language="java" class="tab-pane">
 
 ~~~~ {.java .numberLines}
+import org.javalite.http.Http;
+import static org.javalite.common.Collections.map;
+import static org.javalite.common.JsonHelper.toJsonString;
+import static org.javalite.common.JsonHelper.toMap;
+
 String content = toJsonString(map("name", "My new template",
-        "merge_fields", list("menu","&lt;table class='report'&gt;&lt;tr&gt;&lt;td&gt;Burger:&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;$9.99&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;")));
+        "merge_fields", map("menu","<table class='report'><tr><td>Burger:</td></tr><tr>$9.99<td></td></tr></table>")));
 String response = Http.post("https://api.expresspigeon.com/templates/123/copy", content)
         .header("X-auth-key", AUTH_KEY)
         .header("Content-type", "application/json")
@@ -61,7 +66,7 @@ Map<String, Object> result = toMap(response);
 ~~~~ {.php .numberLines}
 $data = array(
   'name' => 'My new template',
-  'merge_fields' => array('menu' => '&lt;table class='report'&gt;&lt;tr&gt;&lt;td&gt;Burger:&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;$9.99&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;')
+  'merge_fields' => array('menu' => '<table class=\'report\'><tr><td>Burger:</td></tr><tr>$9.99<td></td></tr></table>')
 );
 $options = array(
   'http' => array(
@@ -145,6 +150,9 @@ curl -X DELETE -H "X-auth-key: 00000000-0000-0000-0000-000000000000" \
 <div role="tabpanel" data-language="java" class="tab-pane">
 
 ~~~~ {.java .numberLines}
+import org.javalite.http.Http;
+import static org.javalite.common.JsonHelper.toMap;
+
 String response = Http.delete("https://api.expresspigeon.com/templates/123")
         .header("X-auth-key", AUTH_KEY)
         .text();

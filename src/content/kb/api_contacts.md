@@ -33,6 +33,9 @@ curl -H "X-auth-key: 00000000-0000-0000-0000-000000000000" \
 <div role="tabpanel" data-language="java" class="tab-pane">
 
 ~~~~ {.java .numberLines}
+import org.javalite.http.Http;
+import static org.javalite.common.JsonHelper.toMap;
+
 String response = Http.get("https://api.expresspigeon.com/contacts?email=bob@example.net")
         .header("X-auth-key", AUTH_KEY)
         .text();
@@ -140,6 +143,12 @@ curl -X POST -H "X-auth-key: 00000000-0000-0000-0000-000000000000" \
 <div role="tabpanel" data-language="java" class="tab-pane">
 
 ~~~~ {.java .numberLines}
+import org.javalite.http.Http;
+import static org.javalite.common.Collections.map;
+import static org.javalite.common.Collections.list;
+import static org.javalite.common.JsonHelper.toJsonString;
+import static org.javalite.common.JsonHelper.toMap;
+
 String content = toJsonString(
         map("list_id", 11,
             "contacts", list(
@@ -167,7 +176,7 @@ $data = array(
   'list_id' => '11',
   'contacts' => array(array('email' => 'john@doe.net', 'first_name' => 'John', 'last_name' => 'Doe'),
                       array('email' => 'jane@doe.net', 'first_name' => 'Jane', 'last_name' => 'Doe', 'custom_fields' => array('relative' => 'john@doe.net'))
-);
+));
 $options = array(
   'http' => array(
     'method' => 'POST',
@@ -249,6 +258,9 @@ curl -X DELETE -H "X-auth-key: 00000000-0000-0000-0000-000000000000" \
 <div role="tabpanel" data-language="java" class="tab-pane">
 
 ~~~~ {.java .numberLines}
+import org.javalite.http.Http;
+import static org.javalite.common.JsonHelper.toMap;
+
 String response = Http.delete("https://api.expresspigeon.com/contacts?email=bob@example.net")
         .header("X-auth-key", AUTH_KEY)
         .text();
@@ -342,6 +354,12 @@ curl -X POST -H "X-auth-key: 00000000-0000-0000-0000-000000000000" \
 <div role="tabpanel" data-language="java" class="tab-pane">
 
 ~~~~ {.java .numberLines}
+import org.javalite.http.Http;
+import static org.javalite.common.Collections.map;
+import static org.javalite.common.Collections.list;
+import static org.javalite.common.JsonHelper.toJsonString;
+import static org.javalite.common.JsonHelper.toMap;
+
 String content = toJsonString(map("source_list", 1,
         "target_list", 2,
         "contacts", list("bob@example.net", "toby@example.net")));
