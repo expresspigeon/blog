@@ -7,8 +7,8 @@ import static groovy.io.FileType.FILES
 
 
 def copyProperties(String src, String target, String contentName){
-    Path posts = Paths.get(src + '/' + contentName)
-    posts.toFile().eachFileRecurse(FILES) {
+    Path path = Paths.get(src + '/' + contentName)
+    path.toFile().eachFileRecurse(FILES) {
         if(it.name.endsWith('.properties')) {
             Files.copy(Paths.get(it.canonicalPath), Paths.get(target + "/${contentName}/" + it.name))
         }

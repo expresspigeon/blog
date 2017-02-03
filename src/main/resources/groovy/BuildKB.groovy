@@ -18,3 +18,4 @@ common.copyFiles(Paths.get(src + "/resources").toString(), Paths.get(target + "/
 common.processMarkDown(src, target, "")
 common.copyFile(src + "/index.html", target)
 
+common.copyProperties(src, target, "")
