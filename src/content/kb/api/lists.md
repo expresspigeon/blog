@@ -422,7 +422,7 @@ $response = json_decode($result);
 <div role="tabpanel" data-language="ruby" class="tab-pane">
 
 ~~~~ {.ruby .numberLines}
-require './lib/expresspigeon-ruby'
+require 'expresspigeon-ruby'
 
 res = ExpressPigeon::API.lists.delete(list_id)
 ~~~~
@@ -484,8 +484,7 @@ curl -H "X-auth-key: 00000000-0000-0000-0000-000000000000" \
 import org.javalite.http.Http;
 
 String response = Http.get("https://api.expresspigeon.com/lists/123/csv")
-        .header("X-auth-key", AUTH_KEY)
-        .text();
+                                .header("X-auth-key", AUTH_KEY).text();
 ~~~~
 
 </div>
@@ -493,12 +492,7 @@ String response = Http.get("https://api.expresspigeon.com/lists/123/csv")
 <div role="tabpanel" data-language="php" class="tab-pane">
 
 ~~~~ {.php .numberLines}
-$options = array(
-  'http' => array(
-    'method' => 'GET',
-    'header' => "X-auth-key: 00000000-0000-0000-0000-000000000000\r\n"
-    )
-);
+$options = array('http' => array( 'method' => 'GET', 'header' => "X-auth-key: 00000000-0000-0000-0000-000000000000\r\n" ));
 $context = stream_context_create($options);
 $result = file_get_contents('https://api.expresspigeon.com/lists/123/csv', false, $context);
 ~~~~
@@ -508,7 +502,9 @@ $result = file_get_contents('https://api.expresspigeon.com/lists/123/csv', false
 <div role="tabpanel" data-language="ruby" class="tab-pane">
 
 ~~~~ {.ruby .numberLines}
-here ruby code
+require 'lib/expresspigeon-ruby'
+
+res = ExpressPigeon::API.lists.csv(list_id)
 ~~~~
 
 </div>
@@ -562,10 +558,8 @@ curl -F "contacts_file=@list.csv;type=text/plain" \
 import org.javalite.http.Http;
 import static org.javalite.common.JsonHelper.toMap;
 
-String response = Http.multipart("https://api.expresspigeon.com/lists/{list_id}/upload")
-        .header("X-auth-key", AUTH_KEY)
-        .file("contacts_file", "/path/to/list.csv")
-        .text();
+String response = Http.multipart("https://api.expresspigeon.com/lists/" + listId + "upload")
+        .header("X-auth-key", AUTH_KEY).file("contacts_file", "/path/to/list.csv").text();
 Map<String, Object> result = toMap(response);
 ~~~~
 
@@ -604,7 +598,9 @@ $response = file_get_contents('https://api.expresspigeon.com/lists/{list_id}/upl
 <div role="tabpanel" data-language="ruby" class="tab-pane">
 
 ~~~~ {.ruby .numberLines}
-here ruby code
+require 'lib/expresspigeon-ruby'
+
+res = ExpressPigeon::API.lists.upload(list_id, '/tmp/contacts.csv')
 ~~~~
 
 </div>
@@ -696,7 +692,9 @@ $response = json_decode($result);
 <div role="tabpanel" data-language="ruby" class="tab-pane">
 
 ~~~~ {.ruby .numberLines}
-here ruby code
+require 'expresspigeon-ruby'
+
+puts ExpressPigeon::API.lists.upload_status list_id
 ~~~~
 
 </div>
