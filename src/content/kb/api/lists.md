@@ -58,7 +58,11 @@ $response = json_decode($result);
 <div role="tabpanel" data-language="ruby" class="tab-pane">
 
 ~~~~ {.ruby .numberLines}
-here ruby code
+require 'expresspigeon-ruby'
+lists =  ExpressPigeon::API.lists.all
+lists.each do |list|
+   puts list["name"]
+end
 ~~~~
 
 </div>
@@ -135,13 +139,11 @@ reply_to           Yes                    Default reply To email address used wh
 
 ~~~~ {.prettyprint .numberLines}
 curl -X POST -H "X-auth-key: 00000000-0000-0000-0000-000000000000" \
-    -H "Content-type: application/json" \
-    -d '{
-        "name": "Active customers",
-        "from_name": "Bob",
-        "reply_to": "bob@acmetools.com"
-    }' \
-'https://api.expresspigeon.com/lists'
+    -H "Content-type: application/json"      \
+    -d '{ "name": "Active customers",        \
+          "from_name": "Bob",                \
+          "reply_to": "bob@acmetools.com" }'
+    'https://api.expresspigeon.com/lists'
 ~~~~
 
 </div>
@@ -154,13 +156,9 @@ import static org.javalite.common.Collections.map;
 import static org.javalite.common.JsonHelper.toJsonString;
 import static org.javalite.common.JsonHelper.toMap;
 
-String content = toJsonString(map("name", "Active customers",
-        "from_name", "Bob",
-        "reply_to", "bob@acmetools.com"));
+String content = toJsonString(map("name", "Active customers", "from_name", "Bob", "reply_to", "bob@acmetools.com"));
 String response = Http.post("https://api.expresspigeon.com/lists", content)
-        .header("X-auth-key", AUTH_KEY)
-        .header("Content-type", "application/json")
-        .text();
+               .header("X-auth-key", AUTH_KEY).header("Content-type", "application/json").text();
 Map<String, Object> result = toMap(response);
 ~~~~
 
@@ -192,7 +190,8 @@ $response = json_decode($result);
 <div role="tabpanel" data-language="ruby" class="tab-pane">
 
 ~~~~ {.ruby .numberLines}
-here ruby code
+require 'expresspigeon-ruby'
+list =  ExpressPigeon::API.lists.create 'Active customers', 'Bob', 'bob@acmetools.com'
 ~~~~
 
 </div>
@@ -318,7 +317,10 @@ $response = json_decode($result);
 <div role="tabpanel" data-language="ruby" class="tab-pane">
 
 ~~~~ {.ruby .numberLines}
-here ruby code
+require 'expresspigeon-ruby'
+
+res = ExpressPigeon::API.lists.update 38238, :name => 'Real customers',
+                                             :from_name => 'John', :reply_to => 'john@example.com'
 ~~~~
 
 </div>
@@ -420,7 +422,9 @@ $response = json_decode($result);
 <div role="tabpanel" data-language="ruby" class="tab-pane">
 
 ~~~~ {.ruby .numberLines}
-here ruby code
+require './lib/expresspigeon-ruby'
+
+res = ExpressPigeon::API.lists.delete(list_id)
 ~~~~
 
 </div>
