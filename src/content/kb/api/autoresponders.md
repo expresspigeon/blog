@@ -54,7 +54,9 @@ $response = json_decode($result);
 <div role="tabpanel" data-language="ruby" class="tab-pane">
 
 ~~~~ {.ruby .numberLines}
-here ruby code
+require 'expresspigeon-ruby'
+
+res = ExpressPigeon::API.autoresponders.all
 ~~~~
 
 </div>
@@ -157,7 +159,8 @@ $response = json_decode($result);
 <div role="tabpanel" data-language="ruby" class="tab-pane">
 
 ~~~~ {.ruby .numberLines}
-here ruby code
+require 'expresspigeon-ruby'
+res = ExpressPigeon::API.autoresponders.start responder_id, 'john@example.com'
 ~~~~
 
 </div>
@@ -256,7 +259,8 @@ $response = json_decode($result);
 <div role="tabpanel" data-language="ruby" class="tab-pane">
 
 ~~~~ {.ruby .numberLines}
-here ruby code
+require 'expresspigeon-ruby'
+res = ExpressPigeon::API.autoresponders.stop responder_id, 'john@example.com'
 ~~~~
 
 </div>
@@ -343,7 +347,9 @@ $response = json_decode($result);
 <div role="tabpanel" data-language="ruby" class="tab-pane">
 
 ~~~~ {.ruby .numberLines}
-here ruby code
+require 'expresspigeon-ruby'
+
+res = ExpressPigeon::API.autoresponders.report responder_id
 ~~~~
 
 </div>
@@ -410,8 +416,7 @@ import org.javalite.http.Http;
 import static org.javalite.common.JsonHelper.toList;
 
 String response = Http.get("https://api.expresspigeon.com/auto_responders/1/2/bounced")
-        .header("X-auth-key", AUTH_KEY)
-        .text();
+        .header("X-auth-key", AUTH_KEY).text();
 List result = toList(response);
 ~~~~
 
@@ -436,7 +441,9 @@ $response = json_decode($result);
 <div role="tabpanel" data-language="ruby" class="tab-pane">
 
 ~~~~ {.ruby .numberLines}
-here ruby code
+require './lib/expresspigeon-ruby'
+
+res = ExpressPigeon::API.autoresponders.bounced responder_id, responder_part_id
 ~~~~
 
 </div>
@@ -520,7 +527,9 @@ $response = json_decode($result);
 <div role="tabpanel" data-language="ruby" class="tab-pane">
 
 ~~~~ {.ruby .numberLines}
-here ruby code
+require 'expresspigeon-ruby'
+
+res = ExpressPigeon::API.autoresponders.unsubscribed responder_id, responder_part_id
 ~~~~
 
 </div>
@@ -604,7 +613,9 @@ $response = json_decode($result);
 <div role="tabpanel" data-language="ruby" class="tab-pane">
 
 ~~~~ {.ruby .numberLines}
-here ruby code
+require 'expresspigeon-ruby'
+
+res = ExpressPigeon::API.autoresponders.spam responder_id, responder_part_id
 ~~~~
 
 </div>
