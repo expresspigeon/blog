@@ -104,7 +104,11 @@ $response = json_decode($result);
 <div role="tabpanel" data-language="ruby" class="tab-pane">
 
 ~~~~ {.ruby .numberLines}
-here ruby code
+require 'expresspigeon-ruby'
+
+resp = ExpressPigeon::API.campaigns.send(:list_id => list_id, :template_id => template_id,
+                               :name => 'My Campaign', :from_name => 'John', :reply_to => reply_to,
+                               :subject => 'Hello, there!', :google_analytics => false)
 ~~~~
 
 </div>
@@ -197,7 +201,9 @@ $response = json_decode($result);
 <div role="tabpanel" data-language="ruby" class="tab-pane">
 
 ~~~~ {.ruby .numberLines}
-here ruby code
+require 'expresspigeon-ruby'
+
+resp = ExpressPigeon::API.campaigns.delete campaign_id
 ~~~~
 
 </div>
@@ -286,7 +292,9 @@ $response = json_decode($result);
 <div role="tabpanel" data-language="ruby" class="tab-pane">
 
 ~~~~ {.ruby .numberLines}
-here ruby code
+require 'expresspigeon-ruby'
+
+campaigns = ExpressPigeon::API.campaigns.all
 ~~~~
 
 </div>
@@ -381,7 +389,9 @@ $response = json_decode($result);
 <div role="tabpanel" data-language="ruby" class="tab-pane">
 
 ~~~~ {.ruby .numberLines}
-here ruby code
+require 'expresspigeon-ruby'
+
+report = ExpressPigeon::API.campaigns.report campaign_id
 ~~~~
 
 </div>
@@ -472,7 +482,9 @@ $response = json_decode($result);
 <div role="tabpanel" data-language="ruby" class="tab-pane">
 
 ~~~~ {.ruby .numberLines}
-here ruby code
+require 'expresspigeon-ruby'
+
+report = ExpressPigeon::API.campaigns.opened campaign_id
 ~~~~
 
 </div>
@@ -568,7 +580,9 @@ $response = json_decode($result);
 <div role="tabpanel" data-language="ruby" class="tab-pane">
 
 ~~~~ {.ruby .numberLines}
-here ruby code
+require 'expresspigeon-ruby'
+
+clicked = ExpressPigeon::API.campaigns.clicked campaign_id
 ~~~~
 
 </div>
@@ -666,7 +680,9 @@ $response = json_decode($result);
 <div role="tabpanel" data-language="ruby" class="tab-pane">
 
 ~~~~ {.ruby .numberLines}
-here ruby code
+require 'expresspigeon-ruby'
+
+bounced = ExpressPigeon::API.campaigns.bounced campaign_id
 ~~~~
 
 </div>
@@ -756,7 +772,9 @@ $response = json_decode($result);
 <div role="tabpanel" data-language="ruby" class="tab-pane">
 
 ~~~~ {.ruby .numberLines}
-here ruby code
+require 'expresspigeon-ruby'
+
+unsubscribed = ExpressPigeon::API.campaigns.unsubscribed campaign_id
 ~~~~
 
 </div>
@@ -846,7 +864,10 @@ $response = json_decode($result);
 <div role="tabpanel" data-language="ruby" class="tab-pane">
 
 ~~~~ {.ruby .numberLines}
-here ruby code
+~~~~ {.ruby .numberLines}
+require 'expresspigeon-ruby'
+
+spam = ExpressPigeon::API.campaigns.spam campaign_id
 ~~~~
 
 </div>
