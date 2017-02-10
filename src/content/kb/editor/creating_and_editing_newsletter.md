@@ -1,7 +1,5 @@
 # Creating and editing newsletters
 
-<ul data-toc data-toc-headings="h2,h3,h4"></ul>
-
 ## Newsletter Options
 
 ![](images/Selection_455.png)

@@ -1,7 +1,5 @@
 # Templates
 
-<ul data-toc data-toc-headings="h2,h3,h4"></ul>
-
 ## Copy template
 
 > POST https://api.expresspigeon.com/templates/{id}/copy

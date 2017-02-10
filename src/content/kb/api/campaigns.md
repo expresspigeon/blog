@@ -1,7 +1,5 @@
 # Campaigns
 
-<ul data-toc data-toc-headings="h2,h3,h4"></ul>
-
 Campaign API provides the same service as sending email campaigns from the website. A campaign consists of newsletter template, subject, from name, reply to, and a lists of contacts a campaign can be sent to.
 
 ## Campaigns creation

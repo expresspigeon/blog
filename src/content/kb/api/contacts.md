@@ -1,7 +1,5 @@
 # Contacts
 
-<ul data-toc data-toc-headings="h2,h3,h4"></ul>
-
 Contacts end point allows you to create, read, update and delete contacts on your lists. A contact consists of required email and various standard and custom fields.
 
 ## Read a single contact by email

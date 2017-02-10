@@ -1,12 +1,4 @@
-
-
 # Editor Layout
-
-
-
-
-<ul data-toc data-toc-headings="h2,h3,h4"></ul>
-
 
 <title > this is a comment!</title>
 

@@ -1,7 +1,5 @@
 # Autoresponders
 
-<ul data-toc data-toc-headings="h2,h3,h4"></ul>
-
 ## Get all autoresponders
 
 > GET https://api.expresspigeon.com/auto_responders

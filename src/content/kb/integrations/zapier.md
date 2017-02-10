@@ -1,7 +1,5 @@
 # Zapier
 
-<ul data-toc data-toc-headings="h2,h3,h4"></ul>
-
 ## Introduction
 
 Zapier is a tool which allows users to connect together web apps.
