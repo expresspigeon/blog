@@ -7,7 +7,7 @@
 
 Before you can send your first Newsletter Campaign, you will need to create Contacts List. In order to do this, click 'Contacts' top menu item and then click 'Create New List' button. You will see new page as on screenshot below:
 
-![](../images/contacts/create_contact_list_1.png)
+![](images/contacts/create_contact_list_1.png)
 
 Following fields are available on this stage:
 
@@ -21,11 +21,11 @@ After you entered all information, click 'Create new list button'. Now you have 
 
 You can open 'Contacts List Properties' page in different ways. The easiest one is just to click 'Properties' button for specific list on 'Contacts' page:
 
-![](../images/contacts/list_properties_1.png)
+![](images/contacts/list_properties_1.png)
 
 Second option is open 'Contacts List' and then click 'Properties' at the left menu:
 
-![](../images/contacts/list_properties_2.png)
+![](images/contacts/list_properties_2.png)
 
 
 Every Contacts List has **General** and **Physical address** properties.
@@ -55,11 +55,11 @@ Note please that values for both properties are defaulted to your account data, 
 
 In case you will have many contacts lists and contacts themselves, we provide 'Search' feature that can be found on 'Contacts' list. Click 'loop' icon:
 
-![](../images/contacts/lists_search_1.png)
+![](images/contacts/lists_search_1.png)
 
 Now you can select rather you want/need to search for a Contact or for a List:
 
-![](../images/contacts/lists_search_2.png)
+![](images/contacts/lists_search_2.png)
 
 If you will look for a particular contacts list, you will be searching by list name. And if you will look for a particular contact, you will be searching by email address within all existing lists. But sometimes it's needed to find contact only within one particular Contacts list, to do this just open needed Contacts list and perform search there by email.
 
