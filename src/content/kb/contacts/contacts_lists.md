@@ -1,8 +1,5 @@
 # Contacts Lists
 
-<ul data-toc data-toc-headings="h2,h3,h4"></ul>
-
-
 ## Create Contacts List
 
 Before you can send your first Newsletter Campaign, you will need to create Contacts List. In order to do this, click 'Contacts' top menu item and then click 'Create New List' button. You will see new page as on screenshot below:

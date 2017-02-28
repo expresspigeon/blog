@@ -1,17 +1,15 @@
 # List Controls
 
-<ul data-toc data-toc-headings="h2,h3,h4"></ul>
-
 You can perform several different actions on contacts within the list. In order to enable them, you have to select at least one contact inside the list using checkboxes:
 
-![](../images/contacts/add_contacts_11.png)
+![](images/contacts/add_contacts_11.png)
 
 
 ## Copy
 
 Copy operation allows you to copy selected contacts to another list. Just select contacts you want to copy, click 'Copy' button at the left side and then select target list:
 
-![](../images/contacts/add_contacts_12.png)
+![](images/contacts/add_contacts_12.png)
 
 
 ### Move

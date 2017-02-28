@@ -1,8 +1,5 @@
 # Manage your Contacts
 
-<ul data-toc data-toc-headings="h2,h3,h4"></ul>
-
-
 ## Add Contacts to the list
 
 Open any contact list and click 'Add contacts' button:
