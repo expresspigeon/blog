@@ -1,6 +1,6 @@
-# Contacts Lists
+## Contacts Lists
 
-## Create Contacts List
+### Create Contacts List
 
 Before you can send your first Newsletter Campaign, you will need to create Contacts List. In order to do this, click 'Contacts' top menu item and then click 'Create New List' button. You will see new page as on screenshot below:
 
@@ -27,13 +27,13 @@ Second option is open 'Contacts List' and then click 'Properties' at the left me
 
 Every Contacts List has **General** and **Physical address** properties.
 
-#### General properties are:
+**General properties** are:
 
 * **List Name** - Internal name of your list. It is not exposed to your subscribers. 
 * **From** - Name of sender (your or your organization). Subscribers will see emails as coming from this name.
 * **Reply To** - Email to reply to. Subscribers will be sending email to this address if they click 'reply to' button.
 
-#### Physical Address properties are:
+**Physical Address properties** are:
 
 * **Name** - Your name our name of your organization. It will be attached to the footer of your messages.
 * **Address Line 1** - First line of your physical address. It will be attached to the footer of your messages.
