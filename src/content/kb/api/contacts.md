@@ -61,7 +61,9 @@ $response = json_decode($result);
 <div role="tabpanel" data-language="ruby" class="tab-pane">
 
 ~~~~ {.ruby .numberLines}
-here ruby code
+require './lib/expresspigeon-ruby'
+
+response = ExpressPigeon::API.contacts.find_by_email 'john@example.com'
 ~~~~
 
 </div>
@@ -193,7 +195,11 @@ $response = json_decode($result);
 <div role="tabpanel" data-language="ruby" class="tab-pane">
 
 ~~~~ {.ruby .numberLines}
-here ruby code
+require 'expresspigeon-ruby'
+
+resp = ExpressPigeon::API.contacts.upsert list_id, 
+            email: "john@example.com", :first_name => 'John', :last_name => 'Doe',
+            :custom_fields => {:eye_color => "blue", }
 ~~~~
 
 </div>
@@ -286,7 +292,9 @@ $response = json_decode($result);
 <div role="tabpanel" data-language="ruby" class="tab-pane">
 
 ~~~~ {.ruby .numberLines}
-here ruby code
+require 'expresspigeon-ruby'
+
+response = ExpressPigeon::API.contacts.delete 'mary@example.com', list_id
 ~~~~
 
 </div>
@@ -396,7 +404,7 @@ $response = json_decode($result);
 <div role="tabpanel" data-language="ruby" class="tab-pane">
 
 ~~~~ {.ruby .numberLines}
-here ruby code
+Ruby example coming soon
 ~~~~
 
 </div>

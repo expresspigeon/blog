@@ -84,7 +84,10 @@ $response = json_decode($result);
 <div role="tabpanel" data-language="ruby" class="tab-pane">
 
 ~~~~ {.ruby .numberLines}
-here ruby code
+require 'expresspigeon-ruby'
+
+response = ExpressPigeon::API.templates.copy 34830, "new template", 
+                        :content => "Hello Template World!"
 ~~~~
 
 </div>
@@ -178,7 +181,9 @@ $response = json_decode($result);
 <div role="tabpanel" data-language="ruby" class="tab-pane">
 
 ~~~~ {.ruby .numberLines}
-here ruby code
+require 'expresspigeon-ruby'
+
+response = ExpressPigeon::API.templates.delete template_id
 ~~~~
 
 </div>

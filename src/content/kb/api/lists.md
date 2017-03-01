@@ -317,7 +317,7 @@ $response = json_decode($result);
 ~~~~ {.ruby .numberLines}
 require 'expresspigeon-ruby'
 
-res = ExpressPigeon::API.lists.update 38238, :name => 'Real customers',
+res = ExpressPigeon::API.lists.update list_id, :name => 'Real customers',
                                              :from_name => 'John', :reply_to => 'john@example.com'
 ~~~~
 

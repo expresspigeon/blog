@@ -124,7 +124,7 @@ $response = json_decode($result);
 <div role="tabpanel" data-language="ruby" class="tab-pane">
 
 ~~~~ {.ruby .numberLines}
-here ruby code
+Ruby example coming soon!
 ~~~~
 
 </div>
@@ -234,7 +234,7 @@ $response = json_decode($result);
 <div role="tabpanel" data-language="ruby" class="tab-pane">
 
 ~~~~ {.ruby .numberLines}
-here ruby code
+Ruby example coming soon!
 ~~~~
 
 </div>
@@ -322,7 +322,7 @@ $response = json_decode($result);
 <div role="tabpanel" data-language="ruby" class="tab-pane">
 
 ~~~~ {.ruby .numberLines}
-here ruby code
+Ruby example coming soon!
 ~~~~
 
 </div>

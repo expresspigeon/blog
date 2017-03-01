@@ -1,21 +1,32 @@
 # Transactional messages concepts
 
-<ul data-toc data-toc-headings="h2,h3,h4"></ul>
+
+Transactional emails are sometimes called triggered emails. Unlike bulk emails, they are sent one at the time on per 
+need basis and contain highly personalized content. Examples of triggered emails can be one-off messages, such as password reset, 
+statement generated, etc.
+
+## Built as REST API
+
+We offer a simple [REST](https://en.wikipedia.org/wiki/Representational_state_transfer)- based API
+for [sending messages](transactional-send) and for [getting reports](transactional-reporting-for-single-message).
 
 
-## General concepts
 
-Unlike most other transactional ESPs, we built our transactional email service around our email editor.
-Using the editor alleviates a lot of issues from managing internal HTML code and saves time and money:
+## Use out powerful editor for templates
+
+Unlike most other transactional ESPs, we built our transactional email service around our [email editor](editor_layout).
+Using the editor removes a lot of issues from managing internal HTML code and saves _time and money_:
 
 * Developers' are responsible for triggering the right message at the right time
 * Designers use our Drag and Drop Editor to produce a compelling email template
-* CMOs and management can edit copy and content any time, without developers involvement
+* Marketers can tweak styles and content any time, without developers involvement
+
+> Our Transactional Email Service gives you separation of responsibilities: everyone does what they do best at the time of their choosing!
 
 
 ### Design newsletter
 
-Use our editor to design all of your transactional messages, while our responsibilities are:
+Use our [editor](editor_layout) to design all of your transactional messages, while our responsibilities are:
 
 * Compatibility of your messages with various email clients
 * Messages will be automatically responsive
@@ -23,13 +34,15 @@ Use our editor to design all of your transactional messages, while our responsib
 * Hosting images (unlimited hosting)
 * Generation of valid HTML
 * Merging your dynamic values into templates
+* Tracking links
+
+Check out the  how to [create and edit templates](creating_and_editing_newsletter)
 
 
-~~~~ {.designcode .numberLines}
-YOURCOMPANYLOGO
-Hi, ${first_name}!
-Your statement is ready to review online!
-~~~~
+**The left image is a template, and the right one is a complete merged/sent message.** 
+
+
+![](images/transactional3.png)
 
 ### Send with API
 
@@ -38,27 +51,21 @@ Just submit this JSON document to trigger sending a message.
 ~~~~ {.js .numberLines}
 {
     "template_id": 123,
-    "reply_to": "john@acme.com",
+    "reply_to": "john@turncoat.com",
     "from": "John Doe",
     "to": "jane@doe.com",
-    "subject": "Statement ready",
+    "subject": "Hera collection arrived!",
     "merge_fields": {
-      "first_name": "Jane"
+      "status": "NEW THIS WEEK",
+      "collection": "HERA COLLECTION",
+      "custom_action": "Find the style to match any occasion"
     }
 }
 ~~~~
 
-### Result
 
-~~~~ {.designcode .numberLines}
-YOURCOMPANYLOGO
-Hi, Jane!
-Your statement is ready to review online!
-~~~~
+[See the API for sending a single message](transactional-send).
 
-Transactional emails are sometimes called triggered emails. Unlike bulk emails, they are sent one at the time on per need basis and contain highly personalized content. Examples of triggered emails can be one-off messages, such as password reset, statement generated, etc.
-
-Our Transactional API is a set of HTTP REST end points designed for implementation with external systems in order to send email as well as retrieving reporting data.
 
 ### Messages
 
@@ -70,17 +77,7 @@ The template to be sent can have a number of merge fields, with data for merging
 
 
 
-
-
-## Built as REST API
-
-We offer a simple [REST](https://en.wikipedia.org/wiki/Representational_state_transfer)- based API
-for [sending messages](transactional-send) and for [getting reports](transactional-reporting-for-single-message).
-
 ## First steps
 
 You can start from scratch and start your first message in a couple of minutes. Follow to
 [step by step tutorial](transactional-step-by-step) to se how.
-
-
-

@@ -861,7 +861,7 @@ $response = json_decode($result);
 
 <div role="tabpanel" data-language="ruby" class="tab-pane">
 
-~~~~ {.ruby .numberLines}
+
 ~~~~ {.ruby .numberLines}
 require 'expresspigeon-ruby'
 
