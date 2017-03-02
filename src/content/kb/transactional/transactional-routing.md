@@ -16,7 +16,7 @@ but not exactly send them.
 ## Sending to a sandbox address
 
 The next step after blackhole, is to start sending real messages. Each API call requires using the Authentication Key,
-but if you use a Sandbox [Authentication Key](security_and_authentication), the messages will be delivered to
+but if you use a Sandbox [Authentication Key](security-and-authentication), the messages will be delivered to
 the Sandbox Destination email.
 
 In order to access the Authentication Keys in your account, navigate to the [Integrations](https://expresspigeon.com/settings/integrations)

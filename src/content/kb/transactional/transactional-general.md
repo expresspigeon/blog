@@ -11,10 +11,16 @@ We offer a simple [REST](https://en.wikipedia.org/wiki/Representational_state_tr
 for [sending messages](transactional-send) and for [getting reports](transactional-reporting-for-single-message).
 
 
+Since our Transactiona Service is an API, it conforms to all rules of our ther APIs:
+
+
+* [API General Concepts](general_concepts)
+* [Security and authentication](security-and-authentication)
+* [Error codes and responses](error-codes-responses)
 
 ## Use out powerful editor for templates
 
-Unlike most other transactional ESPs, we built our transactional email service around our [email editor](editor_layout).
+Unlike most other transactional ESPs, we built our transactional email service around our [email editor](editor-layout).
 Using the editor removes a lot of issues from managing internal HTML code and saves _time and money_:
 
 * Developers' are responsible for triggering the right message at the right time
@@ -26,7 +32,7 @@ Using the editor removes a lot of issues from managing internal HTML code and sa
 
 ### Design newsletter
 
-Use our [editor](editor_layout) to design all of your transactional messages, while our responsibilities are:
+Use our [editor](editor-layout) to design all of your transactional messages, while our responsibilities are:
 
 * Compatibility of your messages with various email clients
 * Messages will be automatically responsive
@@ -36,7 +42,7 @@ Use our [editor](editor_layout) to design all of your transactional messages, wh
 * Merging your dynamic values into templates
 * Tracking links
 
-Check out the  how to [create and edit templates](creating_and_editing_newsletter)
+Check out the  how to [create and edit templates](creating-and-editing-newsletter)
 
 
 **The left image is a template, and the right one is a complete merged/sent message.** 

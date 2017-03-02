@@ -11,7 +11,7 @@ Take a look at the image below to learn about the most important email editor co
 ![](images/Selection_645.png)
 
 
-Want to see this in action, follow on to [Basic structure](/kb/creating_and_editing_newsletter#basic-structure)
+Want to see this in action, follow on to [Basic structure](/kb/creating-and-editing-newsletter#basic-structure)
 video clip.
 
 
@@ -90,7 +90,7 @@ When a contnet block is selected (by clivking into it), the Row Menu  will displ
 * Make a copy of the current row
 * Delete the row
 
-Follow to [Moving content](/kb/creating_and_editing_newsletter#moving-content) to learn how to move content
+Follow to [Moving content](/kb/creating-and-editing-newsletter#moving-content) to learn how to move content
 around.
 
 
@@ -135,5 +135,5 @@ Currently we support about 60 languages.
 ## Next Steps
 
 Once you master the general concepts of the editor, you can proceed to
-[creating and editing newsletters](/kb/creating_and_editing_newsletter), which contains a number of short video
+[creating and editing newsletters](/kb/creating-and-editing-newsletter), which contains a number of short video
  clips which will help you get up to speed quickly.
