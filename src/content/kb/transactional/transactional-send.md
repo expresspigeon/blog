@@ -1,5 +1,3 @@
-<ul data-toc data-toc-headings="h2,h3,h4"></ul>
-
 
 # Sending a transactional email
 
@@ -105,7 +103,11 @@ $response = json_decode($result);
 <div role="tabpanel" data-language="ruby" class="tab-pane">
 
 ~~~~ {.ruby .numberLines}
-here ruby code
+require 'expresspigeon-ruby'
+
+response = ExpressPigeon::API.messages.send_message template_id, 'john@example.com', 'jane@example.com', "Jane Doe",  
+                                        "Let's go out for dinner?", 
+                                        { first_name: 'John', meetup_place: 'Downtown' }
 ~~~~
 
 </div>
@@ -136,7 +138,7 @@ Code above also shows that it is possible to inject HTML chunks into specific pl
 {
     "status": "success",
     "code": 200,
-    "id": 1,
+    "id": 1234,
     "message": "email queued"
 }
 ~~~~

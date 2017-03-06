@@ -1,6 +1,3 @@
-<ul data-toc data-toc-headings="h2,h3,h4"></ul>
-
-
 # Report for multiple messages
 
 > GET https://api.expresspigeon.com/messages/{period}
@@ -19,6 +16,8 @@ from_id            `No`                    Id from where to get the next batch, 
 
 ## Example Request
 
+
+<!--TODO I think we are missing examples for period parameter: last24hours, last_week, last_month -->
 <div class="tab-content">
 
 <div role="tabpanel" data-language="curl" class="tab-pane active">
@@ -63,7 +62,14 @@ $response = json_decode($result);
 <div role="tabpanel" data-language="ruby" class="tab-pane">
 
 ~~~~ {.ruby .numberLines}
-here ruby code
+require 'expresspigeon-ruby'
+
+# first 1000 reports
+response =  ExpressPigeon::API.messages.reports
+# first 1000 reports starting with specific ID
+response =  ExpressPigeon::API.messages.reports start_id
+# first 1000 reports starting with specific ID and limit by time box
+response =  ExpressPigeon::API.messages.reports start_id, Time.utc(2016, 01, 13, 13), Time.utc(2016, 01, 25, 13)
 ~~~~
 
 </div>
@@ -119,6 +125,6 @@ response = api.messages.reports()
 
 If you ran a report and got exactly 1000 documents, there is a chance that there is more for the date range.
 You will need to write a loop that uses the `from_id` parameter to get the next window of documents.
- Simply us the last document from a previous resultset to get the next block. Once you get fewer than 1000 results,
- or no results, you are done!
+Simply use the ID from a previous resultset' last item to get the next block.  Once you get fewer than 
+1000 results, or no results, you are done!
 

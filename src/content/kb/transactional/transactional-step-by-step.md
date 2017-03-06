@@ -1,7 +1,7 @@
 # Send a message - step-by-step
 
 
-## 1. Create a template
+## Step 1: Create a template
 
 First, use our editor to [create a template](creating-and-editing-newsletter). 
 Simply type a dynamic merge field (placeholder) into a template in this format: 
@@ -17,7 +17,7 @@ Below is the editor with a very simple template:
 > Note the template ID (from the URL) - you will need it soon!
     
     
-## 2. Get your Authentication Key
+## Step 2: Get your Authentication Key
 
 Navigate to your [Integrations page](https://expresspigeon.com/settings/integrations) and grab your
  Production Authentication Key:
@@ -25,7 +25,7 @@ Navigate to your [Integrations page](https://expresspigeon.com/settings/integrat
 ![](/kb/images/Selection_748.png)
 
 
-## 3. Send!
+## Step 3: Send!
 
 Form a [Curl](https://en.wikipedia.org/wiki/CURL) request and add your values: 
 
@@ -56,7 +56,7 @@ where:
 
 Simply execute this code on the terminal to send a message. For simplicity you can wrap it into a script file.
 
-## 4. View message
+## Read the message
 
 When delivered, the message will look as expected:
  

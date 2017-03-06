@@ -1,5 +1,3 @@
-<ul data-toc data-toc-headings="h2,h3,h4"></ul>
-
 # Send a message with attachment
 
 > POST https://api.expresspigeon.com/messages
@@ -25,9 +23,6 @@ curl -X POST https://api.expresspigeon.com/messages  \
     -F from='John Doe'\
     -F to='jane@doe.com'\
     -F subject='two attachments'\
-    -F view_online=true\
-    -F suppress_address=true\
-    -F click_tracking=false\
     -F merge_fields='{"first_name": "Jane"}'\
     -F attachment=@attachment1.txt\
     -F attachment=@attachment2.txt
@@ -52,9 +47,6 @@ String response = Http.multipart("https://api.expresspigeon.com/messages")
         .field("from", "John Doe")
         .field("to", "jane@doe.com")
         .field("subject", "two attachments")
-        .field("view_online", "true")
-        .field("suppress_address", "true")
-        .field("click_tracking", "false")
         .field("merge_fields", toJsonString(map("first_name", "Jane")))
         .text();
 Map<String, Object> result = toMap(response);
@@ -138,7 +130,17 @@ $response = file_get_contents('https://api.expresspigeon.com/messages', FILE_TEX
 <div role="tabpanel" data-language="ruby" class="tab-pane">
 
 ~~~~ {.ruby .numberLines}
-here ruby code
+require 'expresspigeon-ruby'
+MESSAGES = ExpressPigeon::API.messages.auth_key(ENV['AUTH_KEY'])
+puts MESSAGES.send_message(
+    390243,                                                 #template_id
+    'john@example.com',                                     #to
+    'jane@example.com',                                     #reply_to
+    "Jane Doe",                                             #from_name
+    "Lets go out for dinner?",                              #subject
+    {first_name: 'John', meeting_place: 'Downtown'},        #merge_fields
+    %W{attachments/attachment1.txt attachments/example.ics} #files as attachments
+)
 ~~~~
 
 </div>

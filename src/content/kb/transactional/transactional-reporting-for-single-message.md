@@ -1,6 +1,4 @@
-<ul data-toc data-toc-headings="h2,h3,h4"></ul>
-
-# Report for a single message
+# Report for a single transactional message
 
 > GET https://api.expresspigeon.com/messages/{id}
 
@@ -74,6 +72,11 @@ response = api.messages.report(1)
 
 </div>
 
+Please, note that the `1` in the example is an ID of the message generated when it was sent. 
+
+> Transactional message IDs should be treated as opaque unique strings, and not numbers.  
+
+
 </div>
 
 ## Example Response
@@ -95,3 +98,6 @@ response = api.messages.report(1)
     "updated_at": "2013-03-16T11:22:23.210+0000"
 }
 ~~~~
+
+
+The report above is self-explanatory. 
