@@ -7,11 +7,11 @@ Autoresponders start when a customer subscribes using a Facebook subscription fo
 Before you start, please make sure you have at least one Facebook subscription created. !!!!TODO -> ADD LINK TO THIS ARTICLE HERE!!!!!
 Go to Autoresponders page and click 'Create new autoresponder' button. Please note that if you don't have any autoresponders, you will need to enter Autoresponder name and trigger before you can proceed: 
 
-![](../images/autoresponders/responder_5.png)
+![](images/autoresponders/responder_5.png)
 
 After you entered basic information, you will be able to configure autoresponder rules and details:
 
-![](../images/autoresponders/responder_6.png)
+![](images/autoresponders/responder_6.png)
 
 Let check what options you can control:
 

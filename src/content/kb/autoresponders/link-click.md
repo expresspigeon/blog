@@ -6,11 +6,11 @@ Autoresponders trigger when a customer clicks on a link from your campaign. Use 
 
 Go to Autoresponders page and click 'Create new autoresponder' button. Please note that if you don't have any autoresponders, you will need to enter Autoresponder name and trigger before you can proceed: 
 
-![](../images/autoresponders/responder_1.png)
+![](images/autoresponders/responder_1.png)
 
 After you entered basic information, you will be able to configure autoresponder rules and details:
 
-![](../images/autoresponders/responder_2.png)
+![](images/autoresponders/responder_2.png)
 
 Let check what options you can control:
 

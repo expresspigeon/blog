@@ -17,17 +17,17 @@ When you have configure autoresponders, you are able to:
 * delete autoresponder
 
 
-![](../images/autoresponders/responder_11.png)
+![](images/autoresponders/responder_11.png)
 
-### Autoresponder Reports
+## Autoresponder Reports
 
 Click 'Reports' button for autoresponder. You can quickly check how many people got your autoresponder message, who opened/clicked and so on: 
 
-![](../images/autoresponders/responder_9.png)  
+![](images/autoresponders/responder_9.png)  
 
 In order to see even more details or create new list based on reporting data (or simply export as csv file), click one of those bars in order to see who exactly made what action:
 
-![](../images/autoresponders/responder_10.png)  
+![](images/autoresponders/responder_10.png)  
 
 
 

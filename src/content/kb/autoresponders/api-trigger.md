@@ -6,11 +6,11 @@ You control with our API when to trigger autoresponders. Use them to target your
 
 Go to Autoresponders page and click 'Create new autoresponder' button. Please note that if you don't have any autoresponders, you will need to enter Autoresponder name and trigger before you can proceed: 
 
-![](../images/autoresponders/responder_7.png)
+![](images/autoresponders/responder_7.png)
 
 After you entered basic information, you will be able to configure autoresponder rules and details:
 
-![](../images/autoresponders/responder_8.png)
+![](images/autoresponders/responder_8.png)
 
 Let check what options you can control:
 
