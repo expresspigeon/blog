@@ -37,6 +37,10 @@ At the right side you can see in real time how your subscription form will look 
 
 You can update any of available fields directly on the form preview area.
 
+Also at the top of the webform editor you can click 'View Online' button and check how your form will look like on your site.
+
+![](images/webforms/webforms_15.png)
+
 - **Add additional signup fields** 
 
 If you want to collect more information about your subscribers you can easily add standard or custom fields into your subscription form. Simply drag and drop standard fields or create a custom field in seconds. Click "Save" after added new fields.
@@ -77,3 +81,12 @@ Using our powerful email editor, you can design a custom confirmation newsletter
 Navigate to "Confirmation" and create a display page that users will see after signing up or redirect to a custom "Welcome" landing page on your own site.
 
 ![](images/webforms/webforms_14.png)
+
+### Put yoour form onto your site
+
+All what you need to do is copy & paster ready to use code snippets to your sources. In order to get ready to use code, on the form builder click one of the buttons:
+
+* HTML Code
+* IFrame code
+
+Afterwards copy code and paste it where you need.
