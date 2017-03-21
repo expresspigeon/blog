@@ -4,7 +4,7 @@ Autoresponders start when a customer subscribes using a webform. They are great 
 
 ### Create Autoresponder with Webform subscription trigger
 
-Before you start, please make sure you have at least one webform subscription created. !!!!TODO -> ADD LINK TO THIS ARTICLE HERE!!!!!
+Before you start, please make sure you have at least one [webform subscription](webforms/regular-web-forms.md) created.
 Go to Autoresponders page and click 'Create new autoresponder' button. Please note that if you don't have any autoresponders, you will need to enter Autoresponder name and trigger before you can proceed: 
 
 ![](images/autoresponders/responder_3.png)
@@ -15,7 +15,7 @@ After you entered basic information, you will be able to configure autoresponder
 
 Let check what options you can control:
 
-* **Select Subscription** - select subscription that you want use as a trigger. Go to [this article](!!!!ADD CORRECT LINK HERE!!!) to read more about webform subscriptions.
+* **Select Subscription** - select subscription that you want use as a trigger. Go to [this article](webforms/regular-web-forms.md) to read more about webform subscriptions.
 * **Reply to** - Email to reply to. Subscribers will be sending email to this address if they click 'reply to' button.
 * **From name** - Name of sender (your or your organization). Subscribers will see emails as coming from this name.
 * **Enabled** - switcher that allows you to simply enable/disable autoresponder.
