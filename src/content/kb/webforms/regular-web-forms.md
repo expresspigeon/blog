@@ -82,11 +82,13 @@ Navigate to "Confirmation" and create a display page that users will see after s
 
 ![](images/webforms/webforms_14.png)
 
-### Put yoour form onto your site
+### Put your form onto your site
 
 All what you need to do is copy & paster ready to use code snippets to your sources. In order to get ready to use code, on the form builder click one of the buttons:
 
 * HTML Code
 * IFrame code
+
+![](images/webforms/webforms_16.png)
 
 Afterwards copy code and paste it where you need.

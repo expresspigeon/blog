@@ -1,33 +1,39 @@
-## Autoresponders
+# Build A Facebook Subscription Form In Minutes
 
-An autoresponder is a mechanism to automatically send emails based on some type of user action. To make thing simple, let's call these actions a "trigger". With ExpressPigeon's AutoResponder feature, targeting specific rciients is easier and fatser than ever! We provide following types of triggers:
-
-* [Link Click](link-click)
-* [WebForm Subscription](webform-subscription)
-* [Facebook Subscription](facebook-subscription)
-* [API trigger](api-trigger)
+You can give your potential clients ability to subscribe with couple clicks - just create Facebook subscription button and wait for new subscribers.  
 
 
-## Autoresponders Actions
+### Building A Facebook subscription
 
-When you have configure autoresponders, you are able to:
+- Navigate to "Subscriptions" in the main menu.
 
-* view reports for each autoresponder
-* edit autoresponder details
-* delete autoresponder
+![](images/webforms/webforms_1.png)
 
+- Select "Facebook Subscribe Button" and enter name for your webform. Select the lists that you want this button to send new signups into. Click "Create subscription" button.
 
-![](images/autoresponders/responder_11.png)
+![](images/webforms/fb_webforms_2.png)
 
-## Autoresponder Reports
+**Note:** First-time users may receive a pop-up Approval Request (prevents SPAM)
 
-Click 'Reports' button for autoresponder. You can quickly check how many people got your autoresponder message, who opened/clicked and so on: 
+![](images/webforms/webforms_3.png)
 
-![](images/autoresponders/responder_9.png)  
+### Configure Facebook subscription
 
-In order to see even more details or create new list based on reporting data (or simply export as csv file), click one of those bars in order to see who exactly made what action:
+Navigate to just created Facebook subscription. Here you can configure such parameters as:
 
-![](images/autoresponders/responder_10.png)  
+* **Subscription name** - how you see it on ExpressPigeon site.
+* **Facebook subscribe button label** - what label will your potential subscribers see on the button
+* **After submit message** - what text will you potential subscribers see after they click button
+
+![](images/webforms/fb_webforms_3.png)
+
+### Put your button onto your site
+
+All what you need to do is copy & paster ready to use code snippet to your sources. In order to get ready to use code, on the form builder click 'IFrame Code' button.
+
+![](images/webforms/fb_webforms_4.png)
+
+Afterwards copy code and paste it where you need.
 
 
 
