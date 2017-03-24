@@ -5,7 +5,6 @@
 ## Main Editor Components
 
 
-
 Take a look at the image below to learn about the most important email editor components.
 
 ![](images/Selection_645.png)

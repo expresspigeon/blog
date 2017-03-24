@@ -1,29 +1,35 @@
-## List Controls
+# List Controls
 
-You can perform several different actions on contacts within the list. In order to enable them, you have to select at least one contact inside the list using checkboxes:
+You can perform several different actions on contacts within the list. 
+
+In order to enable them, you have to _select at least one contact inside the list_ using checkboxes:
 
 ![](images/contacts/add_contacts_11.png)
 
 
-### Copy
+## Copy contacts
 
-Copy operation allows you to copy selected contacts to another list. Just select contacts you want to copy, click 'Copy' button at the left side and then select target list:
+Copy operation allows you to copy selected contacts to another list. 
+Just select contacts you want to copy, click 'Copy' button on the control panel and then select a target list:
 
 ![](images/contacts/add_contacts_12.png)
 
 
-### Move
+## Move contacts
 
-It's the same as copy described above with one difference - selected contact(s) will be moved to the target list. 
+Moving is the same as copying described above with one difference - selected contact(s) will be moved to the target list.
+ This means that they will be removed from the current list. 
 
-### Delete
+## Delete contacts
 
-This operation allows you to delete selected contact(s) from the current list. Note that contact will not be removed from other lists where it exists. 
+This operation allows you to delete selected contact(s) from the current list. 
+Note that the contacts will not be removed from other lists. 
 
-### Delete from all lists
+## Delete contacts from all lists
 
-It's the same as 'Delete' but with one difference - selected contact(s) will be deleted from all lists. Be carefull with this operation.
+Deleting from "All list" is the same as completely deleting from your account. 
 
-### Download CSV
+## Download contacts as CSV
 
-You can download CSV file with selected contact(s). To do this select some contacts and click 'Download CSV' button at the left side. Later you can use this for uploading contacts to new or other existing list.
+You can download a CSV file with selected contact(s). To do this, please select contacts and click the 
+'Download CSV' button on control panel. 
