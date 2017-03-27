@@ -24,5 +24,5 @@ Let check what options you can control:
     * With Subject - follow up email subject
 
 
-On the screenshot above, after someone used your subscription webform, we will wait for 2 hours and then send first autoresponder email with subject 'Thanks for joining us!'. After 1 more day second email will be automatically sent with subject 'Great opportunity'. 
+On the screenshot above, after someone submitted your webform subscription, we will wait for 2 hours and then send first autoresponder email with subject 'Thanks for joining us!'. After 1 more day second email will be automatically sent with subject 'Great opportunity'. 
 
