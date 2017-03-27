@@ -1,6 +1,6 @@
 # Webform Subscription Triggers
 
-Autoresponders triggered when a customer subscribes using a webform. They are great for gradually introducing your customers to your product.
+Autoresponders triggered when a customer subscribes using a webform. 
 
 ## Configuration
 
