@@ -1,33 +1,44 @@
 # Segments
 
-Segments allow you to create contacts lists based on pre-configured rules. ExpressPigeon has bunch of available conditions for you. Couple examples of how flexible segments are:
 
-* 'First Name' **starts with** 'Do'
-* 'First Name' **starts with** 'Do' **or** 'First Name' **starts with** 'Ma' **and** 'clicked' **before** '02/28/2017' **or** 'opened' **on date** '02/22/2017'
+Our Segments are a st of rules defined by oyu for selecting contacts from your lists. When a segment is executed it will select and add contacts from a list and will add them to a new or existing list. 
 
-These rules will return you matching contacts, which you can use for creating new lists or adding to existing. Do not be afraid of these conditions, our UI allows you to do this really simple. Here is how these rules looks like:
+Please, see below that you can combine your contact properties into OR and AND blocks. We have no limit for number of conditions.  
 
-![](images/contacts/add_contacts_13.png)
+![](images/contacts/Selection_884.png)
+ 
 
-Below you can find information how to create segments and how they work. 
+## Creation of segments
 
-## Segments Page
+One way to view and create segments for a list from the All Lists page:
 
-Open 'Contacts' page and click 'Segments' button for list that you want to use. If you don't have any configured segments for this list, you will see form for creating new segment:
+![](images/contacts/Selection_885.png)
+
+A second navigation method is from a List view itself: 
+
+![](images/contacts/Selection_886.png)
+
+## Creation of a new segment
+
+To create a new segment, navigate to a Segments page for a list.
+If you don't have any configured segments for this list, you will see a form for creating new segment:
 
 ![](images/contacts/segment_1.png)
 
-If you have created segments already, you will see page with all segments from the selected list:
 
-![](images/contacts/segment_2.png)
+## Editing rules
 
-### Create Segment
-
-From 'Segments' page click 'Create new segment' button. Enter segment name and click 'Create new segment' button. You will see page for configuring your segment:
+Once you created a segment, you can define all rules you want to extract people from this list.  
 
 ![](images/contacts/segment_3.png) 
 
-'Rule Set' fields are based on 'standard' and 'custom' fields available for your contacts and on specific conditions, our system allow to use for different type of fields. For example, for *text* fields you can use:
+'Rule Set' fields are based on: 
+ 
+* standard fields - they come out of the box
+* custom - you can define these on your account 
+* engagement - open and click events
+
+The following conditions are available for each field: 
 
 * is
 * is not
@@ -46,22 +57,26 @@ For fields with type *date*, you can see:
 * before
 * after
 
-Also you can use **or** operator in your rule set or you can create new rule set using **and** operator. 
+Also you can use **or** operator within your Rule Set. Additionally, you create multiple Rule Sets and 
+ combine them into a more powerful query. 
 
-After you complete with rules, click 'Save' button.
+After you complete with rules, click 'Save' button. 
+  
+> Our segmentation system is like a powerful SQL tool without having to write the actual SQL. 
 
-### Add to existing list 
 
-You are able to add segmented contats to the existing contacts list. Open your segment and click 'Add to existing list' button:
+## Executing a segment 
 
-![](images/contacts/segment_4.png)
+You have two options for executing a segment: 
 
-Dialog window will appear where you can select any contact list. Contacts that are result of this segmentation will be added to the selected list.
+* Select contacts into a new list
+* Select contacts into an existing list
 
-### Add to a new list
+Please, see the buttons in the right upper corner. 
 
-You are able to add segmented contacts to brand new contacts list. Open your segment and click 'Add to a new list' button:
+![](images/contacts/Selection_887.png)
 
-![](images/contacts/segment_5.png)
+Once you click the right button, the system will guide you further. 
 
-Dialog window will appear where you can enter name for new list, 'from' and 'reply to' values. 
+> After execution of a segment, you will receive a detailed report in your inbox. 
+
