@@ -8,7 +8,7 @@ Navigate to the _Autoresponders_ page and click 'Create new autoresponder' butto
 
 ![](images/autoresponders/responder_3.png)
 
-AAfter this basic information is entered, you will be able to configure autoresponders' details:
+After this basic information is entered, you will be able to configure autoresponders' details:
 
 ![](images/autoresponders/responder_4.png)
 
