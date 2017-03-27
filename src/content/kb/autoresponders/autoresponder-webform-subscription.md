@@ -14,15 +14,22 @@ AAfter this basic information is entered, you will be able to configure autoresp
 
 Let check what options you can control:
 
-* **Webform Submission** - A new webform submission will trigger this autoresponder.. Go to [this article](webforms/regular-web-forms.md) to read more about webform subscriptions.
-* **Reply to** - Email to reply to. Subscribers will be sending email to this address if they click 'reply to' button.
+* **Webform submission** - A webform submission triggers this autoresponder. 
+* **Reply to** - Email for your subscribers to reply to.
 * **From name** - Name of sender (your or your organization). Subscribers will see emails as coming from this name.
-* **Enabled** - switcher that allows you to simply enable/disable autoresponder.
-* **Rules** - allow you configure as many as you want autoresponder messages. 
-    * Then wait for - amount of time you want us to wait before sending follow up email
-    * Start with - your newsletter template you want to be sent
-    * With Subject - follow up email subject
+* **Enabled** - Toggle that allows you to enable/disable autoresponder.
+* **Delay rules** - Configure as many autoresponder messages as you need. 
+    * _Then wait for_ - amount of time you want us to wait before sending the next message
+    * _Start with_ - newsletter template you want to send
+    * _With Subject_ - email subject
 
+**Example:**
 
-On the screenshot above, after someone submitted your webform subscription, we will wait for 2 hours and then send first autoresponder email with subject 'Thanks for joining us!'. After 1 more day second email will be automatically sent with subject 'Great opportunity'. 
+From the screenshot above, the following events will happen: 
+
+* Contact submits a webform submission 
+* The system waits for 2 hours
+* The system sends out a newsletter "Follow Up Email" with subject "Thanks for joining us!"
+* The system waits for 1 day 
+* The system sends out a newsletter "Follow Up Email 2" with subject "Great opportunity."
 
