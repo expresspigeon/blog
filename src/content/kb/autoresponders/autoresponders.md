@@ -1,33 +1,44 @@
 ## Autoresponders
 
-An autoresponder is a mechanism to automatically send emails based on some type of user action. To make thing simple, let's call these actions a "trigger". With ExpressPigeon's AutoResponder feature, targeting specific rciients is easier and fatser than ever! We provide following types of triggers:
+An autoresponder is a mechanism to automatically send emails based on some type of user action. 
+To make thing simple, let's call these actions _triggers_. 
 
-* [Link Click](link-click)
-* [WebForm Subscription](webform-subscription)
-* [Facebook Subscription](facebook-subscription)
-* [API trigger](api-trigger)
+Currently we provide following types of triggers:
 
+* [Link Click](autoresponder-link-click)
+* [WebForm Subscription](autoresponder-webform-subscription)
+* [Facebook Subscription](autoresponder-facebook-subscription)
+* [API trigger](autoresponder-api-trigger)
 
 ## Autoresponders Actions
 
-When you have configure autoresponders, you are able to:
+When you configure autoresponders, you can:
 
-* view reports for each autoresponder
-* edit autoresponder details
-* delete autoresponder
+* View reports for each autoresponder
+* Edit an autoresponder's details
+* Delete autoresponders
+* Enable/disable autoresponders
 
 
 ![](images/autoresponders/responder_11.png)
 
 ## Autoresponder Reports
 
-Click 'Reports' button for autoresponder. You can quickly check how many people got your autoresponder message, who opened/clicked and so on: 
+In order to see a specific autoresponder's reports, click 'Reports'. 
+You can quickly check how many people received your autoresponder message as well as who opened/clicked, etc: 
 
 ![](images/autoresponders/responder_9.png)  
 
-In order to see even more details or create new list based on reporting data (or simply export as csv file), click one of those bars in order to see who exactly made what action:
+## Drilling down
+
+
+In order to drill further down, click one of the statistics bars:
 
 ![](images/autoresponders/responder_10.png)  
+
+
+You can view exact contacts, their actions and create a new list from a specific segment of your audience 
+(engagement-based segmentation).
 
 
 
