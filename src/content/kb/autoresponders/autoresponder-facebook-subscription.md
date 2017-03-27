@@ -1,6 +1,6 @@
 # Facebook Subscription Trigger
 
-Autoresponders will initiate an individual subscribes using a _Facebook subscription_ form. 
+Autoresponders will initiate when an individual subscribes using a _Facebook subscription_ form. 
 
 ## Configuraton 
 
