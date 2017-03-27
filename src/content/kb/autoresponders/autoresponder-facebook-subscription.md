@@ -1,11 +1,10 @@
-## Facebook Subscription Autoresponders
+# Facebook Subscription Trigger
 
-Autoresponders start when a customer subscribes using a Facebook subscription form. They are great for gradually introducing your customers to your product.
+Autoresponders will initiate an individual subscribes using a _Facebook subscription_ form. 
 
-### Create Autoresponder with Facebook subscription trigger
+## Configuraton 
 
-Before you start, please make sure you have at least one [Facebook subscription](webforms/fb-subscriptions.md) created.
-Go to Autoresponders page and click 'Create new autoresponder' button. Please note that if you don't have any autoresponders, you will need to enter Autoresponder name and trigger before you can proceed: 
+Navigate to the Autoresponders page and click 'Create new autoresponder' button, provide a name and select a 'Facebook subscription' as a trigger.
 
 ![](images/autoresponders/responder_5.png)
 
