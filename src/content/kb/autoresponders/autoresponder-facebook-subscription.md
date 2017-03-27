@@ -8,21 +8,30 @@ Navigate to the Autoresponders page and click 'Create new autoresponder' button,
 
 ![](images/autoresponders/responder_5.png)
 
-After you entered basic information, you will be able to configure autoresponder rules and details:
+After this basic information is entered, you will be able to configure autoresponders' details:
 
 ![](images/autoresponders/responder_6.png)
 
 Let check what options you can control:
 
-* **Select Subscription** - select subscription that you want use as a trigger. Go to [this article](webforms/fb-subscriptions.md) to read more about facebook subscriptions.
-* **Reply to** - Email to reply to. Subscribers will be sending email to this address if they click 'reply to' button.
+* **Facebook Subscription** - A Facebook subscription will trigger this autoresponder. 
+* **Reply to** - Email for your subscribers to reply to.
 * **From name** - Name of sender (your or your organization). Subscribers will see emails as coming from this name.
-* **Enabled** - switcher that allows you to simply enable/disable autoresponder.
-* **Rules** - allow you configure as many as you want autoresponder messages. 
-    * Then wait for - amount of time you want us to wait before sending follow up email
-    * Start with - your newsletter template you want to be sent
-    * With Subject - follow up emai lsubject
+* **Enabled** - Toggle that allows you to enable/disable autoresponder.
+* **Delay rules** - Configure as many autoresponder messages as you need. 
+    * _Then wait for_ - amount of time you want us to wait before sending the next message
+    * _Start with_ - newsletter template you want to send
+    * _With Subject_ - email subject
 
+**Example:**
 
-On the screenshot above, after someone used your Facebook subscription form, we will wait for 2 hours and then send first autoresponder email with subject 'Thanks for joining us!'. After 1 more day second email will be automatically sent with subject 'Great opportunity'. 
+From the screenshot above, the following events will happen: 
+
+* Contact clicks on a link [https://expresspigeon.com](https://expresspigeon.com). 
+* The system waits for 2 hours
+* The system sends out a newsletter "Follow Up Email" with subject "Thanks for joining us!"
+* The system waits for 1 day 
+* The system sends out a newsletter "Follow Up Email 2" with subject "Great opportunity."
+
+ 
 
