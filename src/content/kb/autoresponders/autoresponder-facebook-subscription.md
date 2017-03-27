@@ -27,7 +27,7 @@ Let check what options you can control:
 
 From the screenshot above, the following events will happen: 
 
-* Contact clicks on a link [https://expresspigeon.com](https://expresspigeon.com). 
+* Contact submits a Facebook subscription
 * The system waits for 2 hours
 * The system sends out a newsletter "Follow Up Email" with subject "Thanks for joining us!"
 * The system waits for 1 day 
