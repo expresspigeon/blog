@@ -1,4 +1,4 @@
-# Link click trigger
+# Autoresponder click trigger
 
 Autoresponders trigger when a customer clicks on a link from your campaign. Use them to target your customers with even more precise marketing based on their interests.
 
@@ -24,7 +24,7 @@ Let's check what options you can control:
     * _Start with_ - newsletter template you want to send
     * _With Subject_ - email subject
 
-**Example:**
+## Example
 
 From the screenshot above, the following events will happen: 
 

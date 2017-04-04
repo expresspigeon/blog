@@ -1,6 +1,6 @@
-# Facebook Subscription Trigger
+# Autoresponder facebook subscription trigger
 
-Autoresponders will initiate when an individual subscribes using a _Facebook subscription_ form. 
+Autoresponders will initiate when an individual subscribes using a [Facebook subscription](/kb/facebook-subscriptions) form. 
 
 ## Configuraton 
 
@@ -14,7 +14,7 @@ After this basic information is entered, you will be able to configure autorespo
 
 Let check what options you can control:
 
-* **Facebook Subscription** - A Facebook subscription will trigger this autoresponder. 
+* **Facebook Subscription** - A [Facebook subscription](/kb/facebook-subscriptions) will trigger this autoresponder. 
 * **Reply to** - Email for your subscribers to reply to.
 * **From name** - Name of sender (your or your organization). Subscribers will see emails as coming from this name.
 * **Enabled** - Toggle that allows you to enable/disable autoresponder.
@@ -23,7 +23,7 @@ Let check what options you can control:
     * _Start with_ - newsletter template you want to send
     * _With Subject_ - email subject
 
-**Example:**
+## Example
 
 From the screenshot above, the following events will happen: 
 

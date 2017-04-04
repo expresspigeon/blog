@@ -1,4 +1,4 @@
-## Autoresponders
+# Autoresponders
 
 An autoresponder is a mechanism to automatically send emails based on some type of user action. 
 To make thing simple, let's call these actions _triggers_. 

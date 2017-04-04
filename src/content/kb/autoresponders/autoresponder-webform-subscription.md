@@ -1,10 +1,12 @@
-# Webform Subscription Triggers
+# Autoresponder webform subscription triggers
 
-Autoresponders triggered when a customer subscribes using a webform. 
+Autoresponders triggered when a customer subscribes using a [subscription webform](/kb/regular-web-forms). 
 
 ## Configuration
 
-Navigate to the _Autoresponders_ page and click 'Create new autoresponder' button and select 'webform submission' as your trigger. Please make sure you have at least one [webform subscription](webforms/regular-web-forms.md) created
+Navigate to the _Autoresponders_ page and click 'Create new autoresponder' 
+button and select 'Webform subscription' as your trigger. Please make sure you have at 
+least one [subscription webform](/kb/regular-web-forms) created.
 
 ![](images/autoresponders/responder_3.png)
 
@@ -23,7 +25,7 @@ Let check what options you can control:
     * _Start with_ - newsletter template you want to send
     * _With Subject_ - email subject
 
-**Example:**
+## Example
 
 From the screenshot above, the following events will happen: 
 

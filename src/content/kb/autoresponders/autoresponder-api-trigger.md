@@ -1,11 +1,11 @@
-# API trigger 
+# Autoresponder API trigger 
 
-You can use our API to trigger autoresponders for extremely precise delivery based on recipients' interests.
+You can use our [API to trigger autoresponders](/kb/autoresponders-api) for extremely precise delivery based on recipients' interests.
 
 ## Configuration
 
 Navigate to the Autoresponders page and click 'Create new autoresponder' button, provide a name
-and select a 'API trigger' as a trigger.  
+and select an 'API trigger'.  
 
 ![](images/autoresponders/responder_7.png)
 
@@ -15,7 +15,7 @@ After this basic information is entered, you will be able to configure autorespo
 
 Let check what options you can control:
 
-* **API Trigger** - An API event triggers this autoresponder.
+* **API Trigger** - An [API](/kb/autoresponders-api) event triggers this autoresponder.
 * **Reply to** - Email for your subscribers to reply to.
 * **From name** - Name of sender (your or your organization). Subscribers will see emails as coming from this name.
 * **Enabled** - Toggle that allows you to enable/disable autoresponder.
@@ -24,7 +24,7 @@ Let check what options you can control:
     * _Start with_ - newsletter template you want to send
     * _With Subject_ - email subject
 
-**Example:**
+## Example
 
 From the screenshot above, the following events will happen: 
 

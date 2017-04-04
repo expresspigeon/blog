@@ -1,94 +1,158 @@
 # Build A Custom Email Subscription Form In Minutes
 
-A good subscription form is essential to growing an email list. Building a custom email subscription form creates an entry point for users to opt-in to an email newsletter. This first step in email marketing is especially easy to do on ExpressPigeon.
+A webform or a subscription form is used to collect email addresses of visitors on your site. A good subscription form is essential to growing your email list. 
 
+Building a custom subscription form creates an entry point for users to opt-in to an email newsletter. 
 
-## Building An Email Subscription Form
+## Building an subscription form
 
-- Navigate to "Subscriptions" in the main menu.
+Navigate to "Subscriptions" in the main menu.
 
 ![](images/webforms/webforms_1.png)
 
-- Select "Regular Web Form" and enter name for your webform. Select the lists that you want this form to send new signups into. Click "Create subscription" button.
+Select "Regular Web Form" and enter a corresponding name. 
+Select the lists that you want this form to send new signups to and click "Create subscription" button.
 
 ![](images/webforms/webforms_2.png)
 
-**Note:** First-time users may receive a pop-up Approval Request (prevents SPAM)
+> **Note:** First-time users may see a pop-up Approval Request (wards of spammers)
 
 ![](images/webforms/webforms_3.png)
 
-### General information
+## General tab
 
-On this tab you can control name of your subscription webform and signup lists.
+Control your subscription webform and target lists. A target list is a list where your new signups are added.
+You can select more than one target list. 
 
 ![](images/webforms/webforms_4.png)
 
-### Form Builder
+## Form builder tab
 
-- **Add an image to your subscription form (optional).**  Navigate to Form Builder and expand "Header image" menu option. Click "Browse image file", select an image, and click "Upload". You will automatically see the image in your subscription form. Click "Save" button.
+Once you navigate to this page, you already have created a working form!
+
+### Adding banner image 
+
+We recommended adding an image to your subscription form. 
+
+Navigate to the Form Builder tab and expand "Header image" menu option. Click "Browse image file", 
+select an image, and click "Upload". You will automatically see the image in your subscription form. 
+Click "Save" button.
 
 ![](images/webforms/webforms_5.png)
 
-- **Form Preview**
 
-At the right side you can see in real time how your subscription form will look like. 
+You will immediately see the form preview on the right.  
 
-![](images/webforms/webforms_6.png)
+![](images/webforms/Selection_902.png)
 
 You can update any of available fields directly on the form preview area.
 
-Also at the top of the webform editor you can click 'View Online' button and check how your form will look like on your site.
+### Add more fields
 
-![](images/webforms/webforms_15.png)
+If you want to collect more information from your subscribers you can easily add standard or 
+[custom fields](/settings/custom_fields) to your subscription form. 
+Simply click the (+) plus sign next to a fields to add it to a form. 
 
-- **Add additional signup fields** 
+After adding it, you can drag it up and down to any location. 
 
-If you want to collect more information about your subscribers you can easily add standard or custom fields into your subscription form. Simply drag and drop standard fields or create a custom field in seconds. Click "Save" after added new fields.
 
-![](images/webforms/webforms_7.png)
+> Do not forget to "Save" your form after making any modifications
 
-### After submit
+![](/kb/images/webforms/Selection_904.png)
 
-- **Select confirmation type**
 
-Navigate to "After Submit". Select confirmation type. With "Single Opt-in", new subscribers are instantly added to your email list once they subscribe. With "Double Opt-in", subscribers must confirm subscription by clicking a link in a confirmation email. We recommend Double Opt-In.
+### Form adjustments
 
-![](images/webforms/webforms_8.png)  
+You can further customize the form by editing labels in your language: 
 
-- **Customize on-site subscription message**
+![](/kb/images/webforms/Selection_903.png)
+
+In addition, when you hover your mouse over a form, it will light up additional controls: 
+
+![](/kb/images/webforms/Selection_905.png)
+
+1. **Drag handles** - use to drag fields up and down
+2. **Required toggle** - mark fields as required
+3. **Delete button** - click to delete from the form
+4. **Signup label** - use to change the label on the signup button.
  
-This is the message displayed to people after they "Subscribe". Customize the text with preferred message.
 
-![](images/webforms/webforms_9.png)
-![](images/webforms/webforms_10.png)
+## After submit tab
 
-- **Select & create confirmation email**
+The "After submit tab" is a place where you can configure  what happens when your subscribers 
+ submit a confirmation form. This includes: 
+  
+* A response message
+* Double Opt-in message should you decide to use it 
+ 
 
-In "After Submit", under "Double opt-in", you can create a basic text confirmation email or choose to build a custom confirmation email newsletter in minutes. Click "Save". See below for an example of a basic confirmation email and a custom confirmation email.
+### Form submit feedback
 
-![](images/webforms/webforms_11.png)
+When a subscriber submits a form, they will see a "Thank you" message. You can chose this message
+to be hosted on our site, or on yours. 
 
-Basic confirmation email looks...really basic :)
 
-![](images/webforms/webforms_12.png)
+### Feedback type 
 
-Using our powerful email editor, you can design a custom confirmation newsletter in minutes:
+In order to host it on our site, select a "Message" option and edit the content of this page:  
 
-![](images/webforms/webforms_13.png)
+![](/kb/images/webforms/Selection_924.png)
 
-### Confirmation
 
-Navigate to "Confirmation" and create a display page that users will see after signing up or redirect to a custom "Welcome" landing page on your own site.
+The other option is to redirect to a custom page on your website. Select a "Redirect"
+ option, and enter a location of your custom "Thank you" page: 
+ 
+![](/kb/images/webforms/Selection_926.png)
+
+
+### Confirmation type
+
+Here you can chose a "Single Opt-in" or a "Double Opt-in". 
+Read more on [Double Opt-in](https://expresspigeon.com/blog/2011/10/15/what-the-heck-is-double-opt-in-and-why-you-should-care/)
+
+### Opt-in confirmation email
+
+If you chose the Double Opt-in confirmation for you form, you will be able to configure a standard message or a custom one 
+based on your newsletter design. 
+
+The standard message can still be configured:
+
+![](/kb/images/webforms/Selection_927.png)
+
+If you want to maintain your brand and design, simply create a newsletter for subscription confirmation using 
+[our editor](/kb/creating-and-editing-newsletter) and chose your custom template for the confirmation. 
+
+![](/kb/images/webforms/Selection_928.png)
+
+
+> Ensure that the confirmation newsletter will have this merge tag in it: **${confirm_link}**. 
+It serves as a placeholder for insertion of a dynamic confirmation link. 
+
+
+### Single Opt-in
+
+If you select Single Opt-in, we will not be sending a confirmation email and your subscribers will be placed on a list
+instantly. 
+
+> We recommend double opt-ins. 
+ 
+
+## Confirmation tab
+
+This is what is displayed for a subscriber after confirming from a Double Opt-in message. 
+
+Here you again can configure a message hosted on our site, or redirect to yours. 
 
 ![](images/webforms/webforms_14.png)
 
-### Put your form onto your site
+## Deploy a form on your site
 
-All what you need to do is copy & paster ready to use code snippets to your sources. In order to get ready to use code, on the form builder click one of the buttons:
+There are three ways to deploy a form: 
 
-* HTML Code
-* IFrame code
+* Share a link to a form (by clicking View online button)
+* Copy/paste HTML into your site (HTML code button)
+* Insert form as an IFrame (IFrame button)
 
-![](images/webforms/webforms_16.png)
+![](/kb/images/webforms/Selection_929.png)
 
-Afterwards copy code and paste it where you need.
+
