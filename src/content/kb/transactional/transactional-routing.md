@@ -9,7 +9,7 @@ We provide an easy three step process to let you prepare sending production mess
 ## The Black Hole!
 
 Yes, ExpressPigeon has a blackhole! If you send your messages to `blackhole@expresspigeon.com` using our API,
-the message will not be actually sent. Use this feature to learn now to integrate with our API to send messages,
+the message will not actually be sent. Use this feature to learn now to integrate with our API to send messages,
 but not exactly send them.
 
 
@@ -19,12 +19,12 @@ The next step after blackhole, is to start sending real messages. Each API call 
 but if you use a Sandbox [Authentication Key](security-and-authentication), the messages will be delivered to
 the Sandbox Destination email.
 
-In order to access the Authentication Keys in your account, navigate to the [Integrations](https://expresspigeon.com/settings/integrations)
-page.
+In order to access the Authentication Keys and configure your Sandbox Destination email, 
+navigate to the [Integrations](https://expresspigeon.com/settings/integrations) page:
 
 ![](images/sandbox-key.png)
 
 ## Sending to actual addresses
 
-When you are comfortable to send to yourself after the integration, just replace the Sandbox Authentication Key for **Production Authentication Key**, 
-and messages will be delivered to real people!
+When you are comfortable sendng to Sandbox Destination email, just replace the Sandbox Authentication Key 
+for your **Production Authentication Key**, and messages will be delivered to your contacts!
