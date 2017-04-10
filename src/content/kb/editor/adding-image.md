@@ -1,4 +1,4 @@
-# Adding images
+# Adding Images
 
 
 After hitting the "Set content type" button in a selected block and selecting an Image type, your Image gallery will open. 
