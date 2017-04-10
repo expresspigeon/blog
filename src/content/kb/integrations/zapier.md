@@ -74,12 +74,12 @@ There two places where you can find our templates:
 
 Below you can find example of how you can easily configure Zap between Salesforce and ExpressPigeon.
 
-- Open our [Integrations](https://expresspigeon.com/integrations) page and find correct Template, in this case 'Add new Salesforce Leads to an ExpressPigeon contact list'. Click 'Use this Zap' button.
+- Open our [Integrations](https://expresspigeon.com/integrations) page and find the correct Template, in this case 'Add new Salesforce Leads to an ExpressPigeon contact list'. Click 'Use this Zap' button.
 
 
 ![](images/zapier/zap_7.png)
 
-- New dialog window will open with a brief description of what this Zap will do. Click the 'Create this zap' button.
+- A new dialog window will open with a brief description of what this Zap will do. Click the 'Create this zap' button.
 
 ![](images/zapier/zap_8.png)
 
