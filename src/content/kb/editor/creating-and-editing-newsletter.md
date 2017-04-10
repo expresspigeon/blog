@@ -43,7 +43,7 @@ in your row as well as the type of content for each block:
 * Divider
 * Eventbrite
 
-## Adding a row
+## Adding a Row
 
 You can add another row by either clicking the **+** in the "Row Editor" or by clicking "Add new row" button in the "Row Properties" panel on the left. 
 From the "Row Properties" panel, new rows will be added to the top of the newsletter. 
