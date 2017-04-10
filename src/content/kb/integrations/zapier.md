@@ -74,24 +74,24 @@ There two places where you can find our templates:
 
 Below you can find example of how you can easily configure Zap between Salesforce and ExpressPigeon.
 
-- Open our [Integrations](https://expresspigeon.com/integrations) page and find needed Template, in our case 'Add new Salesforce Leads to an ExpressPigeon contact list'. Click 'Use this Zap' button.
+- Open our [Integrations](https://expresspigeon.com/integrations) page and find correct Template, in this case 'Add new Salesforce Leads to an ExpressPigeon contact list'. Click 'Use this Zap' button.
 
 
 ![](images/zapier/zap_7.png)
 
-- New dialog window will open with brief description what this Zap will do. All what you need to do is click 'Create this zap' button.
+- New dialog window will open with a brief description of what this Zap will do. Click the 'Create this zap' button.
 
 ![](images/zapier/zap_8.png)
 
-- Since it's pre-configured Zap, you will see that Salesforce trigger 'New Lead' already selected and all what you need to do is click 'Continue' button.
+- Since it's a pre-configured Zap, you will see that the Salesforce trigger 'New Lead' is already selected and all that you need to do is click the 'Continue' button.
 
 ![](images/zapier/zap_9.png)
 
-- Follow instructions and connect you Salesforce account. After you do this, you should see following:
+- Follow the instructions to connect your Salesforce account. After you do this, you should see following:
 
 ![](images/zapier/zap_10.png)
 
-- Note please that on next step you will need to have existing 'lead' under your Salesforce account. If you have this, just click 'Fetch & Continue' button. This is 'test' step, so don't be afraid - nothing will be created/changed.
+- Please note that on the next step you will need to have an existing 'lead' in your Salesforce account. If you have this, just click 'Fetch & Continue' button. This is 'test' step, so don't be afraid - nothing will be created/changed.
 
 ![](images/zapier/zap_11.png)
 
