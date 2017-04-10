@@ -2,15 +2,15 @@
 
 ## Introduction
 
-Zapier is a tool which allows users to connect together web apps.
+Zapier is a tool which allows users to connect various web apps.
 
 An integration between two apps is called a Zap. A Zap is made up of a **Trigger** and one or more **Actions** or **Searches**.
 
-Whenever the trigger happens in one app, Zapier will automatically perform the actions or searches in another app in order.
+Whenever a trigger happens in one app, Zapier will automatically perform the actions or searches in the specified app for that trigger, in order.
 
 Here are couple examples:
 
-* Get notifications in Slack when someone opened an email from chosen ExpressPigeon campaign
+* Get notifications in Slack when someone opened an email from specified ExpressPigeon campaign
 * Add new Salesforce Leads to an ExpressPigeon contact list
 * Send emails via ExpressPigeon to abandoned Shopify cart users
 
@@ -18,8 +18,8 @@ Here are couple examples:
 
 ### Supported Triggers
 
-* Contact Added To List - Triggers when a new contact is added/copied/moved to a contact list.
-* Email Opened - Triggers when an email is opened in a particular campaign.
+* Contact Added To List - Triggers when a new contact is added/copied/moved to a specified contact list.
+* Email Opened - Triggers when an email is opened in a chosen campaign.
 
 ### Supported Searches
 
@@ -28,12 +28,12 @@ Here are couple examples:
 ### Supported Actions
 
 * Suppress Contact - Removes a contact from all lists.
-* Create/Update Contact - Add a new contact to a list, or updates an existing contact.
+* Create/Update Contact - Add a new contact to a list, or update an existing contact.
 * Send Transactional Email - Sends an e-mail using an existing template.
 
-## How to create first Zap with ExpressPigeon
+## How to Create First Zap with ExpressPigeon
 
-To get started with ExpressPigeon on [Zapier](https://zapier.com), click 'Make A Zap!' button.
+To get started with ExpressPigeon on [Zapier](https://zapier.com), click the 'Make A Zap!' button.
 
 ![](images/zapier/zap_1.png)
 
@@ -41,31 +41,31 @@ In the 'Choose a trigger app' field enter 'ExpressPigeon' and select it.
 
 ![](images/zapier/zap_2.png)
 
-As result you will see our list of available Triggers. Select Trigger that you plan to use and click 'Continue' button.
+As result you will see our list of available Triggers. Select the Trigger that you plan to use and click 'Continue' button.
 
 ![](images/zapier/zap_3.png)
 
-At this stage you will need to connect you ExpressPigeon account. Click 'Connect a new account' button. You should see new dialog window where you need to enter ExpressPigeon API key.
+At this stage you will need to connect your ExpressPigeon account. Click the 'Connect a new account' button. You should see new dialog window where you need to enter your ExpressPigeon API key.
 
 ![](images/zapier/zap_4.png)
 
-ExpressPigeon API key can be found on our [Integrations apge](https://expresspigeon.com/settings/integrations).
+Your ExpressPigeon API key can be found on our [Integrations apge](https://expresspigeon.com/settings/integrations).
 
 ![](images/zapier/zap_5.png)
 
-After entered API key and applied it, you should see 'ExpressPigeon Account #1' and 'Test' button at the right side.
+After you've entered the API key and applied it, you should see 'ExpressPigeon Account #1' and 'Test' button at the right side.
 
 ![](images/zapier/zap_6.png)
 
-Click 'Test' button and if you will get 'Success!' this means you are all set and can proceed with configuring you zap.
+Click 'Test' button and if you get 'Success!' this means you're all set and can proceed with configuring your zap.
 
-## Ready to use Zap teamplates
+## Ready to Use Zap Templates
 
-A Zap template is a pre-defined and curated example of an automated workflow. Here, in ExpressPigeon, we are trying to save your time and creating Zaps with pre-mapped fields, so all what you need to do is simply connect two apps. 
+A Zap template is a pre-defined and curated example of an automated workflow. ExpressPigeon is trying to save you time by creating Zaps with pre-mapped fields, so all what you need to do is simply connect two apps. 
 
-### Where you can find ExpressPigeon pre-defined Zaps
+### Location of ExpressPigeon pre-defined Zaps
 
-There are couple places where you can find our templates:
+There two places where you can find our templates:
 
 * ExpressPigeon's [Zapbook](https://zapier.com/zapbook/expresspigeon/) Page
 * ExpressPigeon's [Integrations](https://expresspigeon.com/integrations) Page
