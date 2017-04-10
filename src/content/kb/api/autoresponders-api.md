@@ -439,7 +439,7 @@ $response = json_decode($result);
 <div role="tabpanel" data-language="ruby" class="tab-pane">
 
 ~~~~ {.ruby .numberLines}
-require './lib/expresspigeon-ruby'
+require 'expresspigeon-ruby'
 
 res = ExpressPigeon::API.autoresponders.bounced responder_id, responder_part_id
 ~~~~

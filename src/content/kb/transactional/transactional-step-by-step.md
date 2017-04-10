@@ -1,5 +1,12 @@
 # Send a message - step-by-step
 
+Steps for creating and sending a transactional from our platform are: 
+
+1. Create a template using our editor
+2. Get authentication key
+3. Send
+
+The steps 1 and 2 will only need to be done once! Follow to instructionss below.
 
 ## Step 1: Create a template
 
@@ -7,7 +14,6 @@ First, use our editor to [create a template](creating-and-editing-newsletter).
 Simply type a dynamic merge field (placeholder) into a template in this format: 
 
     ${first_name}
-
 
 Below is the editor with a very simple template:
 

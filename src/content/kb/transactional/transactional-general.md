@@ -13,7 +13,7 @@ for [sending messages](transactional-send) and for [getting reports](transaction
 
 Since our Transactional Email Service is one of our APIs, it conforms to the general API rules:
 
-* [API General Concepts](general_concepts)
+* [API General Concepts](general-concepts)
 * [Security and authentication](security-and-authentication)
 * [Error codes and responses](error-codes-responses)
 

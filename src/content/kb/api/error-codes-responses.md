@@ -1,6 +1,10 @@
 # Error Codes & Responses
 
-The ExpressPigeon API uses JSON format and returns appropriate HTTP response code for every request and response. When the ExpressPigeon API returns error message there is a meaningful explanation why the error is occurred. Most JSON documents returned as a response to an error condition also include HTTP status code in the body of JSON document. This is done for convenience.
+The ExpressPigeon API uses JSON format and returns appropriate HTTP response code for every request and response. 
+When the ExpressPigeon API returns error message there is a meaningful explanation why the error is occurred. 
+
+Most JSON documents returned as a response to an error condition also include HTTP status code in the body of 
+JSON document for convenience.
 
 Code              Text                   Description
 -------------     --------------------   --------------------------------

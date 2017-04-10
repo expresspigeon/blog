@@ -30,8 +30,7 @@ import org.javalite.http.Http;
 import static org.javalite.common.JsonHelper.toMap;
 
 String response = Http.get("https://api.expresspigeon.com/messages/1")
-        .header("X-auth-key", AUTH_KEY)
-        .text();
+                       .header("X-auth-key", AUTH_KEY).text();
 Map<String, Object> result = toMap(response);
 ~~~~
 
@@ -56,7 +55,9 @@ $response = json_decode($result);
 <div role="tabpanel" data-language="ruby" class="tab-pane">
 
 ~~~~ {.ruby .numberLines}
-here ruby code
+require 'expresspigeon-ruby'
+
+report = ExpressPigeon::API.messages.report(1)
 ~~~~
 
 </div>
@@ -72,12 +73,13 @@ response = api.messages.report(1)
 
 </div>
 
-Please, note that the `1` in the example is an ID of the message generated when it was sent. 
-
-> Transactional message IDs should be treated as opaque unique strings, and not numbers.  
-
 
 </div>
+
+Please, note that the `1` in the example is an ID of the message generated when it was sent. 
+
+> Transactional message IDs should be treated as opaque unique strings, and not necessarily numbers.  
+
 
 ## Example Response
 

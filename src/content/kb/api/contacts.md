@@ -61,7 +61,7 @@ $response = json_decode($result);
 <div role="tabpanel" data-language="ruby" class="tab-pane">
 
 ~~~~ {.ruby .numberLines}
-require './lib/expresspigeon-ruby'
+require 'expresspigeon-ruby'
 
 response = ExpressPigeon::API.contacts.find_by_email 'john@example.com'
 ~~~~
