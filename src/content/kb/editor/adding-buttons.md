@@ -1,16 +1,16 @@
-# Adding buttons
+# Adding Buttons
 
 There are two ways to add buttons:
 
 * Adding a button as a content block
 * Embedding a button into a Text block
 
-## Button as a content block
+## Button as a Content Block
 
 ![](images/Selection_452.png)
 
 
-When you set content type as Button, the "Create button" window will open. 
+When you set the content type as Button, the "Create button" window will open. 
 You can label your button here and set a link as a Call-To-Action. 
  
 As an alternative, you can select one of the pre-defined links:
@@ -41,4 +41,4 @@ You have the opportunity to set the link, text and other properties for a button
 
 
 > When embedding a button to a text block, you can only edit its properties when inserting.
-> If a button is added a s a standalone content block, you can edit its properties any time after.  
+> If a button is added as a standalone content block, you can edit its properties any time after.  
