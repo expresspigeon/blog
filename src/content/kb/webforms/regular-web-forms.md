@@ -122,6 +122,8 @@ The standard message can still be configured:
 If you want to maintain your brand and design, simply create a newsletter for subscription confirmation using 
 [our editor](/kb/creating-and-editing-newsletter) and chose your custom template for the confirmation. 
 
+> The title of the template in our editor will be the subject for the confirmation email.
+
 ![](/kb/images/webforms/Selection_928.png)
 
 
