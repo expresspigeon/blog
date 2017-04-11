@@ -18,16 +18,14 @@ a triggered message to a customer who has abandoned their shopping cart. Simply 
 and ExpressPigeon account via Zapier and select a proper trigger. You customer will receive an email 
 reminding them to complete their purchase.
  
-[![](/blog/images/2017/shopify.png)](https://zapier.com/app/editor/template/14692?utm_campaign=Widget&embedded=true&referrer=https://expresspigeon.com/integrations&utm_source=widget&utm_medium=embed&selected_apis=ShopifyAPI,ExpressPigeonDevAPI)
-
+<script type="text/javascript" src="https://zapier.com/zapbook/embed/widget.js?guided_zaps=14692"></script>
 
 **SalesForce**: When working with SalesForce you often have to update customer data. Wouldn't it be nice to
 keep that pesky customer data updated and ready to go in your ExpressPigeon account? Once you connect your 
   SalesForce and your ExpressPigeon accounts via Zapier and select the right trigger and action to update your 
   customer data, it will be left to Zapier's magic to keep your contacts up to date.
  
-[![](/blog/images/2017/salesforce.png)](https://zapier.com/app/editor/template/14693?utm_campaign=Widget&embedded=true&referrer=https://expresspigeon.com/integrations&utm_source=widget&utm_medium=embed&selected_apis=SalesforceAPI,ExpressPigeonDevAPI)
-
+<script type="text/javascript" src="https://zapier.com/zapbook/embed/widget.js?guided_zaps=14693"></script>
 
 The image below shows the three simple steps to connect your SalesForce trigger and an ExpressPigeon action!
 
