@@ -53,15 +53,15 @@ Your ExpressPigeon API key can be found on our [Integrations apge](https://expre
 
 ![](images/zapier/zap_5.png)
 
-After you've entered the API key and applied it, you should see 'ExpressPigeon Account #1' and 'Test' button at the right side.
+After you've entered the API key and applied it, you should see the 'ExpressPigeon Account #1' and 'Test' button at the right side.
 
 ![](images/zapier/zap_6.png)
 
-Click 'Test' button and if you get 'Success!' this means you're all set and can proceed with configuring your zap.
+Click 'Test' button and if you get 'Success!' you're all set and can proceed with configuring your zap.
 
 ## Ready to Use Zap Templates
 
-A Zap template is a pre-defined and curated example of an automated workflow. ExpressPigeon is trying to save you time by creating Zaps with pre-mapped fields, so all what you need to do is simply connect two apps. 
+A Zap template is a pre-defined and curated example of an automated workflow. ExpressPigeon is trying to save you time by creating Zaps with pre-mapped fields, so all you need to do is simply connect two apps. 
 
 ### Location of ExpressPigeon pre-defined Zaps
 
@@ -94,7 +94,7 @@ Below you can find example of how you can easily configure Zap between Salesforc
 
 ![](images/zapier/zap_11.png)
 
-- If all went OK in previous step, you will see that Saleforce part is all green and you can proceed to ExpressPigeon part.
+- If all went OK in previous step, you will see a green 'Success' buttone green and you can proceed to ExpressPigeon step.
 
 ![](images/zapier/zap_12.png)
 
@@ -102,11 +102,11 @@ Below you can find example of how you can easily configure Zap between Salesforc
 
 ![](images/zapier/zap_13.png)
 
-- Connect ExpressPigeon account as described [above](#how-to-create-first-zap-with-expressPigeon). As result you should see following:
+- Connect your ExpressPigeon account as described [above](#how-to-create-first-zap-with-expressPigeon). As result you should see following:
 
 ![](images/zapier/zap_14.png)
 
-- On the next step you should configure what list on ExpressPigeon you want to use for this zap and also select 'field' from Salesforce that will be used as an 'Email'.
+- On the next step you should configure which ExpressPigeon list you want to use for this zap and also select 'field' from Salesforce that will be used as an 'Email'.
 
 ![](images/zapier/zap_15.png)
 
@@ -114,7 +114,7 @@ If you click 'Show advanced options', you will be able to configure all availabl
 
 ![](images/zapier/zap_16.png)
 
-- On the last step you will see previously configured data. Click 'Create & Continue' button. That's all, you are all set. Now, when you will have new lead created on Salesforce, it will automatically appear in your selected ExpressPigeon contacts list. You have more time for more pleasant things rather then manually migrating all this stuff.
+- On the last step you will see previously configured data. Click the 'Create & Continue' button and you're all set. Now when you have a new lead created on Salesforce, it will automatically appear in your selected ExpressPigeon contacts list. 
 
 ![](images/zapier/zap_17.png)
 
