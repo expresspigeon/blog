@@ -14,24 +14,22 @@ Here are couple examples:
 * Add new Salesforce Leads to an ExpressPigeon contact list
 * Send emails via ExpressPigeon to abandoned Shopify cart users
 
-## What ExpressPigeon Triggers and Actions are Supported?
+## Triggers and Actions
 
-### Supported Triggers
+
+**Triggers**
 
 * Contact Added To List - Triggers when a new contact is added/copied/moved to a specified contact list.
 * Email Opened - Triggers when an email is opened in a chosen campaign.
 
-### Supported Searches
 
-* None yet!
-
-### Supported Actions
+**Actions**
 
 * Suppress Contact - Removes a contact from all lists.
 * Create/Update Contact - Add a new contact to a list, or update an existing contact.
 * Send Transactional Email - Sends an e-mail using an existing template.
 
-## How to Create First Zap with ExpressPigeon
+## Create first Zap
 
 To get started with ExpressPigeon on [Zapier](https://zapier.com), click the 'Make A Zap!' button.
 
@@ -59,18 +57,18 @@ After you've entered the API key and applied it, you should see the 'ExpressPige
 
 Click 'Test' button and if you get 'Success!' you're all set and can proceed with configuring your zap.
 
-## Ready to Use Zap Templates
+## Zap templates
 
 A Zap template is a pre-defined and curated example of an automated workflow. ExpressPigeon is trying to save you time by creating Zaps with pre-mapped fields, so all you need to do is simply connect two apps. 
 
-### Location of ExpressPigeon pre-defined Zaps
+### Pre-defined Zaps
 
 There two places where you can find our templates:
 
 * ExpressPigeon's [Zapbook](https://zapier.com/zapbook/expresspigeon/) Page
 * ExpressPigeon's [Integrations](https://expresspigeon.com/integrations) Page
 
-### Example how to use templates
+### Example templates
 
 Below you can find example of how you can easily configure Zap between Salesforce and ExpressPigeon.
 
