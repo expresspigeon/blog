@@ -26,7 +26,7 @@ Once the button block is added to your newsletter, you can edit its properties:
 
 
 
-## Embedding into Text
+## Embedding into Text Block
 
 If you want to insert a button directly into a Text block, use the button in the   
 text editing menu. 
@@ -40,5 +40,5 @@ You have the opportunity to set the link, text and other properties for a button
 ![](images/Selection_878.png)
 
 
-> When embedding a button to a text block, you can only edit its properties when inserting.
-> If a button is added as a standalone content block, you can edit its properties any time after.  
+> When embedding a button to a text block, you can only edit its properties while inserting.
+> If a button is added as a standalone content block, you can edit its properties at any time.  
