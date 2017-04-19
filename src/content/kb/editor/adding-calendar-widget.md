@@ -1,9 +1,9 @@
 # Countdown Calendar
 
 Our Calendar Widget will display _exact time left leading up to your event_ dynamically for each person 
-depending on when the message was opened... even if it was opened multiple times. 
+depending on when the message was opened, even if it was opened multiple times. 
  
-> Use it to create a sense of urgency for your event.
+> Use this feature to create a sense of urgency for your event.
 
 ## How to Add a Countdown Calendar
 
@@ -12,6 +12,6 @@ Select the countdown type on the left, the date/time on the right, hit the _Crea
 and your countdown will insert into the selected block.
  
 
-Please, watch a video below:
+Please, watch the video below for more information on this feature:
 
 <iframe src="https://player.vimeo.com/video/174788299" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
