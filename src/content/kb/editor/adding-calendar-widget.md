@@ -1,6 +1,6 @@
 # Countdown Calendar
 
-Our Calendar Widget will display _exact time left leading up to your event_ dynamically for each person 
+Our Calendar Widget will display the _exact time left leading up to your event_ dynamically for each person 
 depending on when the message was opened, even if it was opened multiple times. 
  
 > Use this feature to create a sense of urgency for your event.
