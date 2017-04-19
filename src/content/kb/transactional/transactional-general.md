@@ -1,4 +1,4 @@
-# Transactional messages concepts
+# Transactional Messages Concepts
 
 
 Transactional email messages are also called triggered emails. Unlike bulk emails, they are sent one at the time on per 
@@ -17,14 +17,14 @@ Since our Transactional Email Service is one of our APIs, it conforms to the gen
 * [Security and authentication](security-and-authentication)
 * [Error codes and responses](error-codes-responses)
 
-## Use out powerful editor for templates
+## Use Our Powerful Editor for Templates
 
 Our transactional email service is built around our [email editor](editor-layout).
-Using the editor removes a lot of issues stemming from managing internal HTML code and saves _time and money_:
+Using the editor removes a lot of issues stemming from managing internal HTML code and saves you _time and money_:
 
 * Developers' are responsible for triggering the right message at the right time
-* Designers and marketing anagers use our Drag and Drop [email editor](editor-layout) to produce a compelling email template
-* Marketers can tweak styles and content any time, without developers involvement
+* Designers and marketing anagers use our Drag and Drop [email editor](editor-layout) to produce a compelling email templates
+* Marketers can tweak styles and content any time, without developer involvement
 
 > Our Transactional Email Service gives you separation of responsibilities: everyone does what they do best at the time of their choosing!
 
@@ -85,4 +85,4 @@ for message customization.
 ## First steps
 
 You can start from scratch and start your first message in a couple of minutes. Follow to
-[step by step tutorial](transactional-step-by-step) to se how.
+[step by step tutorial](transactional-step-by-step) to see how.
