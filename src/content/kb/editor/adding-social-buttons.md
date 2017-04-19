@@ -6,7 +6,7 @@ You can set their spacing, size and layout, while maintaining text and links ind
 
 ## Inserting Social Icons
 
-Select _Image Grid_ for content type in selected row, then select _Social_ from the options on the left. 
+Select _Image Grid_ as your content type in the selected row, then select _Social_ from the options on the left. 
 Choose the icons you wish to insert and hit the _Save_ button.
 
 ## Linking Social Accounts
