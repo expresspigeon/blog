@@ -6,16 +6,16 @@
 
 On the Newsletters page you can find three options for creating a newsletter:
 
-1. **Create newsletter** uses our "Drag and Drop" editor to create an original newsletter 
-2. **Newsletter gallery** allows you to choose a newsletter format from our gallery. Don't worry, you will be able to mold it to your liking using our editor.
+1. **Create newsletter** uses our responsive "Drag and Drop" editor to create an original newsletter 
+2. **Newsletter gallery** allows you to choose a newsletter format from our gallery. Don't worry, you'll be able to mold it to fit your desired appearance with our editor.
 3. **Code custom HTML** allows you create a newsletter using HTML (experts only).
 
 ## Picking from Template Gallery
 
-Easily select your desired template by either clicking on the thumbnail or clicking the edit button.
+You can easily select your desired template by either clicking on the thumbnail or clicking the edit button.
 
 We have a large collection of professional looking templates for all styles. Simply click on our Newsletter Gallery
-and choose the template that best fits you.
+and choose the template that's most appealing to you.
 
 
 <iframe src="https://player.vimeo.com/video/174627397" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
@@ -23,14 +23,14 @@ and choose the template that best fits you.
 
 ## Basic Structure
 
-Watch a short video to learn a basic editor structure.
+Watch this short video to learn a basic editor structure:
 
 <iframe src="https://player.vimeo.com/video/174626161" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ## Rows & Columns
 
 When creating a newsletter from scratch you’ll see a highlighted row from which you can choose the number of columns
-in your row as well as the type of content for each block:
+in your row, as well as the type of content for each block:
 
 * [Text](setting_content_text)
 * Image
@@ -45,7 +45,7 @@ in your row as well as the type of content for each block:
 
 ## Adding a Row
 
-You can add another row by either clicking the **+** in the "Row Editor" or by clicking "Add new row" button in the "Row Properties" panel on the left. 
+You can add another row by either clicking the **+** in the "Row Editor" or by clicking the "Add new row" button in the "Row Properties" panel on the left. 
 From the "Row Properties" panel, new rows will be added to the top of the newsletter. 
 From the "Row Menu" they will be immediately added above the current row.
 
@@ -53,10 +53,11 @@ From the "Row Menu" they will be immediately added above the current row.
 
 ![](images/Selection_454.png)
 
-Upon entering the editor you’ll find a single row highlighted with a "Set Content Type" button which essentially forces you to 
-choose from the content options on the left.
+Upon entering the editor you’ll find a single row highlighted with a "Set Content Type" button. Clicking this button essentially forces you to choose from the content options on the left.
 
 ## Content Structure
+
+Watch this short video for an overview of content structure:
 
 <iframe src="https://player.vimeo.com/video/174626725" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
@@ -75,12 +76,14 @@ spacing within the block.
 
 ## Moving Content
 
+Watch this short video for a better understanding of how to move content within newsletters:
+
 <iframe src="https://player.vimeo.com/video/174627145" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ## Undo / Redo
 
 No matter how far you proceed into a single session, our _Undo_ button will take you all the way back to the beginning of that session.
-This is great feature is unique to the ExpressPigeon editor.
+This is a great feature that is unique to the ExpressPigeon editor.
 
 
 ## Adding Links
@@ -99,11 +102,13 @@ To set a link to an email address simply type “mailto:” followed immediately
 
 ## Adding Images
 
+Watch this short video for a better understanding of how to add images:
+
 <iframe src="https://player.vimeo.com/video/174627797" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ### How to Add Images
 
-In any content block choose Image for content type and your image gallery will open.
+In any content block choose Image as the content type and your image gallery will open.
 Simply select the image you want to insert into the block.
 
 ### Image Gallery
