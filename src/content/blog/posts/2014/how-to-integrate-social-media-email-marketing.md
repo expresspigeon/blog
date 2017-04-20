@@ -55,7 +55,7 @@ Tweet](http://clicktotweet.com/). See how Jeff Goins does it here:
 ![](/blog/images/2014/Jeff_Goins_Email.png)
 
 You can also add sharing links for specific content within your email.
-For example, I wrote an article on [33 email marketing statistics](/blog/images/2014/01/06/email-marketing-statistics-2014/)
+For example, I wrote an article on [33 email marketing statistics](/blog/2014/01/06/email-marketing-statistics-2014/)
 earlier this year. Within an ExpressPigeon email, I can add statistics
 with Tweet links like these:
 

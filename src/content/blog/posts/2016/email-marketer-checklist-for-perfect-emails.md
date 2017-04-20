@@ -60,6 +60,6 @@ has gathered together just to hear you speak.
 
 
 Contact [ExpressPigeon](https://expresspigeon.com/support) to learn more about drafting the perfect marketing email
-or for more information about our [custom solutions](https://expresspigeontest.com/solutions).
+or for more information about our [custom solutions](https://expresspigeon.com/solutions).
 
 

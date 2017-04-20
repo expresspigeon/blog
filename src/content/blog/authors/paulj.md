@@ -1,2 +1,1 @@
-Paul Gavin Jorgensen is the Marketing Director at [ExpressPigeon](http://expresspigeon.com). You can find him on [Twitter](https://twitter.com/pgjorg)
-and [Google+](https://plus.google.com/u/0/113221459500319088976/posts).
+Paul Gavin Jorgensen is the Marketing Director at [ExpressPigeon](http://expresspigeon.com). You can find him on [Google+](https://plus.google.com/u/0/113221459500319088976/posts).

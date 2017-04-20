@@ -70,5 +70,5 @@ any of the great benefits you have to offer.
 > "How to Turn any Night into a Romantic Evening with Your Sweetheart"
 
 Need help launching your email marketing campaign? 
-Get started with a [free account](https://expresspigeontest.com/access/registration) with us today! 
+Get started with a [free account](https://expresspigeon.com/access/registration) with us today! 
 Don't forget to check out our blog for more email marketing news and tips.

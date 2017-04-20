@@ -117,7 +117,7 @@ don&apos;t sleep on abandoned cart emails.*
 **Takeaway**: *The key to higher opens and click-through rates is
 consistency (daily or weekly), urgency (alert, news, bulletin), and
 special offerings (sale, new, video). Don&apos;t get sucked into using crazy
-subject lines unless they deliver as promised. Run [A/B Split Tests](blog.expresspigeon.com/2013/03/28/apples-vs-oranges-nah-email-ab-split-test/)
+subject lines unless they deliver as promised. Run [A/B Split Tests](/blog/2013/03/28/apples-vs-oranges-nah-email-ab-split-test/)
 for subject lines when sending emails (easy with us).*
 
 ##LIST & DELIVERABILITY

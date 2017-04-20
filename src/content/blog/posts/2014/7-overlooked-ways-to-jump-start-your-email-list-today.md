@@ -57,7 +57,7 @@ family can be difficult, so try this:
     should suddenly change your approach or tone.
 3.  **Make the ask.** Make it easy for your friends and family to help
     you. One of the best ways to do this is to share a link to your
-    [subscription](${blog_base_url}/2013/11/18/custom-email-subscription-form/)
+    [subscription](/blog/2013/11/18/custom-email-subscription-form/)
     in your email page and provide a clear call-to-action. Do you want
     them to share the link with one friend they know would love your
     emails? Or simply share the link on their Facebook wall? It's up to
@@ -69,13 +69,13 @@ building, you should have no problem turning to friends and family for
 their help. This is a very overlooked way to build a list. **Tactic \#2:
 Send a reengagement email to your dated opt-in list.** Are you sitting
 on an [opt-in email
-list](${blog_base_url}/2014/02/24/16-opt-in-tricks-to-grow-your-email-list/)
+list](/blog/2014/02/24/16-opt-in-tricks-to-grow-your-email-list/)
 that you built years ago? Send a reengagement email to give subscribers
 the option to re-subscribe to your emails. This is a great way to build
 your list and ensure that subscribers are engaged and interested in your
 campaigns. Remember, this is for opt-in lists only - [buying email lists
 is
-illegal](${blog_base_url}/2014/02/12/11-reasons-to-never-purchase-an-email-list/).
+illegal](/blog/2014/02/12/11-reasons-to-never-purchase-an-email-list/).
 **Tactic \#3: Send one-to-one emails to old contacts.** Over the years,
 I'm sure you've emailed hundreds, if not thousands, of people that are
 interested in the topics you cover in your email campaigns. Even if you
@@ -121,7 +121,7 @@ subscription and attract new subscribers:
     announcement on your personal profile and company page to let people
     know about your emails. Let people know [why they should sign up for
     your
-    emails.](${blog_base_url}/2014/04/21/10-powerful-opt-in-incentives-that-will-get-you-more-email-subscribers/)
+    emails.](/blog/2014/04/21/10-powerful-opt-in-incentives-that-will-get-you-more-email-subscribers/)
 
 LinkedIn promotion is great for first-time subscription promotion and
 for a more developed email program. As you continue to develop your
@@ -134,7 +134,7 @@ to your subscription. The whole team will benefit from better company
 performance so promoting your email list should be a win-win for
 everyone, but don't force the issue.
 
-![](${blog_base_url}/images/2014/office2.jpg)
+![](/blog/images/2014/office2.jpg)
 
 If your team supports your business and its direction, they will likely
 have no problem promoting your email list. Consider using some tips from
@@ -161,7 +161,7 @@ line to your email signature encouraging people to sign up for your
 email list and include a link to your subscription page. Every email you
 send can help you get the word out!
 
-![](${blog_base_url}/images/2014/paulsignatureblur.png)
+![](/blog/images/2014/paulsignatureblur.png)
 
 **Conclusion** Building an email list takes time but when you're trying
 to get your first 500 subscribers or inject new life into your email

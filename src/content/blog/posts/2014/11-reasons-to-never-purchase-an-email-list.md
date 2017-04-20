@@ -227,10 +227,10 @@ There are a few steps to follow to build your opt-in list:
     database where emails are collected when new people sign up for your
     email subscription.
 3.  [**Create an email subscription
-    form.**](${blog_base_url}/2013/11/18/custom-email-subscription-form/)
+    form.**](/blog/2013/11/18/custom-email-subscription-form/)
     This process takes minutes on ExpressPigeon, and makes it possible
     for people to sign up for your emails.
-4.  **[Add signup forms to your website](${blog_base_url}/2013/11/19/add-expresspigeon-subscription-form-to-wordpress-in-minutes/)
+4.  **[Add signup forms to your website](/blog/2013/11/19/add-expresspigeon-subscription-form-to-wordpress-in-minutes/)
     and social media pages.** Adding signup forms to your website is
     easy with ExpressPigeon, especially for Wordpress users. We also
     offer a way to add a signup form to your Facebook page. These forms
@@ -243,7 +243,7 @@ There are a few steps to follow to build your opt-in list:
     special deal for joining.
 
 Building an email list of engaged subscribers takes time and work but
-with an [ROI of over 4300%](${blog_base_url}/2014/01/06/email-marketing-statistics-2014/),
+with an [ROI of over 4300%](/blog/2014/01/06/email-marketing-statistics-2014/),
 it's totally worth it. If you're looking for more ideas on how to grow
 your list, stay tuned for a mammoth post on growing your list. Happy
 marketing! :)

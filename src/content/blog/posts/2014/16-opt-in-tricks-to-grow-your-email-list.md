@@ -46,7 +46,7 @@ newsletter:
 
 ## Trick #2: Add a Hello Bar to the top of your website.
 
-[Hello Bar](%20http://hellobar.com/) is a simple bar that runs across the top
+[Hello Bar](http://hellobar.com/) is a simple bar that runs across the top
 of your website. Within the bar, you can add a custom message and
 encourage email signups or direct visitors to a landing page where you
 can capture emails later on. See how B2B marketing expert [Diana
