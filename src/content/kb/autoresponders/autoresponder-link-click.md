@@ -1,4 +1,4 @@
-# Autoresponder click trigger
+# Autoresponder Click Trigger
 
 Autoresponders trigger when a customer clicks on a link from your campaign. Use them to target your customers with even more precise marketing based on their interests.
 
