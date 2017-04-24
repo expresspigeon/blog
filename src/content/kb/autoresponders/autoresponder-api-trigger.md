@@ -1,10 +1,10 @@
-# Autoresponder API trigger 
+# Autoresponder API Trigger 
 
 You can use our [API to trigger autoresponders](/kb/autoresponders-api) for extremely precise delivery based on recipients' interests.
 
 ## Configuration
 
-Navigate to the Autoresponders page and click 'Create new autoresponder' button, provide a name
+Navigate to the Autoresponders page and click the 'Create new autoresponder' button, provide a name
 and select an 'API trigger'.  
 
 ![](images/autoresponders/responder_7.png)
