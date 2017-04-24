@@ -1,8 +1,8 @@
 # Routing of Transactional Messages
 
-We provide an easy three step process to let you prepare sending production messages. These are:
+We provide an easy three step process to let you prepare for sending production messages. These are:
 
-* Sending to blackhole
+* Sending to blackhole 
 * Sending to a test email address
 * Sending to a real email address
 
@@ -13,7 +13,7 @@ the message will not actually be sent. Use this feature to learn now to integrat
 but not exactly send them.
 
 
-## Sending to a sandbox address
+## Sending to a Sandbox Address
 
 The next step after blackhole, is to start sending real messages. Each API call requires using the Authentication Key,
 but if you use a Sandbox [Authentication Key](security-and-authentication), the messages will be delivered to
@@ -24,7 +24,7 @@ navigate to the [Integrations](https://expresspigeon.com/settings/integrations) 
 
 ![](images/sandbox-key.png)
 
-## Sending to actual addresses
+## Sending to Actual Addresses
 
-When you are comfortable sendng to Sandbox Destination email, just replace the Sandbox Authentication Key 
+When you are comfortable sendng to the Sandbox Destination email, just replace the Sandbox Authentication Key 
 for your **Production Authentication Key**, and messages will be delivered to your contacts!
