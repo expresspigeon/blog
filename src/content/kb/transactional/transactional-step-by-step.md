@@ -1,6 +1,6 @@
-# Send a message - step-by-step
+# Sending a Message - Step-by-Step
 
-Steps for creating and sending a transactional from our platform are: 
+Steps for creating and sending a transactional message from our platform are: 
 
 1. Create a template using our editor
 2. Get authentication key
@@ -8,7 +8,7 @@ Steps for creating and sending a transactional from our platform are:
 
 The steps 1 and 2 will only need to be done once! Follow to instructionss below.
 
-## Step 1: Create a template
+## Step 1: Create a Template
 
 First, use our editor to [create a template](creating-and-editing-newsletter). 
 Simply type a dynamic merge field (placeholder) into a template in this format: 
@@ -56,7 +56,7 @@ curl -X POST -H "X-auth-key: XXXXX"
 where: 
 
 * XXXXX is your Production Authentication Key
-* 123 is an ID of your template (replace for real value)
+* 123 is an ID of your template (replace with real value)
 
 .. and the rest of the values should be obvious!
 
