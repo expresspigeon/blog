@@ -1,4 +1,4 @@
-# Webhooks for transactional events
+# Webhooks for Transactional Events
 
 While you can pull a report for a [single message](transactional-reporting-for-single-message) 
 or even [multiple messages](transactional-reporting-for-multiple-messages), this takes polling our API 
