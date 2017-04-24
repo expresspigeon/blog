@@ -1,4 +1,4 @@
-# Autoresponder facebook subscription trigger
+# Autoresponder Facebook Subscription Trigger
 
 Autoresponders will initiate when an individual subscribes using a [Facebook subscription](/kb/facebook-subscriptions) form. 
 
