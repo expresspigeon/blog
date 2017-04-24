@@ -128,7 +128,7 @@ response = api.messages.send_message(template_id=123,
 
 </div>
 
-Code above also shows that it is possible to inject HTML chunks into specific placeholders inside your email template.
+ The code above also shows that it is possible to inject HTML chunks into specific placeholders inside your email template.
 
 > NOTE: It is important to use only single quotes in injected HTML
 
@@ -143,6 +143,6 @@ Code above also shows that it is possible to inject HTML chunks into specific pl
 }
 ~~~~
 
-In a call above, the `id` represents an ID of a message that was sent.
+In the call above, the `id` represents an ID of a message that was sent.
 You can use this value in order to get a [report on the status of this message](transactional-reporting-for-single-message).
 
