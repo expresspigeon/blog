@@ -1,14 +1,14 @@
 # Segments
 
 
-Our Segments are a st of rules defined by oyu for selecting contacts from your lists. When a segment is executed it will select and add contacts from a list and will add them to a new or existing list. 
+Our Segments are a set of rules defined by you for selecting contacts from your lists. When a segment is executed it will select and add contacts from a list and will add them to a new or existing list. 
 
-Please, see below that you can combine your contact properties into OR and AND blocks. We have no limit for number of conditions.  
+Please, see below that you can combine your contact properties into OR and AND blocks. We have no limit on number of conditions.  
 
 ![](images/contacts/Selection_884.png)
  
 
-## Creation of segments
+## Creation of Segments
 
 One way to view and create segments for a list from the All Lists page:
 
@@ -18,17 +18,17 @@ A second navigation method is from a List view itself:
 
 ![](images/contacts/Selection_886.png)
 
-## Creation of a new segment
+## Creation of a New Segment
 
-To create a new segment, navigate to a Segments page for a list.
-If you don't have any configured segments for this list, you will see a form for creating new segment:
+To create a new segment, navigate to the Segments page for a list.
+If you don't have any configured segments for this list, you will see a form for creating a new segment:
 
 ![](images/contacts/segment_1.png)
 
 
-## Editing rules
+## Editing Rules
 
-Once you created a segment, you can define all rules you want to extract people from this list.  
+Once you have created a segment, you can define the rules for extracting people from this list.  
 
 ![](images/contacts/segment_3.png) 
 
@@ -47,8 +47,8 @@ The following conditions are available for each field:
 * contains
 * does not contain
 * starts with
-* ends with
 * does not start with
+* ends with
 * does not end with
 
 For fields with type *date*, you can see:
@@ -60,12 +60,12 @@ For fields with type *date*, you can see:
 Also you can use **or** operator within your Rule Set. Additionally, you create multiple Rule Sets and 
  combine them into a more powerful query. 
 
-After you complete with rules, click 'Save' button. 
+After you've completed your rules, click the 'Save' button. 
   
 > Our segmentation system is like a powerful SQL tool without having to write the actual SQL. 
 
 
-## Executing a segment 
+## Executing a Segment 
 
 You have two options for executing a segment: 
 
