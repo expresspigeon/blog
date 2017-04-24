@@ -16,7 +16,7 @@ Your Suppress List may contain the following categories of contacts:
 > We strongly recommend uploading your current suppressed contacts into your Suppressed List during migration to our system
 in order to avoid re-sending of unwanted messages. 
 
-## Getting off 
+## Removing Contacts from Supress List
 
 As an account holder you have the power to move contacts freely across all lists except a Suppress List. 
 If a contact has a desire to be moved from a Suppress List back to an active list, they will have to subscribe again 
