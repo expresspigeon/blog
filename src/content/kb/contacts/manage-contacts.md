@@ -1,6 +1,6 @@
 # Manage your Contacts
 
-## Add Contacts to the list
+## Adding Contacts to a List
 
 Open any contact list and click the 'Add contacts' button:
 
@@ -12,7 +12,7 @@ We provide three ways of adding contacts to the list:
 * [Type manually](/kb/manage-contacts#type-manually)
 * [Spreadsheet copy/paste](/kb/manage-contacts#spreadsheet-copypaste)
 
-## Upload CSV file
+## Upload a CSV File
 
 Upload your contacts as a comma separated files (csv). We provide an example of CSV file that you can download and use:
 
@@ -33,14 +33,14 @@ After you have prepared your CSV file with contacts, just drag'n'drop it or use 
 After our system process this file, you will get a notification sent to your email address with details about processed and imported contacts.
 
 
-## Type manually
+## Type Manually
 
 Here you can simply type in contact details such as 'Email', 'First Name' and 'Last name'. 
 You will be able to update any other properties of these contacts later. 
 
 ![](images/contacts/add_contacts_4.png)
 
-## Spreadsheet copy/paste 
+## Spreadsheet Copy/Paste 
 
 This feature works exactly the same as [Upload CSV file](/kb/manage-contacts#upload-csv-file) but instead of uploading 
  a CSV file, you would copy/paste contacts directly from your spreadsheet. The same rules for headers apply.
@@ -50,7 +50,7 @@ This feature works exactly the same as [Upload CSV file](/kb/manage-contacts#upl
 ![](images/contacts/add_contacts_5.png)
 
 
-## Edit Contacts
+## Editing Contacts
 
 When you navigate to a specific contact, you will have access to multiple tabs on the control panel:
 
@@ -69,7 +69,7 @@ The 'Custom fields'  can be created and managed on the [Custom fields](https://e
 
 > Use Custom fields for deeper personalization.
 
-## Contact lists
+## Contact Lists
 
 On our system a contact can be present on more than one list. You can navigate to a Contact profile page to see all the 
 lists a specific contact belongs to.  
@@ -83,14 +83,14 @@ Just use the 'Add to another list' button and select a target list you want this
 
 ![](images/contacts/add_contacts_8.png)
 
-## Contact campaigns
+## Contact Campaigns
 
 The Campaigns tab on a COntact profile page shows how this contact reacted to the campaigns he/she received. 
 You can see a timestamp, campaign name, and what exactly that contact did (opened, clicked and etc.). 
 
 ![](images/contacts/add_contacts_9.png)
 
-## Contact subscriptions
+## Contact Subscriptions
 
 This Subscriptions tab shows how this person was added to the system, to which list, how and when he/she was subscribed 
 or unsubscribed. 
