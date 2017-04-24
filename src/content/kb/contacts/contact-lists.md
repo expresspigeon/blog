@@ -59,7 +59,7 @@ An agency that manages multiple lists on behalf of their customers usually use t
 
 > Please, note that list properties are defaulted to your account, unless you update them. 
 
-## Search for contacts or lists 
+## Search for Contacts or Lists 
 
 In order to search for lists (by name) or contacts (by email), navigate to the [Contacts](https://expresspigeon.com/lists) 
 page and click on the Search widget: 
@@ -67,7 +67,7 @@ page and click on the Search widget:
 
 ![](images/contacts/lists_search_1.png)
 
-You can select  if you wantto search for a Contact or for a List:
+You can select if you want to search all Contacts or a contacts on a specific list:
 
 ![](images/contacts/lists_search_2.png)
 
