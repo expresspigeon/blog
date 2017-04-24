@@ -1,4 +1,4 @@
-# Report for a single transactional message
+# Report for a Single Transactional Message
 
 > GET https://api.expresspigeon.com/messages/{id}
 
