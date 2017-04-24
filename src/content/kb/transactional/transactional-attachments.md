@@ -1,8 +1,8 @@
-# Send a message with attachment
+# Sending a Message with an Attachment
 
 > POST https://api.expresspigeon.com/messages
 
-## Request parameters
+## Request Parameters
 
 Request parameters are the same as when sending a [single message](#send-a-single-transactional-email) without attachments.
 
@@ -161,7 +161,7 @@ response = api.messages.send_message_attachment(template_id=123, attachments=["p
 
 </div>
 
-Code above shows how to include attachments. The paths to files can be absolute, or relative (as in this example).
+The code above shows how to include attachments. The paths to files can be absolute, or relative (as in this example).
 
 ## Example Response
 
@@ -174,4 +174,4 @@ Code above shows how to include attachments. The paths to files can be absolute,
 }
 ~~~~
 
-In a call above, the `id` represents an ID of a message that was sent. You can use this value in order to get a report on status of this message. Please, see below on how to retrieve such a report.
+In the call above, the `id` represents an ID of a message that was sent. You can use this value in order to get a report on the status of this message. Please, see below on how to retrieve such a report.
