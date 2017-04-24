@@ -144,5 +144,5 @@ Code above also shows that it is possible to inject HTML chunks into specific pl
 ~~~~
 
 In a call above, the `id` represents an ID of a message that was sent.
-You can use this value in order to get a [report on status of this message](transactional-reporting-for-single-message).
+You can use this value in order to get a [report on the status of this message](transactional-reporting-for-single-message).
 
