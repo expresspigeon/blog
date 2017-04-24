@@ -4,12 +4,12 @@ Autoresponders trigger when a customer clicks on a link from your campaign. Use 
 
 ## Configuration 
 
-Navigate to the Autoresponders page and click 'Create new autoresponder' button, provide a name
+Navigate to the Autoresponders page and click the 'Create new autoresponder' button, provide a name
 and select a 'Link click' as a trigger.  
 
 ![](images/autoresponders/responder_1.png)
 
-After this basic information is entered, you will be able to configure autoresponders' details:
+After this basic information is entered, you will be able to configure the autoresponders' details:
 
 ![](images/autoresponders/responder_2.png)
 
