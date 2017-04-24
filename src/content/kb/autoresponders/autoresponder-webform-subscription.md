@@ -1,4 +1,4 @@
-# Autoresponder webform subscription triggers
+# Autoresponder Webform Subscription Triggers
 
 Autoresponders triggered when a customer subscribes using a [subscription webform](/kb/regular-web-forms). 
 
@@ -10,7 +10,7 @@ least one [subscription webform](/kb/regular-web-forms) created.
 
 ![](images/autoresponders/responder_3.png)
 
-After this basic information is entered, you will be able to configure autoresponders' details:
+After this basic information is entered, you will be able to configure the autoresponders' details:
 
 ![](images/autoresponders/responder_4.png)
 
