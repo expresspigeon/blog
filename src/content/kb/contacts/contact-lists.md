@@ -1,9 +1,9 @@
 # Contact Lists
 
-## Create Contact List
+## Creating a Contact List
 
 Before you can send your first Campaign, you will need to create a 
-Contact List. In order to do this, please click 'Contacts' option at the top menu and then 
+Contact List. In order to do this, please click the 'Contacts' option at the top menu and then 
 click the 'Create New List' button. You will see the following:
 
 ![](images/contacts/create_contact_list_1.png)
@@ -20,7 +20,7 @@ After you entered all information, click the 'Create new list' button.
 
 You can open the 'Contact List Properties' page in two ways. 
 
-The easiest one is just to click 'Properties' button for a specific list on the 'Contacts' page:
+The first and easiest option is simply to click the 'Properties' button for a specific list on the 'Contacts' page:
 
 ![](images/contacts/list_properties_1.png)
 
