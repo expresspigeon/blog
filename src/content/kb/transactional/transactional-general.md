@@ -6,7 +6,7 @@ need basis and contain highly personalized content.
 
 Examples of triggered emails can be one-off messages, such as password reset, statement generated, etc.
 
-## Built as REST API
+## Built as a REST API
 
 We offer a simple [REST](https://en.wikipedia.org/wiki/Representational_state_transfer)- based API
 for [sending messages](transactional-send) and for [getting reports](transactional-reporting-for-single-message).
@@ -38,7 +38,7 @@ Our responsibilities are:
 * Compatibility of your messages with various email clients
 * Messages will be automatically responsive
 * Inlining CSS
-* Hosting images (unlimited hosting)
+* Unlimited image hosting
 * Generation of valid HTML
 * Merging your dynamic values into templates
 * Tracking links
@@ -77,12 +77,12 @@ Just submit this JSON document to trigger sending a message.
 ## Personalization
 
 Sending Transactional emails requires that templates for these messages are created prior to sending.
-Such template can have merge fields, in a format `${field_name}`. This feature allows a high degree of flexibility
+Such templates can have merge fields, in a format `${field_name}`. This feature allows a high degree of flexibility
 for message customization.
 
 > The template to be sent can have a number of merge fields, with data for merging dynamically provided during an API call.
 
 ## First steps
 
-You can start from scratch and start your first message in a couple of minutes. Follow to
+You can start from scratch and start your first message in a couple of minutes. Follow this
 [step by step tutorial](transactional-step-by-step) to see how.
