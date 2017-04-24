@@ -1,4 +1,4 @@
-# Report for multiple messages
+# Report for Multiple Messages
 
 > GET https://api.expresspigeon.com/messages/{period}
 
@@ -121,7 +121,7 @@ response = api.messages.reports()
 ~~~~
 
 
-## Getting multiple pages
+## Getting Multiple Pages
 
 If you ran a report and got exactly 1000 documents, there is a chance that there is more for the date range.
 You will need to write a loop that uses the `from_id` parameter to get the next window of documents.
