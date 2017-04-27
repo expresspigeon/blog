@@ -1,6 +1,6 @@
 # Templates
 
-## Copy template
+## Copy Template
 
 > POST https://api.expresspigeon.com/templates/{id}/copy
 
@@ -12,7 +12,7 @@ This feature allow developers to create a copy of an email template and at the s
 
 Steps 2 and 3 can be done remotely with the API, without having to log into the website. Combined with ability to create new lists on the fly, and upload contacts, it provides an opportunity to build powerful marketing solutions.
 
-**Request parameters**
+**Request Parameters**
 
 Parameter          Required               Description
 -------------      --------------------   --------------------------------
@@ -123,7 +123,7 @@ response = api.templates.copy(123, "My new template", merge_fields={
 The `template_id` in the response document above is an ID of a newly created newsletter template which already contains all data merged.
 
 
-## Delete template
+## Delete Template
 
 > DELETE https://api.expresspigeon.com/templates/{id}
 
