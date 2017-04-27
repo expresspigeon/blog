@@ -29,7 +29,7 @@ Here are couple examples:
 * Create/Update Contact - Add a new contact to a list, or update an existing contact.
 * Send Transactional Email - Sends an e-mail using an existing template.
 
-## Create first Zap
+## Creating Your First Zap
 
 To get started with ExpressPigeon on [Zapier](https://zapier.com), click the 'Make A Zap!' button.
 
@@ -57,7 +57,7 @@ After you've entered the API key and applied it, you should see the 'ExpressPige
 
 Click 'Test' button and if you get 'Success!' you're all set and can proceed with configuring your zap.
 
-## Zap templates
+## Zap Templates
 
 A Zap template is a pre-defined and curated example of an automated workflow. ExpressPigeon is trying to save you time by creating Zaps with pre-mapped fields, so all you need to do is simply connect two apps. 
 
@@ -68,7 +68,7 @@ There two places where you can find our templates:
 * ExpressPigeon's [Zapbook](https://zapier.com/zapbook/expresspigeon/) Page
 * ExpressPigeon's [Integrations](https://expresspigeon.com/integrations) Page
 
-### Example templates
+### Example Templates
 
 Below you can find example of how you can easily configure Zap between Salesforce and ExpressPigeon.
 
