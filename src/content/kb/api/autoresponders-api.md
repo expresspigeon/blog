@@ -1,6 +1,6 @@
 # Autoresponders
 
-## Get all autoresponders
+## Get All Autoresponders
 
 > GET https://api.expresspigeon.com/auto_responders
 
@@ -87,13 +87,13 @@ auto_responders = api.auto_responders.find_all()
 ~~~~
 
 
-## Start for a contact
+## Start for a Contact
 
 > POST https://api.expresspigeon.com/auto_responders/{auto_responder_id}/start
 
 This call starts an autoresponder for a contact.
 
-**Request parameters**
+**Request Parameters**
 
 Parameter            Required               Description
 -------------        --------------------   --------------------------------
@@ -187,13 +187,13 @@ response = api.auto_responders.start(1, "bob@example.net")
 ~~~~
 
 
-## Stop for a contact
+## Stop for a Contact
 
 > POST https://api.expresspigeon.com/auto_responders/{auto_responder_id}/stop
 
 This call stops an autoresponder for a contact.
 
-**Request parameters**
+**Request Parameters**
 
 Parameter            Required               Description
 -------------        --------------------   --------------------------------
@@ -287,7 +287,7 @@ response = api.auto_responders.stop(1, "bob@example.net")
 ~~~~
 
 
-## Report for a single autoresponder
+## Report for a Single Autoresponder
 
 > GET https://api.expresspigeon.com/auto_responders/{auto_responder_id}
 
@@ -381,7 +381,7 @@ response = api.auto_responders.report(1)
 ~~~~
 
 
-## Get bounced contacts for autoresponder part
+## Get Bounced Contacts for Autoresponder Part
 
 > GET https://api.expresspigeon.com/auto_responders/ {auto_responder_id}/{auto_responder_part_id}/bounced
 
@@ -466,13 +466,13 @@ response = api.auto_responders.bounced(1, 2)
 ~~~~
 
 
-## Get unsubscribed contacts for autoresponder part
+## Get Unsubscribed Contacts for Autoresponder Part
 
 > GET https://api.expresspigeon.com/auto_responders/ {auto_responder_id}/{auto_responder_part_id}/unsubscribed
 
 Returns an array of object(s) with email and id of unsubscribed contacts associate with this autoresponder part.
 
-**Request parameters**
+**Request Parameters**
 
 Parameter                Required               Description
 -------------            --------------------   --------------------------------
@@ -552,13 +552,13 @@ response = api.auto_responders.unsubscribed(1, 2)
 ~~~~
 
 
-## Get spam contacts for autoresponder part
+## Get Spam Contacts for Autoresponder Part
 
 > GET https://api.expresspigeon.com/auto_responders/ {auto_responder_id}/{auto_responder_part_id}/spam
 
 Returns an array of object(s) with email and id of spam contacts associated with this autoresponder part.
 
-**Request parameters**
+**Request Parameters**
 
 Parameter                Required               Description
 -------------            --------------------   --------------------------------
