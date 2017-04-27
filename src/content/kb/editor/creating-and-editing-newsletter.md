@@ -1,4 +1,4 @@
-# Creating and editing newsletters
+# Creating and Editing newsletters
 
 ## Newsletter Options
 
