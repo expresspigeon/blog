@@ -1,10 +1,10 @@
 # Dictionaries
 
-Dictionaries are a capability to store name/value pairs on your account to merge into templates. They remove the need to send the same data over and over to the API.
+Dictionaries add the capability to store name/value pairs on your account to merge into templates. They remove the need to send the same data over and over to the API.
 
 A single dictionary may represent a product with attributes, where each attribute name is some property of a product (name, description, price, URL to image, etc.). In other cases, a dictionary can be a set of internationalized messages, where each dictionary is a collection of messages in different languages (English, French, etc.)
 
-## Create a new dictionary
+## Create a New Dictionary
 
 > https://api.expresspigeon.com/dictionaries
 
@@ -12,7 +12,7 @@ You can create multiple dictionaries in a single API call.
 
 Please, do not forget to set content-type to `application/json`
 
-**Request parameters**
+**Request Parameters**
 
 Parameter         Required               Description
 -------------     --------------------   --------------------------------
@@ -175,14 +175,14 @@ response = api.dictionaries.create([{
 Where 123 and 456 are IDs of created or updated dictionaries.
 
 
-## Listing dictionaries with UI
+## Listing Dictionaries with UI
 
 You can see and edit dictionaries using a browser. First, login into your account, and navigate to [https://expresspigeon.com/dictionaries](https://expresspigeon.com/dictionaries).
 
 Enter * or a dictionary name into the search field and press Enter.
 
 
-## Listing dictionaries
+## Listing Dictionaries
 
 > https://api.expresspigeon.com/dictionaries
 
