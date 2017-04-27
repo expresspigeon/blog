@@ -2,7 +2,7 @@
 
 Campaign API provides the same service as sending email campaigns from the website. A campaign consists of newsletter template, subject, from name, reply to, and a lists of contacts a campaign can be sent to.
 
-## Campaigns creation
+## Campaigns Creation
 
 > POST https://api.expresspigeon.com/campaigns
 
@@ -140,7 +140,7 @@ response = api.campaigns.schedule(list_id=1, template_id=1, name="My first newsl
 ~~~~
 
 
-## Delete a campaign
+## Delete a Campaign
 
 > DELETE https://api.expresspigeon.com/campaigns/{id}
 
@@ -230,7 +230,7 @@ response = api.campaigns.delete(2)
 ~~~~
 
 
-## List campaigns
+## List Campaigns
 
 > GET https://api.expresspigeon.com/campaigns
 
@@ -328,7 +328,7 @@ response = api.campaigns.get_all()
 ~~~~
 
 
-## Report for a single campaign
+## Report for a Single Campaign
 
 > GET https://api.expresspigeon.com/campaigns/{campaign_id}
 
@@ -422,7 +422,7 @@ response = api.campaigns.report(1)
 ~~~~
 
 
-## Get opened events for campaign
+## Get Opened Events for a Campaign
 
 > GET https://api.expresspigeon.com/campaigns/{campaign_id}/opened
 
@@ -520,7 +520,7 @@ response = api.campaigns.opened(2)
 ~~~~
 
 
-## Get clicked events for campaign
+## Get Clicked Events for Campaign
 
 > GET https://api.expresspigeon.com/campaigns/{campaign_id}/clicked
 
@@ -620,7 +620,7 @@ response = api.campaigns.clicked(2)
 ~~~~
 
 
-## Get bounced contacts for campaign
+## Get Bounced Contacts for Campaign
 
 > GET https://api.expresspigeon.com/campaigns/{campaign_id}/bounced
 
@@ -712,7 +712,7 @@ response = api.campaigns.bounced(1)
 ~~~~
 
 
-## Get unsubscribed contacts
+## Get Unsubscribed Contacts
 
 > GET https://api.expresspigeon.com/campaigns/{campaign_id}/unsubscribed
 
@@ -804,7 +804,7 @@ response = api.campaigns.unsubscribed(1)
 ~~~~
 
 
-## Get spam contacts for campaign
+## Get Spam Contacts for Campaign
 
 > GET https://api.expresspigeon.com/campaigns/{campaign_id}/spam
 
