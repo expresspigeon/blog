@@ -4,7 +4,7 @@ Lists are sets of contacts a campaign can be sent to. A list consists of name, f
 
 > NOTE: each list has properties, including physical address. Such address is merged into footers of newsletters when campaigns are sent to a list. It allows to send to different lists of contacts and display different physical addresses at the bottom of newsletters depending which list such email was sent to. This is a useful feature for agencies who manage email marketing campaigns on behalf of their clients.
 
-## Get all lists
+## Get All Lists
 
 > GET https://api.expresspigeon.com/lists
 
@@ -114,13 +114,13 @@ response = api.lists.find_all()
 ~~~~
 
 
-## Create a new list
+## Create a New List
 
 > POST https://api.expresspigeon.com/lists
 
 Creates a new list from given parameters. The request body must be a JSON object representing a list to be created. Please, do not forget to set content-type to `application/json`
 
-**Request parameters**
+**Request Parameters**
 
 Parameter          Required               Description
 -------------      --------------------   --------------------------------
@@ -235,7 +235,7 @@ response = api.lists.create(name="Active customers", from_name="Bob", reply_to="
 > NOTE: The physical address defaulted to the physical address from the account.
 
 
-## Update existing list
+## Update Existing List
 
 > PUT https://api.expresspigeon.com/lists
 
@@ -362,7 +362,7 @@ response = api.lists.update(2, {"name": "Customers list", "from_name": "Bill", "
 ~~~~
 
 
-## Delete a list
+## Delete a List
 
 > DELETE https://api.expresspigeon.com/lists/{id}
 
@@ -451,7 +451,7 @@ response = api.lists.delete(2)
 ~~~~
 
 
-## Download contacts from list
+## Download Contacts from List
 
 > GET https://api.expresspigeon.com/lists/{list_id}/csv
 
@@ -528,7 +528,7 @@ response = api.lists.csv(123)
 ~~~~
 
 
-## Upload contacts into list
+## Upload Contacts into List
 
 > POST https://api.expresspigeon.com/lists/{id}/upload
 
@@ -632,7 +632,7 @@ The example above uses `list_id` in the URL. Please, make a note of it. The `lis
 Processing uploaded lists takes some time, therefore after a successful upload call, you might need to check status of the upload. The `upload_id` should be used for checking the status your upload. Please, see a section below for more information.
 
 
-## Check the status of list upload
+## Check the Status of List Upload
 
 > GET https://api.expresspigeon.com/lists/upload_status/{id}
 
