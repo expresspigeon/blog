@@ -1,6 +1,6 @@
 # General Concepts
 
-ExpressPigeon API uses HTTP requests for ease of integration. Such requests use HTTP methods: GET, POST,
+The ExpressPigeon API uses HTTP requests for ease of integration. Such requests use HTTP methods: GET, POST,
 PUT and DELETE. For GET requests, input values are supplied as standard query string parameters.
 It should be easy to play with these using the address bar in browsers.
 
