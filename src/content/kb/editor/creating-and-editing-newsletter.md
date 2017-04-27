@@ -32,16 +32,16 @@ Watch this short video to learn a basic editor structure:
 When creating a newsletter from scratch you’ll see a highlighted row from which you can choose the number of columns
 in your row, as well as the type of content for each block:
 
-* [Text](setting_content_text)
-* Image
-* [Image/Text](setting_content_as_image_text)
-* [Button](setting_the_content_as_button)
-* [Google Map](adding_google_map)
-* [Video](adding_youtube_video)
-* [Calendar](adding_calendar_widget)
-* [Image grid](adding_social_buttons)
+* [Text](adding-text-blocks)
+* [Image](adding-image)
+* [Image/Text](adding-image-text)
+* [Button](adding-buttons)
+* [Google Map](adding-google-map)
+* [Video](adding-youtube-video)
+* [Calendar](adding-calendar-widget)
+* [Image grid](adding-social-buttons)
 * Divider
-* Eventbrite
+* [Eventbrite](eventbrite)
 
 ## Adding a Row
 

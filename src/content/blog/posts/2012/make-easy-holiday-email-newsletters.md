@@ -88,8 +88,7 @@ promotions**
 The chaos of mornings like Black Friday or the day after Christmas can
 lend to some interesting content to share. Hire a blogger that will be
 willing live blog certain in store events and make sure to capture these
-moments and share in your newsletter.  Need expert blogging services,
-try [ProBlogForce.com](http://problogforce.com).
+moments and share in your newsletter.  
 
 **12. Share company and/or employee traditions through your newsletter**
 

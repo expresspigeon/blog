@@ -65,7 +65,7 @@ during editing. You can provide different addresses for each list. Editing the a
 
 The unsubscibe link in the footer can not be removed as it is required to comply with the CAN SPAM Act.
 If you have a *very* good reason to remove it,
-please send us a [support request](https://expresspgieon.com/support).
+please send us a [support request](https://expresspigeon.com/support).
 
 
 ## Location of Unsubscribe Links
@@ -75,7 +75,7 @@ header can be disabled (as shown above), but due to CAN/SPAM  Act the unsubscrib
 ExpressPigeon recommends making unsubscribing as easy as possible by keeping both links present, which will also have a positive impact on deliverability.
 
 If you maintain your own preferences page and really want to remove the ExpressPigeon unsubscribe link from newsletters,
- please submit a request to [Support](https://expresspigoen.com/support).
+ please submit a request to [Support](https://expresspigeon.com/support).
 
 
 ## Row Menu
