@@ -4,7 +4,7 @@ Each account has a Suppress List which contains the following categories of cont
 
 ![](images/contacts/Selection_888.png)
 
-## Suppressed categories
+## Suppressed Categories
  
 Your Suppress List may contain the following categories of contacts: 
  
