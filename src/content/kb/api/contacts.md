@@ -2,7 +2,7 @@
 
 Contacts end point allows you to create, read, update and delete contacts on your lists. A contact consists of required email and various standard and custom fields.
 
-## Read a single contact by email
+## Read a Single Contact by Email
 
 > GET https://api.expresspigeon.com/contacts
 
@@ -98,7 +98,7 @@ response = api.contacts.find_by_email("bob@example.net")
 ~~~~
 
 
-## Create or update contacts
+## Create or Update Contacts
 
 > POST https://api.expresspigeon.com/contacts
 
@@ -232,7 +232,7 @@ response = api.contacts.upsert(11, [{"email": "john@doe.net", "first_name": "Joh
 List of created/updated contact emails is returned for your convenience. If there is an issue with a contact (contact is suppressed, bad formatting. etc.), no changes are made to entire set of contacts and the call returns a parameter `failed_contact_num` which indicates the position of problem contact in the submitted document.
 
 
-## Delete a single contact
+## Delete a Single Contact
 
 > DELETE https://api.expresspigeon.com/contacts
 
@@ -323,7 +323,7 @@ response = api.contacts.delete("bob@example.net")
 ~~~~
 
 
-## Move contacts between lists
+## Move Contacts Between Lists
 
 > POST https://api.expresspigeon.com/contacts/move
 
