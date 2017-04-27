@@ -5,13 +5,13 @@ When a visitor clicks this button on your site, we will pull their email address
  it is that simple! They do not have to even type their email address.  
 
 
-### Building a Facebook button
+### Building a Facebook Button
 
 Use the "Subscriptions" option from the main menu.
 
 ![](images/webforms/webforms_1.png)
 
-Select "Facebook Subscribe Button" and give it a name . 
+Select the "Facebook Subscribe Button" and give it a name . 
 Select the target list(s) that you want this button to send new signups into. Click "Create subscription" button.
 
 ![](images/webforms/fb_webforms_2.png)
@@ -20,7 +20,7 @@ Select the target list(s) that you want this button to send new signups into. Cl
 
 ![](images/webforms/webforms_3.png)
 
-### Configure FB subscription
+### Configure FB Subscription
 
 Here you can configure parameters such as:
 
@@ -30,7 +30,7 @@ Here you can configure parameters such as:
 
 ![](images/webforms/fb_webforms_3.png)
 
-## Deploy to your site
+## Deploy to Your Site
 
  
 Simply copy/paste  the IFrame code into your site. 
