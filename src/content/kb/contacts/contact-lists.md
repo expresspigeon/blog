@@ -33,13 +33,13 @@ A second option is to open 'Contacts List' and then click 'Properties' on the le
 
 Every Contacts List has **General** and **Physical address** properties.
 
-### General properties
+### General Properties
 
 * **List Name** - Internal name of your list. It is not exposed to your subscribers. 
 * **From** - Name of sender (your or your organization). Subscribers will see emails as coming from this name.
 * **Reply To** - Email to reply to. Subscribers will be sending email to this address if they click 'reply to' button.
 
-### Physical Address properties
+### Physical Address Properties
 
 * **Name** - Your name or the name of your organization. 
 * **Address Line 1** - First line of your physical address. 
