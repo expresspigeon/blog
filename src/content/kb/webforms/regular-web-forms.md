@@ -1,10 +1,10 @@
-# Build A Custom Email Subscription Form In Minutes
+# Build a Custom Email Subscription Form in Minutes
 
 A webform or a subscription form is used to collect email addresses of visitors on your site. A good subscription form is essential to growing your email list. 
 
 Building a custom subscription form creates an entry point for users to opt-in to an email newsletter. 
 
-## Building an subscription form
+## Building an Subscription Form
 
 Navigate to "Subscriptions" in the main menu.
 
@@ -19,18 +19,18 @@ Select the lists that you want this form to send new signups to and click "Creat
 
 ![](images/webforms/webforms_3.png)
 
-## General tab
+## General Tab
 
 Control your subscription webform and target lists. A target list is a list where your new signups are added.
 You can select more than one target list. 
 
 ![](images/webforms/webforms_4.png)
 
-## Form builder tab
+## Form Builder Tab
 
 Once you navigate to this page, you already have created a working form!
 
-### Adding banner image 
+### Adding Banner Image 
 
 We recommended adding an image to your subscription form. 
 
@@ -47,7 +47,7 @@ You will immediately see the form preview on the right.
 
 You can update any of available fields directly on the form preview area.
 
-### Add more fields
+### Add More Fields
 
 If you want to collect more information from your subscribers you can easily add standard or 
 [custom fields](/settings/custom_fields) to your subscription form. 
@@ -61,7 +61,7 @@ After adding it, you can drag it up and down to any location.
 ![](/kb/images/webforms/Selection_904.png)
 
 
-### Form adjustments
+### Form Adjustments
 
 You can further customize the form by editing labels in your language: 
 
@@ -77,7 +77,7 @@ In addition, when you hover your mouse over a form, it will light up additional 
 4. **Signup label** - use to change the label on the signup button.
  
 
-## After submit tab
+## After Submit Tab
 
 The "After submit tab" is a place where you can configure  what happens when your subscribers 
  submit a confirmation form. This includes: 
@@ -86,13 +86,13 @@ The "After submit tab" is a place where you can configure  what happens when you
 * Double Opt-in message should you decide to use it 
  
 
-### Form submit feedback
+### Form Submit Feedback
 
 When a subscriber submits a form, they will see a "Thank you" message. You can chose this message
 to be hosted on our site, or on yours. 
 
 
-### Feedback type 
+### Feedback Type 
 
 In order to host it on our site, select a "Message" option and edit the content of this page:  
 
@@ -105,12 +105,12 @@ The other option is to redirect to a custom page on your website. Select a "Redi
 ![](/kb/images/webforms/Selection_926.png)
 
 
-### Confirmation type
+### Confirmation Type
 
 Here you can chose a "Single Opt-in" or a "Double Opt-in". 
 Read more on [Double Opt-in](https://expresspigeon.com/blog/2011/10/15/what-the-heck-is-double-opt-in-and-why-you-should-care/)
 
-### Opt-in confirmation email
+### Opt-in Confirmation Email
 
 If you chose the Double Opt-in confirmation for you form, you will be able to configure a standard message or a custom one 
 based on your newsletter design. 
@@ -139,7 +139,7 @@ instantly.
 > We recommend double opt-ins. 
  
 
-## Confirmation tab
+## Confirmation Tab
 
 This is what is displayed for a subscriber after confirming from a Double Opt-in message. 
 
@@ -147,7 +147,7 @@ Here you again can configure a message hosted on our site, or redirect to yours.
 
 ![](images/webforms/webforms_14.png)
 
-## Deploy a form on your site
+## Deploy a Form on Your Site
 
 There are three ways to deploy a form: 
 
