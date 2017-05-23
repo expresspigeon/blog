@@ -422,6 +422,184 @@ response = api.campaigns.report(1)
 ~~~~
 
 
+## Get All Subscribers for Campaign
+
+> GET https://api.expresspigeon.com/campaigns/{campaign_id}/all_subscribers
+
+Returns an array of object(s) with email and id of all subscribers for a campaign.
+
+**Request parameters**
+
+Parameter          Required               Description
+-------------      --------------------   ----------------------------------------
+campaign_id        Yes                    Campaign id to get all subscribers.
+
+**Example Request**
+
+<div class="tab-content">
+
+<div role="tabpanel" data-language="curl" class="tab-pane active">
+
+~~~~ {.prettyprint .numberLines}
+curl -H "X-auth-key: 00000000-0000-0000-0000-000000000000" \
+'https://api.expresspigeon.com/campaigns/1/all_subscribers'
+~~~~
+
+</div>
+
+<div role="tabpanel" data-language="java" class="tab-pane">
+
+~~~~ {.java .numberLines}
+import org.javalite.http.Http;
+import static org.javalite.common.JsonHelper.toList;
+
+String response = Http.get("https://api.expresspigeon.com/campaigns/1/all_subscribers")
+        .header("X-auth-key", AUTH_KEY)
+        .text();
+List result = toList(response);
+~~~~
+
+</div>
+
+<div role="tabpanel" data-language="php" class="tab-pane">
+
+~~~~ {.php .numberLines}
+$options = array(
+  'http' => array(
+    'method' => 'GET',
+    'header' => "X-auth-key: 00000000-0000-0000-0000-000000000000\r\n"
+    )
+);
+$context = stream_context_create($options);
+$result = file_get_contents('https://api.expresspigeon.com/campaigns/1/all_subscribers', false, $context);
+$response = json_decode($result);
+~~~~
+
+</div>
+
+<div role="tabpanel" data-language="ruby" class="tab-pane">
+
+~~~~ {.ruby .numberLines}
+not yet supported
+~~~~
+
+</div>
+
+<div role="tabpanel" data-language="python" class="tab-pane">
+
+~~~~ {.python .numberLines}
+not yet supported
+~~~~
+
+</div>
+
+</div>
+
+**Example Response**
+
+~~~~ {.js .numberLines}
+[{
+    "id": "1",
+    "email": "bob@example.net",
+    "timestamp": "2013-09-20T11:29:57.000+0000"
+},
+{
+    "id": "2",
+    "email": "tob@example.net",
+    "timestamp": "2013-09-20T11:29:59.000+0000"
+}]
+~~~~
+
+
+## Get Delivered Contacts for Campaign
+
+> GET https://api.expresspigeon.com/campaigns/{campaign_id}/delivered
+
+Returns an array of object(s) with email and id of delivered contacts from a campaign.
+
+**Request parameters**
+
+Parameter          Required               Description
+-------------      --------------------   ----------------------------------------
+campaign_id        Yes                    Campaign id the delivered contacts are found for.
+
+**Example Request**
+
+<div class="tab-content">
+
+<div role="tabpanel" data-language="curl" class="tab-pane active">
+
+~~~~ {.prettyprint .numberLines}
+curl -H "X-auth-key: 00000000-0000-0000-0000-000000000000" \
+'https://api.expresspigeon.com/campaigns/1/delivered'
+~~~~
+
+</div>
+
+<div role="tabpanel" data-language="java" class="tab-pane">
+
+~~~~ {.java .numberLines}
+import org.javalite.http.Http;
+import static org.javalite.common.JsonHelper.toList;
+
+String response = Http.get("https://api.expresspigeon.com/campaigns/1/delivered")
+        .header("X-auth-key", AUTH_KEY)
+        .text();
+List result = toList(response);
+~~~~
+
+</div>
+
+<div role="tabpanel" data-language="php" class="tab-pane">
+
+~~~~ {.php .numberLines}
+$options = array(
+  'http' => array(
+    'method' => 'GET',
+    'header' => "X-auth-key: 00000000-0000-0000-0000-000000000000\r\n"
+    )
+);
+$context = stream_context_create($options);
+$result = file_get_contents('https://api.expresspigeon.com/campaigns/1/delivered', false, $context);
+$response = json_decode($result);
+~~~~
+
+</div>
+
+<div role="tabpanel" data-language="ruby" class="tab-pane">
+
+~~~~ {.ruby .numberLines}
+not yet supported
+~~~~
+
+</div>
+
+<div role="tabpanel" data-language="python" class="tab-pane">
+
+~~~~ {.python .numberLines}
+not yet supported
+~~~~
+
+</div>
+
+</div>
+
+**Example Response**
+
+~~~~ {.js .numberLines}
+[{
+    "id": "1",
+    "email": "bob@example.net",
+    "timestamp": "2013-09-20T11:29:57.000+0000"
+},
+{
+    "id": "2",
+    "email": "tob@example.net",
+    "timestamp": "2013-09-20T11:29:59.000+0000"
+}]
+~~~~
+
+
 ## Get Opened Events for a Campaign
 
 > GET https://api.expresspigeon.com/campaigns/{campaign_id}/opened
@@ -616,6 +794,93 @@ response = api.campaigns.clicked(2)
     "event_type":"clicked",
     "user_agent":"Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36",
     "url":"http://example.net/home"
+}]
+~~~~
+
+
+## Get Non-opens Contacts for Campaign
+
+> GET https://api.expresspigeon.com/campaigns/{campaign_id}/non_opens
+
+Returns an array of object(s) with email and id of bounced contacts from a campaign.
+
+**Request parameters**
+
+Parameter          Required               Description
+-------------      --------------------   ----------------------------------------
+campaign_id        Yes                    Campaign id to get non-opens.
+
+**Example Request**
+
+<div class="tab-content">
+
+<div role="tabpanel" data-language="curl" class="tab-pane active">
+
+~~~~ {.prettyprint .numberLines}
+curl -H "X-auth-key: 00000000-0000-0000-0000-000000000000" \
+'https://api.expresspigeon.com/campaigns/1/non_opens'
+~~~~
+
+</div>
+
+<div role="tabpanel" data-language="java" class="tab-pane">
+
+~~~~ {.java .numberLines}
+import org.javalite.http.Http;
+import static org.javalite.common.JsonHelper.toList;
+
+String response = Http.get("https://api.expresspigeon.com/campaigns/1/non_opens")
+        .header("X-auth-key", AUTH_KEY)
+        .text();
+List result = toList(response);
+~~~~
+
+</div>
+
+<div role="tabpanel" data-language="php" class="tab-pane">
+
+~~~~ {.php .numberLines}
+$options = array(
+  'http' => array(
+    'method' => 'GET',
+    'header' => "X-auth-key: 00000000-0000-0000-0000-000000000000\r\n"
+    )
+);
+$context = stream_context_create($options);
+$result = file_get_contents('https://api.expresspigeon.com/campaigns/1/non_opens', false, $context);
+$response = json_decode($result);
+~~~~
+
+</div>
+
+<div role="tabpanel" data-language="ruby" class="tab-pane">
+
+~~~~ {.ruby .numberLines}
+not yet supported
+~~~~
+
+</div>
+
+<div role="tabpanel" data-language="python" class="tab-pane">
+
+~~~~ {.python .numberLines}
+not yet supported
+~~~~
+
+</div>
+
+</div>
+
+**Example Response**
+
+~~~~ {.js .numberLines}
+[{
+    "id": "1",
+    "email": "bob@example.net"
+},
+{
+    "id": "2",
+    "email": "tob@example.net"
 }]
 ~~~~
 
