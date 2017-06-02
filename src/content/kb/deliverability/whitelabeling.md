@@ -1,6 +1,6 @@
 # IP Whitelabeling 
 
-IP Whitelabeling is a process of tying the sending  domain to a sending IP address.
+IP Whitelabeling is a process of tying a sending  domain to a sending IP address.
 There are three email technology standards that make help ISPs relate sending domains 
 and sending IP addresses: SPF, DKIM and PTR 
  
