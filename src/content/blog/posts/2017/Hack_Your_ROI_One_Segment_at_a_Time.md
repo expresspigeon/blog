@@ -16,7 +16,7 @@ month you just received a shipment of matching gold handbags.
 
 It makes sense to target the individuals who purchased the shoes, as they are likely to want the matching handbag!
  
-Simply creating a segment of shoe buyers and sending them a message focused on the belt is going to drive 
+Simply creating a segment of shoe buyers and sending them a message focused on the bag is going to drive 
 them to buy that handbag! 
 
 ![](/blog/images/2017/gold_shoes.jpg)
