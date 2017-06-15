@@ -969,12 +969,14 @@ response = api.campaigns.bounced(1)
 [{
     "id": "1",
     "email": "bob@example.net",
-    "timestamp": "2013-09-20T11:29:57.000+0000"
+    "timestamp": "2013-09-20T11:29:57.000+0000",
+    "type": "soft"
 },
 {
     "id": "2",
     "email": "tob@example.net",
-    "timestamp": "2013-09-20T11:29:59.000+0000"
+    "timestamp": "2013-09-20T11:29:59.000+0000",
+    "type": "hard"
 }]
 ~~~~
 
