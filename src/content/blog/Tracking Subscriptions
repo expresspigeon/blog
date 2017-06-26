@@ -1,0 +1,12 @@
+# Tracking Newsletter Subscriptions in Google Analytics...
+
+![](images/face.png)
+
+Tracking new subscriptions is a tried and true, tell tale way to monitor the success of your marketing campaigns. 
+If gauging the efficacy of your marketing spend and knowing which strategies are driving the most new subscribers to your list is
+important to you, then it’s absolutely important to set up Google Analytics. The process of setting this up is incredibly simple 
+and the best part is that if done correctly you’re also creating a double opt-in process that will improve the quality of new submissions
+by eliminating [SPAM traps](https://expresspigeon.com/blog/2016/09/29/make-sure-your-emails-are-getting-through).
+
+For starters you’ll need page on your website to thank new subscribers for their submission afterthey opt-in to the list
+[(read how to create a form)](https://expresspigeon.com/blog/2012/08/21/creating-a-customized-opt-in-form-5-easy-steps).
