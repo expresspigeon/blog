@@ -1,4 +1,4 @@
-![](/blog/images/2016/Responsive_Header.png)
+![](/blog/images/2017/gold_shoes.jpg)
 
 According to [DMA](http://www.emailmonday.com/dma-national-client-email-report-2015) 
 "Email marketing has an **ROI of 3800%**" and according to [McKinsey](https://www.campaignmonitor.com/resources/guides/email-marketing-new-rules/),
