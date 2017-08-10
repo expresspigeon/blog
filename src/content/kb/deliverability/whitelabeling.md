@@ -23,7 +23,7 @@ When this happens, different ISPs will display a warning. For instance, Gmail wi
 ![](images/via-message.png)
 
  
-The point of this message is  this: the sending domain is `venturepulse.org`, but the email came from IP address 
+The point of this message is  this: the **sending domain** is `venturepulse.org`, but the email came from IP address 
  associated with domain `cmail.com`. 
 
 If you want to learn more about Gmail VIA, read [Extra info next to sender’s name](https://support.google.com/mail/answer/1311182?hl=en). 
@@ -44,10 +44,42 @@ The SPF article [SPF in plain English](https://expresspigeon.com/blog/2012/01/18
 The PTR is also known as [Reverse DNS Lookup](https://en.wikipedia.org/wiki/Reverse_DNS_lookup). 
 It is a mechanism that allows ISPs to lookup a domain associated with an IP address 
 (as opposed to looking up the IP address for a domain, hence the "reverse" lookup).
+
+Normally other ESPs are offering DKIM and SPF configuration. We provide the PTR configuration on demand. 
+ Let us know on our [Support line](https://expresspigeon.com/support) if you'd like to get a PTR configured for your domain. 
  
-## What we do
+## How to whitelabel our IPs
 
 Our service includes configuration of DKIM, SPF and also PTR for better deliverability. 
-If you are interested in whitelabeling of our IP addresses for your sending domain, let us know 
-on our [Support line](https://expresspigeon.com/support) and we will walk you step by step, 
-ensuring  you are properly setup. 
+
+In order to whitelabel our IPs for your sending domain, please add the following configuration to the DNS records 
+if your sending domain: 
+
+
+ 
+1. Add a TXT Record (SPF Configuration)
+ 
+Add the following to your existing SPF record: `include:spf.epmailer.net`. 
+ 
+The SPF record needs to look like:
+ 
+* Name: `@`
+* Value: `v=spf1 include:spf.epmailer.net ~all`
+
+
+> If you have an existing SPF record, do not add a second one! SPF standard allows only one record. 
+ Adding a second one will break the first one. 
+ 
+2. Add CNAME record:
+ 
+* Name: `k1._domainkey`
+* Value: `dkim.epmailer.net`
+ 
+3. Add TXT record:
+ 
+* Name: `_domainkey`
+* Value: `t=y; o=~;`
+
+4. Request a test  and approval of your new configuration by sending us 
+a support request: [Support line](https://expresspigeon.com/support)  
+ 
