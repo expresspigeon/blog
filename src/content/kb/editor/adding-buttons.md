@@ -12,7 +12,10 @@ There are two ways to add buttons:
 
 When you set the content type as Button, the "Create button" window will open. 
 You can label your button here and set a link as a Call-To-Action. 
- 
+
+> If you'd like for your button to send an email use "mailto:" followed immediately by the email you 
+want to send to.
+
 As an alternative, you can select one of the pre-defined links:
 
 * Unsubscribe (will unsubscribe the contact from the account)
