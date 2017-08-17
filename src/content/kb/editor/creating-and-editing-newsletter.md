@@ -55,7 +55,7 @@ From the "Row Menu" they will be immediately added above the current row.
 
 Upon entering the editor you’ll find a single row highlighted with a "Set Content Type" button. Clicking this button essentially forces you to choose from the content options on the left.
 
-## Content Structure
+## Row Structure
 
 Watch this short video for an overview of content structure:
 
