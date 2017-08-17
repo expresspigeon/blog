@@ -81,7 +81,7 @@ If you maintain your own preferences page and really want to remove the ExpressP
 ## Row Menu
 
 
-When a contnet block is selected (by clicking into it), the Row Menu  will display just above it. With the Row Menu
+When a content block is selected (by clicking into it), the Row Menu  will display just above it. With the Row Menu
 you can:
 
 * Move internal content blocks left and right
