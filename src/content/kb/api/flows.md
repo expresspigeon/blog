@@ -262,3 +262,105 @@ not yet supported
 }          
 ~~~~
 
+## Get flow report
+
+> GET https://api.expresspigeon.com/flows/{flow_id}/report
+
+Get report about all actions executed for this flow.
+
+**Request Parameters**
+
+Parameter            Required               Description
+-------------        --------------------   --------------------------------
+flow_id              Yes                    Flow id for report
+
+**Example Request**
+
+<div class="tab-content">
+
+<div role="tabpanel" data-language="curl" class="tab-pane active">
+
+~~~~ {.prettyprint .numberLines}
+curl -H "X-auth-key: 00000000-0000-0000-0000-000000000000" \
+'https://api.expresspigeon.com/flows/1/report'     
+~~~~
+
+</div>
+
+<div role="tabpanel" data-language="java" class="tab-pane">
+
+~~~~ {.java .numberLines}
+import org.javalite.http.Http;
+import static org.javalite.common.Collections.map;
+import static org.javalite.common.JsonHelper.toJsonString;
+import static org.javalite.common.JsonHelper.toMap;
+
+String response = Http.get("https://api.expresspigeon.com/flows/1/report")
+        .header("X-auth-key", AUTH_KEY)
+        .header("Content-type", "application/json")
+        .text();
+Map<String, Object> result = toMap(response);
+~~~~
+
+</div>
+
+<div role="tabpanel" data-language="php" class="tab-pane">
+
+~~~~ {.php .numberLines}
+$options = array(
+  'http' => array(
+    'method' => 'GET',
+    'header' => "Content-Type: application/json\r\n" .
+                "X-auth-key: 00000000-0000-0000-0000-000000000000\r\n"
+    )
+);
+$context = stream_context_create($options);
+$result = file_get_contents('https://api.expresspigeon.com/flows/1/report', false, $context);
+$response = json_decode($result);
+~~~~
+
+</div>
+
+<div role="tabpanel" data-language="ruby" class="tab-pane">
+
+~~~~ {.ruby .numberLines}
+not yet supported
+~~~~
+
+</div>
+
+<div role="tabpanel" data-language="python" class="tab-pane">
+
+~~~~ {.python .numberLines}
+not yet supported
+~~~~
+
+</div>
+
+</div>
+
+**Example Response**
+
+~~~~ {.js .numberLines}
+[
+    {
+        "id": 123,
+        "type": "MOVE",
+        "email": "bob@example.net",
+        "source": 1,
+        "target": 2
+    },
+    {
+        "id": 123,
+        "type": "COPY",
+        "email": "bob@example.net",
+        "target": 1
+    },
+    {
+        "id": 125,
+        "type": "TRANSACTIONAL",
+        "email": "tony@example.net",
+        "transactional_id": "f4b821b8-c026-4201-b3f4-991ccd8f982b"
+    }
+]
+~~~~
