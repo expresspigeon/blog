@@ -364,3 +364,90 @@ not yet supported
     }
 ]
 ~~~~
+
+## Delete the flow
+
+> DELETE https://api.expresspigeon.com/flows/{flow_id}
+
+This call deletes the flow.
+
+**Request Parameters**
+
+Parameter            Required               Description
+-------------        --------------------   --------------------------------
+flow_id              Yes                    Flow id to be deleted
+
+**Example Request**
+
+<div class="tab-content">
+
+<div role="tabpanel" data-language="curl" class="tab-pane active">
+
+~~~~ {.prettyprint .numberLines}
+curl -X DELETE -H "X-auth-key: 00000000-0000-0000-0000-000000000000" \
+'https://api.expresspigeon.com/flows/1'     
+~~~~
+
+</div>
+
+<div role="tabpanel" data-language="java" class="tab-pane">
+
+~~~~ {.java .numberLines}
+import org.javalite.http.Http;
+import static org.javalite.common.Collections.map;
+import static org.javalite.common.JsonHelper.toJsonString;
+import static org.javalite.common.JsonHelper.toMap;
+
+String response = Http.delete("https://api.expresspigeon.com/flows/1")
+        .header("X-auth-key", AUTH_KEY)
+        .header("Content-type", "application/json")
+        .text();
+Map<String, Object> result = toMap(response);
+~~~~
+
+</div>
+
+<div role="tabpanel" data-language="php" class="tab-pane">
+
+~~~~ {.php .numberLines}
+$options = array(
+  'http' => array(
+    'method' => 'DELETE',
+    'header' => "Content-Type: application/json\r\n" .
+                "X-auth-key: 00000000-0000-0000-0000-000000000000\r\n"
+    )
+);
+$context = stream_context_create($options);
+$result = file_get_contents('https://api.expresspigeon.com/flows/1', false, $context);
+$response = json_decode($result);
+~~~~
+
+</div>
+
+<div role="tabpanel" data-language="ruby" class="tab-pane">
+
+~~~~ {.ruby .numberLines}
+not yet supported
+~~~~
+
+</div>
+
+<div role="tabpanel" data-language="python" class="tab-pane">
+
+~~~~ {.python .numberLines}
+not yet supported
+~~~~
+
+</div>
+
+</div>
+
+**Example Response**
+
+~~~~ {.js .numberLines}
+{
+    "status": "success",
+    "code": 200,
+    "message": "flow deleted successfully"
+}          
+~~~~
