@@ -451,3 +451,289 @@ not yet supported
     "message": "flow deleted successfully"
 }          
 ~~~~
+
+## Enable/disable schedule trigger
+
+> POST https://api.expresspigeon.com/flows/{flow_id}/triggers/schedule
+
+This call enables or disables a schedule trigger for the flow. The trigger should be created on the flow page.
+
+**Request Parameters**
+
+Parameter            Required               Description
+-------------        --------------------   --------------------------------
+flow_id              Yes                    Flow id to be started for a contact
+enable               Yes                    Enable or disable schedule trigger for the flow
+
+**Example Request**
+
+<div class="tab-content">
+
+<div role="tabpanel" data-language="curl" class="tab-pane active">
+
+~~~~ {.prettyprint .numberLines}
+curl -X POST -H "X-auth-key: 00000000-0000-0000-0000-000000000000" \
+    -H "Content-type: application/json" \
+    -d '{"enable": false}' \
+'https://api.expresspigeon.com/flows/1/triggers/schedule'      
+~~~~
+
+</div>
+
+<div role="tabpanel" data-language="java" class="tab-pane">
+
+~~~~ {.java .numberLines}
+import org.javalite.http.Http;
+import static org.javalite.common.Collections.map;
+import static org.javalite.common.JsonHelper.toJsonString;
+import static org.javalite.common.JsonHelper.toMap;
+
+String content = toJsonString(map("enable", false));
+String response = Http.post("https://api.expresspigeon.com/flows/1/triggers/schedule", content)
+        .header("X-auth-key", AUTH_KEY)
+        .header("Content-type", "application/json")
+        .text();
+Map<String, Object> result = toMap(response);
+~~~~
+
+</div>
+
+<div role="tabpanel" data-language="php" class="tab-pane">
+
+~~~~ {.php .numberLines}
+$data = array(
+  'enable' => false
+);
+$options = array(
+  'http' => array(
+    'method' => 'POST',
+    'content' => json_encode($data),
+    'header' => "Content-Type: application/json\r\n" .
+                "X-auth-key: 00000000-0000-0000-0000-000000000000\r\n"
+    )
+);
+$context  = stream_context_create($options);
+$result = file_get_contents('https://api.expresspigeon.com/flows/1/triggers/schedule', false, $context);
+$response = json_decode($result);
+~~~~
+
+</div>
+
+<div role="tabpanel" data-language="ruby" class="tab-pane">
+
+~~~~ {.ruby .numberLines}
+not yet supported
+~~~~
+
+</div>
+
+<div role="tabpanel" data-language="python" class="tab-pane">
+
+~~~~ {.python .numberLines}
+not yet supported
+~~~~
+
+</div>
+
+</div>
+
+**Example Response**
+
+~~~~ {.js .numberLines}
+{
+    "status": "success",
+    "code": 200,
+    "message": "schedule trigger was successfully disabled"
+}          
+~~~~
+
+
+## Enable/disable list trigger
+
+> POST https://api.expresspigeon.com/flows/{flow_id}/triggers/list
+
+This call enables or disables a list trigger for the flow. The trigger should be created on the flow page.
+
+**Request Parameters**
+
+Parameter            Required               Description
+-------------        --------------------   --------------------------------
+flow_id              Yes                    Flow id to be started for a contact
+enable               Yes                    Enable or disable trigger for the flow
+
+**Example Request**
+
+<div class="tab-content">
+
+<div role="tabpanel" data-language="curl" class="tab-pane active">
+
+~~~~ {.prettyprint .numberLines}
+curl -X POST -H "X-auth-key: 00000000-0000-0000-0000-000000000000" \
+    -H "Content-type: application/json" \
+    -d '{"enable": false}' \
+'https://api.expresspigeon.com/flows/1/triggers/list'      
+~~~~
+
+</div>
+
+<div role="tabpanel" data-language="java" class="tab-pane">
+
+~~~~ {.java .numberLines}
+import org.javalite.http.Http;
+import static org.javalite.common.Collections.map;
+import static org.javalite.common.JsonHelper.toJsonString;
+import static org.javalite.common.JsonHelper.toMap;
+
+String content = toJsonString(map("enable", false));
+String response = Http.post("https://api.expresspigeon.com/flows/1/triggers/list", content)
+        .header("X-auth-key", AUTH_KEY)
+        .header("Content-type", "application/json")
+        .text();
+Map<String, Object> result = toMap(response);
+~~~~
+
+</div>
+
+<div role="tabpanel" data-language="php" class="tab-pane">
+
+~~~~ {.php .numberLines}
+$data = array(
+  'enable' => false
+);
+$options = array(
+  'http' => array(
+    'method' => 'POST',
+    'content' => json_encode($data),
+    'header' => "Content-Type: application/json\r\n" .
+                "X-auth-key: 00000000-0000-0000-0000-000000000000\r\n"
+    )
+);
+$context  = stream_context_create($options);
+$result = file_get_contents('https://api.expresspigeon.com/flows/1/triggers/list', false, $context);
+$response = json_decode($result);
+~~~~
+
+</div>
+
+<div role="tabpanel" data-language="ruby" class="tab-pane">
+
+~~~~ {.ruby .numberLines}
+not yet supported
+~~~~
+
+</div>
+
+<div role="tabpanel" data-language="python" class="tab-pane">
+
+~~~~ {.python .numberLines}
+not yet supported
+~~~~
+
+</div>
+
+</div>
+
+**Example Response**
+
+~~~~ {.js .numberLines}
+{
+    "status": "success",
+    "code": 200,
+    "message": "list trigger was successfully disabled"
+}          
+~~~~
+
+## Enable/disable web form trigger
+
+> POST https://api.expresspigeon.com/flows/{flow_id}/triggers/form
+
+This call enables or disables a web form trigger for the flow. The trigger should be created on the flow page.
+
+**Request Parameters**
+
+Parameter            Required               Description
+-------------        --------------------   --------------------------------
+flow_id              Yes                    Flow id to be started for a contact
+enable               Yes                    Enable or disable trigger for the flow
+
+**Example Request**
+
+<div class="tab-content">
+
+<div role="tabpanel" data-language="curl" class="tab-pane active">
+
+~~~~ {.prettyprint .numberLines}
+curl -X POST -H "X-auth-key: 00000000-0000-0000-0000-000000000000" \
+    -H "Content-type: application/json" \
+    -d '{"enable": false}' \
+'https://api.expresspigeon.com/flows/1/triggers/form'      
+~~~~
+
+</div>
+
+<div role="tabpanel" data-language="java" class="tab-pane">
+
+~~~~ {.java .numberLines}
+import org.javalite.http.Http;
+import static org.javalite.common.Collections.map;
+import static org.javalite.common.JsonHelper.toJsonString;
+import static org.javalite.common.JsonHelper.toMap;
+
+String content = toJsonString(map("enable", false));
+String response = Http.post("https://api.expresspigeon.com/flows/1/triggers/form", content)
+        .header("X-auth-key", AUTH_KEY)
+        .header("Content-type", "application/json")
+        .text();
+Map<String, Object> result = toMap(response);
+~~~~
+
+</div>
+
+<div role="tabpanel" data-language="php" class="tab-pane">
+
+~~~~ {.php .numberLines}
+$data = array(
+  'enable' => false
+);
+$options = array(
+  'http' => array(
+    'method' => 'POST',
+    'content' => json_encode($data),
+    'header' => "Content-Type: application/json\r\n" .
+                "X-auth-key: 00000000-0000-0000-0000-000000000000\r\n"
+    )
+);
+$context  = stream_context_create($options);
+$result = file_get_contents('https://api.expresspigeon.com/flows/1/triggers/form', false, $context);
+$response = json_decode($result);
+~~~~
+
+</div>
+
+<div role="tabpanel" data-language="ruby" class="tab-pane">
+
+~~~~ {.ruby .numberLines}
+not yet supported
+~~~~
+
+</div>
+
+<div role="tabpanel" data-language="python" class="tab-pane">
+
+~~~~ {.python .numberLines}
+not yet supported
+~~~~
+
+</div>
+
+</div>
+
+**Example Response**
+
+~~~~ {.js .numberLines}
+{
+    "status": "success",
+    "code": 200,
+    "message": "web form trigger was successfully disabled"
+}          
+~~~~
