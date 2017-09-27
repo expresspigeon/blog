@@ -14,6 +14,7 @@ Address 2, City, State, Zip, Country, Date of birth, Phone, and Company.
 
 Within ExpressPigeon you can define up to 20 custom fields. These can be anything from geographic region, to eye color, to 
 favorite music genre. Custom fields allow you to send highly personalized messages based on customer behavior tracked in your 
-internal database. 
+internal database. Custom fields can be added by clicking on the menu icon in the upper right then selecting Custom fields from
+the drop down menu. 
 
 
