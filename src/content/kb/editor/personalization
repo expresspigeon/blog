@@ -17,4 +17,21 @@ favorite music genre. Custom fields allow you to send highly personalized messag
 internal database. Custom fields can be added by clicking on the menu icon in the upper right then selecting Custom fields from
 the drop down menu. 
 
+##HTML in CSV
 
+Both standard and custom fields in EP can include HTNL up to 1,000 characters to embed virtually anything into your messages. 
+Simply put the desired HTML into the applicable field in your CSV and ExpressPigeon will display it in your message. 
+
+##Images
+
+Personalized images can be placed into your messages by inserting a placeholder into the Image source field in the properties
+panel for a selected image block as shown:
+
+##Personalized Subject Lines
+
+ExpressPigeon is unique among ESPs in that our system allows personalization in subject lines. Simply put a placeholder in the
+subject like this: 
+
+Hi, $(first_name), check out our new widget!
+
+>Personalized subject lines statistically increase open rates.
