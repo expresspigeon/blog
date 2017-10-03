@@ -1,6 +1,6 @@
 ##ExpressPigeon Automation
 
-Automation in ExpressPigeon is a new capability that allows non technical people to define
+Automation in ExpressPigeon is a capability that allows non technical people to define
 highly technical workflows in a non visual manner. Like anything else we do at ExpressPigeon
 we have added extremely complex capabilites and made them easy to use. 
 
