@@ -15,6 +15,7 @@ reply_to           Yes                    Email address tp reply to
 from               Yes                    From name, such as your name or name of your organization
 subject            Yes                    Email message subject
 merge_fields       `No`                   Values for merge fields
+headers            `No`                   Custom headers
 view_online        `No`                   Generates online version of sent message. We will host this generated message on our servers, default is `false`
 click_tracking     `No`                   Overwrites all URLs in email to point to `http://clicks.expresspigeon.com` for click tracking. Setting it to `false` will preserve all URLs intact, but click tracking will not be available, default is `true`
 suppress_address   `No`                   If `true` suppresses insertion of sender's physical address in the email, default is `false`
@@ -41,6 +42,9 @@ curl -X POST -H "X-auth-key: 00000000-0000-0000-0000-000000000000"
             "first_name": "John",
             "menu": "<table><tr><td>Burger:</td></tr><tr>$9.99<td></td></tr></table>"
             },
+        "headers": {
+                    "X-custom1": "custom headervalue"
+                    },
         "dictionaries": ["dict1","dict2"],
         "flow": {
             "id": 321, 
