@@ -86,3 +86,8 @@ for message customization.
 
 You can start from scratch and start your first message in a couple of minutes. Follow this
 [step by step tutorial](transactional-step-by-step) to see how.
+
+## Rate limiting
+
+Transactional API is a subject to [Rate limiting](rate-limiting), like any other API. 
+
