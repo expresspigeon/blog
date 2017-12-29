@@ -18,7 +18,7 @@ Once you have the file, you need to plant this file on your site in order to ver
  
 ## Tell us where it is 
 
-Usually these files are placed at the root of your site: `https://yoursite.com/ep-api-28f848b89552441788fef7536f62384f.txt`. 
+Usually these files are placed at the root of your site: `https://yoursite.com/ep-api-28f848b89552441788fef75xxxxxxxxx.txt`. 
 After that, please enter the URL to your site on the config page: 
 
 ![](images/webhooks-1.png)
