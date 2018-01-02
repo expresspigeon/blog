@@ -1,37 +1,65 @@
-##Personalization
+# Personalization
 
-ExpressPigeon allows you to send highly personalized messages to an infinite number of people via a variety of methods. 
-Personalized messages create the feel of a 1:1 message directly to the recipient even though the message was sent in a b
-blast to hundreds, thousands, or even millions of subscribers. 
+## Content personalization
 
-##Standard Fields
+### Basic value merge
 
-The ExpressPigeon platform comes with 13 standard fields. These include standard name and address info for and with these alone
-you can create highly personalized messages. The standard fields include: Email, First name, Last name, Title, Address 1,
-Address 2, City, State, Zip, Country, Date of birth, Phone, and Company. 
+Our general syntax for merging of data into a newsletter has the following format: 
+ 
+ > `${field_name}` where `field_name` is a name of either a [Standard or a Custom field](contact-fields). 
 
-##Custom Fields
+Our platform allows for content personalization in just about any area.
 
-Within ExpressPigeon you can define up to 20 custom fields. These can be anything from geographic region, to eye color, to 
-favorite music genre. Custom fields allow you to send highly personalized messages based on customer behavior tracked in your 
-internal database. Custom fields can be added by clicking on the menu icon in the upper right then selecting Custom fields from
-the drop down menu. 
+For standard and custom fields, use the UI to inject into your newsletter (include screenshot).
 
-##HTML in CSV
+![](images/merge.png)
+ 
+> The drop-down for the merge will contain all [Standard and Custom fields](contact-fields) automatically. 
 
-Both standard and custom fields in EP can include HTNL up to 1,000 characters to embed virtually anything into your messages. 
-Simply put the desired HTML into the applicable field in your CSV and ExpressPigeon will display it in your message. 
+### Personalize images
 
-##Images
+For images, you can use the same exact syntax, but insert the URL of the image onto your newsletter. 
 
-Personalized images can be placed into your messages by inserting a placeholder into the Image source field in the properties
-panel for a selected image block as shown:
+So long as all contacts have the image URL as part of the CSV upload, every person might see a different image. 
 
-##Personalized Subject Lines
+In order to configure a different image, first create an image block, and in the Image Source field, enter 
+the name of your Custom field that contains a URL to images for different contacts. 
+ 
+When a newsletter is processed, our system will automatically deliver the correct image to each of your
+subscribers.
+ 
+ 
 
-ExpressPigeon is unique among ESPs in that our system allows personalization in subject lines. Simply put a placeholder in the
-subject like this: 
+![](images/image-merge.png)
 
-Hi, $(first_name), check out our new widget!
 
->Personalized subject lines statistically increase open rates.
+### Personalize links
+
+![](images/link-merge.png)
+
+### Personalize buttons
+
+![](images/button-merge.png)
+
+### Personalize subjects
+
+![](images/subject-merge.png)
+
+### Personalize paragraphs
+
+![](images/paragraph-merge.png)
+
+### Dictionaries
+
+describe what they are, add link to http://localhost:7878/kb/dictionaries and tell to contact us if they want to use it. 
+
+
+## Send time personalization
+
+### Overview
+
+### Fixed campaign
+
+### Progressive campaign
+
+
