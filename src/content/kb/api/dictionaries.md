@@ -1,8 +1,18 @@
 # Dictionaries
 
-Dictionaries add the capability to store name/value pairs on your account to merge into templates. They remove the need to send the same data over and over to the API.
+Dictionaries allow for endless personalization for each contact. You can load your content into 
+dictionaries, which can be images, entire paragraphs, text or any other content, and
+then  you can cross-reference content and people. This way, you can have as many "custom fields" as you need. 
+In some extreme cases, our customers have loaded a few hundred thousand of their products into our system and 
+cross-referenced them across hundreds of thousands of their subscribers. 
 
-A single dictionary may represent a product with attributes, where each attribute name is some property of a product (name, description, price, URL to image, etc.). In other cases, a dictionary can be a set of internationalized messages, where each dictionary is a collection of messages in different languages (English, French, etc.)
+Dictionaries add the capability to store name/value pairs on your account to merge into templates. 
+They remove the need to send the same data over and over to the API.
+
+A single dictionary may represent a product with attributes, where each attribute name is 
+some property of a product (name, description, price, URL to image, etc.). 
+In other cases, a dictionary can be a set of internationalized messages, 
+where each dictionary is a collection of messages in different languages (English, French, etc.)
 
 ## Create a New Dictionary
 
