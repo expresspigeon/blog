@@ -59,7 +59,7 @@ Placeholders can be placed into your subject line to increase open rates. Make s
 
 ### Personalize paragraphs
 
-Personalized paragraphs allow you to send completely different content to different subscribers. You can accomplish this by simply inserting a placeholder for the correct [Standard or a Custom field](contact-fields) into the body of your newsletter as shown. Be sure to have the correct paragraph in your CSV data and ExpressPigeon will insert the correct copy in for each of your subscribers automatically. 
+Personalized paragraphs allow you to send completely different content to each of your subscribers. You can accomplish this by simply inserting a placeholder for the correct [Standard or a Custom field](contact-fields) into the body of your newsletter as shown. Be sure to have the correct paragraph in your CSV data and ExpressPigeon will insert the correct copy in for each of your subscribers automatically. 
 
 ![](images/paragraph-merge.png)
 
