@@ -53,6 +53,8 @@ As always, be sure to match your data to a [Standard or a Custom field](contact-
 
 ### Personalize subjects
 
+Placeholders can be placed into your subject line to increase open rates. Make sure you use the correct [Standard or a Custom field](contact-fields) with the correct CSV data and our system will insert the correct subject line personalization for each of ytour individual subscribers.
+
 ![](images/subject-merge.png)
 
 ### Personalize paragraphs
