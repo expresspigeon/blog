@@ -35,9 +35,19 @@ subscribers.
 
 ### Personalize links
 
+You can personalize links using the same syntax by simply inserting the correct placeholder directly into the URL field
+of the link properties window. 
+
+Be sure to verify that you have a [Standard or a Custom field](contact-fields) with a matching CSV header and have the correct data in place. Our system will automatically insert the correct link for each individual contact. 
+
 ![](images/link-merge.png)
 
-### Personalize buttons
+### Personalize buttons 
+
+The syntax remains the same throughout all personalization functions in ExpressPigeon. For buttons just insert your placeholder into the "Button link" area then clicking "Create"
+
+As always, be sure to match your data to a [Standard or a Custom field](contact-fields) with the correct CSV data assigned. If everything is correct our system will automatically insert the correct button link in for each of your subscribers.
+
 
 ![](images/button-merge.png)
 
