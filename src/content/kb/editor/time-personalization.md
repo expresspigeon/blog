@@ -1,6 +1,6 @@
 # Progressive campaigns / Time personalization
  
- Progressive campaigns allow to customize a send time for every contact on that campaign.
+ Progressive campaigns allow you to customize a send time for every contact on that campaign.
 
 
 ## Overview
@@ -9,7 +9,7 @@ Our platform allows for personalization of time to send. For instance, when you 
 you can customize time of email delivery for each and every individual.
 
 In all cases, the messages will be delivered within 24 hours from the time of send, depending on the type of a campaign: 
- Fixed or Rolling
+ Fixed or Rolling.
 
 ## Setup
 

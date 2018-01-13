@@ -8,7 +8,8 @@ Each account has a Suppress List which contains the following categories of cont
  
 Your Suppress List may contain the following categories of contacts: 
  
-* Bounced - undeliverable email addresses
+* Bounce - email address considered undeliverable after three attempts which resulted in soft bounces
+* Hard bounce - undeliverable email addresses
 * Unsubscribed  - unsubscribed contacts
 * SPAM - contacts that reported your message as SPAM (we have FBL integrations with all major ISPs )
 * Uploaded - those directly uploaded into a Suppressed list by you (when new customers migrate to us from other ESPs)
