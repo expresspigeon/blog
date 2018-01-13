@@ -60,13 +60,11 @@ Each flow component can be configured by opening its Settings panel by clicking 
 
 ## Flow editor
 
-
-TBD -
+<span style="background-color:yellow;"> TBD -</span>
  
 * Editor elements
 * Editor modes
 * Show drag and drop scren capture  
-
 
 ## Conditions
 
@@ -140,12 +138,12 @@ source list, whereas the “Copy Contact Action” will leave the contact on the
 
 This action will send a transactional message to your customer. You can design your transactional message 
 using the ExpressPigeon editor, or code your own. 
-For more information on the Email Editor, please refer to: https://expresspigeon.com/kb/editor-layout
+For more information, see the [Email editor](/kb#email-editor) section. 
 
 ### Raise a “Zap Trigger Action”
 
 This will initiate a trigger within Zapier. Zapier triggers, or “Zaps”, allow you to connect to over 
-700 apps for easy integration with ExpressPigeon. The “Zap Trigger Action” will send information on 
+1000 apps for easy integration with ExpressPigeon. The “Zap Trigger Action” will send information on 
 this specific contact to Zapier. If you have a Zapier account, you can connect this action to an external 
 system, such as SalesForce, SurveyMonkey and others, making an Internet  ecosystem for your business. 
 For more information, please refer to [Integrations](/integrations) page for more information.
@@ -162,7 +160,7 @@ A Time Delay Action will delay the execution of a flow for a preset amount of ti
 
 ### Future Time Action
 
-A Future TIme Action is similar to a time delay, but has a future time reference. For instance, it can be set to a time before or after an event in the future. Examples are: 
+A Future Time Action is similar to a time delay, but has a future time reference. For instance, it can be set to a time before or after an event in the future. Examples are: 
 
 * 7 days before birthday
 * 30 minutes after a future flight
