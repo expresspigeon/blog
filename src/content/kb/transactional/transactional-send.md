@@ -155,3 +155,45 @@ response = api.messages.send_message(template_id=123,
 In the call above, the `id` represents an ID of a message that was sent.
 You can use this value in order to get a [report on the status of this message](transactional-reporting-for-single-message).
 
+
+## Flow usage 
+
+As mentioned in a [Request parameters](transactional-send#request-parameters), one of the parameters is a `flow`:
+ 
+  
+
+```json
+"flow": {
+            "id": 321, 
+            "trigger": "click"
+        }
+```
+
+
+If you want to trigger a Flow when a contact opens your transactional message, use this parameter:
+
+```json
+"flow": {
+            "id": 321, 
+            "trigger": "open"
+        }
+```
+ 
+ 
+> Unlike a regular transactional message, these parameters require that the contact exists on your account. 
+
+In other words, if you use the `flow` parameter and the email you are sending does not exist on your account as a
+contact, you will get the following response: 
+
+```json
+{
+    "status": "error",
+    "code": 400,
+    "message": "this contact does not exist: 'jane@example.net', but required to trigger a flow" 
+}
+```
+ 
+ 
+For more information on flows, please refer to [Flows](flows) and [Flow API](flow-api). 
+
+ 

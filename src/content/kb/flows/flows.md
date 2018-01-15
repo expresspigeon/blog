@@ -107,6 +107,7 @@ A typical example would be:
 
 Below is an example of setting up a rule like that
 
+
 ![](images/flows/conditions.png)
 
 Behavior and data-based rules can be easily combined together to create powerful decisions for your business.
@@ -116,6 +117,9 @@ Here is an example if a workflow you can create  in a few minutes:
 
 First, it sends a welcome email, then it waits for 2 days and checks if that email was opened. 
 If it was, it sends a “Tutorial #1” and if not, it sends a “Gentle reminder :)” message.
+
+
+> You can use 'click' interactions in the same way as open ones.
  
  
 ## Actions
@@ -261,7 +265,7 @@ The form trigger configuration is accessible from the same flow settings panel.
 
 For more information on subscription forms please refer the page [Web forms](regular-web-forms). 
 
-## Campaign trigger
+### Campaign trigger
 
 A flow can be triggered for a contact based on that contact’s interaction 
 with a campaign. When you are in the process of sending a campaign, you will 
@@ -290,3 +294,9 @@ please refer to this page: [Flows API](flows-api).
 If you have any additional questions please reach out to us on https://expresspigeon.com/support.
 
 <span style="background-color:yellow;"> Zapier trigger - do we have that?Anything else?</span>
+
+### Transactional message trigger
+
+You can also start a flow for a contact if you send a transactional message to that contact and 
+ he/she opens or clicks that message. 
+ For more information,  please refer to [Transactional message flow usage](transactional-send#flow-usage). 
