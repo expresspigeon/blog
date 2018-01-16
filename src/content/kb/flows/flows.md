@@ -56,15 +56,7 @@ Each flow component can be configured by opening its Settings panel by clicking 
  
 ![](images/flows/transactional-action.png)
 
-> Execution of a flow is performed per contact and started by some trigger or a schedule. 
-
-## Flow editor
-
-<span style="background-color:yellow;"> TBD -</span>
- 
-* Editor elements
-* Editor modes
-* Show drag and drop scren capture  
+> Execution of a flow is performed per contact and started by some trigger or a schedule.   
 
 ## Conditions
 
@@ -251,9 +243,11 @@ A contact can be added to a list by any of the following methods:
 * Manually type in contact details into a list
 * Copy a contact from one list to another
 * Move a contact from one list to another
-* Zapier action (<span style="background-color:yellow;"> VERIFY</span>) - adding a contact  to a list from a Zapier action
+* Zapier action - when adding a contact  to a list from a Zapier action
 
 Whenever a contact is added to a list using any of these methods, a flow will trigger for each individual contact.
+
+> A flow will start even if you are adding an existing contact to the list by any means. 
 
 ### Subscribed using a form
 
@@ -293,7 +287,6 @@ please refer to this page: [Flows API](flows-api).
 
 If you have any additional questions please reach out to us on https://expresspigeon.com/support.
 
-<span style="background-color:yellow;"> Zapier trigger - do we have that?Anything else?</span>
 
 ### Transactional message trigger
 
