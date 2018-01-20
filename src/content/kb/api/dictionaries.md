@@ -1,6 +1,6 @@
 # Dictionaries for deep personalization
 
-Dictionaries allow for endless personalization oc content for each contact.
+Dictionaries allow for endless personalization of content for each contact.
  If you use [contact fields](contact-fields), you are limited to standard fields like first name,  last name and around
  20 custom fields. Even though our custom fields are generous at 1000 characters each, it
    may not be enough in number and size. 
