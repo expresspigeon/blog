@@ -82,7 +82,7 @@ This allows you, the marketer, to control the logic of your business without
 involving developers once the integration is in place. For more information 
 please refer to this page: [Flows API](flows-api).
 
-If you have any additional questions please reach out to us on https://expresspigeon.com/support.
+If you have any additional questions please reach out to us on [Support](https://expresspigeon.com/support).
 
 
 ### Transactional message trigger

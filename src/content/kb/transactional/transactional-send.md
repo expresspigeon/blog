@@ -160,7 +160,6 @@ You can use this value in order to get a [report on the status of this message](
 
 As mentioned in a [Request parameters](transactional-send#request-parameters), one of the parameters is a `flow`:
  
-  
 
 ```json
 "flow": {
@@ -193,6 +192,9 @@ contact, you will get the following response:
 }
 ```
  
+ 
+> A flow based on an open or a click trigger  will only start for a contact once regardless 
+how many times that contact will open or click the same message.  
  
 For more information on flows, please refer to [Flows](flows) and [Flow API](flow-api). 
 

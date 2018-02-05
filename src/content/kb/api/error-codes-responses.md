@@ -15,6 +15,24 @@ Code              Text                   Description
 500               Internal Server Error  In rare cases, there can be an issue with our API. If this happens, please [write to us](/support) so that our team can investigate and fix the issue.
 
 
+
+## Error response format
                 
+The format will always in the JSON format: 
+
+```json
+{  "status":"error",
+   "code":404,
+   "message": "template=388 not found"
+}
+```
+
+Even though the code 404 will also be returned as an HTTP header, it is also included in the JSON response object. 
+
+> Developers should always inspect the `code` and ensure that non-200 codes are processed accordingly.
+ 
+The `status` value will be either `success` or `error`, and the `message` value will include a human readable message.   
+
+
 
                 
