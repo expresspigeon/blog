@@ -43,6 +43,8 @@ The name of the ZIP file and the name of the file that is zipped does not mater
  
 Upload the ZIP file to  https://api.expresspigeon.com/messages/bulk with a `POST` HTTP method.
 
+## Example Request
+
 <div class="tab-content">
 
 <div role="tabpanel" data-language="curl" class="tab-pane active">
