@@ -61,7 +61,14 @@ curl -X POST https://api.expresspigeon.com/messages/bulk  \
 <div role="tabpanel" data-language="java" class="tab-pane">
 
 ~~~~ {.java .numberLines}
-TBD
+import org.javalite.http.Http;
+import static org.javalite.common.JsonHelper.toMap;
+
+String response = Http.multipart("https://api.expresspigeon.com/messages/bulk")
+        .header("X-auth-key", AUTH_KEY)
+        .file("file", "/path/to/bulk.zip")
+        .text();
+Map<String, Object> result = toMap(response);
 ~~~~
 
 </div>
@@ -69,7 +76,30 @@ TBD
 <div role="tabpanel" data-language="php" class="tab-pane">
 
 ~~~~ {.php .numberLines}
-TDB
+$bulk = file_get_contents('/path/to/bulk.zip');
+
+$eol = "\r\n";
+$data = '';
+
+$mime_boundary=md5(time());
+
+$data .= '--' . $mime_boundary . $eol;
+
+$data .= 'Content-Disposition: form-data; name="file"; filename="bulk.zip"' . $eol;
+$data .= 'Content-Type: application/zip' . $eol;
+$data .= 'Content-Transfer-Encoding: base64' . $eol . $eol;
+$data .= $bulk . $eol;
+$data .= "--" . $mime_boundary . "--" . $eol . $eol;
+
+$params = array('http' => array(
+                  'method' => 'POST',
+                  'header' => 'X-auth-key: 00000000-0000-0000-0000-000000000000'  . $eol .
+                              'Content-Type: multipart/form-data; boundary=' . $mime_boundary . $eol,
+                  'content' => $data
+               ));
+
+$ctx = stream_context_create($params);
+$response = file_get_contents('https://api.expresspigeon.com/messages/bulk', FILE_TEXT, $ctx);
 ~~~~
 
 </div>
@@ -77,7 +107,7 @@ TDB
 <div role="tabpanel" data-language="ruby" class="tab-pane">
 
 ~~~~ {.ruby .numberLines}
-TBD
+not yet supported
 ~~~~
 
 </div>
@@ -85,7 +115,7 @@ TBD
 <div role="tabpanel" data-language="python" class="tab-pane">
 
 ~~~~ {.python .numberLines}
-TBD
+not yet supported
 ~~~~
 
 </div>
