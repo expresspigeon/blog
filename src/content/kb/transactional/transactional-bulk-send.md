@@ -43,7 +43,52 @@ The name of the ZIP file and the name of the file that is zipped does not mater
  
 Upload the ZIP file to  https://api.expresspigeon.com/messages/bulk with a `POST` HTTP method.
 
-[code examples here]
+<div class="tab-content">
+
+<div role="tabpanel" data-language="curl" class="tab-pane active">
+
+~~~~ {.prettyprint .numberLines}
+curl -X POST https://api.expresspigeon.com/messages/bulk  \
+    -H "Content-type: multipart/form-data" \
+    -H "X-auth-key: 00000000-0000-0000-0000-000000000000"\
+    -F file=@bulk.zip
+~~~~
+
+</div>
+
+<div role="tabpanel" data-language="java" class="tab-pane">
+
+~~~~ {.java .numberLines}
+TBD
+~~~~
+
+</div>
+
+<div role="tabpanel" data-language="php" class="tab-pane">
+
+~~~~ {.php .numberLines}
+TDB
+~~~~
+
+</div>
+
+<div role="tabpanel" data-language="ruby" class="tab-pane">
+
+~~~~ {.ruby .numberLines}
+TBD
+~~~~
+
+</div>
+
+<div role="tabpanel" data-language="python" class="tab-pane">
+
+~~~~ {.python .numberLines}
+TBD
+~~~~
+
+</div>
+
+</div>
 
 **Step 4:** Process response
 
