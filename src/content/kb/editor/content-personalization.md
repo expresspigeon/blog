@@ -14,6 +14,23 @@ For standard and custom fields, use the UI to inject into your newsletter (inclu
  
 > The drop-down for the merge will contain all [Standard and Custom fields](contact-fields) automatically. 
 
+
+## Personalized Preview
+ 
+We encourage our users to preview templates in a personalized form for a specific contact.
+ 
+When you are on the Preview Page: 
+
+![](images/personalized-preview.png)
+
+
+1. Enter the email for the contact you want to preview and hit Enter.
+2. Observe the template personalized based on that contact's data.
+
+
+> We recommend to always preview personalized templates in Desktop, and Phone views before sending.
+
+
 ## Personalize images
 
 For images, you can use the same exact syntax, but insert the URL of the image onto your newsletter. 

@@ -16,7 +16,7 @@ When submitting a ZIP file, follow these rules:
 
 * The ZIP file contains only one text file.   
 * Multiple JSON request objects are flattened into single lines of text in the text file. 
-* A maximum number of lines (messages) in a single request is 1000.
+* A maximum number of lines (messages) in a single request is 10,000.
 * Each line has the same exact format and accepts the [same parameters as a single message end point](transactional-send#request-parameters).
   
 ## Step by step
@@ -134,7 +134,7 @@ Please, see below for the [response format](#response-format). When posting the 
 
 ## Limitations
 
-This API end point will process the first 1000 messages per file and will reject a file with more than 1000 lines with status code 400. 
+This API end point will reject a file with more than 10000 messages with an HTTP code 400. 
 
 ## Attachments
 
