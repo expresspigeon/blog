@@ -488,7 +488,10 @@ not yet supported
 <div role="tabpanel" data-language="python" class="tab-pane">
 
 ~~~~ {.python .numberLines}
-not yet supported
+from expresspigeon import ExpressPigeon
+    
+api = ExpressPigeon()
+response = api.campaigns.all_subscribers(1)
 ~~~~
 
 </div>
@@ -577,7 +580,10 @@ not yet supported
 <div role="tabpanel" data-language="python" class="tab-pane">
 
 ~~~~ {.python .numberLines}
-not yet supported
+from expresspigeon import ExpressPigeon
+    
+api = ExpressPigeon()
+response = api.campaigns.delivered(1)
 ~~~~
 
 </div>
@@ -802,7 +808,7 @@ response = api.campaigns.clicked(2)
 
 > GET https://api.expresspigeon.com/campaigns/{campaign_id}/non_opens
 
-Returns an array of object(s) with email and id of bounced contacts from a campaign.
+Returns an array of object(s) with email and id of contacts from a campaign who did not open email.
 
 **Request parameters**
 
@@ -864,7 +870,10 @@ not yet supported
 <div role="tabpanel" data-language="python" class="tab-pane">
 
 ~~~~ {.python .numberLines}
-not yet supported
+from expresspigeon import ExpressPigeon
+    
+api = ExpressPigeon()
+response = api.campaigns.non_opens(1)
 ~~~~
 
 </div>

@@ -60,7 +60,10 @@ not yet supported
 <div role="tabpanel" data-language="python" class="tab-pane">
 
 ~~~~ {.python .numberLines}
-not yet supported
+from expresspigeon import ExpressPigeon
+    
+api = ExpressPigeon()
+response = api.flows.get_all()
 ~~~~
 
 </div>
@@ -158,7 +161,10 @@ not yet supported
 <div role="tabpanel" data-language="python" class="tab-pane">
 
 ~~~~ {.python .numberLines}
-not yet supported
+from expresspigeon import ExpressPigeon
+    
+api = ExpressPigeon()
+response = api.flows.start(1, "bob@example.net")
 ~~~~
 
 </div>
@@ -245,7 +251,10 @@ not yet supported
 <div role="tabpanel" data-language="python" class="tab-pane">
 
 ~~~~ {.python .numberLines}
-not yet supported
+from expresspigeon import ExpressPigeon
+    
+api = ExpressPigeon()
+response = api.flows.stop(1)
 ~~~~
 
 </div>
@@ -332,7 +341,10 @@ not yet supported
 <div role="tabpanel" data-language="python" class="tab-pane">
 
 ~~~~ {.python .numberLines}
-not yet supported
+from expresspigeon import ExpressPigeon
+    
+api = ExpressPigeon()
+response = api.flows.report(1)
 ~~~~
 
 </div>
@@ -435,7 +447,10 @@ not yet supported
 <div role="tabpanel" data-language="python" class="tab-pane">
 
 ~~~~ {.python .numberLines}
-not yet supported
+from expresspigeon import ExpressPigeon
+    
+api = ExpressPigeon()
+response = api.flows.delete(1)
 ~~~~
 
 </div>
@@ -530,7 +545,10 @@ not yet supported
 <div role="tabpanel" data-language="python" class="tab-pane">
 
 ~~~~ {.python .numberLines}
-not yet supported
+from expresspigeon import ExpressPigeon
+    
+api = ExpressPigeon()
+response = api.flows.schedule_trigger(1, False)
 ~~~~
 
 </div>
@@ -626,7 +644,10 @@ not yet supported
 <div role="tabpanel" data-language="python" class="tab-pane">
 
 ~~~~ {.python .numberLines}
-not yet supported
+from expresspigeon import ExpressPigeon
+    
+api = ExpressPigeon()
+response = api.flows.list_trigger(1, False)
 ~~~~
 
 </div>
@@ -721,7 +742,10 @@ not yet supported
 <div role="tabpanel" data-language="python" class="tab-pane">
 
 ~~~~ {.python .numberLines}
-not yet supported
+from expresspigeon import ExpressPigeon
+    
+api = ExpressPigeon()
+response = api.flows.form_trigger(1, False)
 ~~~~
 
 </div>

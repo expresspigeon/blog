@@ -115,7 +115,10 @@ not yet supported
 <div role="tabpanel" data-language="python" class="tab-pane">
 
 ~~~~ {.python .numberLines}
-not yet supported
+from expresspigeon import ExpressPigeon
+
+api = ExpressPigeon()
+response = api.send_message_bulk("bulk.zip")
 ~~~~
 
 </div>
