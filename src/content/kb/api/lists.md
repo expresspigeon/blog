@@ -523,8 +523,8 @@ response = api.lists.csv(123)
 **Example Response**
 
 ~~~~ {.js .numberLines}
-"Email", "First name", "Last name", "City", "Phone", "Company", "Title", "Address 1", "Address 2", "State", "Zip", "Country", "Date of birth"
-"bob@example.net","Bob",,,,,,,,,,,
+"Email", "First name", "Last name", "City", "Phone", "Company", "Title", "Address 1", "Address 2", "State", "Zip", "Country", "Date of birth", "Created"
+"bob@example.net","Bob",,,,,,,,,,,"2018-04-09 14:15:57"
 ~~~~
 
 
