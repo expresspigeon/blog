@@ -246,6 +246,16 @@ JSON object represents a list to be updated. The **id** field is required. This 
 Parameter          Required               Description
 -------------      --------------------   --------------------------------
 id                 Yes                    The id of a list to be updated
+name               No                     New "Name" field of the list
+from_name          No                     New "From Name" field in the list
+reply_to           No                     New "Reply To" field in the list
+organization       No                     New "Organization" field in the list's physical address
+address1           No                     New "Address 1 line" field in the list's physical address
+address2           No                     New "Address 2 line" field in the list's physical address
+city               No                     New "City" field in the list's physical address
+state              No                     New "State" field in the list's physical address
+zip                No                     New "Zip" field in the list's physical address
+country            No                     New "Country" field in the list's physical address
 
 **Example Request**
 
