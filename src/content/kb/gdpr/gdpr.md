@@ -1,11 +1,14 @@
 # GDPR Information
-
  
 ## What is GDPR?
 
 The EU General Data Protection Regulation has been implemented to 
 increase protection of personal data for individuals in the European Union. 
 This new policy takes effect on May 25, 2018.
+
+## Our support
+
+Follow to the [GDPR Features](gdpr-features) to see how our platform supports GDPR.
 
 ##  Who does the GDPR apply to?
 
@@ -94,6 +97,7 @@ organizations. The GDPR doesn’t require the personal data of EU citizens to st
 requirements for these kinds of transfers.
 
 ----
+
 
 > By no means, this page is not a legal document. 
 > We encourage you to seek legal councel in case you have further questions. 
