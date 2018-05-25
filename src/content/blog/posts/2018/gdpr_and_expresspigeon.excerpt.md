@@ -1,0 +1,1 @@
+In the ESP industry everyone is concerned about General Data Protection Regulation (GDPR). GDPR  is a new set of guidelines that dictates how individuals and companies may acquire, utilize, store, and delete the personal data of European Union (EU) citizens. GDPR becomes enforceable on 5/25/2018.
