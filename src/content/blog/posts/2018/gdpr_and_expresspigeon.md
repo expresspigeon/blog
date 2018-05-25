@@ -7,7 +7,7 @@ In this blog post, we want to help you better understand how GDPR specifically a
 If you handle customer data outside of email marketing or use other third-party tools that collect data, you should definitely check out the 
 [full set of regulations](https://gdpr-info.eu/) and talk to legal experts to ensure you understand the full extent of compliance.
 
-##Why You Should Care About GDPR
+## Why You Should Care About GDPR
 
 Whenever you collect an email address, a name, home address or phone number, you are obtaining someone’s personal data. If the individual whose data you’ve obtained is a citizen of the European Union, you’re required to adhere to the new rules. Don’t Worry! We’ll explain the basics and provide some tips to help you transition.
 The GDPR was developed to modernize the current EU data protection laws with an increased focus on an individual’s rights and privacy. While some of the legislation is stricter and the penalties for non-compliance are tougher, the ultimate goal is to improve trust in the digital ecosystem.
