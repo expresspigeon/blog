@@ -46,7 +46,7 @@ We are considering new features that will help customers comply such as other da
 If you are transparent and respect every individual subscriber, your email marketing will succeed. That is what we have always believed that the GDPR will help more organizations to build trust and improve the digital marketplace for everyone.
 If you have specific questions about how GDPR affects your email marketing or have suggestions on how we can improve ExpressPigeon for GDPR compliance, we want to hear from you!
 
-For more information on GDPR please check out our [knowledge base](https://expresspigeon.com/gdpr).
+For more information on GDPR please check out our [knowledge base](https://expresspigeon.com/kb/gdpr).
 
 > GDPR requirements will be enforced starting on May 25, 2018.
 
