@@ -1,6 +1,7 @@
 
 
-I was on the train into work the other day, and it was standing room only. 
+
+:two_women_holding_hands: I was on the train into work the other day, and it was standing room only. 
 
 I love people-watching on my commute. I was looking around at all the faces tilted town towards phone screens, eyes scanning. 
 
