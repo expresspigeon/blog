@@ -1,4 +1,3 @@
-😁 Delight customers with emojis in subject lines 😁
 
 
 I was on the train into work the other day, and it was standing room only. 
