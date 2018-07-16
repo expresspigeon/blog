@@ -196,6 +196,6 @@ contact, you will get the following response:
 > A flow based on an open or a click trigger  will only start for a contact once regardless 
 how many times that contact will open or click the same message.  
  
-For more information on flows, please refer to [Flows](flows) and [Flow API](flow-api). 
+For more information on flows, please refer to [Flows](Automation#flows) and [Flow API](flows-api). 
 
  
