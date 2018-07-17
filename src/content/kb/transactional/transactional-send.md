@@ -19,7 +19,7 @@ headers            `No`                   Custom headers
 view_online        `No`                   Generates online version of sent message. We will host this generated message on our servers, default is `false`
 click_tracking     `No`                   Overwrites all URLs in email to point to `http://clicks.expresspigeon.com` for click tracking. Setting it to `false` will preserve all URLs intact, but click tracking will not be available, default is `true`
 suppress_address   `No`                   If `true` suppresses insertion of sender's physical address in the email, default is `false`
-dictionaries       `No`                   List of dictionaries to source merge fields from. Dictionary values override all other values (from merge_fields) in case of name collisions. See [Dictionaries](/kb/api_dictionaries) section for more information.
+dictionaries       `No`                   List of dictionaries to source merge fields from. Dictionary values override all other values (from merge_fields) in case of name collisions. See [Dictionaries](/kb/dictionaries) section for more information.
 flow               `No`                   Trigger to start a flow in case of open or click in email.
 
 ## Example Request
