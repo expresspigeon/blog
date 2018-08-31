@@ -74,12 +74,7 @@ The SPF record needs to look like:
  
 * Name: `k1._domainkey`
 * Value: `dkim.epmailer.net`
- 
-3. Add TXT record:
- 
-* Name: `_domainkey`
-* Value: `t=y; o=~;`
 
-4. Request a test  and approval of your new configuration by sending us 
+3. Request a test  and approval of your new configuration by sending us 
 a support request: [Support line](https://expresspigeon.com/support)  
  
