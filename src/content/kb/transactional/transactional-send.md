@@ -14,6 +14,8 @@ to                 Yes                    Email address to send message to
 reply_to           Yes                    Email address tp reply to
 from               Yes                    From name, such as your name or name of your organization
 subject            Yes                    Email message subject
+reply_name         `No`                   Name for 'Reply-To' email field, defaults to 'from'
+from_address       `No`                   Email for 'From' email field, defaults to 'reply_to'
 merge_fields       `No`                   Values for merge fields
 headers            `No`                   Custom headers
 view_online        `No`                   Generates online version of sent message. We will host this generated message on our servers, default is `false`
