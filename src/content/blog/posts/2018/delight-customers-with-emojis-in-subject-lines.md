@@ -13,7 +13,7 @@ Emojis are a simple and charismatic way to stick out in an inbox. They’re natu
 While no one is definitive about if emojis are here to stay, an emoji in your subject line can help you: 
 
 * **Better open rates**: More than half of brands using emojis in their email subject lines had a higher unique open rate. 
-* **Save space: An emoji**: is worth a thousand words.
+* **Save space**: An emoji is worth a thousand words.
 * **Convey emotion**: Good marketers spark feeling in customers. An emoji can move the right reader.
 * **Stand out in a crowded inbox**: Images are more influential than words. Colors and shapes stick out.
 
