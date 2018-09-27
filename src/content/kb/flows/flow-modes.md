@@ -1,6 +1,6 @@
 # Flow modes
 
-talk about switching a flow from Edit to Run mode (test). 
+talk about switching a flow from Edit to Run mode. 
 
 
 Mention that when switching from Edhit to Run mode, 
