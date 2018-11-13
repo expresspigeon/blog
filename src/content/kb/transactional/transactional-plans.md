@@ -47,8 +47,7 @@ expire at the end of your billing cycle and renew automatically, additional cred
 
 ## Failure to renew
 
-In the event your credit card expired or in unable to process your transactional plan will reset to a free plan allowing only 50 messages 
-per day. You will receive an email alert about this event.
+In the event, your credit card expired or we are unable to process your card, the transactional plan will reset to a free, allowing only 50 messages per day. You will receive an email alert about this event.
 
 ## Plan cancellation
 
