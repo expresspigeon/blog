@@ -6,10 +6,10 @@
 
 Our automation plans depend on the size  of your contact count. Please, see below:
 
-Total Contacts                    Price  
+Total Contacts     Price  
 -------------      --------------------  
-0 - 500           $2.99                    
-501-1,000         $3.89                   
+0 - 500            $2.99                    
+501-1,000          $3.89                   
 
 ## Introductory plan
 
