@@ -49,10 +49,11 @@ Total Contacts          Price
 If your contacts number changes, our system will automatically downgrade or upgrade your automation plan. You will get email notifications about such changes.
 
 **Example**:
-    - If you have 170,000 contacts and your current automation plan cost is $239.99. 
-    - Your contacts number changes to 350,000 contacts
-    - Our system will automatically upgrade your plan to $479.99 and charge the prorated difference.
-    - If  your contacts number drops to 50,000, our system will automatically downgrade plan from $479.99 to $95.99, while keeping remaining balance on your account.
+
+> * If you have 170,000 contacts and your current automation plan cost is $239.99. 
+> * Your contacts number changes to 350,000 contacts
+> * Our system will automatically upgrade your plan to $479.99 and charge the prorated difference.
+> * If  your contacts number drops to 50,000, our system will automatically downgrade plan from $479.99 to $95.99, while keeping remaining balance on your account.
 
 
 ## Failure to renew
