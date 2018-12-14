@@ -10,59 +10,55 @@ Total Contacts     Price
 -------------      --------------------  
 0 - 500            $2.99                    
 501-1,000          $3.89                   
+1,001 — 2,500      $5.99 
+2,501 — 5,000      $11.99       
+5,001 — 10,000     $14.99 
+10,001 — 20,000    $29.99
+20,001 — 30,000    $53.99
+30,001 — 40,000    $59.99
+40,001 — 50,000    $65.99
+50,001 — 60,000    $95.99
+60,001 — 70,000    $101.99
+70,001 — 80,000    $107.99
+80,001 — 90,000    $113.99
+90,001 — 100,000   $119.99
+100,001 — 150,000  $179.99
+150,001 — 200,000  $239.99
+200,001 — 225,000  $269.99
+225,001 — 250,000  $299.99
+250,001 — 275,000  $329.99
+275,001 — 300,000  $359.99
+300,001 — 400,000  $479.99
+400,001 — 500,000  $599.99
+500,001 — 600,000  $719.99
+600,001 — 700,000  $839.99
+700,001 — 800,000  $959.99
+800,001 — 900,000  $1,079.99
+900,001 — 1,000,000 $1,199.99
+1,000,001 — 1,100,000   $1,319.99
+1,100,001 — 1,200,000   $1,439.99
+1,200,001 — 1,300,000   $1,559.99
+1,300,001 — 1,400,000   $1,679.99
+1,400,001 — 1,500,000   $1,799.99
+1,500,001 — 1,600,000   $1,919.99
+1,600,001 — 1,700,000   $2,039.99
 
-## Introductory plan
 
-The Transactional Intro plan will allow to send up to 10,000 messages per month. 
-This plan will cost (at the time of writing) only $4.00 per month.
+## Contacts Overage
 
-This plan is appropriate for low volume senders and startups. 
+If your contacts number changes, our system will automatically downgrade or upgrade your automation plan. You will get email notifications about such changes.
 
-TODO: turn into link: 
-The same Overage, cancellation and credit card expiration rules apply to this plan.
+**Example**:
+    - If you have 170,000 contacts and your current automation plan cost is $239.99. 
+    - Your contacts number changes to 350,000 contacts
+    - Our system will automatically upgrade your plan to $479.99 and charge the prorated difference.
+    - If  your contacts number drops to 50,000, our system will automatically downgrade plan from $479.99 to $95.99, while keeping remaining balance on your account.
 
-## Transactional Plans
-
-Our Transactional plans are purchased in blocks of 30,000 message credits. This means that if you need to send 50,000 messages per month,
-you'd purchase 2 credit blocks. 
-At high volume the price per 1,000 messages will drop.
-
-## Unused Plan Credits
-
-Unused plan credits do not roll over into the next month. At the end of your billing cycle your plan will renew automatically.
-
-## Additional Credits
-
-In addition to your current plan, you can also buy sending credits, also in blocks of 30,000 messages each. Unlike monthly plans which
-expire at the end of your billing cycle and renew automatically, additional credits never expire and remain in your account until used.
-
-> Whichever plan you have currently, your Additional Credits will be used before your plan credits.
 
 ## Failure to renew
 
-In the event, your credit card expired or we are unable to process your card, the transactional plan will reset to a free, allowing only 50 messages per day. You will receive an email alert about this event.
+In the event your credit card expired or we are unable to process a scheduled payment, our system will send you an email notification and will display a  message on the dashboard in your account. Our system will try to renew your plan for 3 consecutive days (once per day) and, in case of a failure, your automation plan will be canceled and all flows will stop operating.
 
 ## Plan cancellation
 
-When you cancel your plan you will automatically switch to a free plan with a 50 message per day cap.
-If you have additional credits left, they will remain on your account.
-
-You can cancel at any time. Transactional plans cancellation [Terms of Service](/terms) are the same as marketing plans.
-
-
-## Sending Overage
-
-If your balance drops below a specific number of messages, a new block will be purchased automatically. 
-
-> * In the intro plan, a new block of 10,000 messages will automatically be purchased if your plan drops to 2,000 emails before the monthly plan renewal.
-> * In any other plan, a new block of 30,000 messages will automatically be purchased if your plan drops to 10,000 emails before the monthly plan renewal.
-
-
-**Example**:
-
-Lets say you have a transactional plan of 3 blocks, 30,000 each, totalling 90,000 messages per month. In the event of a spike in traffic on your 
-website requires to send 100,000 messages. At the threshold of 80,000 messages we will automatically add one block of 30,000 messages to your account and send you 
-a notification. In the event your balance drops to 10,000 messages again, the same process will initiate.
-
-
-
+You can cancel at any time. [Terms of Service](/terms) for automation subscription cancellations are the same as for marketing and transactional ones.
