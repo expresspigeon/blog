@@ -63,8 +63,11 @@ Add the following to your existing SPF record: `include:spf.epmailer.net`.
  
 The SPF record needs to look like:
  
-* Name: `@`
-* Value: `v=spf1 include:spf.epmailer.net ~all`
+```
+TXT @ "v=spf1 include:spf.epmailer.net ~all"
+```
+
+where `@` is a name and `v=spf1 include:spf.epmailer.net ~all` is a value. 
 
 
 > If you have an existing SPF record, do not add a second one! SPF standard allows only one record. 
