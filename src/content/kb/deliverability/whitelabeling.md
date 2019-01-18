@@ -72,7 +72,7 @@ The SPF record needs to look like:
  
 2. Add CNAME records:
  
- ```
+```
 CNAME  k1._domainkey        dkim.epmailer.net
 CNAME  ppdkim._domainkey    ppdkim.epmailer.net
 CNAME  delivery             delivery.epmailer.net 
