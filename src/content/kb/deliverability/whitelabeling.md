@@ -70,10 +70,13 @@ The SPF record needs to look like:
 > If you have an existing SPF record, do not add a second one! SPF standard allows only one record. 
  Adding a second one will break the first one. 
  
-2. Add CNAME record:
+2. Add CNAME records:
  
-* Name: `k1._domainkey`
-* Value: `dkim.epmailer.net`
+ ```
+CNAME  k1._domainkey        dkim.epmailer.net
+CNAME  ppdkim._domainkey    ppdkim.epmailer.net
+CNAME  delivery             delivery.epmailer.net 
+```    
 
 3. Request a test  and approval of your new configuration by sending us 
 a support request: [Support line](https://expresspigeon.com/support)  
