@@ -36,9 +36,81 @@ Once you move to the next page, you will be able to configure separate URIs for 
 
 ![](images/webhooks-2.png)
 
-> Additionally, you can click the "Play" button for each event to see the format and simulate an actual request. 
- 
+> Additionally, you can click the "Play" button for each event to see the format and simulate an actual request.
 
+## Webhook types and payload
 
+Delivered:
 
+~~~~ {.js .numberLines}
+{
+   "id":"1234", 
+   "timestamp": "2017-05-28T14:03:17.956+0300",
+   "email":"john@doe.com",
+   "type":"delivered" 
+}
+~~~~
+
+Opened:
+
+~~~~ {.js .numberLines}
+{
+   "id":"1234", 
+   "timestamp": "2017-05-28T14:03:17.956+0300",
+   "email":"john@doe.com",
+   "type":"opened",
+   "user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:64.0) Gecko/20100101 Firefox/64.0",
+   "ip":"215.11.12.11",
+   "latitude":51.3,
+   "longitude":9.49
+}
+~~~~
+
+Clicked:
+
+~~~~ {.js .numberLines}
+{
+   "id":"1234", 
+   "timestamp": "2017-05-28T14:03:17.956+0300",
+   "email":"john@doe.com",
+   "type":"clicked",
+   "user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:64.0) Gecko/20100101 Firefox/64.0",
+   "ip":"215.11.12.11",
+   "latitude":51.3,
+   "longitude":9.49
+}
+~~~~
+
+Suppressed:
+
+~~~~ {.js .numberLines}
+{
+   "id":"1234", 
+   "timestamp": "2017-05-28T14:03:17.956+0300",
+   "email":"john@doe.com",
+   "type":"suppressed" 
+}
+~~~~
+
+Soft Bounce:
+
+~~~~ {.js .numberLines}
+{
+   "id":"1234", 
+   "timestamp": "2017-05-28T14:03:17.956+0300",
+   "email":"john@doe.com",
+   "type":"bounced" 
+}
+~~~~
+
+Hard bounce:
+
+~~~~ {.js .numberLines}
+{
+   "id":"1234", 
+   "timestamp": "2017-05-28T14:03:17.956+0300",
+   "email":"john@doe.com",
+   "type":"hard_bounce" 
+}
+~~~~
 
