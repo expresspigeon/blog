@@ -1,20 +1,20 @@
-# Creating and Editing newsletters
+# Creating and Editing templates
 
-## Newsletter Options
+## Template Options
 
 ![](images/Selection_455.png)
 
-On the Newsletters page you can find three options for creating a newsletter:
+On the Templates page you can find three options for creating a template:
 
-1. **Create newsletter** uses our responsive "Drag and Drop" editor to create an original newsletter 
-2. **Newsletter gallery** allows you to choose a newsletter format from our gallery. Don't worry, you'll be able to mold it to fit your desired appearance with our editor.
-3. **Code custom HTML** allows you create a newsletter using HTML (experts only).
+1. **Create template** uses our responsive "Drag and Drop" editor to create an original template 
+2. **Template gallery** allows you to choose a template format from our gallery. Don't worry, you'll be able to mold it to fit your desired appearance with our editor.
+3. **Code custom HTML** allows you create a template using HTML (experts only).
 
 ## Picking from Template Gallery
 
 You can easily select your desired template by either clicking on the thumbnail or clicking the edit button.
 
-We have a large collection of professional looking templates for all styles. Simply click on our Newsletter Gallery
+We have a large collection of professional looking templates for all styles. Simply click on our Template Gallery
 and choose the template that's most appealing to you.
 
 
@@ -29,7 +29,7 @@ Watch this short video to learn a basic editor structure:
 
 ## Rows & Columns
 
-When creating a newsletter from scratch you’ll see a highlighted row from which you can choose the number of columns
+When creating a template from scratch you’ll see a highlighted row from which you can choose the number of columns
 in your row, as well as the type of content for each block:
 
 * [Text](adding-text-blocks)
@@ -46,7 +46,7 @@ in your row, as well as the type of content for each block:
 ## Adding a Row
 
 You can add another row by either clicking the **+** in the "Row Editor" or by clicking the "Add new row" button in the "Row Properties" panel on the left. 
-From the "Row Properties" panel, new rows will be added to the top of the newsletter. 
+From the "Row Properties" panel, new rows will be added to the top of the template. 
 From the "Row Menu" they will be immediately added above the current row.
 
 ## Setting the Content Type
@@ -76,7 +76,7 @@ spacing within the block.
 
 ## Moving Content
 
-Watch this short video for a better understanding of how to move content within newsletters:
+Watch this short video for a better understanding of how to move content within templates:
 
 <iframe src="https://player.vimeo.com/video/174627145" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
@@ -92,7 +92,7 @@ This is a great feature that is unique to the ExpressPigeon editor.
 
 ### How to Add a Text Link
 
-To add a link to your newsletter simply click the link button in the local editor which will open up the _Insert Link_ window.
+To add a link to your template simply click the link button in the local editor which will open up the _Insert Link_ window.
 Here you can enter the desired URL, the text to display, the title (which will display when hovered over)
 as well as the type of link (link list).
 
