@@ -25,7 +25,7 @@ Additionally, you can manually edit these values for any individual contact.
 
 ## Custom fields
 
-If you need to store and merge data into your newsletter that is outside of our Standard fields, 
+If you need to store and merge data into your template that is outside of our Standard fields, 
 you can create Custom fields by navigating to the 
 [Custom Fields](https://expresspigeon.com/settings/custom_fields) page:
   

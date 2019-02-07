@@ -9,7 +9,7 @@ JSON object represents a message to be sent.
 
 Parameter          Required               Description
 -------------      --------------------   --------------------------------
-template_id        Yes                    Newsletter template id to be sent
+template_id        Yes                    Template template id to be sent
 to                 Yes                    Email address to send message to
 reply_to           Yes                    Email address to reply to
 from               Yes                    From name, such as your name or name of your organization

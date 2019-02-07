@@ -4,7 +4,7 @@ We support your language!
 
 ## Unsubscribe/View online
 
-In the Newsletter Properties panel you can set the language for your Unsubscribe/View Online links.
+In the Template Properties panel you can set the language for your Unsubscribe/View Online links.
 This not only changes the language of the visible links, but also the entire unsubscribe flow.
  
 > If a recipient gets an email with a Chinese unsubscribe link and clicks it, the recipient will then be taken to an 

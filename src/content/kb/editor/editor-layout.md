@@ -10,12 +10,12 @@ Take a look at the image below to see the most important email editor components
 ![](images/Selection_645.png)
 
 
-Want to see this in action? Watch the [Basic structure](/kb/creating-and-editing-newsletter#basic-structure)
+Want to see this in action? Watch the [Basic structure](/kb/creating-and-editing-template#basic-structure)
 video clip.
 
 
 
-## Newsletter Header
+## Template Header
 
 The Header contains three elements:
 
@@ -44,7 +44,7 @@ on and off in the properties panel of the editor. It is recommended that you hav
 > The View Online link will not work for test emails sent with a Quick Send button
 
 
-## Newsletter Footer
+## Template Footer
 
 
 The Footer contains your address as required per the CAN/SPAM act.
@@ -70,11 +70,11 @@ please send us a [support request](https://expresspigeon.com/support).
 
 ## Location of Unsubscribe Links
 
-When creating a newsletter, the unsubscribe link will be present in the Header, as well as the [Footer](#footer). The unsubscribe link in the
+When creating a template, the unsubscribe link will be present in the Header, as well as the [Footer](#footer). The unsubscribe link in the
 header can be disabled (as shown above), but due to CAN/SPAM  Act the unsubscribe link in the footer cannot be removed.
 ExpressPigeon recommends making unsubscribing as easy as possible by keeping both links present, which will also have a positive impact on deliverability.
 
-If you maintain your own preferences page and really want to remove the ExpressPigeon unsubscribe link from newsletters,
+If you maintain your own preferences page and really want to remove the ExpressPigeon unsubscribe link from templates,
  please submit a request to [Support](https://expresspigeon.com/support).
 
 
@@ -90,7 +90,7 @@ you can:
 * Make a copy of the current row
 * Delete the row
 
-Go to [Moving Content](/kb/creating-and-editing-newsletter#moving-content) to learn how to move content
+Go to [Moving Content](/kb/creating-and-editing-template#moving-content) to learn how to move content
 around.
 
 
@@ -99,7 +99,7 @@ around.
 
 ## Global and Local Styles
 
-Within the editor you can set Global Styles that affect the whole newsletter as well as Local Styles for individual blocks.
+Within the editor you can set Global Styles that affect the whole template as well as Local Styles for individual blocks.
 
 > Local Styles always override Global Styles.
 
@@ -107,10 +107,10 @@ Within the editor you can set Global Styles that affect the whole newsletter as 
 
 ### Global Styles
 
-The Newsletter tab in the Properties Panel contains a Global Style Editor. Here you can set the standards for your entire newsletter
+The Template tab in the Properties Panel contains a Global Style Editor. Here you can set the standards for your entire template
 including things like background color, background image, etc.
 
-> If you set styles for Header 1 or Header 2 in the Global style editor, they will apply to all respective headers across the newsletter.
+> If you set styles for Header 1 or Header 2 in the Global style editor, they will apply to all respective headers across the template.
 Same goes for text and links.
 
 ### Local Styles
@@ -134,5 +134,5 @@ Currently we support about 60 languages.
 ## Next Steps
 
 Once you master the general concepts of the editor, you can proceed to
-[creating and editing newsletters](/kb/creating-and-editing-newsletter), where you'll find several short video
+[creating and editing templates](/kb/creating-and-editing-template), where you'll find several short video
  clips to help you get up to speed quickly.

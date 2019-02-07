@@ -50,7 +50,7 @@ Every Contacts List has **General** and **Physical address** properties.
 *  **Country** - Your country. 
 
 
-> The Physical address properties will be automatically attached to the bottom of your newsletters. 
+> The Physical address properties will be automatically attached to the bottom of your templates. 
 >It is a requirement by [CAN SPAM Act](https://www.ftc.gov/tips-advice/business-center/guidance/can-spam-act-compliance-guide-business). 
 
 The values from the **General** tab along with the **Physical address** will be used each time you send to a 

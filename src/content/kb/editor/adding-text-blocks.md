@@ -12,6 +12,6 @@
 ## Editing Text
 
 When clicking into the _Text_ content block, you will see a corresponding local editor pop up beneath the text block where 
-you can make standard editing adjustments or add personalizations to your newsletter. 
+you can make standard editing adjustments or add personalizations to your template. 
 
 ![](images/Selection_875.png)

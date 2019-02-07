@@ -22,7 +22,7 @@ As an alternative, you can select one of the pre-defined links:
 * View online (will display the message in browser)
 * Confirm subscription (will confirm a subscription from a web form)
 
-Once the button block is added to your newsletter, you can edit its properties: 
+Once the button block is added to your template, you can edit its properties: 
  
 
 ![](images/Selection_876.png)

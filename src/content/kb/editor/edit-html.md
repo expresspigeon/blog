@@ -1,4 +1,4 @@
-# Editing HTML in Newsletters 
+# Editing HTML in Templates 
 
 ## Editing HTML in Text Blocks
 
@@ -16,5 +16,5 @@ shown below:
 
 ![](/kb/images/html_source1.png)
 
-> You can not edit HTML for the entire newsletter structure, only for specific blocks. If you want control over the HTML of your entire
-newsletter please use the **Code custom HTML** option to create your newsletter.
+> You can not edit HTML for the entire template structure, only for specific blocks. If you want control over the HTML of your entire
+template please use the **Code custom HTML** option to create your template.

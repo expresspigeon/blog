@@ -29,7 +29,7 @@ Using the editor removes a lot of issues stemming from managing internal HTML co
 > Our Transactional Email Service gives you separation of responsibilities: everyone does what they do best at the time of their choosing!
 
 
-## Design a newsletter
+## Design a template
 
 Use our [editor](editor-layout) to design all of your transactional messages. 
 
@@ -43,7 +43,7 @@ Our responsibilities are:
 * Merging your dynamic values into templates
 * Tracking links
 
-Check out the  how to [create and edit templates](creating-and-editing-newsletter)
+Check out the  how to [create and edit templates](creating-and-editing-template)
 
 
 **The left image is a template, and the right one is a complete merged/sent message.** 

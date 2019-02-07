@@ -1,6 +1,6 @@
 # Adding a Google Map
 
-Embedding Google Maps into your newsletters gives your contacts clear directions to your
+Embedding Google Maps into your templates gives your contacts clear directions to your
  event or physical location. The resulting image will contain a link to Google Maps, which they can use 
  for navigation. 
  

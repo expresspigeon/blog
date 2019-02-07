@@ -14,7 +14,7 @@ the Google Analytics check box:
 ![](/kb/images/Selection_948.png)
 
 When sending a campaign with Google Analytics turned on, we will tag every
-link in your newsletter with Google Analytics values:
+link in your template with Google Analytics values:
 
 * utm_source=ExpressPigeon
 * utm_medium=email

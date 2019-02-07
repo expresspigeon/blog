@@ -2,13 +2,13 @@
 
 ## Basic value merge
 
-Our general syntax for merging of data into a newsletter has the following format: 
+Our general syntax for merging of data into a template has the following format: 
  
  > `${field_name}` where `field_name` is a name of either a [Standard or a Custom field](contact-fields). 
 
 Our platform allows for content personalization in just about any area.
 
-For standard and custom fields, use the UI to inject into your newsletter (include screenshot).
+For standard and custom fields, use the UI to inject into your template (include screenshot).
 
 ![](images/merge.png)
  
@@ -33,14 +33,14 @@ When you are on the Preview Page:
 
 ## Personalize images
 
-For images, you can use the same exact syntax, but insert the URL of the image onto your newsletter. 
+For images, you can use the same exact syntax, but insert the URL of the image onto your template. 
 
 So long as all contacts have the image URL as part of the CSV upload, every person might see a different image. 
 
 In order to configure a different image, first create an image block, and in the Image Source field, enter 
 the name of your Custom field that contains a URL to images for different contacts. 
  
-When a newsletter is processed, our system will automatically deliver the correct image to each of your
+When a template is processed, our system will automatically deliver the correct image to each of your
 subscribers.
  
 
@@ -73,7 +73,7 @@ Placeholders can be placed into your subject line to increase open rates. Make s
 
 ## Personalize paragraphs
 
-Personalized paragraphs allow you to send completely different content to each of your subscribers. You can accomplish this by simply inserting a placeholder for the correct [Standard or a Custom field](contact-fields) into the body of your newsletter as shown. Be sure to have the correct paragraph in your CSV data and ExpressPigeon will insert the correct copy in for each of your subscribers automatically. 
+Personalized paragraphs allow you to send completely different content to each of your subscribers. You can accomplish this by simply inserting a placeholder for the correct [Standard or a Custom field](contact-fields) into the body of your template as shown. Be sure to have the correct paragraph in your CSV data and ExpressPigeon will insert the correct copy in for each of your subscribers automatically. 
 
 ![](images/paragraph-merge.png)
 

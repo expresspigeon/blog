@@ -15,7 +15,7 @@ After this basic information is entered, you will be able to configure the autor
 
 Let's check what options you can control:
 
-* **Link** - URL a subscriber will click to trigger this autoresponder. Navigate to [this article](/kb/creating-and-editing-newsletter) to learn how to add links.
+* **Link** - URL a subscriber will click to trigger this autoresponder. Navigate to [this article](/kb/creating-and-editing-template) to learn how to add links.
 * **Reply to** - Email for your subscribers to reply to.
 * **From name** - Name of sender (your or your organization). Subscribers will see emails as coming from this name.
 * **Enabled** - Toggle that allows you to enable/disable autoresponder.

@@ -6,8 +6,8 @@
 
 This feature allow developers to create a copy of an email template and at the same time merge data into a new version. It makes it possible to have the following workflow:
 
-1. Create a blank newsletter and add merge fields to it (using email editor)
-2. Make a new copy of this newsletter, and merge specific data into it using this API
+1. Create a blank template and add merge fields to it (using email editor)
+2. Make a new copy of this template, and merge specific data into it using this API
 3. Send or schedule a new campaign with the API
 
 Steps 2 and 3 can be done remotely with the API, without having to log into the website. Combined with ability to create new lists on the fly, and upload contacts, it provides an opportunity to build powerful marketing solutions.
@@ -120,7 +120,7 @@ response = api.templates.copy(123, "My new template", merge_fields={
 }           
 ~~~~
 
-The `template_id` in the response document above is an ID of a newly created newsletter template which already contains all data merged.
+The `template_id` in the response document above is an ID of a newly created template template which already contains all data merged.
 
 
 ## Delete Template

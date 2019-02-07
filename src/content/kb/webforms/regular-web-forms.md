@@ -113,21 +113,21 @@ Read more on [Double Opt-in](https://expresspigeon.com/blog/2011/10/15/what-the-
 ### Opt-in Confirmation Email
 
 If you chose the Double Opt-in confirmation for you form, you will be able to configure a standard message or a custom one 
-based on your newsletter design. 
+based on your template design. 
 
 The standard message can still be configured:
 
 ![](/kb/images/webforms/Selection_927.png)
 
-If you want to maintain your brand and design, simply create a newsletter for subscription confirmation using 
-[our editor](/kb/creating-and-editing-newsletter) and chose your custom template for the confirmation. 
+If you want to maintain your brand and design, simply create a template for subscription confirmation using 
+[our editor](/kb/creating-and-editing-template) and chose your custom template for the confirmation. 
 
 > The title of the template in our editor will be the subject for the confirmation email.
 
 ![](/kb/images/webforms/Selection_928.png)
 
 
-> Ensure that the confirmation newsletter will have this merge tag in it: **${confirm_link}**. 
+> Ensure that the confirmation template will have this merge tag in it: **${confirm_link}**. 
 It serves as a placeholder for insertion of a dynamic confirmation link. 
 
 

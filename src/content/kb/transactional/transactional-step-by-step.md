@@ -10,7 +10,7 @@ The steps 1 and 2 will only need to be done once! Follow to instructionss below.
 
 ## Step 1: Create a Template
 
-First, use our editor to [create a template](creating-and-editing-newsletter). 
+First, use our editor to [create a template](creating-and-editing-template). 
 Simply type a dynamic merge field (placeholder) into a template in this format: 
 
     ${first_name}
