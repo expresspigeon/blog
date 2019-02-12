@@ -79,7 +79,7 @@ Copywriting is pretty much the same. Here are some quick tips to get to conversa
 * **Look for dense words and lines**: Complicated sentences read, well, complicated. Use short words and sentences. 
 * **Emote while you write**: If you’re excited about something, be excited! If you’re telling an industry secret … be … reserved. 
 If you write like you talk, your readers will mirror you. Emotional readers are more likely to engage in a meaningful way. 
-* **Read everything out loud*: My teachers have told me this my whole life, and it really has made me a better writer. If you find yourself thinking, “this sounds weird,” “I would never say this,” or getting stopped up, it’s time to trash it and revise using these tips. 
+* **Read everything out loud**: My teachers have told me this my whole life, and it really has made me a better writer. If you find yourself thinking, “this sounds weird,” “I would never say this,” or getting stopped up, it’s time to trash it and revise using these tips. 
 
 The best emails sound like they’re written just for you. It really brings the magic back to email, and at least for me, 
 makes me excited to check my email (if I know a friend will be writing me).
