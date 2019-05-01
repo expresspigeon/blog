@@ -90,7 +90,7 @@ Below you can find example of how you can easily configure Zap between Salesforc
 
 ![](images/zapier/zap_11.png)
 
-- If all went OK in previous step, you will see a green 'Success' buttone green and you can proceed to ExpressPigeon step.
+- If all went OK in previous step, you will see a green 'Success' button green and you can proceed to ExpressPigeon step.
 
 ![](images/zapier/zap_12.png)
 
@@ -98,7 +98,7 @@ Below you can find example of how you can easily configure Zap between Salesforc
 
 ![](images/zapier/zap_13.png)
 
-- Connect your ExpressPigeon account as described [above](#how-to-create-first-zap-with-expressPigeon). As result you should see following:
+- Connect your ExpressPigeon account as described [above](#creating-your-first-zap). As result you should see following:
 
 ![](images/zapier/zap_14.png)
 

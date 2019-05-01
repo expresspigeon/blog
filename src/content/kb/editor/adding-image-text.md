@@ -13,8 +13,8 @@ to tie text and image together so that they do not separate on responsive device
  
 
 When you set the content type as Image/Text, the selected block will populate with two items. On the left you will be able to open 
-the Gallery as outlined [here](kb/adding-image). On the right you’ll be able to click to add text as 
-outlined [here](kb/adding-text-blocks).
+the Gallery as outlined [here](adding-image). On the right you'll be able to click to add text as 
+outlined [here](adding-text-blocks).
 
 ![](images/Selection_880.png)
 

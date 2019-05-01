@@ -70,7 +70,7 @@ please send us a [support request](https://expresspigeon.com/support).
 
 ## Location of Unsubscribe Links
 
-When creating a template, the unsubscribe link will be present in the Header, as well as the [Footer](#footer). The unsubscribe link in the
+When creating a template, the unsubscribe link will be present in the Header, as well as the [Footer](#template-footer). The unsubscribe link in the
 header can be disabled (as shown above), but due to CAN/SPAM  Act the unsubscribe link in the footer cannot be removed.
 ExpressPigeon recommends making unsubscribing as easy as possible by keeping both links present, which will also have a positive impact on deliverability.
 

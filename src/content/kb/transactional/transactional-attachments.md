@@ -4,7 +4,7 @@
 
 ## Request Parameters
 
-Request parameters are the same as when sending a [single message](#send-a-single-transactional-email) without attachments.
+Request parameters are the same as when sending a [single message](transactional-send) without attachments.
 
 > Limitations are: maximum three attachments, each under 10mb in size.
 
