@@ -13,7 +13,7 @@ evildoers. :)
 
 Analogies aside, I will first explain what SPF is and how it works, at a
 high level. This is not an in-depth tutorial; for that, please refer to
-the following websites: [SPF](http://www.openspf.org/) and [DKIM](http://www.dkim.org/).
+the following websites: [SPF](https://www.getmailbird.com/what-spf-resources-are-available-now-that-openspf-org-is-gone/) and [DKIM](http://www.dkim.org/).
 
 SPF stands for Sender Policy Framework. The name does not tell us much,
 so let&apos;s look deeper. SPF is designed to verify that the computer from
