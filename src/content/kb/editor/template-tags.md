@@ -9,16 +9,17 @@ Add Description how to add Tags into the template
 ![](images/tags_system_1.png)
 
 
-
 ## Search by Tag
 
-![](images/Selection_877.png)
+![](images/search_tag_1.png)
 
 Add description how users can search by tags
+
+![](images/search_tag_2.png)
 
 
 ## Manage Tags
 
-![](images/Selection_877.png)
+![](images/edit_tags.png)
 
 Write about managing tags page
