@@ -2,7 +2,7 @@
 
 ## Save new content block
 
-![](images/Selection_452.png)
+![](images/content_block_1.png)
 
 Describe how user's can save new blocks
 
