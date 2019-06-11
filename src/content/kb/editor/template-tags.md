@@ -1,12 +1,12 @@
 # Template Tags
 
-Add description about tags system and why it's useful
+A tag is a keyword assigned to a template. This keyword helps describe template and allows it to be easily found later. You can use tags for categorizing templates.
 
 ## Add Tag to the Template
 
 Add Description how to add Tags into the template 
 
-![](images/Selection_876.png)
+![](images/tags_system_1.png)
 
 
 
