@@ -7,8 +7,10 @@
 Describe how user's can save new blocks
 
 
-## Use saved conetnt blocks
+## Use saved content blocks
 
-![](images/Selection_877.png)
+![](images/content_block_2.png)
 
 Write about content blocks gallery.
+
+![](images/content_block_3.png)
