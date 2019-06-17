@@ -15,7 +15,7 @@ You will see invited members:
 
 ## Actions Log
 
-![](images/members_actions_logs.png)
+![](images/members_actions_logs2.png)
 
 ## Change permissions
 Add text about the fact that it's possible to update permissions after member has been already added.
