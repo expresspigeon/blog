@@ -1,3 +1,9 @@
 # Campaigns Approval
 
-This page should describe approval process
+Campaigns waiting for approval button
+
+![](images/campaigns_approval_1.png)
+
+Review campaign and approve
+
+![](images/approval_review.png)
