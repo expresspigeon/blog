@@ -1,53 +1,80 @@
 # Campaign Overview
 
+Campaign Overview  is a main page  of any campaign reporting, 
+and includes all  of teh statistics, graphs and a geolocation map. 
+
+This page provides both, a high level as well as detailed view of a campaign.
+
+
 ## Overview
 
-Describe overview page:
-- view
-- sections
-- download pdf
+The main tab of hte campaign report area is the Overview. See an example below.   
 
-![](images/overview_1.png)
+![](images/campaigns/overview.png)
 
-![](images/overview_2.png)
+## Timing and devices
 
-![](images/overview_3.png)
+These graphs provide a visibility of audience interactions over time after a campaign was sent.
+The time graph is broken into 30 minute increments and spans 12 hours.  
+
+
+![](images/campaigns/time-devices.png)
+
+
+## Top 5
+
+The Top 5 section displays the most popular operating systems as well as domains. 
+Both metrics are based on the audience interactions, so you knew which ones are the most active. 
+
+![](images/campaigns/top5.png)
+
+## Geo Location Map
+
+Ge Location map allows to zoom in on a specific geographic zone and then select audience members 
+who happen to be in that zone when they opened this campaigns message. After that, you can: 
+
+* Add these contacts to a brand new list
+* Add these contacts to an existing list
+
+> We call this feature Geolocation/Engagement segmentation
+
+
+![](images/campaigns/geomap.gif)
 
 
 ## Properties
 
-![](images/cp_properties.png)
+The Properties  page of the campaign shows the subject, the sender information, when the campaign was sent, 
+the message that was sent. Other parameters might also display under specific conditions. 
+  
 
-## All Subscribers
+![](images/campaigns/properties.png)
 
-Describe what is this and that we can download CSV, see history of acvtions - in transit, opened, clicked etc.
+## Click Report
 
-![](images/cp_all_subs.png)
+The click report displays all link URLs that recorded any clicks and provides: 
 
-## Delivered
+* Total numbers
+* Unique numbers
+* Follow link
+* Selectors to include/exclude URLs from the search
 
-![](images/cp_delivered.png)
+The contacts that are displayed below can be acted upon if they are segmented into a new or existing list.
 
-## Opens
+If you want customers who clicked a specific list, adjust check boxes on the filter, press "Update" and use
+one of the buttons <Download>, <Add to existing(new) list> depending on your requirements. 
 
-![](images/cp_opens.png)
 
-## Clicks
+![](images/campaigns/clicks.png)
 
-![](images/cp_clicks.png)
+## Contact History
 
-## Bounces
+Whenever you are on any "list" page for a current campaign (such as Delivered, Opens, etc), by clicking on any 
+specific contact, you can see a complete history of that contact interacting with the current campaign.
 
-![](images/cp_bounces.png)
+You can also search for contacts in teh context of this campaign and navigate to history from the search results. 
+Use the Search tab on lower left of the campaign area. 
 
-## Unsubscribes
 
-![](images/cp_unsubs.png)
+![](images/campaigns/contact-history.png)
 
-## Non-opens
-
-![](images/cp_nonopen.png)
-
-##Complaints
-
-Add descirption what is this. Don't have screen now - need to find 

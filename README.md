@@ -14,11 +14,19 @@ When a local build is executed, the local content of these directories is replac
  
 > Building this module ensures that local environment always has the most up-to-date content.
 
-## Deployment 
+## Production/Test Deployment 
 
 Deployment of content to testenv and production is done with scripts located under `scripts` directory. 
 Execution of these scripts needs to be done at the module level: 
 
 ```
 ./scripts/publish.prod.sh
+```
+
+## Local Deployment
+
+Just execute a regular build script: 
+
+```
+mvn clean install
 ```
