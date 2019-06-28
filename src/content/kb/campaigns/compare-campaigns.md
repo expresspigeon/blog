@@ -1,7 +1,7 @@
 # Compare Campaigns
 
 Once you selected campaigns to compare, you can see each one on an allocated color. 
- 
+![](images/ccp_select_compare.png) 
 
 ## Timeline
 
