@@ -144,7 +144,7 @@ Here are the steps:
 
 * Click Preview button in the email editor.
 * Select a recommendation set (one of twenty).
-* Search for a contact in hte search field.
+* Search for a contact in the search field.
 * When you click the contact you found, th preview will render a template according to dictionaries and recommendations.
 
  

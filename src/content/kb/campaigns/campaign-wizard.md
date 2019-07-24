@@ -50,3 +50,6 @@ to adjust any properties, you can always click  the "&larr; Previous" button.
 
  
 ![](images/wizard_final_step.png)
+
+> If you have an approval process turned on and you do not have an Approval Permission, the buttons "Send" and "Schedule" 
+will turn onto a "Request for Approval" button, which will allow you to send approval requests.  

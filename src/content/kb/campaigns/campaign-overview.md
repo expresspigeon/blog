@@ -8,7 +8,7 @@ This page provides both, a high level as well as detailed view of a campaign.
 
 ## Overview
 
-The main tab of hte campaign report area is the Overview. See an example below.   
+The main tab of the campaign report area is the Overview. See an example below.   
 
 ![](images/campaigns/overview.png)
 
