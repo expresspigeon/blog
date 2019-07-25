@@ -52,7 +52,7 @@ Please, navigate to your Gmail account settings:
 
 
 
-> At this point, your account is configured to receive and display AMP messages from `blogger@expresspgieon.com`. 
+> At this point, your account is configured to receive and display AMP messages from `blogger@expresspigeon.com`. 
 
 ## Help
 
