@@ -46,7 +46,7 @@ Please, navigate to your Gmail account settings:
 
 **Step 5**
 
- Enter `blogger@expresspgieon.com` into the "Sender Gmail Address" field and press "OK"
+ Enter `blogger@expresspigeon.com` into the "Sender Gmail Address" field and press "OK"
 
 ![](images/amp/whitelisting.png)
 
