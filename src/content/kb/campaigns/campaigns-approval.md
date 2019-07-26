@@ -7,3 +7,7 @@ Campaigns waiting for approval button
 Review campaign and approve
 
 ![](images/approval_review.png)
+
+Approve Permissions
+
+![](images/approve_permissions.png)
