@@ -23,6 +23,10 @@ If you have not already done so, register your site on  [Google ReCaptcha](https
 
 ## 3. Configure ReCaptcha Keys
 
+
+> NOTE: We currently support **ReCAPTCHA v2 Checkbox**. Please, ensure to use this version with our platform.
+
+
 Once previous steps are complete, you can copy the Site and the Secret Keys to the Integrations page in 
 your ExpressPigeon Account. Just copy these from Google:
 
