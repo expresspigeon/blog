@@ -27,4 +27,6 @@ At the time of this writing (December 2017), the current rate limit is 150 reque
 This value may fluctuate with time as load increases or we add more hardware to process requests.
 
 
- 
+## Transactional messages rate limit
+
+Rate limit for sending transactional messages is configured separately and right now (December 2019) is 900 requests per minute.
