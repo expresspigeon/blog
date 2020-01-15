@@ -111,6 +111,24 @@ Parameter          Required               Description
 contacts           Yes                    JSON list represents contacts to be inserted or updated. The email field is required.
 list_id            `No`                   List id to add contacts to.
 
+**Standart contact fields**
+
+Parameter          Required               Size
+-------------      --------------------   --------------------------------
+email              Yes                     254
+first_name         `No`                    50
+last_name          `No`                    50
+city               `No`                    128
+phone              `No`                    30
+company            `No`                    128
+title              `No`                    30
+address1           `No`                    255
+address2           `No`                    255
+state              `No`                    48
+zip                `No`                    24
+country            `No`                    128
+date_of_birth      `No`                    255
+
 
 **Example Request**
 
