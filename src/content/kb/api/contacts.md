@@ -130,6 +130,9 @@ country            `No`                    128
 date_of_birth      `No`                    255
 
 
+> Note: The `date_of_birth` field can accept any format. However, in order to use it in segmentation and automation rules,   a required format: `MM/dd/yyyy`. 
+
+
 **Example Request**
 
 <div class="tab-content">
