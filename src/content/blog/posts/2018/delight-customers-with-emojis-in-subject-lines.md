@@ -26,7 +26,7 @@ There’s lots of ways to make a great subject line. But these five best practic
 * Keep it tight and creative
 * Use A/B testing
 * Stay on brand
-* Check device compatability
+* Check device compatibility
 
 ### Know your audience
 
