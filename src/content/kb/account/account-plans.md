@@ -10,7 +10,7 @@ Our pricing model contain 3 different types if plans:
 ## Plans overview
 
 When  you navigate to My Account -> Plans you will see a page with three expandable sections, 
-one for each type of a plan. Eveb before expanding, you can see the details of each plan you 
+one for each type of a plan. Even before expanding, you can see the details of each plan you 
 have: 
 
 ![](images//account/plan-overview.png)
@@ -21,6 +21,10 @@ have:
 If  you need to upgrade or downgrade your Marketing plan, open up the  "Marketing Plan" section, 
 make a selection that fits your needs best and follow the prompts. 
 
+If you upgrade to a more expensive plan, your current balance will be prorated, so you will not be 
+charged an entire amount. If you are  down-grading to a less expensive plan, your current balance will carry forward.
+If you are downgrading to a Free plan, your remaining balance will be forfeited.    
+
 
 ![](images//account/marketing_plans.png)
 
@@ -30,8 +34,6 @@ The Transactional Plans section presents you with a calculator you can use to pu
 fits your needs. For more information on how these plans work, please refer to [Transactional Plans](/kb/transactional-plans) page.
 
 ![](images/account/transactional_plan.png)
-
-
 
 
 

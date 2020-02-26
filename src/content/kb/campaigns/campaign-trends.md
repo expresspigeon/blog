@@ -1,11 +1,11 @@
 # Campaigns Trends
 
-A Campaign Trends is a reporting page which you can use to see performance of your campaigns over time. 
+Our  Campaign Trends page contains reporting data you can use to see performance of your campaigns over time. 
 
 In order to navigate to the Campaign Trends page, press the "Trends" button  in the top right area of the 
 "All Campaigns" page:
  
-![](images/trends_button.png)
+![](images/campaigns/trends-button.png)
 
 > The trends report defaults to the last 60 days of reporting, which you can change using a filter form at the top of the page.
 
@@ -24,9 +24,9 @@ This chart when set to a significant time period, will reflect if your campaigns
 
 ![](images/trends_engagement.png)
 
-## Delivery
+## Delivery Chart
 
-The Delivery section displays stats related to delivery, such as In Transit, Delivered and Bounced events over 
+The Delivery section displays stats related to delivery - lala, such as In Transit, Delivered and Bounced events over 
 the same time period as the filter at the top of the page. If you have a delivery problem, such as a SPAM filter block, 
 or hard bounces, you will see it here.   
 
@@ -40,7 +40,7 @@ or hard bounces, you will see it here.
 
 ![](images/trends_delivery_data.png)
 
-## Engagement
+## Engagement Chart
 
 The Engagement Chart is different from the one above because it displays absolute numbers rather than percentage.
 As such, all customer engagement metrics are placed into this chart for comparison and display in absolute numbers. 
@@ -56,7 +56,7 @@ off to see Unsubscribes better (due to them having a much lower rate).
 
 ![](images/trends_engagment_data.png)
 
-## Domains
+## Domains Chart
 
 The domains chart shows the most popular domains in your campaigns for the set period, sorted by count.
 
@@ -69,7 +69,7 @@ You can display Domains visually as a bar chart:
 
 ![](images/trends_domains_data.png)
 
-## Events
+## Events Log
 
 Last but not least, there is an Events chart, which simply shows the top 500 events from the selected time period.
 
