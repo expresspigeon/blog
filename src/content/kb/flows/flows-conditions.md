@@ -22,6 +22,9 @@ Setting up conditions is easy:
 
 ![](images/flows/condition-decisions.png)
 
+> When setting up conditions,  you can make unlimited number of AND/OR groups top better target your audience. 
+The rules used in Flows are similar  to our [Segmentation](/kb/segments).  
+
 Once all the decisions are set, they are displayed as a tooltip over a condition:
 
 ![](images/flows/flow-conditions.png)

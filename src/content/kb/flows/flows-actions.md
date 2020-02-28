@@ -63,6 +63,18 @@ An example of a timestamp in Chicago ( - 6 hours from GMT) would look like this:
 Loading these values into your account is not any different than using custom fields. 
 Please refer to: [Custom fields](contact-fields#custom-fields) page for more information.
 
+
+### IMIconnect Action 
+
+An IMIconnect Action allows to send a signal to a flow in [IMIconnect](https://www.imiconnect.io/). 
+
+
+### Webhook action
+
+A Webhook action can be used  to trigger an event in an external service. You can integreate any service into ExpressPigeon flows  as long as that 
+service accepts HTTP requests. 
+
+
 ---
 
 Continue to [Dry run mode](flows-dry-run).

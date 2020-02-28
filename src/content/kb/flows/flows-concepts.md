@@ -1,8 +1,8 @@
 # Flows concepts
 
-ExpressPigeon automations are implemented as a typical flowchart that 
-people are accustomed to. As a flow chart it contains the Starting point, 
-actions and conditions. The start looks like this:
+ExpressPigeon automation flows are implemented as a typical flowchart that 
+people are accustomed to. As a flow chart it contains the Starting point, conditions and  
+actions. The start looks like this:
 
 ![](images/flows/start.png)
 

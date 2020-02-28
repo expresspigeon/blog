@@ -3,7 +3,10 @@
 A flow might be in two modes: 
 
 * Edit - you can edit the flow, but the flow is not operational
-* Run - the flow is operational and you can edit some properties of a flow. 
+* Run - the flow is operational and you can edit some properties of a flow.
+
+![](/kb/images/flows/flow-modes.png) 
+ 
 
 
 ## Switching from Edit to Run
