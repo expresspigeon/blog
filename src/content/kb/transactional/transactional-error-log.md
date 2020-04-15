@@ -1,8 +1,10 @@
 # Webhooks Error Log
 
-In case there are problems sending webhooks to your API, the errors will be logged and accessible on this page.
+In case there are problems sending webhooks to your API, the errors will be logged and accessible on the 'Errors Log' page.
  
 ![](images/webhooks-3.png)
+
+You can access it by clicking menu at the top left corner and selecting 'ERROR LOG'.
 
 We retain at most 500 errors, at which point, we disable the webhooks for all events and send you a notification by email.
  
