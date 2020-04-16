@@ -71,8 +71,22 @@ An IMIconnect Action allows to send a signal to a flow in [IMIconnect](https://w
 
 ### Webhook action
 
-A Webhook action can be used  to trigger an event in an external service. You can integreate any service into ExpressPigeon flows  as long as that 
-service accepts HTTP requests. 
+The Webhook is the Web's way to integrate completely different systems in semi-real time. So you can use Webhook action in the ExpressPigeon flow to trigger an event in an external service. We allow really flexible configuration of webhook content (payload, headers etc) and also you can test this in real time. Here is an example of webhook action configuration:
+
+![](images/flows/webhook-action.png)
+
+**Webhook parameters**
+
+Parameter          Description         
+-------------      --------------------
+Name            	Name of your webhook action in the flow.                 
+URL        			Endpoint address where webhhok will send data.                 
+Method              Currently we support only POST method, so this can't be changed.                 
+Headers          	Configure as many headers as you need.                 
+Payload           	What will be send when this action happens.                 
+Test            	Preview how payload will look like for your real contact.                 
+
+Note that you can send test request and get response with all details, so you always know if all is correctly configured.
 
 
 ---
