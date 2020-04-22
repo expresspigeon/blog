@@ -114,3 +114,6 @@ Hard bounce:
 }
 ~~~~
 
+## Webhook errors
+
+In case your API goes down and we are unable to execute the service calls, we log at most 500 errors to the [Error Log](/kb/webhooks-error-log).

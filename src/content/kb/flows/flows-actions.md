@@ -107,6 +107,10 @@ any success or failure output
 
 This feature allows you to quickly test the integration before you set the Automation Flow to [Live Mode](/kb/flow-modes).  
 
+### Webhook Errors
+
+In case your API goes down and we are unable to execute the service calls, we log at most 500 errors to the [Error Log](/kb/webhooks-error-log). 
+ 
 
 ---
 
