@@ -96,7 +96,7 @@ Test            	Preview how payload will look like for your real contact.
 
 ### Manual Testing
 
->> The **Test** section of the configuration allows you to manually send  and test the HTTP  POST  
+> The **Test** section of the configuration allows you to manually send  and test the HTTP  POST  
 request for a specific contact.
 
 Simply enter any email address you have on the account,  press the "Preview" button and observe  the actual payload that 
@@ -105,7 +105,7 @@ will be sent to the external URL for this specific contact.
 In order to send the request to your webservice, click the button "Send test request" and observe the "Response" panel for 
 any success or failure output     
 
-This feature allows you to quickly test the integration before you set the Automation Flow to [Live Mode](/kb/flow-modes),  
+This feature allows you to quickly test the integration before you set the Automation Flow to [Live Mode](/kb/flow-modes).  
 
 
 ---
