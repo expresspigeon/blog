@@ -94,7 +94,7 @@ Payload           	What will be sent when this action executes.
 Test            	Preview how payload will look like for your real contact.                 
 
 
-### Manual Testing
+#### Manual Testing
 
 > The **Test** section of the configuration allows you to manually send  and test the HTTP  POST  
 request for a specific contact.
@@ -107,7 +107,7 @@ any success or failure output
 
 This feature allows you to quickly test the integration before you set the Automation Flow to [Live Mode](/kb/flow-modes).  
 
-### Webhook Errors
+#### Webhook Errors
 
 In case your API goes down and we are unable to execute the service calls, we log at most 500 errors to the [Error Log](/kb/webhooks-error-log). 
  
