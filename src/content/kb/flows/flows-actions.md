@@ -71,7 +71,14 @@ An IMIconnect Action allows to send a signal to a flow in [IMIconnect](https://w
 
 ### Webhook action
 
-The Webhook is the Web's way to integrate completely different systems in semi-real time. So you can use Webhook action in the ExpressPigeon flow to trigger an event in an external service. We allow really flexible configuration of webhook content (payload, headers etc) and also you can test this in real time. Here is an example of webhook action configuration:
+Webhooks  are a way to integrate different systems in real time. 
+The Automation Flow Webhook actions allow to send data in external customer systems. 
+
+We allow flexibility in configuration of webhook content (payload, headers etc) as well as format. Generally, 
+the format defaults to JSON, but you can edit the Payload  section of the Webhook to use any other format (CSV, XML, etc.). 
+ 
+ 
+Here is an example of a webhook action configuration:
 
 ![](images/flows/webhook-action.png)
 
@@ -79,14 +86,26 @@ The Webhook is the Web's way to integrate completely different systems in semi-r
 
 Parameter          Description         
 -------------      --------------------
-Name            	Name of your webhook action in the flow.                 
+Name            	Name of your webhook action in the flow                  
 URL        			Endpoint address where webhhok will send data.                 
-Method              Currently we support only POST method, so this can't be changed.                 
-Headers          	Configure as many headers as you need.                 
-Payload           	What will be send when this action happens.                 
+Method              Currently we support only POST method.                 
+Headers          	Configure as many headers as you need. Usually, you would use a header for authentication.                 
+Payload           	What will be sent when this action executes.                 
 Test            	Preview how payload will look like for your real contact.                 
 
-Note that you can send test request and get response with all details, so you always know if all is correctly configured.
+
+### Manual Testing
+
+>> The **Test** section of the configuration allows you to manually send  and test the HTTP  POST  
+request for a specific contact.
+
+Simply enter any email address you have on the account,  press the "Preview" button and observe  the actual payload that 
+will be sent to the external URL for this specific contact. 
+
+In order to send the request to your webservice, click the button "Send test request" and observe the "Response" panel for 
+any success or failure output     
+
+This feature allows you to quickly test the integration before you set the Automation Flow to [Live Mode](/kb/flow-modes),  
 
 
 ---
