@@ -564,7 +564,7 @@ For more information, see [campaign creation](campaigns#campaigns-creation).
 
 ### Where to see mappings
 
-You can browse to any conmtact details screen and click on the "Recommendation mappings" tab for that contact: 
+You can browse to any contact details screen and click on the "Recommendation mappings" tab for that contact: 
 
 ![](images/dictionaries.png)
 
@@ -572,3 +572,11 @@ that will allow you to see recommendation mappings for that contact in the same 
 
 ![](images/dictionaries1.png)
 
+### Limitations 
+
+There are no limitations for a number of dictionaries or  number of objects in dictionaries. 
+However, the objects in dictionaries have the following limitations: 
+
+ 
+* `name` : 128 characters
+* `value`: 1024 characters
