@@ -8,4 +8,4 @@ Watch the 2 minute video below!
 
 <iframe src="https://player.vimeo.com/video/174627600" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-> Once the template is sent, our system will play the video in hte context of the email message, not on Youtube site. 
+> Once the template is sent, our system will play the video in the context of the email message, not on Youtube site. 
